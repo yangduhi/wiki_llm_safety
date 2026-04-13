@@ -1,0 +1,60 @@
+sources:
+  - source_id: us-fmvss-part-571
+    jurisdiction: US
+    title: 49 CFR Part 571 Federal Motor Vehicle Safety Standards
+    source_type: official_web
+    official_status: primary_official
+    original_url: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571
+    snapshot_date: 2026-04-13
+    effective_date:
+    parser_strategy: html_section_capture
+    checksum: pending_snapshot
+    notes: Canonical US technical requirement landing page.
+
+  - source_id: us-fmvss-208
+    jurisdiction: US
+    title: FMVSS 208 Occupant Crash Protection
+    source_type: official_web
+    official_status: primary_official
+    original_url: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/section-571.208
+    snapshot_date: 2026-04-13
+    effective_date:
+    parser_strategy: html_section_capture
+    checksum: pending_snapshot
+    notes: Canonical gold-case source for occupant crash protection.
+
+  - source_id: kr-performance-rule
+    jurisdiction: KR
+    title: Korean Motor Vehicle Safety Standards performance rule
+    source_type: official_web
+    official_status: primary_official
+    original_url: https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270023
+    snapshot_date: 2026-04-13
+    effective_date:
+    parser_strategy: html_or_pdf_manual_capture
+    checksum: pending_snapshot
+    notes: Primary KR authority source for current text verification.
+
+  - source_id: eu-2019-2144
+    jurisdiction: EU
+    title: Regulation (EU) 2019/2144 General Safety Regulation
+    source_type: official_web
+    official_status: primary_official
+    original_url: https://eur-lex.europa.eu/eli/reg/2019/2144/oj/eng
+    snapshot_date: 2026-04-13
+    effective_date: 2019-11-27
+    parser_strategy: html_manual_capture
+    checksum: pending_snapshot
+    notes: Canonical EU general safety regulation source.
+
+  - source_id: unece-un-regulations-index
+    jurisdiction: UNECE
+    title: UNECE UN Regulations addenda index
+    source_type: official_web
+    official_status: secondary_official_index
+    original_url: https://unece.org/transport/vehicle-regulations-wp29/un-regulations-addenda-1958-agreement
+    snapshot_date: 2026-04-13
+    effective_date:
+    parser_strategy: html_manual_capture
+    checksum: pending_snapshot
+    notes: Index-style authority source for UNECE regulation discovery.

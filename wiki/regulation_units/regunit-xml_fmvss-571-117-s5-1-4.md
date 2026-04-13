@@ -1,0 +1,78 @@
+---
+aliases: []
+basis: S5.1.4 No retreaded tire shall have a size designation, recommended maximum
+  load rating, or maximum permissible inflation pressure that is greater than that
+  originally specified on the casing pursuant to S4.3 of § 571.109, or specified for
+  the casing in Table I.
+browse_buckets: []
+clause_path: s5-1-4
+confidence: medium
+created: '2026-04-13'
+document_id: xml_fmvss-571-117
+effective_date: null
+functional_domain:
+- other_or_review
+id: regunit-xml_fmvss-571-117-s5-1-4
+jurisdiction: US
+legacy_domain: needs_review
+note_type: regulation_unit
+page_end: null
+page_start: null
+phase: cross_phase
+primary_topic: retreaded-tire-shall
+provenance:
+  parser_run_id: 20260413T052617Z__23a01984
+  source_files:
+  - raw/collections/xml_fmvss/571.117.xml
+  source_hashes:
+    raw/collections/xml_fmvss/571.117.xml: f91ed1cb7e275a8032554e980e78dfa9f2a38f17040b2001dc4d17b750ff1210
+  source_url: null
+record_layer: knowledge
+regulatory_layer: technical_requirement
+review_required: false
+secondary_topics: []
+source_collection: xml_fmvss
+source_files:
+- raw/collections/xml_fmvss/571.117.xml
+source_hashes:
+  raw/collections/xml_fmvss/571.117.xml: f91ed1cb7e275a8032554e980e78dfa9f2a38f17040b2001dc4d17b750ff1210
+source_url: null
+statement: S5.1.4 No retreaded tire shall have a size designation, recommended maximum
+  load rating, or maximum permissible inflation pressure that is greater than that
+  originally specified on the casing pursuant to S4.3 of § 571.109, or specified for
+  the casing in Table I.
+status: draft
+summary: Regulation unit `s5-1-4` from xml_fmvss-571-117.
+title: S5.1.4 No retreaded tire shall have a size designation, recommended maximum
+  load rating, or maximum permissible inflatio
+updated: '2026-04-13'
+---
+
+# S5.1.4 No retreaded tire shall have a size designation, recommended maximum load rating, or maximum permissible inflatio
+
+## Statement
+S5.1.4 No retreaded tire shall have a size designation, recommended maximum load rating, or maximum permissible inflation pressure that is greater than that originally specified on the casing pursuant to S4.3 of § 571.109, or specified for the casing in Table I.
+
+## Classification
+- jurisdiction: US
+- source_collection: xml_fmvss
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: retreaded-tire-shall
+- secondary_topics: n/a
+- browse_buckets: n/a
+- legacy_domain: needs_review
+
+## Basis
+S5.1.4 No retreaded tire shall have a size designation, recommended maximum load rating, or maximum permissible inflation pressure that is greater than that originally specified on the casing pursuant to S4.3 of § 571.109, or specified for the casing in Table I.
+
+## Authority
+- clause_path: s5-1-4
+- source_file: raw/collections/xml_fmvss/571.117.xml
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_fmvss-571-117]]
+- [[jurisdictions/jurisdiction-us]]

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<DIV8 N="571.307" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-49/section-571.307&quot;,&quot;citation&quot;:&quot;49 CFR 571.307&quot;}">
+<HEAD>§ 571.307 Standard No. 307; Fuel system integrity of hydrogen vehicles.</HEAD>
+<P>S1. <I>Scope.</I> This standard specifies requirements for the integrity of motor vehicle hydrogen fuel systems.</P>
+<P>S2. <I>Purpose.</I> The purpose of this standard is to reduce deaths and injuries occurring from fires that result from hydrogen fuel leakage during vehicle operation and after motor vehicle crashes.</P>
+<P>S3. <I>Application.</I> This standard applies to each motor vehicle manufactured on or after September 1, 2028, that uses compressed hydrogen gas as a fuel source to propel the vehicle.</P>
+<P>S4. <I>Definitions.</I></P>
+<P><I>Check valve</I> means a valve that prevents reverse flow.</P>
+<P><I>Closure devices</I> mean the check valve(s), shut-off valve(s), and thermally-activated pressure relief device(s) that control the flow of hydrogen into and/or out of a CHSS.</P>
+<P><I>Container</I> means a pressure-bearing component of a compressed hydrogen storage system that stores a continuous volume of hydrogen fuel in a single chamber or in multiple permanently interconnected chambers.</P>
+<P><I>Container attachments</I> mean non-pressure bearing parts attached to the container that provide additional support and/or protection to the container and that may be removed only with the use of tools for the specific purpose of maintenance and/or inspection.</P>
+<P><I>Compressed hydrogen storage system (CHSS)</I> means a system that stores compressed hydrogen fuel for a hydrogen-fueled vehicle, composed of a container, container attachments (if any), and all closure devices required to isolate the stored hydrogen from the remainder of the fuel system and the environment.</P>
+<P><I>Enclosed or semi-enclosed spaces</I> means the passenger compartment, luggage compartment, and space under the hood.</P>
+<P><I>Fuel cell system</I> means a system containing the fuel cell stack(s), air processing system, fuel flow control system, exhaust system, thermal management system, and water management system.</P>
+<P><I>Fueling receptacle</I> means the equipment to which a fueling station nozzle attaches to the vehicle and through which fuel is transferred to the vehicle.</P>
+<P><I>Fuel lines</I> means all piping, tubing, joints, and any components such as flow controllers, valves, heat exchangers, and pressure regulators.</P>
+<P><I>Hydrogen concentration</I> means the percentage of the hydrogen molecules within the mixture of hydrogen and air (equivalent to the partial volume of hydrogen gas).</P>
+<P><I>Hydrogen fuel system</I> means the fueling receptacle, CHSS, fuel cell system or internal combustion engine, fuel lines, and exhaust systems.</P>
+<P><I>Luggage compartment</I> means the space in the vehicle for luggage, cargo, and/or goods accommodation, bounded by a roof, hood, floor, side walls being separated from the passenger compartment by the front bulkhead or the rear bulkhead.</P>
+<P><I>Maximum allowable working pressure (MAWP)</I> means the highest gauge pressure to which a component or system is permitted to operate under normal operating conditions.</P>
+<P><I>Nominal working pressure (NWP)</I> means the settled pressure of compressed gas in a container or CHSS fully fueled to 100 percent state of charge and at a uniform temperature of 15 °C.</P>
+<P><I>Normal milliliter</I> means a quantity of gas that occupies one milliliter of volume when its temperature is 0 °C and its pressure is 1 atmosphere.</P>
+<P><I>Passenger compartment</I> means the space for occupant accommodation that is bounded by the roof, floor, side walls, doors, outside glazing, front bulkhead, and rear bulkhead or rear gate.</P>
+<P><I>Pressure relief device (PRD)</I> means a device that, when activated under specified performance conditions, is used to release hydrogen from a pressurized system and thereby prevent failure of the system.</P>
+<P><I>Rechargeable electrical energy storage system (REESS)</I> means the rechargeable energy storage system that provides electric energy for electrical propulsion.</P>
+<P><I>Service door</I> means a door that allows for the entry and exit of vehicle occupants under normal operating conditions.</P>
+<P><I>Shut-off valve</I> means a valve between the container and the remainder of the hydrogen fuel system that must default to the “closed” position when unpowered.</P>
+<P><I>State of charge (SOC)</I> means the density ratio of hydrogen in the CHSS between the actual CHSS condition and that at NWP with the CHSS equilibrated to 15 °C, as expressed as a percentage using equation 1 to this section, where ρ is the density of hydrogen (g/L) at pressure (P) in MegaPascals (MPa) and temperature (T) in Celsius ( °C) as listed in table 1 to S4 or linearly interpolated therein:</P>
+<HD1>Equation 1 to § 571.307 S4
+</HD1>
+<img src="/graphics/er17ja25.000.gif"></img>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+<CAPTION><P class="title">Table 1 to § 571.307 S4</P></CAPTION>
+<THEAD>
+<TR>
+<TH rowspan="2" class="center border-top-single border-bottom-single border-right-single">Temperature
+<br></br>( °C)</TH>
+<TH colspan="13" class="center border-top-single border-bottom-single">Pressure
+<br></br>(MPa)</TH>
+</TR>
+<TR>
+<TH class="center border-bottom-single border-right-single">1</TH>
+<TH class="center border-bottom-single border-right-single">10</TH>
+<TH class="center border-bottom-single border-right-single">20</TH>
+<TH class="center border-bottom-single border-right-single">30</TH>
+<TH class="center border-bottom-single border-right-single">35</TH>
+<TH class="center border-bottom-single border-right-single">40</TH>
+<TH class="center border-bottom-single border-right-single">50</TH>
+<TH class="center border-bottom-single border-right-single">60</TH>
+<TH class="center border-bottom-single border-right-single">65</TH>
+<TH class="center border-bottom-single border-right-single">70</TH>
+<TH class="center border-bottom-single border-right-single">75</TH>
+<TH class="center border-bottom-single border-right-single">80</TH>
+<TH class="center border-bottom-single">87.5</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">−40</TD>
+<TD class="right border-right-single">1.0</TD>
+<TD class="right border-right-single">9.7</TD>
+<TD class="right border-right-single">18.1</TD>
+<TD class="right border-right-single">25.4</TD>
+<TD class="right border-right-single">28.6</TD>
+<TD class="right border-right-single">31.7</TD>
+<TD class="right border-right-single">37.2</TD>
+<TD class="right border-right-single">42.1</TD>
+<TD class="right border-right-single">44.3</TD>
+<TD class="right border-right-single">46.4</TD>
+<TD class="right border-right-single">48.4</TD>
+<TD class="right border-right-single">50.3</TD>
+<TD class="right">53.0</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">−30</TD>
+<TD class="right border-right-single">1.0</TD>
+<TD class="right border-right-single">9.4</TD>
+<TD class="right border-right-single">17.5</TD>
+<TD class="right border-right-single">24.5</TD>
+<TD class="right border-right-single">27.7</TD>
+<TD class="right border-right-single">30.6</TD>
+<TD class="right border-right-single">36.0</TD>
+<TD class="right border-right-single">40.8</TD>
+<TD class="right border-right-single">43.0</TD>
+<TD class="right border-right-single">45.1</TD>
+<TD class="right border-right-single">47.1</TD>
+<TD class="right border-right-single">49.0</TD>
+<TD class="right">51.7</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">−20</TD>
+<TD class="right border-right-single">1.0</TD>
+<TD class="right border-right-single">9.0</TD>
+<TD class="right border-right-single">16.8</TD>
+<TD class="right border-right-single">23.7</TD>
+<TD class="right border-right-single">26.8</TD>
+<TD class="right border-right-single">29.7</TD>
+<TD class="right border-right-single">35.0</TD>
+<TD class="right border-right-single">39.7</TD>
+<TD class="right border-right-single">41.9</TD>
+<TD class="right border-right-single">43.9</TD>
+<TD class="right border-right-single">45.9</TD>
+<TD class="right border-right-single">47.8</TD>
+<TD class="right">50.4</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">−10</TD>
+<TD class="right border-right-single">0.9</TD>
+<TD class="right border-right-single">8.7</TD>
+<TD class="right border-right-single">16.2</TD>
+<TD class="right border-right-single">22.9</TD>
+<TD class="right border-right-single">25.9</TD>
+<TD class="right border-right-single">28.7</TD>
+<TD class="right border-right-single">33.9</TD>
+<TD class="right border-right-single">38.6</TD>
+<TD class="right border-right-single">40.7</TD>
+<TD class="right border-right-single">42.8</TD>
+<TD class="right border-right-single">44.7</TD>
+<TD class="right border-right-single">46.6</TD>
+<TD class="right">49.2</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">0</TD>
+<TD class="right border-right-single">0.9</TD>
+<TD class="right border-right-single">8.4</TD>
+<TD class="right border-right-single">15.7</TD>
+<TD class="right border-right-single">22.2</TD>
+<TD class="right border-right-single">25.1</TD>
+<TD class="right border-right-single">27.9</TD>
+<TD class="right border-right-single">33.0</TD>
+<TD class="right border-right-single">37.6</TD>
+<TD class="right border-right-single">39.7</TD>
+<TD class="right border-right-single">41.7</TD>
+<TD class="right border-right-single">43.6</TD>
+<TD class="right border-right-single">45.5</TD>
+<TD class="right">48.1</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">10</TD>
+<TD class="right border-right-single">0.9</TD>
+<TD class="right border-right-single">8.1</TD>
+<TD class="right border-right-single">15.2</TD>
+<TD class="right border-right-single">21.5</TD>
+<TD class="right border-right-single">24.4</TD>
+<TD class="right border-right-single">27.1</TD>
+<TD class="right border-right-single">32.1</TD>
+<TD class="right border-right-single">36.6</TD>
+<TD class="right border-right-single">38.7</TD>
+<TD class="right border-right-single">40.7</TD>
+<TD class="right border-right-single">42.6</TD>
+<TD class="right border-right-single">44.4</TD>
+<TD class="right">47.0</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">15</TD>
+<TD class="right border-right-single">0.8</TD>
+<TD class="right border-right-single">7.9</TD>
+<TD class="right border-right-single">14.9</TD>
+<TD class="right border-right-single">21.2</TD>
+<TD class="right border-right-single">24.0</TD>
+<TD class="right border-right-single">26.7</TD>
+<TD class="right border-right-single">31.7</TD>
+<TD class="right border-right-single">36.1</TD>
+<TD class="right border-right-single">38.2</TD>
+<TD class="right border-right-single">40.2</TD>
+<TD class="right border-right-single">42.1</TD>
+<TD class="right border-right-single">43.9</TD>
+<TD class="right">46.5</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">20</TD>
+<TD class="right border-right-single">0.8</TD>
+<TD class="right border-right-single">7.8</TD>
+<TD class="right border-right-single">14.7</TD>
+<TD class="right border-right-single">20.8</TD>
+<TD class="right border-right-single">23.7</TD>
+<TD class="right border-right-single">26.3</TD>
+<TD class="right border-right-single">31.2</TD>
+<TD class="right border-right-single">35.7</TD>
+<TD class="right border-right-single">37.7</TD>
+<TD class="right border-right-single">39.7</TD>
+<TD class="right border-right-single">41.6</TD>
+<TD class="right border-right-single">43.4</TD>
+<TD class="right">46.0</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">30</TD>
+<TD class="right border-right-single">0.8</TD>
+<TD class="right border-right-single">7.6</TD>
+<TD class="right border-right-single">14.3</TD>
+<TD class="right border-right-single">20.3</TD>
+<TD class="right border-right-single">23.0</TD>
+<TD class="right border-right-single">25.6</TD>
+<TD class="right border-right-single">30.4</TD>
+<TD class="right border-right-single">34.8</TD>
+<TD class="right border-right-single">36.8</TD>
+<TD class="right border-right-single">38.8</TD>
+<TD class="right border-right-single">40.6</TD>
+<TD class="right border-right-single">42.4</TD>
+<TD class="right">45.0</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">40</TD>
+<TD class="right border-right-single">0.8</TD>
+<TD class="right border-right-single">7.3</TD>
+<TD class="right border-right-single">13.9</TD>
+<TD class="right border-right-single">19.7</TD>
+<TD class="right border-right-single">22.4</TD>
+<TD class="right border-right-single">24.9</TD>
+<TD class="right border-right-single">29.7</TD>
+<TD class="right border-right-single">34.0</TD>
+<TD class="right border-right-single">36.0</TD>
+<TD class="right border-right-single">37.9</TD>
+<TD class="right border-right-single">39.7</TD>
+<TD class="right border-right-single">41.5</TD>
+<TD class="right">44.0</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">50</TD>
+<TD class="right border-right-single">0.7</TD>
+<TD class="right border-right-single">7.1</TD>
+<TD class="right border-right-single">13.5</TD>
+<TD class="right border-right-single">19.2</TD>
+<TD class="right border-right-single">21.8</TD>
+<TD class="right border-right-single">24.3</TD>
+<TD class="right border-right-single">28.9</TD>
+<TD class="right border-right-single">33.2</TD>
+<TD class="right border-right-single">35.2</TD>
+<TD class="right border-right-single">37.1</TD>
+<TD class="right border-right-single">38.9</TD>
+<TD class="right border-right-single">40.6</TD>
+<TD class="right">43.1</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">60</TD>
+<TD class="right border-right-single">0.7</TD>
+<TD class="right border-right-single">6.9</TD>
+<TD class="right border-right-single">13.1</TD>
+<TD class="right border-right-single">18.7</TD>
+<TD class="right border-right-single">21.2</TD>
+<TD class="right border-right-single">23.7</TD>
+<TD class="right border-right-single">28.3</TD>
+<TD class="right border-right-single">32.4</TD>
+<TD class="right border-right-single">34.4</TD>
+<TD class="right border-right-single">36.3</TD>
+<TD class="right border-right-single">38.1</TD>
+<TD class="right border-right-single">39.8</TD>
+<TD class="right">42.3</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">70</TD>
+<TD class="right border-right-single">0.7</TD>
+<TD class="right border-right-single">6.7</TD>
+<TD class="right border-right-single">12.7</TD>
+<TD class="right border-right-single">18.2</TD>
+<TD class="right border-right-single">20.7</TD>
+<TD class="right border-right-single">23.1</TD>
+<TD class="right border-right-single">27.6</TD>
+<TD class="right border-right-single">31.7</TD>
+<TD class="right border-right-single">33.6</TD>
+<TD class="right border-right-single">35.5</TD>
+<TD class="right border-right-single">37.3</TD>
+<TD class="right border-right-single">39.0</TD>
+<TD class="right">41.4</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">80</TD>
+<TD class="right border-right-single">0.7</TD>
+<TD class="right border-right-single">6.5</TD>
+<TD class="right border-right-single">12.4</TD>
+<TD class="right border-right-single">17.7</TD>
+<TD class="right border-right-single">20.2</TD>
+<TD class="right border-right-single">22.6</TD>
+<TD class="right border-right-single">27.0</TD>
+<TD class="right border-right-single">31.0</TD>
+<TD class="right border-right-single">32.9</TD>
+<TD class="right border-right-single">34.7</TD>
+<TD class="right border-right-single">36.5</TD>
+<TD class="right border-right-single">38.2</TD>
+<TD class="right">40.6</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single">85</TD>
+<TD class="right border-bottom-single border-right-single">0.7</TD>
+<TD class="right border-bottom-single border-right-single">6.4</TD>
+<TD class="right border-bottom-single border-right-single">12.2</TD>
+<TD class="right border-bottom-single border-right-single">17.5</TD>
+<TD class="right border-bottom-single border-right-single">20.0</TD>
+<TD class="right border-bottom-single border-right-single">22.3</TD>
+<TD class="right border-bottom-single border-right-single">26.7</TD>
+<TD class="right border-bottom-single border-right-single">30.7</TD>
+<TD class="right border-bottom-single border-right-single">32.6</TD>
+<TD class="right border-bottom-single border-right-single">34.4</TD>
+<TD class="right border-bottom-single border-right-single">36.1</TD>
+<TD class="right border-bottom-single border-right-single">37.8</TD>
+<TD class="right border-bottom-single">40.2</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV></DIV>
+<P><I>Thermally-activated pressure relief device (TPRD)</I> means a non-reclosing PRD that is activated by temperature to open and release hydrogen gas.</P>
+<P>S5. <I>Hydrogen fuel system.</I></P>
+<P>S5.1. <I>Fuel system integrity during normal vehicle operations.</I></P>
+<P>S5.1.1. <I>Fueling receptacle requirements.</I> (a) A compressed hydrogen fueling receptacle shall prevent reverse flow to the atmosphere.</P>
+<P>(b) A label shall be affixed close to the fueling receptacle showing the following information:</P>
+<P>(1) The statement, “Compressed hydrogen gas only.”</P>
+<P>(2) The statement, “Service pressure ______MPa (_____psig).”</P>
+<P>(3) The statement, “See instructions on fuel container(s) for inspection and service life.”</P>
+<P>(c) The fueling receptacle shall ensure positive locking of the fueling nozzle.</P>
+<P>(d) The fueling receptacle shall be protected from the ingress of dirt and water.</P>
+<P>(e) The fueling receptacle shall not be installed in enclosed or semi-enclosed spaces.</P>
+<P>S5.1.2. <I>Hydrogen discharge systems.</I></P>
+<P>S5.1.2.1. <I>Pressure relief systems.</I> (a) If present, the outlet of the vent line for hydrogen gas discharge from the TPRD(s) of the CHSS shall be protected from ingress of dirt and water.</P>
+<P>(b) The hydrogen gas discharge from TPRD(s) of the CHSS shall not impinge upon:</P>
+<P>(1) Enclosed or semi-enclosed spaces;</P>
+<P>(2) Any vehicle wheel housing;</P>
+<P>(3) Container(s);</P>
+<P>(4) REESS(s);</P>
+<P>(5) Any emergency exit(s) as identified in § 571.217 (FMVSS No. 217); nor</P>
+<P>(6) Any service door(s).</P>
+<P>S5.1.2.2. <I>Vehicle exhaust system.</I> When tested in accordance with S6.5 of this standard, the hydrogen concentration at the vehicle exhaust system's point of discharge shall not:</P>
+<P>(a) Exceed an average of 4.0 percent by volume during any moving three-second time interval; nor</P>
+<P>(b) Exceed 8.0 percent by volume at any time.</P>
+<P>S5.1.3. <I>Protection against flammable conditions.</I> (a) When tested in accordance with S6.4.1 of this standard, a warning in accordance with S5.1.6 shall be provided within 10 seconds of the application of the first test gas. When tested in accordance with S6.4.1, the main shut-off valve shall close within 10 seconds of the application of the second test gas.</P>
+<P>(b) When tested in accordance with S6.4.2 of this standard, the hydrogen concentration in the enclosed or semi-enclosed spaces shall be less than 3.0 percent.</P>
+<P>S5.1.4. <I>Fuel system leakage.</I> When tested in accordance with S6.6 of this standard, the hydrogen fuel system downstream of the shut-off valve(s) shall not exhibit observable leakage.</P>
+<P>S5.1.5 <I>Tell-tale warning.</I> A warning shall be given to the driver, or to all front seat occupants for vehicles without a driver's designated seating position, by a visual signal or display text with the following properties:</P>
+<P>(a) Visible to the driver while seated in the driver's designated seating position or visible to all front seat occupants of vehicles without a driver's designated seating position;</P>
+<P>(b) Yellow in color if the warning system malfunctions;</P>
+<P>(c) Red in color if hydrogen concentration in enclosed or semi-enclosed spaces exceeds 3.0 percent by volume;</P>
+<P>(d) When illuminated, shall be visible to the driver (or to all front seat occupants in vehicles without a driver's designated seating position) under both daylight and nighttime driving conditions; and</P>
+<P>(e) Remains illuminated when hydrogen concentration in any of the vehicle's enclosed or semi-enclosed spaces exceeds 3.0 percent by volume or when the warning system malfunctions, and the ignition locking system is in the “On” (“Run”) position or the propulsion system is activated.</P>
+<P>S5.2. <I>Post-crash fuel system integrity.</I> Each vehicle with a gross vehicle weight rating (GVWR) of 4,536 kg or less to which this standard applies must meet the requirements in S5.2.1 through S5.2.4 when tested according to S6 under the conditions of S7. Each school bus with a GVWR greater than 4,536 kg to which this standard applies must meet the requirements in S5.2.1 through S5.2.4 when tested according to S6 under the conditions of S7 of this standard.</P>
+<P>S5.2.1. <I>Fuel leakage limit.</I> If hydrogen gas is used for testing, the volumetric flow of hydrogen gas leakage shall not exceed an average of 118 normal liters per minute for the time interval, Δt, as determined in accordance with S6.2.1 of this standard. If helium is used for testing, the volumetric flow of helium leakage shall not exceed an average of 88.5 normal litres per minute for the time interval, Δt, as determined in accordance with S6.2.2 of this standard.</P>
+<P>S5.2.2. <I>Concentration limit in enclosed spaces.</I> The vehicle shall meet at least one of the requirements in S5.2.2(a), (b), or (c).</P>
+<P>(a) Hydrogen gas leakage shall not result in a hydrogen concentration in the air greater than 4.0 percent by volume in enclosed or semi-enclosed spaces for 60 minutes after impact when tested in accordance with S6.3 of this standard.</P>
+<P>(b) Helium gas leakage shall not result in a helium concentration in the air greater than 3.0 percent by volume in enclosed or semi-enclosed spaces for 60 minutes after impact when tested in accordance with S6.3 of this standard.</P>
+<P>(c) The shut-off valve of the CHSS shall close within 5 seconds of the crash.</P>
+<P>S5.2.3. <I>Container displacement.</I> The container(s) shall remain attached to the vehicle by at least one component anchorage, bracket, or any structure that transfers loads from the container to the vehicle structure.</P>
+<P>S5.2.4. <I>Fire.</I> There shall be no fire in or around the vehicle for the duration of the test.</P>
+<P>S6. <I>Test Requirements.</I></P>
+<P>S6.1. <I>Vehicle Crash Tests.</I> A test vehicle with a GVWR less than or equal to 4,536 kg, under the conditions of S7 of this standard, is subject to any one single barrier crash test of S6.1.1, S6.1.2, and S6.1.3. A school bus with a GVWR greater than 4,536 kg, under the conditions of S7, is subject to the contoured barrier crash test of S6.1.4. A particular vehicle need not meet further test requirements after having been subjected and evaluated to a single barrier crash test.</P>
+<P>S6.1.1. <I>Frontal barrier crash.</I> The test vehicle, with test dummies in accordance with S6.1 of 571.301 of this chapter, traveling longitudinally forward at any speed up to and including 48.0 km/h, impacts a fixed collision barrier that is perpendicular to the line of travel of the vehicle, or at an angle up to 30 degrees in either direction from the perpendicular to the line of travel of the vehicle.</P>
+<P>S6.1.2. <I>Rear moving barrier impact.</I> The test vehicle, with test dummies in accordance with S6.1 of § 571.301, is impacted from the rear by a barrier that conforms to S7.3(b) of § 571.301 and that is moving at any speed up to and including 80.0 km/h.</P>
+<P>S6.1.3. <I>Side moving deformable barrier impact.</I> The test vehicle, with the appropriate 49 CFR part 572 test dummies specified in § 571.214 (FMVSS No. 214) at positions required for testing by S7.1.1, S7.2.1, or S7.2.2 of Standard 214, is impacted laterally on either side by a moving deformable barrier moving at any speed between 52.0 km/h and 54.0 km/h.</P>
+<P>S6.1.4. <I>Moving contoured barrier crash.</I> The test vehicle is impacted at any point and at any angle by the moving contoured barrier assembly, specified in S7.5 and S7.6 in § 571.301, traveling longitudinally forward at any speed up to and including 48.0 km/h.</P>
+<P>S6.2. <I>Post-crash CHSS leak test.</I></P>
+<P>S6.2.1. <I>Post-crash leak test for CHSS filled with compressed hydrogen.</I> (a) The hydrogen gas pressure, P<E T="52">0</E> (MPa), and temperature, T<E T="52">0</E> ( °C), shall be measured immediately before the impact. The hydrogen gas pressure P<E T="52">f</E> (MPa) and temperature, T<E T="52">f</E> ( °C) shall also be measured immediately after a time interval Δt (in minutes) after impact. The time interval, Δt, starting from the time of impact, shall be the greater of S6.2.1(a)(1) or (2):</P>
+<P>(1) 60 minutes; or</P>
+<P>(2) The time interval calculated with equation 2 to this section, where R<E T="52">s</E> = P<E T="52">s</E>/NWP, P<E T="52">s</E> is the pressure range of the pressure sensor (MPa), NWP is the Nominal Working Pressure (MPa), and V<E T="52">CHSS</E> is the volume of the CHSS (L):</P>
+<HD1>Equation 2 to § 571.307 S6.2.1(a)(2)
+</HD1>
+<FP-2>Δt = V<E T="52">CHSS</E> × NWP/1000 × ((-0.027 × NWP + 4) × R<E T="52">s</E> −0.21) − 1.7 × R<E T="52">s</E>
+</FP-2>
+<P>(b) The initial mass of hydrogen M<E T="52">0</E> (g) in the CHSS shall be calculated from equations 3 through 5 to this section:</P>
+<HD1>Equation 3 to § 571.307 S6.2.1(b)
+</HD1>
+<FP-2>P<E T="52">0</E>' = P<E T="52">0</E> × 288/(273 + T<E T="52">0</E>)
+</FP-2>
+<HD1>Equation 4 to § 571.307 S6.2.1(b)
+</HD1>
+<FP-2>ρ<E T="52">0</E>' = -0.0027 × (P<E T="52">0</E>')
+<SU>2</SU> + 0.75 × P<E T="52">0</E>' + 1.07
+</FP-2>
+<HD1>Equation 5 to § 571.307 S6.2.1(b)
+</HD1>
+<FP-2>M<E T="52">0</E> = ρ<E T="52">0</E>' × V<E T="52">CHSS</E>
+</FP-2>
+<P>(c) The final mass of hydrogen in the CHSS, M<E T="52">f</E> (in grams), at the end of the time interval, Δt, shall be calculated from equations 6 through 8 to this section, where P<E T="52">f</E> is the measured final pressure (MPa) at the end of the time interval, and T<E T="52">f</E> ( °C) is the measured final temperature:</P>
+<HD1>Equation 6 to § 571.307 S6.2.1(c)
+</HD1>
+<FP-2>P<E T="52">f</E>' = P<E T="52">f</E> × 288/(273 + T<E T="52">f</E>)
+</FP-2>
+<HD1>Equation 7 to § 571.307 S6.2.1(c)
+</HD1>
+<FP-2>ρ<E T="52">f</E>' = -0.0027 × (P<E T="52">f</E>')
+<SU>2</SU> + 0.75 × P<E T="52">f</E>' + 1.07
+</FP-2>
+<HD1>Equation 8 to § 571.307 S6.2.1(c)
+</HD1>
+<FP-2>M<E T="52">f</E> = ρ<E T="52">f</E>' × V<E T="52">CHSS</E>
+</FP-2>
+<P>(d) The average hydrogen flow rate over the time interval shall be calculated from equation 9 to this section, where V<E T="52">H2</E> is the average volumetric flow rate (normal millilitres per min) over the time interval:</P>
+<HD1>Equation 9 to § 571.307 S6.2.1(d)
+</HD1>
+<FP-2>V<E T="52">H2</E> = (M<E T="52">f</E>−M<E T="52">0</E>)/Δt × 22.41/2.016 × (P<E T="52">target</E>/P<E T="52">0</E>)
+</FP-2>
+<P>S6.2.2 <I>Post-crash leak test for CHSS filled with compressed helium.</I></P>
+<P>(a) The helium pressure, P<E T="52">0</E> (MPa), and temperature, T<E T="52">0</E> ( °C), shall be measured immediately before the impact and again immediately after a time interval starting from the time of impact. The time interval, Δt (min), shall be the greater of the values in S6.2.2(a)(1) or (2):</P>
+<P>(1) 60 minutes; or</P>
+<P>(2) The time interval calculated with equation 10 to this section, where R<E T="52">s</E> = P<E T="52">s</E>/NWP, P<E T="52">s</E> is the pressure range of the pressure sensor (MPa), NWP is the Nominal Working Pressure (MPa), and V<E T="52">CHSS</E> is the volume of the CHSS (L):</P>
+<HD1>Equation 10 to § 571.307 S6.2.2(a)(2)
+</HD1>
+<FP-2>Δt = V<E T="52">CHSS</E> × NWP/1000 × (−0.028 × NWP + 5.5) × R<E T="52">s</E>−0.3)−2.6 × R<E T="52">s</E>
+</FP-2>
+<P>(b) The initial mass of helium M<E T="52">0</E> (g) in the CHSS shall be calculated from equations 11 through 13 to this section:</P>
+<HD1>Equation 11 to § 571.307 S6.2.2(b)
+</HD1>
+<FP-2>P<E T="52">0</E>' = P<E T="52">0</E> × 288/(273 + T<E T="52">0</E>)
+</FP-2>
+<HD1>Equation 12 to § 571.307 S6.2.2(b)
+</HD1>
+<FP-2>ρ<E T="52">0</E>' = −0.0043 × (P<E T="52">0</E>')
+<SU>2</SU> + 1.53 × P<E T="52">0</E>' + 1.49
+</FP-2>
+<HD1>Equation 13 to § 571.307 S6.2.2(b)
+</HD1>
+<FP-2>M<E T="52">0</E> = ρ<E T="52">0</E>' × V<E T="52">CHSS</E>
+</FP-2>
+<P>(c) The final mass of helium M<E T="52">f</E> (g) in the CHSS at the end of the time interval, Δt (min), shall be calculated from equations 14 through 16 to this section, where P<E T="52">f</E> is the measured final pressure (MPa) at the end of the time interval, and T<E T="52">f</E> ( °C) is the measured final temperature:</P>
+<HD1>Equation 14 to § 571.307 S6.2.2(c)
+</HD1>
+<FP-2>P<E T="52">f</E>' = P<E T="52">f</E> × 288/(273 + T<E T="52">f</E>)
+</FP-2>
+<HD1>Equation 15 to § 571.307 S6.2.2(c)
+</HD1>
+<P>ρ<E T="52">f</E>' = −0.0043 × (P<E T="52">f</E>')
+<SU>2</SU> + 1.53 × P<E T="52">f</E>' + 1.49</P>
+<HD1>Equation 16 to § 571.307 S6.2.2(c)
+</HD1>
+<FP-2>M<E T="52">f</E> = ρ<E T="52">f</E>' × V<E T="52">CHSS</E>
+</FP-2>
+<P>(d) The average helium flow rate over the time interval shall be calculated from equation 17 to this section, where V<E T="52">He</E> is the average volumetric flow rate (normal millilitres per min) of helium over the time interval:</P>
+<HD1>Equation 17 to § 571.307 S6.2.2(d)
+</HD1>
+<FP-2>V<E T="52">He</E> = (M<E T="52">f</E>−M<E T="52">0</E>)/Δt × 22.41/4.003 × (P<E T="52">target</E>/P<E T="52">0</E>)
+</FP-2>
+<P>S6.3. <I>Post-crash concentration test for enclosed spaces.</I> (a) Sensors shall measure either the accumulation of hydrogen or helium gas, as appropriate, or the reduction in oxygen.</P>
+<P>(b) Sensors shall have an accuracy of at least 5 percent at 4.0 percent hydrogen or 3.0 percent helium by volume in air, and a full-scale measurement capability of at least 25 percent above these criteria. The sensor shall be capable of a 90 percent response to a full-scale change in concentration within 10 seconds.</P>
+<P>(c) Prior to the crash impact, the sensors shall be located in the passenger and luggage compartments of the vehicle as follows:</P>
+<P>(1) At any interior point at any distance between 240 mm and 260 mm of the headliner above the driver's seat or near the top center of the passenger compartment.</P>
+<P>(2) At any interior point at any distance between 240 mm and 260 mm of the floor in front of the rear (or rear most) seat in the passenger compartment.</P>
+<P>(3) At any interior point at any distance between 90 mm and 110 mm below the top of luggage compartment(s).</P>
+<P>(d) The sensors shall be securely mounted on the vehicle structure or seats and protected from debris, air bag exhaust gas and projectiles.</P>
+<P>(e) The vehicle shall be located either indoors or in an area outdoors protected from direct and indirect wind.</P>
+<P>(f) Post-crash data collection in enclosed spaces shall commence from the time of impact. Data from the sensors shall be collected at least every 5 seconds and continue for a period of 60 minutes after the impact.</P>
+<P>(g) The data shall be compiled into a three-data-point rolling average prior to evaluating the applicable concentration limit in accordance with S5.2.2(a) or (b) of this standard.</P>
+<P>S6.4. <I>Test procedure for protection against flammable conditions.</I></P>
+<P>S6.4.1. <I>Test for hydrogen gas leakage detectors.</I> (a) The vehicle propulsion system shall be operated for at least five minutes prior to testing and shall continue to operate throughout the test.</P>
+<P>(b) Two mixtures of air and hydrogen gas shall be used in the test: The first test gas has any hydrogen concentration between 3.0 and 4.0 percent by volume in air to verify function of the warning, and the second test gas has any hydrogen concentration between 4.0 and 6.0 percent by volume in air to verify function of the shut-down.</P>
+<P>(c) The test shall be conducted without influence of wind.</P>
+<P>(d) A vehicle hydrogen leakage detector located in the enclosed or semi-enclosed spaces is enclosed with a cover and a test gas induction hose is attached to the hydrogen gas leakage detector.</P>
+<P>(e) The hydrogen gas leakage detector is exposed to continuous flow of the first test gas specified in S.6.4.1(b) until the warning turns on.</P>
+<P>(f) Then the hydrogen gas leakage detector is exposed to continuous flow of the second test gas specified in S.6.4.1(b) until the main shut-off valve closes to isolate the CHSS. The test is completed when the shut-off valve closes.</P>
+<P>S6.4.2. <I>Test for integrity of enclosed spaces and detection systems.</I> (a) The test shall be conducted without influence of wind.</P>
+<P>(b) Prior to the test, the vehicle is prepared to simulate remotely controllable hydrogen releases from the fuel system or from an external fuel supply. The number, location, and flow capacity of the release points downstream of the shut-off valve are defined by the vehicle manufacturer.</P>
+<P>(c) A hydrogen concentration detector shall be installed in any enclosed or semi-enclosed spaces where hydrogen may accumulate from the simulated hydrogen release.</P>
+<P>(d) Vehicle doors, windows and other covers are closed.</P>
+<P>(e) The vehicle propulsion system shall be operated for at least five minutes and shall continue to operate throughout the remainder of the test.</P>
+<P>(f) A leak shall be simulated using the remote controllable function.</P>
+<P>(g) The hydrogen concentration is measured continuously until the end of the test.</P>
+<P>(h) The test is completed 5 minutes after initiating the simulated leak or when the hydrogen concentration does not change for 3 minutes, whichever is longer.</P>
+<P>S6.5. <I>Test for the vehicle exhaust system.</I> (a) The vehicle propulsion system shall be operated for at least five minutes prior to testing and shall continue to operate throughout the test, except for times when the propulsion system becomes deactivated by the steps taken during S6.5(c).</P>
+<P>(b) The measuring section of the measuring device shall be placed along the centerline of the exhaust gas flow within 100 mm of where the exhaust is released to the atmosphere.</P>
+<P>(c) The exhaust hydrogen concentration shall be continuously measured during the following steps:</P>
+<P>(1) The fuel cell system shall be shut down.</P>
+<P>(2) The fuel cell system shall be immediately restarted.</P>
+<P>(3) After one minute, the vehicle shall be set to the “off” position and measurement continues until the until the vehicle shutdown is complete.</P>
+<P>(d) The measurement device shall have a resolution time of less than 300 milliseconds;</P>
+<P>(e) The measurement device shall have a measurement response time (t<E T="52">0</E>−t<E T="52">90</E>) of less than 2 seconds, where t<E T="52">0</E> is the moment of hydrogen concentration switching, and t<E T="52">90</E> is the time when 90 percent of the final indication is reached and shall have a resolution time of less than 300 milliseconds (sampling rate of greater than 3.33 Hz).</P>
+<P>S6.6. <I>Test for fuel system leakage.</I> The vehicle CHSS shall be filled with hydrogen to any pressure between 90 percent NWP and 100 percent NWP for the duration of the test for fuel system leakage.</P>
+<P>(a) The vehicle propulsion system shall be operated for at least five minutes prior to testing and shall continue to operate throughout the test.</P>
+<P>(b) Hydrogen leakage shall be evaluated at accessible sections of the hydrogen fuel system downstream of the shut-off valve(s) using a leak detecting liquid. Hydrogen gas leak detection shall be performed immediately after applying the liquid.</P>
+<P>S7. <I>Test conditions.</I> The requirements of S5.2 shall be met under the following conditions. Where a range of conditions is specified, the vehicle must be capable of meeting the requirements at all points within the range.</P>
+<P>(a) Prior to conducting the crash test, instrumentation is installed in the CHSS to perform the required pressure and temperature measurements if the vehicle does not already have instrumentation with the required accuracy.</P>
+<P>(b) The CHSS is then purged, if necessary, following vehicle manufacturer directions before filling the CHSS with compressed hydrogen or helium gas, as specified by the vehicle manufacturer.</P>
+<P>(c) The target fill pressure P<E T="52">target</E> shall be calculated from equation 18 to this section, where NWP is in MPa, T<E T="52">o</E> is the ambient temperature in °C to which the CHSS is expected to settle, and P<E T="52">target</E> is the target fill pressure in MPa after the temperature settles:</P>
+<HD1>Equation 18 to § 571.307 S7
+</HD1>
+<FP-2>P<E T="52">target</E> = NWP × (273 + T<E T="52">o</E>)/288
+</FP-2>
+<P>(d) The container(s) shall be filled to any pressure between 95.0 percent and 100.0 percent of the calculated target fill pressure.</P>
+<P>(e) After fueling, the vehicle shall be maintained at rest for any duration between 2.0 and 3.0 hours before conducting a crash test in accordance with S6.1 of this standard.</P>
+<P>(f) The CHSS shut-off valve(s) and any other shut-off valves located in the fuel system downstream hydrogen gas piping shall be in normal driving condition immediately prior to the impact.</P>
+<P>(g) The parking brake is disengaged and the transmission is in neutral prior to the crash test.</P>
+<P>(h) Tires are inflated to manufacturer's specifications.</P>
+<P>(i) The vehicle, including test devices and instrumentation, is loaded as follows:</P>
+<P>(1) A passenger car, with its fuel system filled as specified in S7(d), is loaded to its unloaded vehicle weight plus its rated cargo and luggage capacity weight, secured in the luggage area, plus the necessary test dummies as specified in S6, restrained only by means that are installed in the vehicle for protection at its seating position(s).</P>
+<P>(2) A multipurpose passenger vehicle, truck, or bus with a GVWR of 10,000 pounds or less, whose fuel system is filled as specified in S7(d), is loaded to its unloaded vehicle weight, plus the necessary test dummies as specified in S6 of this standard, plus 136.1 kg, or its rated cargo and luggage capacity weight, whichever is less, secured to the vehicle and distributed so that the weight on each axle as measured at the tire-ground interface is in proportion to its gross axle weight rating (GAWR). Each dummy shall be restrained only by means that are installed in the vehicle for protection at its seating position(s).</P>
+<P>(3) A school bus with a GVWR greater than 10,000 pounds, whose fuel system is filled as specified in S7(d), is loaded to its unloaded vehicle weight, plus 54.4 kg of unsecured weight at each designated seating position.</P>
+<CITA TYPE="N">[90 FR 6277, Jan. 17, 2025]
+</CITA>
+</DIV8>

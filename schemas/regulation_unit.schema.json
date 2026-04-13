@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schema/regulation_unit.schema.json",
+  "title": "RegulationUnitNote",
+  "type": "object",
+  "required": [
+    "record_layer",
+    "id",
+    "note_type",
+    "title",
+    "summary",
+    "status",
+    "created",
+    "updated",
+    "jurisdiction",
+    "source_collection",
+    "regulatory_layer",
+    "phase",
+    "functional_domain",
+    "primary_topic",
+    "secondary_topics",
+    "browse_buckets",
+    "legacy_domain",
+    "aliases",
+    "provenance",
+    "effective_date",
+    "confidence"
+  ],
+  "properties": {
+    "record_layer": { "type": "string", "const": "knowledge" },
+    "id": { "type": "string", "minLength": 1 },
+    "note_type": { "type": "string", "const": "regulation_unit" },
+    "title": { "type": "string", "minLength": 1 },
+    "summary": { "type": "string", "minLength": 1 },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "reviewed", "superseded", "archived"]
+    },
+    "created": { "type": "string" },
+    "updated": { "type": "string" },
+    "jurisdiction": { "type": "string", "enum": ["KR", "US", "EU", "UNECE"] },
+    "source_collection": { "type": "string", "minLength": 1 },
+    "regulatory_layer": {
+      "type": "string",
+      "enum": [
+        "framework_admin",
+        "technical_requirement",
+        "test_procedure",
+        "conformity_assessment",
+        "market_surveillance_recall"
+      ]
+    },
+    "phase": {
+      "type": "string",
+      "enum": ["pre_crash", "in_crash", "post_crash", "cross_phase", "non_phase_admin"]
+    },
+    "functional_domain": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "primary_topic": { "type": "string", "minLength": 1 },
+    "secondary_topics": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "browse_buckets": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "legacy_domain": { "type": "string" },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "effective_date": { "type": ["string", "null"] },
+    "source_url": { "type": ["string", "null"] },
+    "confidence": {
+      "type": "string",
+      "enum": ["low", "medium", "high"]
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["source_files", "source_hashes"],
+      "properties": {
+        "source_files": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "source_hashes": { "type": "object" },
+        "source_url": { "type": ["string", "null"] },
+        "parser_run_id": { "type": ["string", "null"] }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

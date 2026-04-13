@@ -1,0 +1,13 @@
+crosswalks:
+  - legacy_value: active_safety
+    canonical_phase: pre_crash
+    canonical_functional_domain: crash_avoidance_and_vehicle_control
+    notes: Compatibility mapping only, not a canonical root.
+  - legacy_value: passive_crash
+    canonical_phase: in_crash
+    canonical_functional_domain: occupant_protection_and_restraints
+    notes: Compatibility mapping only, not a canonical root.
+  - legacy_value: needs_review
+    canonical_phase: cross_phase
+    canonical_functional_domain: other_or_review
+    notes: Use when a stable canonical placement is not yet supported by evidence.

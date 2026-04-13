@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schema/note_frontmatter.schema.json",
+  "title": "WikiNoteFrontmatter",
+  "type": "object",
+  "required": [
+    "record_layer",
+    "id",
+    "note_type",
+    "title",
+    "summary",
+    "status",
+    "created",
+    "updated",
+    "aliases",
+    "provenance",
+    "confidence"
+  ],
+  "properties": {
+    "record_layer": { "type": "string", "const": "knowledge" },
+    "id": { "type": "string", "minLength": 1 },
+    "note_type": {
+      "type": "string",
+      "enum": [
+        "regulation_document",
+        "regulation_unit",
+        "concept_node",
+        "jurisdiction_overview",
+        "analysis",
+        "crosswalk"
+      ]
+    },
+    "title": { "type": "string", "minLength": 1 },
+    "summary": { "type": "string", "minLength": 1 },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "reviewed", "superseded", "archived"]
+    },
+    "created": { "type": "string" },
+    "updated": { "type": "string" },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "provenance": {
+      "type": ["object", "array", "string"]
+    },
+    "confidence": {
+      "type": "string",
+      "enum": ["low", "medium", "high"]
+    }
+  },
+  "additionalProperties": true
+}

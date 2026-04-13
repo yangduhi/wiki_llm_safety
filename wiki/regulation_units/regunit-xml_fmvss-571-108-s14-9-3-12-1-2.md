@@ -1,0 +1,83 @@
+---
+aliases: []
+basis: S14.9.3.12.1.2 Any speed that conforms to the speeds specified for that test
+  scenario will be selected for the test vehicle. The vehicle will achieve and maintain
+  this speed ± 0.45 m/s (1 mph) prior to reaching, and then throughout, the measurement
+  distance range specified for that scenario. Once the test speed is achieved and
+  maintained, no sudden steering inputs, acceleration, braking, or anything that causes
+  a change in vehicle pitch that affects the results of the test shall occur.
+browse_buckets:
+- steering_control
+clause_path: s14-9-3-12-1-2
+confidence: medium
+created: '2026-04-13'
+document_id: xml_fmvss-571-108
+effective_date: null
+functional_domain:
+- other_or_review
+id: regunit-xml_fmvss-571-108-s14-9-3-12-1-2
+jurisdiction: US
+legacy_domain: needs_review
+note_type: regulation_unit
+page_end: null
+page_start: null
+phase: cross_phase
+primary_topic: speed-that-conforms
+provenance:
+  parser_run_id: 20260413T052617Z__23a01984
+  source_files:
+  - raw/collections/xml_fmvss/571.108.xml
+  source_hashes:
+    raw/collections/xml_fmvss/571.108.xml: 733120543fd9c5aa9cd0651a6279ea063548778ae2a24e6f33b2e8531c08673e
+  source_url: null
+record_layer: knowledge
+regulatory_layer: technical_requirement
+review_required: false
+secondary_topics: []
+source_collection: xml_fmvss
+source_files:
+- raw/collections/xml_fmvss/571.108.xml
+source_hashes:
+  raw/collections/xml_fmvss/571.108.xml: 733120543fd9c5aa9cd0651a6279ea063548778ae2a24e6f33b2e8531c08673e
+source_url: null
+statement: S14.9.3.12.1.2 Any speed that conforms to the speeds specified for that
+  test scenario will be selected for the test vehicle. The vehicle will achieve and
+  maintain this speed ± 0.45 m/s (1 mph) prior to reaching, and then throughout, the
+  measurement distance range specified for that scenario. Once the test speed is achieved
+  and maintained, no sudden steering inputs, acceleration, braking, or anything that
+  causes a change in vehicle pitch that affects the results of the test shall occur.
+status: draft
+summary: Regulation unit `s14-9-3-12-1-2` from xml_fmvss-571-108.
+title: S14.9.3.12.1.2 Any speed that conforms to the speeds specified for that test
+  scenario will be selected for the test vehi
+updated: '2026-04-13'
+---
+
+# S14.9.3.12.1.2 Any speed that conforms to the speeds specified for that test scenario will be selected for the test vehi
+
+## Statement
+S14.9.3.12.1.2 Any speed that conforms to the speeds specified for that test scenario will be selected for the test vehicle. The vehicle will achieve and maintain this speed ± 0.45 m/s (1 mph) prior to reaching, and then throughout, the measurement distance range specified for that scenario. Once the test speed is achieved and maintained, no sudden steering inputs, acceleration, braking, or anything that causes a change in vehicle pitch that affects the results of the test shall occur.
+
+## Classification
+- jurisdiction: US
+- source_collection: xml_fmvss
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: speed-that-conforms
+- secondary_topics: n/a
+- browse_buckets: steering_control
+- legacy_domain: needs_review
+
+## Basis
+S14.9.3.12.1.2 Any speed that conforms to the speeds specified for that test scenario will be selected for the test vehicle. The vehicle will achieve and maintain this speed ± 0.45 m/s (1 mph) prior to reaching, and then throughout, the measurement distance range specified for that scenario. Once the test speed is achieved and maintained, no sudden steering inputs, acceleration, braking, or anything that causes a change in vehicle pitch that affects the results of the test shall occur.
+
+## Authority
+- clause_path: s14-9-3-12-1-2
+- source_file: raw/collections/xml_fmvss/571.108.xml
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_fmvss-571-108]]
+- [[jurisdictions/jurisdiction-us]]

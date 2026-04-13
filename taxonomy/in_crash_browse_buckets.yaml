@@ -1,0 +1,17 @@
+browse_buckets:
+  - bucket_id: frontal_impact
+  - bucket_id: side_impact
+  - bucket_id: rear_impact
+  - bucket_id: rollover
+  - bucket_id: occupant_restraints
+  - bucket_id: occupant_compartment_integrity
+  - bucket_id: door_retention
+  - bucket_id: anti_ejection
+  - bucket_id: head_impact
+  - bucket_id: child_restraints
+  - bucket_id: seat_systems
+  - bucket_id: steering_control
+  - bucket_id: glazing_retention
+  - bucket_id: fuel_system_integrity
+  - bucket_id: fire_risk
+  - bucket_id: pedestrian_protection

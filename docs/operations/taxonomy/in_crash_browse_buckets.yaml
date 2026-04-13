@@ -1,0 +1,80 @@
+browse_buckets:
+  - bucket_id: instrument_panel
+    display_label: Instrument Panel
+    bucket_type: component
+    scope_note: 계기판/대시보드 관련
+
+  - bucket_id: side_windows
+    display_label: Side Windows
+    bucket_type: component
+    scope_note: 측면 유리/글레이징
+
+  - bucket_id: interior
+    display_label: Interior
+    bucket_type: component
+    scope_note: 다른 더 구체적 bucket이 없을 때만 사용하는 fallback
+
+  - bucket_id: roof
+    display_label: Roof
+    bucket_type: component
+    scope_note: 루프 구조/강도/변형 관련
+
+  - bucket_id: headrests
+    display_label: Headrests
+    bucket_type: component
+    scope_note: 내부 canonical alias에 head_restraints 포함
+
+  - bucket_id: windscreen
+    display_label: Windscreen
+    bucket_type: component
+    scope_note: alias에 windshield 포함
+
+  - bucket_id: pedestrian_protection
+    display_label: Pedestrian Protection
+    bucket_type: protection_target
+    scope_note: 보행자/VRU 수동안전, 외부 충돌 보호
+
+  - bucket_id: frontal_impact
+    display_label: Frontal Impact
+    bucket_type: scenario
+    scope_note: 정면 충돌 시나리오/시험 중심
+
+  - bucket_id: bumper
+    display_label: Bumper
+    bucket_type: component
+    scope_note: 범퍼 자체 요구사항 중심
+
+  - bucket_id: steering_wheel
+    display_label: Steering Wheel
+    bucket_type: component
+    scope_note: 스티어링 휠/컬럼 관련
+
+  - bucket_id: side_impact
+    display_label: Side Impact
+    bucket_type: scenario
+    scope_note: 측면 충돌 시나리오/시험 중심
+
+  - bucket_id: seats
+    display_label: Seats
+    bucket_type: component
+    scope_note: 좌석/좌석강도/좌석 성능
+
+  - bucket_id: seat_belts
+    display_label: Seat Belts
+    bucket_type: component
+    scope_note: 안전벨트/구속장치
+
+  - bucket_id: doors
+    display_label: Doors
+    bucket_type: component
+    scope_note: 도어 래치, 힌지, 도어 유지 등
+
+  - bucket_id: rollover
+    display_label: Rollover
+    bucket_type: scenario
+    scope_note: 전복 시나리오/루프 crush 포함
+
+  - bucket_id: rear_impact
+    display_label: Rear Impact
+    bucket_type: scenario
+    scope_note: 후방 충돌/후돌 관련

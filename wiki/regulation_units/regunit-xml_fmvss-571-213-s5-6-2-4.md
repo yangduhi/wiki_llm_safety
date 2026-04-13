@@ -1,0 +1,89 @@
+---
+aliases: []
+basis: S5.6.2.4 Each built-in child restraint system, other than a system that has
+  been installed in a vehicle or a factory-installed built-in system that is designed
+  for a specific vehicle model and seating position, shall be accompanied by instructions
+  in English that provide a step-by-step procedure for installing the system in a
+  motor vehicle. The instructions shall specify the types of vehicles and the seating
+  positions into which the restraint can or cannot be installed. The instructions
+  for each car bed shall explain that the bed should be installed so that the child's
+  head will be near the center of the vehicle.
+browse_buckets:
+- head_impact
+- child_restraints
+- seat_systems
+clause_path: s5-6-2-4
+confidence: medium
+created: '2026-04-13'
+document_id: xml_fmvss-571-213
+effective_date: null
+functional_domain:
+- child_occupant_protection
+id: regunit-xml_fmvss-571-213-s5-6-2-4
+jurisdiction: US
+legacy_domain: passive_crash
+note_type: regulation_unit
+page_end: null
+page_start: null
+phase: in_crash
+primary_topic: each-built-child
+provenance:
+  parser_run_id: 20260413T052617Z__23a01984
+  source_files:
+  - raw/collections/xml_fmvss/571.213.xml
+  source_hashes:
+    raw/collections/xml_fmvss/571.213.xml: 1725238e3cdac638b9d5ef3385ea164d3519b6a5903309c2a9e33bb35798ebaf
+  source_url: null
+record_layer: knowledge
+regulatory_layer: technical_requirement
+review_required: false
+secondary_topics: []
+source_collection: xml_fmvss
+source_files:
+- raw/collections/xml_fmvss/571.213.xml
+source_hashes:
+  raw/collections/xml_fmvss/571.213.xml: 1725238e3cdac638b9d5ef3385ea164d3519b6a5903309c2a9e33bb35798ebaf
+source_url: null
+statement: S5.6.2.4 Each built-in child restraint system, other than a system that
+  has been installed in a vehicle or a factory-installed built-in system that is designed
+  for a specific vehicle model and seating position, shall be accompanied by instructions
+  in English that provide a step-by-step procedure for installing the system in a
+  motor vehicle. The instructions shall specify the types of vehicles and the seating
+  positions into which the restraint can or cannot be installed. The instructions
+  for each car bed shall explain that the bed should be installed so that the child's
+  head will be near the center of the vehicle.
+status: draft
+summary: Regulation unit `s5-6-2-4` from xml_fmvss-571-213.
+title: S5.6.2.4 Each built-in child restraint system, other than a system that has
+  been installed in a vehicle or a factory-ins
+updated: '2026-04-13'
+---
+
+# S5.6.2.4 Each built-in child restraint system, other than a system that has been installed in a vehicle or a factory-ins
+
+## Statement
+S5.6.2.4 Each built-in child restraint system, other than a system that has been installed in a vehicle or a factory-installed built-in system that is designed for a specific vehicle model and seating position, shall be accompanied by instructions in English that provide a step-by-step procedure for installing the system in a motor vehicle. The instructions shall specify the types of vehicles and the seating positions into which the restraint can or cannot be installed. The instructions for each car bed shall explain that the bed should be installed so that the child's head will be near the center of the vehicle.
+
+## Classification
+- jurisdiction: US
+- source_collection: xml_fmvss
+- regulatory_layer: technical_requirement
+- phase: in_crash
+- functional_domain: child_occupant_protection
+- primary_topic: each-built-child
+- secondary_topics: n/a
+- browse_buckets: head_impact, child_restraints, seat_systems
+- legacy_domain: passive_crash
+
+## Basis
+S5.6.2.4 Each built-in child restraint system, other than a system that has been installed in a vehicle or a factory-installed built-in system that is designed for a specific vehicle model and seating position, shall be accompanied by instructions in English that provide a step-by-step procedure for installing the system in a motor vehicle. The instructions shall specify the types of vehicles and the seating positions into which the restraint can or cannot be installed. The instructions for each car bed shall explain that the bed should be installed so that the child's head will be near the center of the vehicle.
+
+## Authority
+- clause_path: s5-6-2-4
+- source_file: raw/collections/xml_fmvss/571.213.xml
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_fmvss-571-213]]
+- [[jurisdictions/jurisdiction-us]]

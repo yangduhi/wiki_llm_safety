@@ -1,0 +1,76 @@
+---
+aliases: []
+basis: S24.2.1 Except as provided in S24.2.2, conduct all tests as specified in S22.2,
+  except that the 49 CFR part 572 subpart N 6-year-old child dummy shall be used.
+browse_buckets:
+- child_restraints
+clause_path: s24-2-1
+confidence: medium
+created: '2026-04-13'
+document_id: xml_fmvss-571-208
+effective_date: null
+functional_domain:
+- other_or_review
+id: regunit-xml_fmvss-571-208-s24-2-1
+jurisdiction: US
+legacy_domain: needs_review
+note_type: regulation_unit
+page_end: null
+page_start: null
+phase: cross_phase
+primary_topic: except-provided-conduct
+provenance:
+  parser_run_id: 20260413T052617Z__23a01984
+  source_files:
+  - raw/collections/xml_fmvss/571.208.xml
+  source_hashes:
+    raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
+  source_url: null
+record_layer: knowledge
+regulatory_layer: technical_requirement
+review_required: false
+secondary_topics: []
+source_collection: xml_fmvss
+source_files:
+- raw/collections/xml_fmvss/571.208.xml
+source_hashes:
+  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
+source_url: null
+statement: S24.2.1 Except as provided in S24.2.2, conduct all tests as specified in
+  S22.2, except that the 49 CFR part 572 subpart N 6-year-old child dummy shall be
+  used.
+status: draft
+summary: Regulation unit `s24-2-1` from xml_fmvss-571-208.
+title: 'S24.2.1 Except as provided in S24.2.2, conduct all tests as specified in S22.2,
+  except that the 49 CFR part 572 subpart '
+updated: '2026-04-13'
+---
+
+# S24.2.1 Except as provided in S24.2.2, conduct all tests as specified in S22.2, except that the 49 CFR part 572 subpart 
+
+## Statement
+S24.2.1 Except as provided in S24.2.2, conduct all tests as specified in S22.2, except that the 49 CFR part 572 subpart N 6-year-old child dummy shall be used.
+
+## Classification
+- jurisdiction: US
+- source_collection: xml_fmvss
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: except-provided-conduct
+- secondary_topics: n/a
+- browse_buckets: child_restraints
+- legacy_domain: needs_review
+
+## Basis
+S24.2.1 Except as provided in S24.2.2, conduct all tests as specified in S22.2, except that the 49 CFR part 572 subpart N 6-year-old child dummy shall be used.
+
+## Authority
+- clause_path: s24-2-1
+- source_file: raw/collections/xml_fmvss/571.208.xml
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_fmvss-571-208]]
+- [[jurisdictions/jurisdiction-us]]

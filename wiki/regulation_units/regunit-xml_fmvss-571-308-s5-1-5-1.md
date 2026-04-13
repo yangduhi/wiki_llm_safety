@@ -1,0 +1,76 @@
+---
+aliases: []
+basis: S5.1.5.1. TPRD requirements. The TPRD shall not activate at any point during
+  the test procedures specified in S6.2.6.1.1, S6.2.6.1.3, S6.2.6.1.4, S6.2.6.1.5,
+  S6.2.6.1.6, S6.2.6.1.7, and S6.2.6.1.8 of this standard.
+browse_buckets: []
+clause_path: s5-1-5-1
+confidence: medium
+created: '2026-04-13'
+document_id: xml_fmvss-571-308
+effective_date: null
+functional_domain:
+- other_or_review
+id: regunit-xml_fmvss-571-308-s5-1-5-1
+jurisdiction: US
+legacy_domain: needs_review
+note_type: regulation_unit
+page_end: null
+page_start: null
+phase: cross_phase
+primary_topic: tprd-requirements-tprd
+provenance:
+  parser_run_id: 20260413T052617Z__23a01984
+  source_files:
+  - raw/collections/xml_fmvss/571.308.xml
+  source_hashes:
+    raw/collections/xml_fmvss/571.308.xml: f375b76f2d4090cb38b3efbdc5e5a036f470f133944d5c4476a7e5ad568ee4d8
+  source_url: null
+record_layer: knowledge
+regulatory_layer: technical_requirement
+review_required: false
+secondary_topics: []
+source_collection: xml_fmvss
+source_files:
+- raw/collections/xml_fmvss/571.308.xml
+source_hashes:
+  raw/collections/xml_fmvss/571.308.xml: f375b76f2d4090cb38b3efbdc5e5a036f470f133944d5c4476a7e5ad568ee4d8
+source_url: null
+statement: S5.1.5.1. TPRD requirements. The TPRD shall not activate at any point during
+  the test procedures specified in S6.2.6.1.1, S6.2.6.1.3, S6.2.6.1.4, S6.2.6.1.5,
+  S6.2.6.1.6, S6.2.6.1.7, and S6.2.6.1.8 of this standard.
+status: draft
+summary: Regulation unit `s5-1-5-1` from xml_fmvss-571-308.
+title: S5.1.5.1. TPRD requirements. The TPRD shall not activate at any point during
+  the test procedures specified in S6.2.6.1.1
+updated: '2026-04-13'
+---
+
+# S5.1.5.1. TPRD requirements. The TPRD shall not activate at any point during the test procedures specified in S6.2.6.1.1
+
+## Statement
+S5.1.5.1. TPRD requirements. The TPRD shall not activate at any point during the test procedures specified in S6.2.6.1.1, S6.2.6.1.3, S6.2.6.1.4, S6.2.6.1.5, S6.2.6.1.6, S6.2.6.1.7, and S6.2.6.1.8 of this standard.
+
+## Classification
+- jurisdiction: US
+- source_collection: xml_fmvss
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: tprd-requirements-tprd
+- secondary_topics: n/a
+- browse_buckets: n/a
+- legacy_domain: needs_review
+
+## Basis
+S5.1.5.1. TPRD requirements. The TPRD shall not activate at any point during the test procedures specified in S6.2.6.1.1, S6.2.6.1.3, S6.2.6.1.4, S6.2.6.1.5, S6.2.6.1.6, S6.2.6.1.7, and S6.2.6.1.8 of this standard.
+
+## Authority
+- clause_path: s5-1-5-1
+- source_file: raw/collections/xml_fmvss/571.308.xml
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_fmvss-571-308]]
+- [[jurisdictions/jurisdiction-us]]

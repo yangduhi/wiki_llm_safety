@@ -1,0 +1,69 @@
+[project]
+name = "wiki-obsidian"
+summary = "Obsidian-centered LLM wiki for durable automotive regulatory knowledge."
+primary_platform = "windows"
+
+[runtime]
+preferred_python = ".\\.venv\\Scripts\\python.exe"
+bootstrap_command = ".\\scripts\\bootstrap.ps1"
+test_command = ".\\.venv\\Scripts\\python.exe -m pytest -q"
+notes = [
+  "Prefer repository-local interpreters and scripts before ad-hoc shell commands.",
+  "Avoid plain `python -m pytest -q`; system Python may not include project dependencies.",
+  "The active workstream is a repository bootstrap and ontology-governance setup, not a blind corpus migration.",
+]
+
+[workflow]
+read_order = [
+  "AGENTS.md",
+  "README.md",
+  "docs/architecture/adr/ADR-0001-classification-model.md",
+  "docs/operations/notes/architecture.md",
+  "docs/operations/notes/operating-rules.md",
+  "relevant wiki pages",
+  "minimum necessary raw files",
+]
+minimum_raw_access = true
+prefer_existing_pages = true
+prefer_merge_over_duplication = true
+
+[boundaries]
+raw = "Immutable source layer. Read only; never edit, rename, move, or delete."
+wiki = "Mutable durable knowledge layer. Canonical wiki notes live here."
+operations = "Mutable management layer. Architecture, plans, dashboards, and risks live here."
+
+[commands]
+lint = ".\\scripts\\wiki.ps1 lint"
+verify = ".\\scripts\\wiki.ps1 verify"
+pytest = ".\\.venv\\Scripts\\python.exe -m pytest -q"
+inspect_collection = ".\\.venv\\Scripts\\python.exe -m wiki_obsidian.cli inspect-collection --collection <collection>"
+run_collection = ".\\.venv\\Scripts\\python.exe -m wiki_obsidian.cli run --collection <collection>"
+classify_phase = ".\\.venv\\Scripts\\python.exe -m wiki_obsidian.cli classify-phase \"<text>\""
+build_crosswalk = ".\\.venv\\Scripts\\python.exe -m wiki_obsidian.cli build-crosswalk"
+dashboard_refresh = ".\\.venv\\Scripts\\python.exe -m wiki_obsidian.cli dashboard-refresh"
+source_audit = ".\\.venv\\Scripts\\python.exe -m wiki_obsidian.cli source-audit"
+
+[collections.xml_fmvss]
+kind = "regulatory-xml-section"
+parser_mode = "xml_fmvss_section"
+jurisdiction = "US"
+
+[collections.xml_kmvss]
+kind = "regulatory-xml-record"
+parser_mode = "xml_kmvss_record"
+jurisdiction = "KR"
+
+[collections.pdf_ece]
+kind = "regulatory-pdf"
+parser_mode = "pdf_text_first"
+jurisdiction = "UNECE"
+
+[collections.web_clipper]
+kind = "markdown-intake"
+parser_mode = "markdown_clip"
+jurisdiction = "US"
+
+[collections.official_web]
+kind = "official-web-snapshot"
+parser_mode = "official_web_capture"
+jurisdiction = "US"

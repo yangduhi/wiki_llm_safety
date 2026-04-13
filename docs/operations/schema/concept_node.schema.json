@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schema/concept_node.schema.json",
+  "title": "ConceptNode",
+  "type": "object",
+  "required": [
+    "concept_id",
+    "label",
+    "facet_kind",
+    "description",
+    "aliases",
+    "status"
+  ],
+  "properties": {
+    "concept_id": { "type": "string", "minLength": 1 },
+    "label": { "type": "string", "minLength": 1 },
+    "facet_kind": {
+      "type": "string",
+      "enum": [
+        "regulatory_layer",
+        "phase",
+        "functional_domain",
+        "topic",
+        "browse_bucket",
+        "crosswalk"
+      ]
+    },
+    "description": { "type": "string", "minLength": 1 },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active", "draft", "legacy_only"]
+    },
+    "legacy_crosswalk_ids": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "notes": { "type": "string" }
+  },
+  "additionalProperties": false
+}

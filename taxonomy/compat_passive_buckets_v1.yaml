@@ -1,0 +1,19 @@
+registry_version: v1
+legacy_domain: passive_crash
+browse_buckets:
+  - frontal_impact
+  - side_impact
+  - rear_impact
+  - rollover
+  - occupant_restraints
+  - occupant_compartment_integrity
+  - door_retention
+  - anti_ejection
+  - head_impact
+  - child_restraints
+  - seat_systems
+  - steering_control
+  - glazing_retention
+  - fuel_system_integrity
+  - fire_risk
+  - pedestrian_protection

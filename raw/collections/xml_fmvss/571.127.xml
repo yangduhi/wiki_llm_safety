@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<DIV8 N="571.127" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-49/section-571.127&quot;,&quot;citation&quot;:&quot;49 CFR 571.127&quot;}">
+<HEAD>§ 571.127 Standard No. 127; Automatic emergency braking systems for light vehicles.</HEAD>
+<P>S1. <I>Scope.</I> This standard establishes performance requirements for automatic emergency braking (AEB) systems for light vehicles.</P>
+<P>S2. <I>Purpose.</I> The purpose of this standard is to reduce the number of deaths and injuries that result from crashes in which drivers do not apply the brakes or fail to apply sufficient braking power to avoid or mitigate a crash.</P>
+<P>S3. <I>Application.</I> This standard applies to passenger cars and to multipurpose passenger vehicles, trucks, and buses with a gross vehicle weight rating (GVWR) of 4,536 kilograms (10,000 pounds) or less.</P>
+<P>S4. <I>Definitions.</I></P>
+<P><I>Adaptive cruise control system</I> is an automatic speed control system that allows the equipped vehicle to follow a lead vehicle at a pre-selected gap by controlling the engine, power train, and service brakes.</P>
+<P><I>Ambient illumination</I> is the illumination as measured at the test surface, not including any illumination provided by the subject vehicle.</P>
+<P><I>Automatic emergency braking</I> (<I>AEB) system</I> is a system that detects an imminent collision with vehicles, objects, and road users in or near the path of a vehicle and automatically controls the vehicle's service brakes to avoid or mitigate the collision.</P>
+<P><I>Brake pedal application onset</I> is when 11 N of force has been applied to the brake pedal.</P>
+<P><I>Forward collision warning</I> is an auditory and visual warning provided to the vehicle operator by the AEB system that is designed to induce immediate forward crash avoidance response by the vehicle operator.</P>
+<P><I>Forward collision warning onset</I> is the first moment in time when a forward collision warning is provided.</P>
+<P><I>Headway</I> is the distance between the subject vehicle's frontmost plane normal to its centerline and as applicable: the vehicle test device's rearmost plane normal to its centerline; a parallel contact plane (to the subject vehicle's frontmost plane) on the pedestrian test mannequin; and the leading edge of the steel trench plate.</P>
+<P><I>Lead vehicle</I> is a vehicle test device facing the same direction and preceding a subject vehicle within the same travel lane.</P>
+<P><I>Lead vehicle braking onset</I> is the point at which the lead vehicle achieves a deceleration of 0.05 g due to brake application.</P>
+<P><I>Pedestrian test mannequin</I> is a device used during AEB testing, when approaching pedestrians, meeting the specifications of subpart B of 49 CFR part 596.</P>
+<P><I>Small-volume manufacturer</I> means an original vehicle manufacturer that produces or assembles fewer than 5,000 vehicles annually for sale in the United States.</P>
+<P><I>Steel trench plate</I> is a rectangular steel plate often used in road construction to temporarily cover sections of pavement unsafe to drive over directly.</P>
+<P><I>Subject vehicle</I> is the vehicle under examination for compliance with this standard.</P>
+<P><I>Travel path</I> is the path projected onto the road surface of a point located at the intersection of the subject vehicle's frontmost vertical plane and longitudinal vertical center plane, as the subject vehicle travels forward.</P>
+<P><I>Subject vehicle braking onset</I> is the point at which the subject vehicle achieves a deceleration of 0.15 g due to the automatic control of the service brakes.</P>
+<P><I>Vehicle test device</I> is a device meeting the specifications set forth in subpart C of 49 CFR part 596.</P>
+<P>S5. <I>Requirements.</I></P>
+<P>(a) Except as provided in S5(b), vehicles manufactured on or after September 1, 2029 must meet the requirements of this standard.</P>
+<P>(b) The requirements of S5(a) do not apply to small-volume manufacturers, final-stage manufacturers, and alterers until one year after the dates specified in S5(a).</P>
+<P>S5.1. <I>Requirements when approaching a lead vehicle.</I></P>
+<P>S5.1.1. <I>Forward collision warning.</I> A vehicle is required to have a forward collision warning system, as defined in S4 that provides an auditory and visual signal to the driver of an impending collision with a lead vehicle. The system must operate under the conditions specified in S6 when traveling at any forward speed that is greater than 10 km/h (6.2 mph) and less than 145 km/h (90.1 mph).</P>
+<P>(a) <I>Auditory signal.</I></P>
+<P>(1) The auditory signal must have a high fundamental frequency of at least 800 Hz.</P>
+<P>(2) The auditory signal must have a tempo in the range of 6-12 pulses per second and a duty cycle in the range of 0.25-0.95.</P>
+<P>(3) The auditory signal as measured adjacent to a 50th percentile male driver's right ear (tragion) must have an intensity of 15-30 dB above the average noise level inside the vehicle when measured over a 5-second period under the range of test conditions specified in S6, at 100 km/h, with all vehicle openings closed, and all subject vehicle audio and sound-producing systems or functions that are not necessary for performing tests pursuant to the conditions in S6 and the procedures in S7, S8, S9 of this standard set to off.</P>
+<P>(4) In-vehicle audio that is not related to a crash avoidance system warning must be muted, or reduced in volume during presentation of the FCW auditory signal to within 5 dB of the average noise level inside the vehicle (as measured in S5.1.1(a)(3)), for the duration of the first between-pulse period of the FCW auditory signal under the range of test conditions specified in S6, at 100 km/h, with all vehicle openings closed, and all subject vehicle audio and sound-producing systems or functions that are not necessary for performing tests pursuant to the conditions in S6 and the procedures in S7, S8, S9 of this standard set to off.</P>
+<P>(b) <I>Visual signal.</I></P>
+<P>(1) The visual signal symbol must be located within an ellipse that extends ±18 degrees vertically and ±10 degrees horizontally of the driver forward line of sight based on the forward-looking eye midpoint (M<E T="52">f</E>) as described in S14 of 49 CFR 571.111.</P>
+<P>(2) The visual signal must include the crash pictorial symbol in SAE J2400, 4.1.16, incorporated by reference (see § 571.5).</P>
+<P>(3) The visual signal symbol must be red in color and steady burning.</P>
+<P>S5.1.2. <I>Automatic emergency braking.</I> A vehicle is required to have an automatic emergency braking system, as defined in S4, that applies the service brakes automatically when a collision with a lead vehicle is imminent. The system must operate under the conditions specified in S6 when the vehicle is traveling at any forward speed that is greater than 10 km/h (6.2 mph) and less than 145 km/h (90.1 mph).</P>
+<P>S5.1.3. Performance test requirements. The vehicle must provide a forward collision warning and subsequently apply the service brakes automatically such that the subject vehicle does not collide with the lead vehicle when tested using the procedures in S7 under the conditions specified in S6. The forward collision warning is not required if adaptive cruise control is engaged.</P>
+<P>S5.2. <I>Requirements when approaching pedestrians.</I></P>
+<P>S5.2.1. <I>Forward collision warning.</I> A vehicle is required to have a forward collision warning system, as defined in S4, that provides an auditory and visual signal to the driver of an impending collision with a pedestrian. The system must operate under the conditions specified in S6 when the vehicle is traveling at any forward speed that is greater than 10 km/h (6.2 mph) and less than 73 km/h (45.3 mph). The forward collision warning system must meet the auditory signal and visual signal requirements specified in S5.1.1.</P>
+<P>S5.2.2. <I>Automatic emergency braking.</I> A vehicle is required to have an automatic emergency braking system, as defined in S4, that applies the service brakes automatically when a collision with a pedestrian is imminent when the vehicle is under the conditions specified in S6 and is traveling at any forward speed that is greater than 10 km/h (6.2 mph) and less than 73 km/h (45.3 mph).</P>
+<P>S5.2.3. <I>Performance test requirements.</I> The vehicle must provide a forward collision warning and apply the brakes automatically such that the subject vehicle does not collide with the pedestrian test mannequin when tested using the procedures in S8 under the conditions specified in S6.</P>
+<P>S5.3. <I>False activation.</I> The vehicle must not automatically apply braking that results in peak additional deceleration that exceeds what manual braking would produce by 0.25 g or greater, when tested using the procedures in S9 under the conditions specified in S6.</P>
+<P>S5.4. <I>Malfunction detection and controls.</I></P>
+<P>S5.4.1 The system must continuously detect system malfunctions, including performance degradation caused solely by sensor obstructions. If the system detects a malfunction, or if the system adjusts its performance such that it will not meet the requirements specified in S5.1, S5.2, or S5.3, the system must provide the vehicle operator with a telltale notification.</P>
+<P>S5.4.2 Except as provided in S5.4.2.1 and S5.4.2.2, the manufacturer must not provide a control that will place the AEB system in a mode or modes in which it will no longer satisfy the performance requirements of S5.1, S5.2, and S5.3.</P>
+<P>S5.4.2.1 The manufacturer may provide a control to allow AEB deactivation that is securely activated, provided the manufacturer enables such activation exclusively in a vehicle owned by a law enforcement agency.</P>
+<P>S5.4.2.2 The manufacturer may allow AEB deactivation to occur during low-range four-wheel drive configurations, when the driver selects “tow mode,” or when another vehicle system is activated that will have a negative ancillary impact on AEB operation.</P>
+<P>S5.4.3 The vehicle's AEB system must always return to the manufacturer's original default AEB mode that satisfies the requirements of S5.1, S5.2, and S5.3 at the initiation of each new ignition cycle, unless the vehicle is in a low-range four-wheel drive configuration selected by the driver on the previous ignition cycle designed for low-speed, off-road driving.</P>
+<P>S6. <I>Test conditions.</I></P>
+<P>S6.1. <I>Environmental conditions.</I></P>
+<P>S6.1.1. <I>Temperature.</I> The ambient temperature is any temperature between 0 °C and 40 °C.</P>
+<P>S6.1.2. <I>Wind.</I> The maximum wind speed is no greater than 10 m/s (22 mph) during lead vehicle avoidance tests and 6.7 m/s (15 mph) during pedestrian avoidance tests.</P>
+<P>S6.1.3. <I>Ambient lighting.</I></P>
+<P>(a) <I>Daylight testing.</I></P>
+<P>(1) The ambient illumination on the test surface is any level at or above 2,000 lux.</P>
+<P>(2) Testing is not performed while driving toward or away from the sun such that the horizontal angle between the sun and a vertical plane containing the centerline of the subject vehicle is less than 25 degrees and the solar elevation angle is less than 15 degrees.</P>
+<P>(b) <I>Dark testing.</I></P>
+<P>(1) The ambient illumination on the test surface is any level at or below 0.2 lux.</P>
+<P>(2) Testing is performed under any lunar phase.</P>
+<P>(3) Testing is not performed while driving toward the moon such that the horizontal angle between the moon and a vertical plane containing the centerline of the subject vehicle is less than 25 degrees and the lunar elevation angle is less than 15 degrees.</P>
+<P>S6.1.4. <I>Precipitation.</I> Testing is not conducted during periods of precipitation or when visibility is affected by fog, smoke, ash, or other particulate.</P>
+<P>S6.2. <I>Road conditions.</I></P>
+<P>S6.2.1. <I>Test Track surface and construction.</I> The tests are conducted on a dry, uniform, solid-paved surface. Surfaces with debris, irregularities, or undulations, such as loose pavement, large cracks, or dips may not be used.</P>
+<P>S6.2.2. <I>Surface friction.</I> The road test surface produces a peak friction coefficient (PFC) of 1.02 when measured using an ASTM F2493 standard reference test tire, in accordance with ASTM E1337-19 (incorporated by reference, see § 571.5), at a speed of 64 km/h (40 mph), without water delivery.</P>
+<P>S6.2.3. <I>Slope.</I> The test surface has any consistent slope between 0 percent and 1 percent.</P>
+<P>S6.2.4. <I>Markings.</I> The road surface within 2 m of the intended travel path is marked with zero, one, or two lines of any configuration or color. If one line is used, it is straight. If two lines are used, they are straight, parallel to each other, and at any distance from 2.7 m to 4.5 m apart.</P>
+<P>S6.2.5. <I>Obstructions.</I> Testing is conducted such that the vehicle does not travel beneath any overhead structures, including but not limited to overhead signs, bridges, or gantries. No vehicles, obstructions, or stationary objects are within 7.4 m of either side of the intended travel path except as specified.</P>
+<P>S6.3. <I>Subject vehicle conditions.</I></P>
+<P>S6.3.1. <I>Malfunction notification.</I> Testing is not conducted while the AEB malfunction telltale specified in S5.4 is illuminated.</P>
+<P>S6.3.2. <I>Sensor obstruction.</I> All sensors used by the system and any part of the vehicle immediately ahead of the sensors, such as plastic trim, the windshield, etc., are free of debris or obstructions.</P>
+<P>S6.3.3. <I>Tires.</I> The vehicle is equipped with the original tires present at the time of initial sale. The tires are inflated to the vehicle manufacturer's recommended cold tire inflation pressure(s) specified on the vehicle's placard or the tire inflation pressure label.</P>
+<P>S6.3.4. <I>Brake burnish.</I></P>
+<P>(a) Vehicles subject to § 571.105 are burnished in accordance with S7.4 of § 571.105.</P>
+<P>(b) Vehicles subject to § 571.135 are burnished in accordance with S7.1 of § 571.135.</P>
+<P>S6.3.5. <I>Brake temperature.</I> The average temperature of the service brakes on the hottest axle of the vehicle during testing, measured according to S6.4.1 of § 571.135, is between 65 °C and 100 °C prior to braking.</P>
+<P>S6.3.6. <I>Fluids.</I> All non-consumable fluids for the vehicle are at 100 percent capacity. All consumable fluids are at any level from 5 to 100 percent capacity.</P>
+<P>S6.3.7. <I>Propulsion battery charge.</I> The propulsion batteries are charged at any level from 5 to 100 percent capacity.</P>
+<P>S6.3.8. <I>Cruise control.</I> Cruise control, including adaptive cruise control, is configured under any available setting.</P>
+<P>S6.3.9. <I>Adjustable forward collision warning.</I> Forward collision warning is configured in any operator-configurable setting.</P>
+<P>S6.3.10. <I>Engine braking.</I> A vehicle equipped with an engine braking system that is engaged and disengaged by the operator is tested with the system in any selectable configuration.</P>
+<P>S6.3.11. <I>Regenerative braking.</I> Regenerative braking is configured under any available setting.</P>
+<P>S6.3.12. <I>Headlamps.</I></P>
+<P>(a) Daylight testing is conducted with the headlamp control in any selectable position.</P>
+<P>(b) Darkness testing is conducted with the vehicle's lower beams active and separately with the vehicle's upper beams active.</P>
+<P>(c) Prior to performing darkness testing, headlamps are aimed according to the vehicle manufacturer's instructions. The weight of the loaded vehicle at the time of headlamp aiming is within 10 kg of the weight of the loaded vehicle during testing.</P>
+<P>S6.3.13. <I>Subject vehicle loading.</I> The vehicle load, which is the sum of any vehicle occupants and any test equipment and instrumentation, does not exceed 277 kg. The load does not cause the vehicle to exceed its GVWR or any axle to exceed its GAWR.</P>
+<P>S6.3.14. <I>AEB system initialization.</I> The vehicle is driven at a speed of 10 km/h or higher for at least one minute prior to testing, and subsequently the starting system is not cycled off prior to testing.</P>
+<P>S6.4. <I>Equipment and test devices.</I></P>
+<P>S6.4.1. The vehicle test device is specified in 49 CFR part 596, subpart C. Local fluttering of the lead vehicle's external surfaces does not exceed 10 mm perpendicularly from the reference surface, and distortion of the lead vehicle's overall shape does not exceed 25 mm in any direction.</P>
+<P>S6.4.2. Adult pedestrian test mannequin is specified in 49 CFR part 596, subpart B.</P>
+<P>S6.4.3. Child pedestrian test mannequin is specified in 49 CFR part 596, subpart B.</P>
+<P>S6.4.4. The steel trench plate used for the false activation test has the dimensions 2.4 m x 3.7 m x 25 mm and is made of ASTM A36 steel. Any metallic fasteners used to secure the steel trench plate are flush with the top surface of the steel trench plate.</P>
+<P>S7. <I>Testing when approaching a lead vehicle.</I></P>
+<P>S7.1. <I>Setup.</I></P>
+<P>(a) The testing area is set up in accordance with figure 2 to this section.</P>
+<P>(b) Testing is conducted during daylight.</P>
+<P>(c) For reference, table 1 to S7.1 specifies the subject vehicle speed (V<E T="52">SV</E>), lead vehicle speed (V<E T="52">LV</E>), headway, and lead vehicle deceleration for each test that may be conducted.</P>
+<P>(d) The intended travel path of the vehicle is a straight line toward the lead vehicle from the location corresponding to a headway of L<E T="52">0</E>.</P>
+<P>(e) If the road surface is marked with a single or double lane line, the intended travel path is parallel to and 1.8 m from the inside of the closest line. If the road surface is marked with two lane lines bordering the lane, the intended travel path is centered between the two lines.</P>
+<P>(f) For each test run conducted, the subject vehicle speed (V<E T="52">SV</E>), lead vehicle speed (V<E T="52">LV</E>), headway, and lead vehicle deceleration will be selected from the ranges specified in table 1 to S7.1.</P>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+<CAPTION><P class="title">Table 1 to S7.1—Test Parameters When Approaching a Lead Vehicle</P></CAPTION>
+<THEAD>
+<TR>
+<TH rowspan="2" class="center border-top-single border-bottom-single border-right-single"> </TH>
+<TH colspan="2" class="center border-top-single border-bottom-single border-right-single">Speed (km/h)</TH>
+<TH rowspan="2" class="center border-top-single border-bottom-single border-right-single">Headway (m)</TH>
+<TH rowspan="2" class="center border-top-single border-bottom-single border-right-single">Lead vehicle decel (g)</TH>
+<TH rowspan="2" class="center border-top-single border-bottom-single">Manual brake application</TH>
+</TR>
+<TR>
+<TH class="center border-bottom-single border-right-single">V<sub>SV</sub></TH>
+<TH class="center border-bottom-single border-right-single">V<sub>LV</sub></TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">Stopped Lead Vehicle</TD>
+<TD class="left border-right-single">Any 10-80</TD>
+<TD class="right border-right-single">0</TD>
+<TD class="left border-right-single">—</TD>
+<TD class="left border-right-single">—</TD>
+<TD class="left">No.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left border-right-single">Any 70-100</TD>
+<TD class="right border-right-single">0</TD>
+<TD class="left border-right-single">—</TD>
+<TD class="left border-right-single">—</TD>
+<TD class="left">Yes.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">Slower-Moving Lead Vehicle</TD>
+<TD class="left border-right-single">Any 40-80</TD>
+<TD class="right border-right-single">20</TD>
+<TD class="left border-right-single">—</TD>
+<TD class="left border-right-single">—</TD>
+<TD class="left">No.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left border-right-single">Any 70-100</TD>
+<TD class="right border-right-single">20</TD>
+<TD class="left border-right-single">—</TD>
+<TD class="left border-right-single">—</TD>
+<TD class="left">Yes.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">Decelerating Lead Vehicle</TD>
+<TD class="left border-right-single">50</TD>
+<TD class="right border-right-single">50</TD>
+<TD class="left border-right-single">Any 12-40</TD>
+<TD class="left border-right-single">Any 0.3-0.5</TD>
+<TD class="left">No.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left border-right-single">50</TD>
+<TD class="right border-right-single">50</TD>
+<TD class="left border-right-single">Any 12-40</TD>
+<TD class="left border-right-single">Any 0.3-0.5</TD>
+<TD class="left">Yes.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left border-right-single">80</TD>
+<TD class="right border-right-single">80</TD>
+<TD class="left border-right-single">Any 12-40</TD>
+<TD class="left border-right-single">Any 0.3-0.5</TD>
+<TD class="left">No.</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single"> </TD>
+<TD class="left border-bottom-single border-right-single">80</TD>
+<TD class="right border-bottom-single border-right-single">80</TD>
+<TD class="left border-bottom-single border-right-single">Any 12-40</TD>
+<TD class="left border-bottom-single border-right-single">Any 0.3-0.5</TD>
+<TD class="left border-bottom-single">Yes.</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV></DIV>
+<P>S7.2. <I>Headway calculation.</I> For each test run conducted under S7.3 and S7.4, the headway (<I>L</I><E T="54">0</E>), in meters, providing 5.0 seconds time to collision (<I>TTC</I>) is calculated. <I>L</I><E T="54">0</E> is determined with the following equation where <I>V</I><E T="54">SV</E> is the speed of the subject vehicle in m/s and <I>V</I><E T="54">LV</E> is the speed of the lead vehicle in m/s:</P>
+<HD3>Equation 1 to S7.2
+</HD3>
+<FP-2><I>L</I><E T="54">0</E> = TTC<E T="52">0</E> × (<I>V</I><E T="54">SV</E> − <I>V</I><E T="54">LV</E>)
+</FP-2>
+<FP-2>TTC<E T="52">0</E> = 5.0
+</FP-2>
+<P>S7.3. <I>Stopped lead vehicle.</I></P>
+<P>S7.3.1. <I>Test parameters.</I></P>
+<P>(a) For testing with no subject vehicle manual brake application, the subject vehicle test speed is any speed between 10 km/h and 80 km/h, and the lead vehicle speed is 0 km/h.</P>
+<P>(b) For testing with manual brake application of the subject vehicle, the subject vehicle test speed is any speed between 70 km/h and 100 km/h, and the lead vehicle speed is 0 km/h.</P>
+<P>S7.3.2. <I>Test conduct prior to forward collision warning onset.</I></P>
+<P>(a) The lead vehicle is placed stationary with its longitudinal centerline coincident to the intended travel path.</P>
+<P>(b) Before the headway corresponds to L<E T="52">0</E>, the subject vehicle is driven at any speed, in any direction, on any road surface, for any amount of time.</P>
+<P>(c) The subject vehicle approaches the rear of the lead vehicle.</P>
+<P>(d) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle speed is maintained within 1.6 km/h of the test speed with minimal and smooth accelerator pedal inputs.</P>
+<P>(e) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle heading is maintained with minimal steering input such that the travel path does not deviate more than 0.3 m laterally from the intended travel path and the subject vehicle's yaw rate does not exceed ±1.0 deg/s.</P>
+<P>S7.3.3. <I>Test conduct after forward collision warning onset.</I></P>
+<P>(a) The accelerator pedal is released at any rate such that it is fully released within 500 ms. This action is omitted for vehicles tested with cruise control active.</P>
+<P>(b) For testing conducted with manual brake application, the service brakes are applied as specified in S10. The onset of brake pedal application occurs 1.0 ± 0.1 second after forward collision warning onset.</P>
+<P>(c) For testing conducted without manual brake application, no manual brake application is made until the test completion criteria of S7.3.4 are satisfied.</P>
+<P>S7.3.4. <I>Test completion criteria.</I> The test run is complete when the subject vehicle comes to a complete stop without making contact with the lead vehicle or when the subject vehicle makes contact with the lead vehicle.</P>
+<P>S7.4. <I>Slower-moving lead vehicle.</I></P>
+<P>S7.4.1. <I>Test parameters.</I></P>
+<P>(a) For testing with no subject vehicle manual brake application, the subject vehicle test speed is any speed between 40 km/h and 80 km/h, and the lead vehicle speed is 20 km/h.</P>
+<P>(b) For testing with manual brake application of the subject vehicle, the subject vehicle test speed is any speed between 70 km/h and 100 km/h, and the lead vehicle speed is 20 km/h.</P>
+<P>S7.4.2. <I>Test conduct prior to forward collision warning onset.</I></P>
+<P>(a) The lead vehicle is propelled forward in a manner such that the longitudinal center plane of the lead vehicle does not deviate laterally more than 0.3m from the intended travel path.</P>
+<P>(b) The subject vehicle approaches the lead vehicle.</P>
+<P>(c) Before the headway corresponds to L<E T="52">0</E>, the subject vehicle is driven at any speed, in any direction, on any road surface, for any amount of time.</P>
+<P>(d) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle and lead vehicle speed is maintained within 1.6 km/h of the test speed with minimal and smooth accelerator pedal inputs.</P>
+<P>(e) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle and lead vehicle headings are be maintained with minimal steering input such that the subject vehicle's travel path does not deviate more than 0.3 m laterally from the centerline of the lead vehicle, and the yaw rate of the subject vehicle does not exceed ±1.0 deg/s prior to the forward collision warning onset.</P>
+<P>S7.4.3. <I>Test conduct after forward collision warning onset.</I></P>
+<P>(a) The subject vehicle's accelerator pedal is released at any rate such that it is fully released within 500 ms. This action is omitted for vehicles tested with cruise control active.</P>
+<P>(b) For testing conducted with manual braking application, the service brakes are applied as specified in S10. The onset of brake pedal application is 1.0 ±0.1 second after the forward collision warning onset.</P>
+<P>(c) For testing conducted without manual braking application, no manual brake application is made until the test completion criteria of S7.4.4 are satisfied.</P>
+<P>S7.4.4. <I>Test completion criteria.</I> The test run is complete when the subject vehicle speed is less than or equal to the lead vehicle speed without making contact with the lead vehicle or when the subject vehicle makes contact with the lead vehicle.</P>
+<P>S7.5. <I>Decelerating lead vehicle.</I></P>
+<P>S7.5.1. <I>Test parameters.</I></P>
+<P>(a) The subject vehicle test speed is 50 km/h or 80 km/h, and the lead vehicle speed is identical to the subject vehicle test speed.</P>
+<P>(b) [Reserved]</P>
+<P>S7.5.2. <I>Test conduct prior to lead vehicle braking onset.</I></P>
+<P>(a) Before the 3 seconds prior to lead vehicle braking onset, the subject vehicle is be driven at any speed, in any direction, on any road surface, for any amount of time.</P>
+<P>(b) Between 3 seconds prior to lead vehicle braking onset and lead vehicle braking onset:</P>
+<P>(1) The lead vehicle is propelled forward in a manner such that the longitudinal center plane of the vehicle does not deviate laterally more than 0.3 m from the intended travel path.</P>
+<P>(2) The subject vehicle follows the lead vehicle at a headway of any distance between 12 m and 40 m.</P>
+<P>(3) The subject vehicle's speed is maintained within 1.6 km/h of the test speed with minimal and smooth accelerator pedal inputs prior to forward collision warning onset.</P>
+<P>(4) The lead vehicle's speed is maintained within 1.6 km/h.</P>
+<P>(5) The subject vehicle and lead vehicle headings are maintained with minimal steering input such that their travel paths do not deviate more than 0.3 m laterally from the centerline of the lead vehicle, and the yaw rate of the subject vehicle does not exceed ±1.0 deg/s until onset of forward collision warning.</P>
+<P>S7.5.3. <I>Test conduct following lead vehicle braking onset.</I></P>
+<P>(a) The lead vehicle is decelerated to a stop with a targeted average deceleration of any value between 0.3g and 0.5g. The targeted deceleration magnitude is achieved within 1.5 seconds of lead vehicle braking onset and is maintained until 250 ms prior to coming to a stop.</P>
+<P>(b) After forward collision warning onset, the subject vehicle's accelerator pedal is released at any rate such that it is fully released within 500 ms. This action is omitted for vehicles with cruise control active.</P>
+<P>(c) For testing conducted with manual braking application, the service brakes are applied as specified in S10. The brake pedal application onset occurs 1.0 ± 0.1 second after the forward collision warning onset.</P>
+<P>(d) For testing conducted without manual braking application, no manual brake application is made until the test completion criteria of S7.5.4 are satisfied.</P>
+<P>S7.5.4. <I>Test completion criteria.</I> The test run is complete when the subject vehicle comes to a complete stop without making contact with the lead vehicle or when the subject vehicle makes contact with the lead vehicle.</P>
+<P>S8. <I>Testing when approaching a pedestrian.</I></P>
+<P>S8.1. <I>Setup.</I></P>
+<P>S8.1.1. <I>General.</I></P>
+<P>(a) For reference, table 2 to S8.1.1 specifies the pedestrian test mannequin direction of travel, overlap, obstruction condition and speed (V<E T="52">P</E>), the subject vehicle speed (V<E T="52">SV</E>), and the lighting condition for each test that may be conducted.</P>
+<P>(b) The intended travel path of the vehicle is a straight line originating at the location corresponding to a headway of L<E T="52">0</E>.</P>
+<P>(c) If the road surface is marked with a single or double lane line, the intended travel path is parallel to and 1.8 m from the inside of the closest line. If the road surface is marked with two lane lines bordering the lane, the intended travel path is centered between the two lines.</P>
+<P>(d) For each test run conducted, the subject vehicle speed (V<E T="52">SV</E>) will be selected from the range specified in table 2 to S8.1.1.</P>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+<CAPTION><P class="title">Table 2 to S8.1.1—Test Parameters When Approaching a Pedestrian</P></CAPTION>
+<THEAD>
+<TR>
+<TH rowspan="2" class="center border-top-single border-bottom-single border-right-single"> </TH>
+<TH rowspan="2" class="center border-top-single border-bottom-single border-right-single">Direction</TH>
+<TH rowspan="2" class="center border-top-single border-bottom-single border-right-single">Overlap</TH>
+<TH rowspan="2" class="center border-top-single border-bottom-single border-right-single">Obstructed</TH>
+<TH colspan="2" class="center border-top-single border-bottom-single border-right-single">Speed (km/h)</TH>
+<TH rowspan="2" class="center border-top-single border-bottom-single">Lighting condition</TH>
+</TR>
+<TR>
+<TH class="center border-bottom-single border-right-single">V<sub>SV</sub></TH>
+<TH class="center border-bottom-single border-right-single">V<sub>P</sub></TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">Pedestrian Crossing Road</TD>
+<TD class="left border-right-single">Right</TD>
+<TD class="right border-right-single">25</TD>
+<TD class="left border-right-single">No</TD>
+<TD class="left border-right-single">Any 10-60</TD>
+<TD class="right border-right-single">5</TD>
+<TD class="left">Daylight</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left border-right-single">Right</TD>
+<TD class="right border-right-single">50</TD>
+<TD class="left border-right-single">No</TD>
+<TD class="left border-right-single">Any 10-60</TD>
+<TD class="right border-right-single">5</TD>
+<TD class="left">Daylight</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left border-right-single"></TD>
+<TD class="right border-right-single"></TD>
+<TD class="left border-right-single"></TD>
+<TD class="left border-right-single"></TD>
+<TD class="right border-right-single"></TD>
+<TD class="left">Lower Beams</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left border-right-single"></TD>
+<TD class="right border-right-single"></TD>
+<TD class="left border-right-single"></TD>
+<TD class="left border-right-single"></TD>
+<TD class="right border-right-single"></TD>
+<TD class="left">Upper Beams</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left border-right-single">Left</TD>
+<TD class="right border-right-single">50</TD>
+<TD class="left border-right-single">No</TD>
+<TD class="left border-right-single">Any 10-60</TD>
+<TD class="right border-right-single">8</TD>
+<TD class="left">Daylight</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left border-right-single">Right</TD>
+<TD class="right border-right-single">50</TD>
+<TD class="left border-right-single">Yes</TD>
+<TD class="left border-right-single">Any 10-50</TD>
+<TD class="right border-right-single">5</TD>
+<TD class="left">Daylight</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">Stationary Pedestrian</TD>
+<TD class="left border-right-single">Right</TD>
+<TD class="right border-right-single">25</TD>
+<TD class="left border-right-single">No</TD>
+<TD class="left border-right-single">Any 10-55</TD>
+<TD class="right border-right-single">0</TD>
+<TD class="left">Daylight</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left border-right-single"></TD>
+<TD class="right border-right-single"></TD>
+<TD class="left border-right-single"></TD>
+<TD class="left border-right-single"></TD>
+<TD class="right border-right-single"></TD>
+<TD class="left">Lower Beams</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left border-right-single"></TD>
+<TD class="right border-right-single"></TD>
+<TD class="left border-right-single"></TD>
+<TD class="left border-right-single"></TD>
+<TD class="right border-right-single"></TD>
+<TD class="left">Upper Beams</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">Pedestrian Moving Along the Path</TD>
+<TD class="left border-right-single">Right<br></br></TD>
+<TD class="right border-right-single">25<br></br></TD>
+<TD class="left border-right-single">No<br></br></TD>
+<TD class="left border-right-single">Any 10-65<br></br></TD>
+<TD class="right border-right-single">5<br></br></TD>
+<TD class="left">Daylight<br></br>Lower Beams</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single"> </TD>
+<TD class="left border-bottom-single border-right-single"></TD>
+<TD class="right border-bottom-single border-right-single"></TD>
+<TD class="left border-bottom-single border-right-single"></TD>
+<TD class="left border-bottom-single border-right-single"></TD>
+<TD class="right border-bottom-single border-right-single"></TD>
+<TD class="left border-bottom-single">Upper Beams</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV></DIV>
+<P>S8.1.2. <I>Overlap.</I> As depicted in figure 1 to this section, overlap describes the location of the point on the front of the subject vehicle that would make contact with a pedestrian if no braking occurred. Overlap is the percentage of the subject vehicle's overall width that the pedestrian test mannequin traverses. It is measured from the right or the left, depending on the side of the subject vehicle where the pedestrian test mannequin originates. For each test run, the actual overlap will be within 0.15 m of the specified overlap.</P>
+<P>S8.1.3. <I>Pedestrian test mannequin.</I></P>
+<P>(a) For testing where the pedestrian test mannequin is secured to a moving apparatus, the pedestrian test mannequin is secured so that it faces the direction of motion. The pedestrian test mannequin leg articulation starts on apparatus movement and stops when the apparatus stops.</P>
+<P>(b) For testing where the pedestrian test mannequin is stationary, the pedestrian test mannequin faces away from the subject vehicle, and the pedestrian test mannequin legs remain still.</P>
+<P>S8.2. <I>Headway calculation.</I> For each test run conducted under S8.3, S8.4, and S8.5, the headway (<I>L</I><E T="52">0</E>), in meters, providing 4.0 seconds time to collision (<I>TTC</I>) is calculated. <I>L</I><E T="52">0</E> is determined with the following equation where <I>V</I><E T="52">SV</E> is the speed of the subject vehicle in m/s and <I>V</I><E T="52">P-y</E> is the component of speed of the pedestrian test mannequin in m/s in the direction of the intended travel path:</P>
+<HD3>Equation 2 to S8.2
+</HD3>
+<FP-2><I>L</I><E T="54">0</E> = TTC<E T="52">0</E> × (<I>V</I><E T="54">SV</E> − <I>V</I><E T="54">P-y</E>)
+</FP-2>
+<FP-2>TTC<E T="52">0</E> = 4.0
+</FP-2>
+<P>S8.3. <I>Pedestrian crossing road.</I></P>
+<P>S8.3.1. <I>Test parameters and setup (unobstructed from right).</I></P>
+<P>(a) The testing area is set up in accordance with figure 3 to this section.</P>
+<P>(b) Testing is conducted in the daylight or darkness conditions, except that testing with the pedestrian at the 25 percent overlap is only conducted in daylight conditions.</P>
+<P>(c) Testing is conducted using the adult pedestrian test mannequin.</P>
+<P>(d) The movement of the pedestrian test mannequin is perpendicular to the subject vehicle's intended travel path.</P>
+<P>(e) The pedestrian test mannequin is set up 4.0 ± 0.1 m to the right of the intended travel path.</P>
+<P>(f) The intended overlap is 25 percent from the right or 50 percent.</P>
+<P>(g) The subject vehicle test speed is any speed between 10 km/h and 60 km/h.</P>
+<P>(h) The pedestrian test mannequin speed is 5 km/h.</P>
+<P>S8.3.2 <I>Test parameters and setup (unobstructed from left).</I></P>
+<P>(a) The testing area is set up in accordance with figure 4 to this section.</P>
+<P>(b) Testing is conducted in the daylight condition.</P>
+<P>(c) Testing is conducted using the adult pedestrian mannequin.</P>
+<P>(d) The movement of the pedestrian test mannequin is perpendicular to the intended travel path.</P>
+<P>(e) The pedestrian test mannequin is set up 6.0 ± 0.1 m to the left of the intended travel path.</P>
+<P>(f) The intended overlap is 50 percent.</P>
+<P>(g) The subject vehicle test speed is any speed between 10 km/h and 60 km/h.</P>
+<P>(h) The pedestrian test mannequin speed is 8 km/h.</P>
+<P>S8.3.3. <I>Test parameters and setup (obstructed).</I></P>
+<P>(a) The testing area is set up in accordance with figure 5 to this section.</P>
+<P>(b) Testing is conducted in the daylight condition.</P>
+<P>(c) Testing is conducted using the child pedestrian test mannequin.</P>
+<P>(d) The movement of the pedestrian test mannequin is perpendicular to the intended travel path.</P>
+<P>(e) The pedestrian test mannequin is set up 4.0 ± 0.1 m to the right of the intended travel path.</P>
+<P>(f) The intended overlap is 50 percent.</P>
+<P>(g) Two vehicle test devices are secured in stationary positions parallel to the intended travel path. The two vehicle test devices face the same direction as the intended travel path. One vehicle test device is directly behind the other separated by 1.0 ± 0.1 m. The frontmost plane of the vehicle test device furthermost from the subject vehicle is located 1.0 ± 0.1 m from the parallel contact plane (to the subject vehicle's frontmost plane) on the pedestrian test mannequin. The left side of each vehicle test device is no less than 2.2 m to the right of the vertical plane through the intended travel path. The left side of each vehicle test device is no less than 1.15 m to the right of the vertical plane parallel to the plane through the intended travel path tangent to the 0 percent overlap point.</P>
+<P>(h) The subject vehicle test speed is any speed between 10 km/h and 50 km/h.</P>
+<P>(i) The pedestrian test mannequin speed is 5 km/h.</P>
+<P>S8.3.4. <I>Test conduct prior to forward collision warning or subject vehicle braking onset.</I></P>
+<P>(a) Before the headway corresponds to L<E T="52">0</E>, the subject vehicle is driven at any speed, in any direction, on any road surface, for any amount of time.</P>
+<P>(b) The subject vehicle approaches the crossing path of the pedestrian test mannequin.</P>
+<P>(c) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle speed is maintained within 1.6 km/h of the test speed with minimal and smooth accelerator pedal inputs.</P>
+<P>(d) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle heading is maintained with minimal steering inputs such that the subject vehicle's travel path does not deviate more than 0.3 m laterally from the intended travel path, and the yaw rate of the subject vehicle does not exceed ±1.0 deg/s prior to any automated braking onset.</P>
+<P>(e) The pedestrian test mannequin apparatus is triggered at a time such that the pedestrian test mannequin meets the intended overlap, subject to the criteria in S8.1.2. The pedestrian test mannequin achieves its intended speed within 1.5 m after the apparatus begins to move and maintains its intended speed within 0.4 km/h until the test completion criteria of S8.3.6 are satisfied.</P>
+<P>S8.3.5. <I>Test conduct after either forward collision warning or subject vehicle braking onset.</I></P>
+<P>(a) After forward collision warning or subject vehicle braking onset, the subject vehicle's accelerator pedal is released at any rate such that it is fully released within 500 ms. This action is omitted for vehicles with cruise control active.</P>
+<P>(b) No manual brake application is made until the test completion criteria of S8.3.6 are satisfied.</P>
+<P>(c) The pedestrian mannequin continues to move until the completion criteria of S8.3.6 are satisfied.</P>
+<P>S8.3.6. <I>Test completion criteria.</I> The test run is complete when the subject vehicle comes to a complete stop without making contact with the pedestrian test mannequin, when the pedestrian test mannequin is no longer in the path of the subject vehicle, or when the subject vehicle makes contact with the pedestrian test mannequin.</P>
+<P>S8.4. <I>Stationary pedestrian.</I></P>
+<P>S8.4.1. <I>Test parameters and setup.</I></P>
+<P>(a) The testing area is set up in accordance with figure 6 to this section.</P>
+<P>(b) Testing is conducted in the daylight or darkness conditions.</P>
+<P>(c) Testing is conducted using the adult pedestrian test mannequin.</P>
+<P>(d) The pedestrian mannequin is set up at the 25 percent right overlap position facing away from the approaching vehicle.</P>
+<P>(e) The subject vehicle test speed is any speed between 10 km/h and 55 km/h.</P>
+<P>(f) The pedestrian mannequin is stationary.</P>
+<P>S8.4.2. <I>Test conduct prior to forward collision warning or subject vehicle braking onset.</I></P>
+<P>(a) Before the headway corresponds to L<E T="52">0</E>, the subject vehicle is driven at any speed, in any direction, on any road surface, for any amount of time.</P>
+<P>(b) The subject vehicle approaches the pedestrian test mannequin.</P>
+<P>(c) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle speed is maintained within 1.6 km/h of the test speed with minimal and smooth accelerator pedal inputs.</P>
+<P>(d) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle heading is maintained with minimal steering inputs such that the subject vehicle's travel path does not deviate more than 0.3 m laterally from the intended travel path, and the yaw rate of the subject vehicle does not exceed ±1.0 deg/s prior to any automated braking onset.</P>
+<P>S8.4.3. <I>Test conduct after either forward collision warning or subject vehicle braking onset.</I></P>
+<P>(a) After forward collision warning or subject vehicle braking onset, the subject vehicle's accelerator pedal is released at any rate such that it is fully released within 500 ms. This action is omitted with vehicles with cruise control active.</P>
+<P>(b) No manual brake application is made until the test completion criteria of S8.4.4 are satisfied.</P>
+<P>S8.4.4. <I>Test completion criteria.</I> The test run is complete when the subject vehicle comes to a complete stop without making contact with the pedestrian test mannequin, or when the subject vehicle makes contact with the pedestrian test mannequin.</P>
+<P>S8.5. <I>Pedestrian moving along the path.</I></P>
+<P>S8.5.1. <I>Test parameters and setup.</I></P>
+<P>(a) The testing area is set up in accordance with figure 7 to this section.</P>
+<P>(b) Testing is conducted in the daylight or darkness conditions.</P>
+<P>(c) Testing is conducted using the adult pedestrian test mannequin.</P>
+<P>(d) The movement of the pedestrian test mannequin is parallel to and in the same direction as the subject vehicle.</P>
+<P>(e) The pedestrian test mannequin is set up in the 25 percent right offset position.</P>
+<P>(f) The subject vehicle test speed is any speed between 10 km/h and 65 km/h.</P>
+<P>(g) The pedestrian test mannequin speed is 5 km/h.</P>
+<P>S8.5.2. <I>Test conduct prior to forward collision warning or subject vehicle braking onset.</I></P>
+<P>(a) Before the headway corresponds to L<E T="52">0</E>, the subject vehicle is driven at any speed, in any direction, on any road surface, for any amount of time.</P>
+<P>(b) The subject vehicle approaches the pedestrian test mannequin.</P>
+<P>(c) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle speed is maintained within 1.6 km/h of the test speed with minimal and smooth accelerator pedal inputs.</P>
+<P>(d) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle heading is maintained with minimal steering inputs such that the travel path does not deviate more than 0.3 m laterally from the intended travel path, and the yaw rate of the subject vehicle does not exceed ±1.0 deg/s prior to any automated braking onset.</P>
+<P>(e) The pedestrian test mannequin apparatus is triggered any time after the distance between the front plane of the subject vehicle and a parallel contact plane on the pedestrian test mannequin corresponds to L<E T="52">0</E>. The pedestrian test mannequin achieves its intended speed within 1.5 m after the apparatus begins to move and maintains its intended speed within 0.4 km/h until the test completion criteria of S8.5.4 are satisfied.</P>
+<P>S8.5.3. <I>Test conduct after either forward collision warning or subject vehicle braking onset.</I></P>
+<P>(a) After forward collision warning or subject vehicle braking onset, the subject vehicle's accelerator pedal is released at any rate such that it is fully released within 500 ms. This action is omitted for vehicles with cruise control active.</P>
+<P>(b) No manual brake application is made until the test completion criteria of S8.5.4 are satisfied.</P>
+<P>S8.5.4. <I>Test completion criteria.</I> The test run is complete when the subject vehicle slows to speed below the pedestrian test mannequin travel speed without making contact with the pedestrian test mannequin or when the subject vehicle makes contact with the pedestrian test mannequin.</P>
+<P>S9. <I>False AEB activation.</I></P>
+<P>S9.1. <I>Headway calculation.</I> For each test run to be conducted under S9.2 and S9.3, the headway (<I>L</I><E T="54">0,</E><I> L</I><E T="54">2.1,</E><I> L</I><E T="54">1.1</E>), in meters, providing 5.0 seconds, 2.1 seconds, and 1.1 seconds time to collision (TTC) is calculated. <I>L</I><E T="52">0</E>, <I>L</I><E T="54">2.1</E>, and <I>L</I><E T="54">1.1</E> are determined with the following equation where <I>V</I><E T="52">SV</E> is the speed of the subject vehicle in m/s:</P>
+<HD3>Equation 3 to S9.1
+</HD3>
+<FP-2><I>L</I><E T="52">X</E> = TTC<E T="52">X</E> × (<I>V</I><E T="52">SV</E>)
+</FP-2>
+<FP-2><I>TTC</I><E T="52">0</E> = <I>5.0</I>
+</FP-2>
+<FP-2><I>TTC</I><E T="52">2.1</E> = <I>2.1</I>
+</FP-2>
+<FP-2><I>TTC</I><E T="52">1.1</E> = <I>1.1</I>
+</FP-2>
+<P>S9.2. <I>Steel trench plate.</I></P>
+<P>S9.2.1. <I>Test parameters and setup.</I></P>
+<P>(a) The testing area is set up in accordance with figure 8 to this section.</P>
+<P>(b) The steel trench plate is secured flat on the test surface so that its longest side is parallel to the vehicle's intended travel path and horizontally centered on the vehicle's intended travel path.</P>
+<P>(c) The subject vehicle test speed is 80 km/h.</P>
+<P>(d) Testing is conducted with manual brake application and without manual brake application.</P>
+<P>(e) Testing is conducted during daylight.</P>
+<P>S9.2.2. <I>Test conduct.</I></P>
+<P>(a) Before the headway corresponds to L<E T="52">0</E>, the subject vehicle is driven at any speed, in any direction, on any road surface, for any amount of time.</P>
+<P>(b) The subject vehicle approaches the steel trench plate.</P>
+<P>(c) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle speed is maintained within 1.6 km/h of the test speed with minimal and smooth accelerator pedal inputs.</P>
+<P>(d) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle heading is maintained with minimal steering input such that the travel path does not deviate more than 0.3 m laterally from the intended travel path, and the yaw rate of the subject vehicle does not exceed ±1.0 deg/s.</P>
+<P>(e) If forward collision warning occurs, the subject vehicle's accelerator pedal is released at any rate such that it is fully released within 500 ms. This action is omitted for vehicles with cruise control active.</P>
+<P>(f) For tests where no manual brake application occurs, manual braking is not applied until the test completion criteria of S9.2.3 are satisfied.</P>
+<P>(g) For tests where manual brake application occurs, the subject vehicle's accelerator pedal, if not already released, is released when the headway corresponds to L<E T="52">2.1</E> at any rate such that it is fully released within 500 ms.</P>
+<P>(h) For tests where manual brake application occurs, the service brakes are applied as specified in S10. The brake application pedal onset occurs at headway L<E T="52">1.1</E>.</P>
+<P>S9.2.3. <I>Test completion criteria.</I> The test run is complete when the subject vehicle comes to a stop prior to crossing over the leading edge of the steel trench plate or when the subject vehicle crosses over the leading edge of the steel trench plate.</P>
+<P>S9.3. <I>Pass-through.</I></P>
+<P>S9.3.1. <I>Test parameters and setup.</I></P>
+<P>(a) The testing area is set up in accordance with figure 9 to this section.</P>
+<P>(b) Two vehicle test devices are secured in a stationary position parallel to one another with a lateral distance of 4.5 m ±0.1 m between the vehicles' closest front wheels. The centerline between the two vehicles is parallel to the intended travel path.</P>
+<P>(c) The subject vehicle test speed is 80 km/h.</P>
+<P>(d) Testing is conducted with manual brake application and without manual brake application.</P>
+<P>(e) Testing is conducted during daylight.</P>
+<P>S9.3.2. <I>Test conduct.</I></P>
+<P>(a) Before the headway corresponds to L<E T="52">0</E>, the subject vehicle is driven at any speed, in any direction, on any road surface, for any amount of time.</P>
+<P>(b) The subject vehicle approaches the gap between the two vehicle test devices.</P>
+<P>(c) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle speed is maintained within 1.6 km/h with minimal and smooth accelerator pedal inputs.</P>
+<P>(d) Beginning when the headway corresponds to L<E T="52">0</E>, the subject vehicle heading is maintained with minimal steering input such that the travel path does not deviate more than 0.3 m laterally from the intended travel path, and the yaw rate of the subject vehicle does not exceed ±1.0 deg/s.</P>
+<P>(e) If forward collision warning occurs, the subject vehicle's accelerator pedal is released at any rate such that it is fully released within 500 ms.</P>
+<P>(f) For tests where no manual brake application occurs, manual braking is not applied until the test completion criteria of S9.3.3 are satisfied.</P>
+<P>(g) For tests where manual brake application occurs, the subject vehicle's accelerator pedal, if not already released, is released when the headway corresponds to L<E T="52">2.1</E> at any rate such that it is fully released within 500 ms.</P>
+<P>(h) For tests where manual brake application occurs, the service brakes are applied as specified in S10. The brake application onset occurs when the headway corresponds to L<E T="52">1.1</E>.</P>
+<P>S9.3.3. <I>Test completion criteria.</I> The test run is complete when the subject vehicle comes to a stop prior to its rearmost point passing the vertical plane connecting the forwardmost point of the vehicle test devices or when the rearmost point of the subject vehicle passes the vertical plane connecting the forwardmost point of the vehicle test devices.</P>
+<P>S10. <I>Subject vehicle brake application procedure.</I></P>
+<P>S10.1. The procedure begins with the subject vehicle brake pedal in its natural resting position with no preload or position offset.</P>
+<P>S10.2. At the option of the manufacturer, either displacement feedback, hybrid feedback, or force feedback control is used.</P>
+<P>S10.3. <I>Displacement feedback procedure.</I> For displacement feedback, the commanded brake pedal position is the brake pedal position that results in a mean deceleration of 0.4 g in the absence of AEB system activation.</P>
+<P>(a) The mean deceleration is the deceleration over the time from the brake pedal achieving the commanded position to 250 ms before the vehicle comes to a stop.</P>
+<P>(b) The pedal displacement controller displaces the brake pedal at a rate of 254 mm/s ±25.4 mm/s to the commanded brake pedal position.</P>
+<P>(c) The pedal displacement controller may overshoot the commanded position by any amount up to 20 percent. If such an overshoot occurs, it is corrected within 250 ms from when the commanded position is first achieved.</P>
+<P>(d) The achieved brake pedal position is any position within 10 percent of the commanded position from 250 ms after the commanded brake pedal position is first achieved to the end of the test.</P>
+<P>S10.4. <I>Hybrid brake pedal feedback procedure.</I> For hybrid brake pedal feedback, the commanded brake pedal application is the brake pedal position and a subsequent commanded brake pedal force that results in a mean deceleration of 0.4 g in the absence of AEB system activation.</P>
+<P>(a) The mean deceleration is the deceleration over the time from the brake pedal achieving the commanded position to 250 ms before the vehicle comes to a stop.</P>
+<P>(b) The hybrid controller displaces the brake pedal at a rate of 254 mm/s ±25.4 mm/s to the commanded pedal position.</P>
+<P>(c) The hybrid controller may overshoot the commanded position by any amount up to 20 percent. If such an overshoot occurs, it is corrected within 250 ms from then the commanded position is first achieved.</P>
+<P>(d) The hybrid controller begins to control the force applied to the brake pedal and stops controlling pedal displacement within 100 ms after the commanded brake pedal displacement occurs.</P>
+<P>(e) The hybrid controller applies a pedal force of at least 11.1 N from the onset of the brake application until the end of the test.</P>
+<P>(f) The average pedal force is maintained within 10 percent of the commanded brake pedal force from 350 ms after commended pedal displacement occurs until test completion.</P>
+<P>S10.5. <I>Force feedback procedure.</I> For force feedback, the commanded brake pedal application is the brake pedal force that results in a mean deceleration of 0.4 g in the absence of AEB system activation.</P>
+<P>(a) The mean deceleration is the deceleration over the time from when the commanded brake pedal force is first achieved to 250 ms before the vehicle comes to a stop.</P>
+<P>(b) The force controller achieves the commanded brake pedal force within 250 ms. The application rate is unrestricted.</P>
+<P>(c) The force controller may overshoot the commanded force by any amount up to 20 percent. If such an overshoot occurs, it is corrected within 250 ms from when the commanded force is first achieved.</P>
+<P>(d) The force controller applies a pedal force of at least 11.1 N from the onset of the brake application until the end of the test.</P>
+<P>(e) The average pedal force is maintained within 10 percent of the commanded brake pedal force from 250 ms after commended pedal force occurs until test completion.</P>
+<TCAP>Figure 1 to § 571.127—Percentage Overlap Nomenclature
+</TCAP>
+<img src="/graphics/er09my24.030.gif"></img>
+<TCAP>Figure 2 to § 571.127—Setup for Lead Vehicle Automatic Emergency Braking
+</TCAP>
+<img src="/graphics/er09my24.031.gif"></img>
+<TCAP>Figure 3 to § 571.127—Setup for Pedestrian, Crossing Path, Right
+</TCAP>
+<img src="/graphics/er09my24.032.gif"></img>
+<TCAP>Figure 4 to § 571.127—Setup for Pedestrian, Crossing Path, Left
+</TCAP>
+<img src="/graphics/er09my24.033.gif"></img>
+<TCAP>Figure 5 to § 571.127—Setup for Pedestrian, Obstructed
+</TCAP>
+<img src="/graphics/er09my24.034.gif"></img>
+<TCAP>Figure 6 to § 571.127—Setup for Pedestrian Along-Path Stationary
+</TCAP>
+<img src="/graphics/er09my24.035.gif"></img>
+<TCAP>Figure 7 to § 571.127—Setup for Pedestrian Along-Path Moving
+</TCAP>
+<img src="/graphics/er09my24.036.gif"></img>
+<TCAP>Figure 8 to § 571.127—Steel Trench Plate
+</TCAP>
+<img src="/graphics/er09my24.037.gif"></img>
+<TCAP>Figure 9 to § 571.127—Pass-through
+</TCAP>
+<img src="/graphics/er09my24.038.gif"></img>
+<CITA TYPE="N">[89 FR 39779, May 9, 2024, as amended at 89 FR 93220, Nov. 26, 2024; 89 FR 99732, Dec. 11, 2024]
+</CITA>
+</DIV8>

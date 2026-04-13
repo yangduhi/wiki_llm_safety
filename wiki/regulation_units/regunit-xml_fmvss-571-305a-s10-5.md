@@ -1,0 +1,77 @@
+---
+aliases: []
+basis: S10.5 Side moving deformable barrier impact test conditions. The conditions
+  of S8.9, S8.10, and S8.11 of § 571.214 apply to the conduct of the side moving deformable
+  barrier impact test specified in S9.3 of this standard.
+browse_buckets:
+- side_impact
+clause_path: s10-5
+confidence: medium
+created: '2026-04-13'
+document_id: xml_fmvss-571-305a
+effective_date: null
+functional_domain:
+- other_or_review
+id: regunit-xml_fmvss-571-305a-s10-5
+jurisdiction: US
+legacy_domain: passive_crash
+note_type: regulation_unit
+page_end: null
+page_start: null
+phase: in_crash
+primary_topic: side-moving-deformable
+provenance:
+  parser_run_id: 20260413T052617Z__23a01984
+  source_files:
+  - raw/collections/xml_fmvss/571.305a.xml
+  source_hashes:
+    raw/collections/xml_fmvss/571.305a.xml: 674876d4f731021d37975de6830b9ad64ee542a208f87929bc1c7f14311a5d80
+  source_url: null
+record_layer: knowledge
+regulatory_layer: technical_requirement
+review_required: false
+secondary_topics: []
+source_collection: xml_fmvss
+source_files:
+- raw/collections/xml_fmvss/571.305a.xml
+source_hashes:
+  raw/collections/xml_fmvss/571.305a.xml: 674876d4f731021d37975de6830b9ad64ee542a208f87929bc1c7f14311a5d80
+source_url: null
+statement: S10.5 Side moving deformable barrier impact test conditions. The conditions
+  of S8.9, S8.10, and S8.11 of § 571.214 apply to the conduct of the side moving deformable
+  barrier impact test specified in S9.3 of this standard.
+status: draft
+summary: Regulation unit `s10-5` from xml_fmvss-571-305a.
+title: S10.5 Side moving deformable barrier impact test conditions. The conditions
+  of S8.9, S8.10, and S8.11 of § 571.214 apply
+updated: '2026-04-13'
+---
+
+# S10.5 Side moving deformable barrier impact test conditions. The conditions of S8.9, S8.10, and S8.11 of § 571.214 apply
+
+## Statement
+S10.5 Side moving deformable barrier impact test conditions. The conditions of S8.9, S8.10, and S8.11 of § 571.214 apply to the conduct of the side moving deformable barrier impact test specified in S9.3 of this standard.
+
+## Classification
+- jurisdiction: US
+- source_collection: xml_fmvss
+- regulatory_layer: technical_requirement
+- phase: in_crash
+- functional_domain: other_or_review
+- primary_topic: side-moving-deformable
+- secondary_topics: n/a
+- browse_buckets: side_impact
+- legacy_domain: passive_crash
+
+## Basis
+S10.5 Side moving deformable barrier impact test conditions. The conditions of S8.9, S8.10, and S8.11 of § 571.214 apply to the conduct of the side moving deformable barrier impact test specified in S9.3 of this standard.
+
+## Authority
+- clause_path: s10-5
+- source_file: raw/collections/xml_fmvss/571.305a.xml
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_fmvss-571-305a]]
+- [[jurisdictions/jurisdiction-us]]

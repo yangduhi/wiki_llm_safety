@@ -1,0 +1,21 @@
+tools:
+  qmd:
+    executable: qmd
+    required_for:
+      - search
+    fallback_message: qmd CLI is not installed. Install qmd and retry.
+  marp:
+    executable: marp
+    required_for:
+      - slides
+    fallback_message: Marp CLI is not installed. Install @marp-team/marp-cli and retry.
+  obsidian:
+    executable: obsidian
+    required_for:
+      - vault_open
+    fallback_message: Obsidian desktop is optional; the repository still works without it.
+  web_clipper:
+    executable: browser_extension
+    required_for:
+      - clip_import
+    fallback_message: External clipper not detected. Save exports under raw/collections/web_clipper/.

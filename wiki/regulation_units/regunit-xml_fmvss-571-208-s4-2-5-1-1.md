@@ -1,0 +1,92 @@
+---
+aliases: []
+basis: S4.2.5.1.1 Subject to S4.2.5.1.2 and S4.2.5.5 and except as provided in S4.2.4,
+  each truck, bus and multipurpose passenger vehicle, other than walk-in van-type
+  trucks, vehicles designed to be exclusively sold to the U.S. Postal Service, and
+  vehicles manufactured for operation by persons with disabilities, with a GVWR of
+  8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less that
+  is manufactured on or after September 1, 1994 and before September 1, 1995, shall
+  comply with the requirements of S4.1.2.1, S4.1.2.2, or S4.1.2.3 (as specified for
+  passenger cars). A vehicle shall not be deemed to be in noncompliance with this
+  standard if its manufacturer establishes that it did not have reason to know in
+  the exercise of due care that such vehicle is not in conformity with the requirement
+  of standard.
+browse_buckets: []
+clause_path: s4-2-5-1-1
+confidence: medium
+created: '2026-04-13'
+document_id: xml_fmvss-571-208
+effective_date: null
+functional_domain:
+- other_or_review
+id: regunit-xml_fmvss-571-208-s4-2-5-1-1
+jurisdiction: US
+legacy_domain: needs_review
+note_type: regulation_unit
+page_end: null
+page_start: null
+phase: non_phase_admin
+primary_topic: subject-except-provided
+provenance:
+  parser_run_id: 20260413T052617Z__23a01984
+  source_files:
+  - raw/collections/xml_fmvss/571.208.xml
+  source_hashes:
+    raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
+  source_url: null
+record_layer: knowledge
+regulatory_layer: technical_requirement
+review_required: false
+secondary_topics: []
+source_collection: xml_fmvss
+source_files:
+- raw/collections/xml_fmvss/571.208.xml
+source_hashes:
+  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
+source_url: null
+statement: S4.2.5.1.1 Subject to S4.2.5.1.2 and S4.2.5.5 and except as provided in
+  S4.2.4, each truck, bus and multipurpose passenger vehicle, other than walk-in van-type
+  trucks, vehicles designed to be exclusively sold to the U.S. Postal Service, and
+  vehicles manufactured for operation by persons with disabilities, with a GVWR of
+  8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less that
+  is manufactured on or after September 1, 1994 and before September 1, 1995, shall
+  comply with the requirements of S4.1.2.1, S4.1.2.2, or S4.1.2.3 (as specified for
+  passenger cars). A vehicle shall not be deemed to be in noncompliance with this
+  standard if its manufacturer establishes that it did not have reason to know in
+  the exercise of due care that such vehicle is not in conformity with the requirement
+  of standard.
+status: draft
+summary: Regulation unit `s4-2-5-1-1` from xml_fmvss-571-208.
+title: S4.2.5.1.1 Subject to S4.2.5.1.2 and S4.2.5.5 and except as provided in S4.2.4,
+  each truck, bus and multipurpose passeng
+updated: '2026-04-13'
+---
+
+# S4.2.5.1.1 Subject to S4.2.5.1.2 and S4.2.5.5 and except as provided in S4.2.4, each truck, bus and multipurpose passeng
+
+## Statement
+S4.2.5.1.1 Subject to S4.2.5.1.2 and S4.2.5.5 and except as provided in S4.2.4, each truck, bus and multipurpose passenger vehicle, other than walk-in van-type trucks, vehicles designed to be exclusively sold to the U.S. Postal Service, and vehicles manufactured for operation by persons with disabilities, with a GVWR of 8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less that is manufactured on or after September 1, 1994 and before September 1, 1995, shall comply with the requirements of S4.1.2.1, S4.1.2.2, or S4.1.2.3 (as specified for passenger cars). A vehicle shall not be deemed to be in noncompliance with this standard if its manufacturer establishes that it did not have reason to know in the exercise of due care that such vehicle is not in conformity with the requirement of standard.
+
+## Classification
+- jurisdiction: US
+- source_collection: xml_fmvss
+- regulatory_layer: technical_requirement
+- phase: non_phase_admin
+- functional_domain: other_or_review
+- primary_topic: subject-except-provided
+- secondary_topics: n/a
+- browse_buckets: n/a
+- legacy_domain: needs_review
+
+## Basis
+S4.2.5.1.1 Subject to S4.2.5.1.2 and S4.2.5.5 and except as provided in S4.2.4, each truck, bus and multipurpose passenger vehicle, other than walk-in van-type trucks, vehicles designed to be exclusively sold to the U.S. Postal Service, and vehicles manufactured for operation by persons with disabilities, with a GVWR of 8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less that is manufactured on or after September 1, 1994 and before September 1, 1995, shall comply with the requirements of S4.1.2.1, S4.1.2.2, or S4.1.2.3 (as specified for passenger cars). A vehicle shall not be deemed to be in noncompliance with this standard if its manufacturer establishes that it did not have reason to know in the exercise of due care that such vehicle is not in conformity with the requirement of standard.
+
+## Authority
+- clause_path: s4-2-5-1-1
+- source_file: raw/collections/xml_fmvss/571.208.xml
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_fmvss-571-208]]
+- [[jurisdictions/jurisdiction-us]]

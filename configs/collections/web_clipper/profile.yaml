@@ -1,0 +1,13 @@
+collection_id: web_clipper
+collection_kind: markdown-intake
+input_root: raw/collections/web_clipper
+parser_mode: markdown_clip
+language: en
+source_unit: file
+review_defaults:
+  source_summary: true
+  claim: true
+jurisdiction: US
+regulatory_layer: technical_requirement
+source_classes:
+  - web_clipper

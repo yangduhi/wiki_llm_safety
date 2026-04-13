@@ -1,0 +1,36 @@
+phases:
+  - id: pre_crash
+    label: Pre-Crash
+    scope_note: Collision 이전 감지, 경고, 판단, 제어, 개입
+    examples:
+      - AEB
+      - FCW
+      - lane support
+
+  - id: in_crash
+    label: In-Crash
+    scope_note: 충돌 중 성능, restraint, structural retention, ejection mitigation, crash test logic
+    examples:
+      - side impact test
+      - occupant impact criteria
+
+  - id: post_crash
+    label: Post-Crash
+    scope_note: 충돌 후 구조, rescue, data, response
+    examples:
+      - eCall
+      - EDR
+
+  - id: cross_phase
+    label: Cross-Phase
+    scope_note: 문서 또는 unit가 둘 이상의 phase를 실질적으로 함께 다룸
+    examples:
+      - FMVSS 205
+      - FMVSS 305a
+
+  - id: non_phase_admin
+    label: Non-Phase Administrative
+    scope_note: type approval, conformity, market surveillance, recall, administrative framework
+    examples:
+      - Regulation (EU) 2018/858
+      - WP.29 governance

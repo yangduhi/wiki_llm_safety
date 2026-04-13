@@ -1,0 +1,36 @@
+phases:
+  - id: pre_crash
+    label: Pre-Crash
+    scope_note: Sensing, warning, intervention, or control before collision.
+    examples:
+      - AEB
+      - FCW
+      - lane support
+
+  - id: in_crash
+    label: In-Crash
+    scope_note: Impact, restraint performance, structural retention, ejection mitigation, or crash-test logic.
+    examples:
+      - FMVSS 208
+      - door retention
+
+  - id: post_crash
+    label: Post-Crash
+    scope_note: Rescue, emergency response, post-crash data capture, and after-crash system support.
+    examples:
+      - eCall
+      - EDR
+
+  - id: cross_phase
+    label: Cross-Phase
+    scope_note: Materially spans multiple phases and should not be forced into one phase bucket.
+    examples:
+      - glazing visibility plus retention
+      - EV crash and post-crash isolation logic
+
+  - id: non_phase_admin
+    label: Non-Phase Administrative
+    scope_note: Type approval, conformity, market surveillance, recall, and governance framework text.
+    examples:
+      - Regulation (EU) 2018/858
+      - WP.29 governance

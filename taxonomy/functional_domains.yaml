@@ -1,0 +1,31 @@
+functional_domains:
+  - id: crash_avoidance_and_vehicle_control
+    label: Crash Avoidance And Vehicle Control
+    scope_note: AEB, FCW, ESC, lane support, collision avoidance, driver intervention
+  - id: occupant_protection_and_restraints
+    label: Occupant Protection And Restraints
+    scope_note: Occupant impact criteria, restraint systems, seat belt logic, restraint-focused crash protection
+  - id: vru_protection
+    label: VRU Protection
+    scope_note: Pedestrian and vulnerable road user passive protection in impact
+  - id: visibility_glazing_and_driver_information
+    label: Visibility Glazing And Driver Information
+    scope_note: Glazing, visibility, windscreen, windshield, driver information, displays
+  - id: structural_integrity_retention_and_egress
+    label: Structural Integrity Retention And Egress
+    scope_note: Doors, retention, anti-ejection, compartment integrity, egress
+  - id: fire_electrical_and_energy_storage_safety
+    label: Fire Electrical And Energy Storage Safety
+    scope_note: EV electrical safety, energy storage, electrical isolation, fire risk
+  - id: post_crash_response_and_data
+    label: Post Crash Response And Data
+    scope_note: eCall, EDR, rescue support, post-crash data capture
+  - id: interior_materials_and_fire
+    label: Interior Materials And Fire
+    scope_note: Interior flammability, cabin materials, fire propagation
+  - id: child_occupant_protection
+    label: Child Occupant Protection
+    scope_note: Child restraint systems and child occupant protection
+  - id: other_or_review
+    label: Other Or Review
+    scope_note: Reserved for unresolved or weakly grounded cases

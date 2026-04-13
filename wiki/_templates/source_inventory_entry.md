@@ -1,0 +1,13 @@
+---
+source_id:
+jurisdiction:
+title:
+source_type:
+official_status:
+original_url:
+snapshot_date:
+effective_date:
+parser_strategy:
+checksum:
+notes:
+---

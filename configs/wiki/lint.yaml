@@ -1,0 +1,23 @@
+allowed_statuses:
+  - draft
+  - reviewed
+  - superseded
+  - archived
+allowed_confidence:
+  - low
+  - medium
+  - high
+required_canonical_fields:
+  - jurisdiction
+  - source_collection
+  - regulatory_layer
+  - phase
+  - functional_domain
+  - primary_topic
+  - secondary_topics
+  - browse_buckets
+  - legacy_domain
+  - aliases
+  - provenance
+  - effective_date
+  - confidence

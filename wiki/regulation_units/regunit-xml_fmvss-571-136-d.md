@@ -1,0 +1,74 @@
+---
+aliases: []
+basis: (d) Any bus equipped with an axle that has a gross axle weight rating of 13,154
+  kilograms (29,000 pounds) or more; and
+browse_buckets: []
+clause_path: d
+confidence: medium
+created: '2026-04-13'
+document_id: xml_fmvss-571-136
+effective_date: null
+functional_domain:
+- other_or_review
+id: regunit-xml_fmvss-571-136-d
+jurisdiction: US
+legacy_domain: needs_review
+note_type: regulation_unit
+page_end: null
+page_start: null
+phase: cross_phase
+primary_topic: equipped-with-axle
+provenance:
+  parser_run_id: 20260413T052617Z__23a01984
+  source_files:
+  - raw/collections/xml_fmvss/571.136.xml
+  source_hashes:
+    raw/collections/xml_fmvss/571.136.xml: 34f9b377fec6b323d9e76011526c645c782d1cc6c098099b690ef81a9fa9d6f6
+  source_url: null
+record_layer: knowledge
+regulatory_layer: technical_requirement
+review_required: false
+secondary_topics: []
+source_collection: xml_fmvss
+source_files:
+- raw/collections/xml_fmvss/571.136.xml
+source_hashes:
+  raw/collections/xml_fmvss/571.136.xml: 34f9b377fec6b323d9e76011526c645c782d1cc6c098099b690ef81a9fa9d6f6
+source_url: null
+statement: (d) Any bus equipped with an axle that has a gross axle weight rating of
+  13,154 kilograms (29,000 pounds) or more; and
+status: draft
+summary: Regulation unit `d` from xml_fmvss-571-136.
+title: (d) Any bus equipped with an axle that has a gross axle weight rating of 13,154
+  kilograms (29,000 pounds) or more; and
+updated: '2026-04-13'
+---
+
+# (d) Any bus equipped with an axle that has a gross axle weight rating of 13,154 kilograms (29,000 pounds) or more; and
+
+## Statement
+(d) Any bus equipped with an axle that has a gross axle weight rating of 13,154 kilograms (29,000 pounds) or more; and
+
+## Classification
+- jurisdiction: US
+- source_collection: xml_fmvss
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: equipped-with-axle
+- secondary_topics: n/a
+- browse_buckets: n/a
+- legacy_domain: needs_review
+
+## Basis
+(d) Any bus equipped with an axle that has a gross axle weight rating of 13,154 kilograms (29,000 pounds) or more; and
+
+## Authority
+- clause_path: d
+- source_file: raw/collections/xml_fmvss/571.136.xml
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_fmvss-571-136]]
+- [[jurisdictions/jurisdiction-us]]

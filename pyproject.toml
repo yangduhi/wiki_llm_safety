@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wiki-obsidian"
+version = "0.2.0"
+description = "Obsidian-centered LLM wiki for durable automotive regulatory knowledge."
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+  "jsonschema>=4.23,<5.0",
+  "PyMuPDF>=1.24,<2.0",
+  "PyYAML>=6.0,<7.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.2,<9.0",
+  "ruff>=0.11,<0.12",
+]
+
+[project.scripts]
+wiki-obsidian = "wiki_obsidian.cli.__main__:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+src = ["src", "tests"]
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]

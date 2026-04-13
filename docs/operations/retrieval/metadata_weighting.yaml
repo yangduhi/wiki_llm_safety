@@ -1,0 +1,31 @@
+weights:
+  jurisdiction: 1.0
+  phase: 0.9
+  functional_domain: 0.85
+  primary_topic: 0.8
+  citation: 0.75
+  browse_bucket: 0.35
+
+hard_rules:
+  - name: aeb_pedestrian_is_pre_crash
+    when_any:
+      - aeb
+      - automatic emergency braking
+    and_any:
+      - pedestrian
+      - vru
+    force_phase: pre_crash
+    force_functional_domain: crash_avoidance_and_vehicle_control
+
+  - name: admin_framework_non_phase
+    when_any:
+      - type approval
+      - approval
+      - market surveillance
+      - recall
+      - framework
+    force_phase: non_phase_admin
+
+notes:
+  - browse_bucket is intentionally low-weight because image taxonomy is not canonical root
+  - citation is still important, but this pilot focuses on ontology-first routing rather than live production ranking

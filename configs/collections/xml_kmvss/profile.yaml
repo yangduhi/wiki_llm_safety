@@ -1,0 +1,13 @@
+collection_id: xml_kmvss
+collection_kind: regulatory-xml-record
+input_root: raw/collections/xml_kmvss
+parser_mode: xml_kmvss_record
+language: ko
+source_unit: file
+review_defaults:
+  source_summary: true
+  claim: true
+jurisdiction: KR
+regulatory_layer: technical_requirement
+source_classes:
+  - xml_kmvss

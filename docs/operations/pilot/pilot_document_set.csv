@@ -1,0 +1,15 @@
+pilot_id,jurisdiction,document_title,citation_preferred_form,source_url,rationale
+us-fmvss-205,US,Glazing materials,FMVSS 205 / 49 CFR 571.205,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.205,cross_phase and visibility/glazing stress case
+us-fmvss-206,US,Door locks and door retention components,FMVSS 206 / 49 CFR 571.206,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,candidate for in_crash structural retention and egress
+us-fmvss-302,US,Flammability of interior materials,FMVSS 302 / 49 CFR 571.302,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,candidate for interior materials and fire
+us-fmvss-305a,US,Electric-powered vehicles electrolyte spillage and electrical shock protection,FMVSS 305a / 49 CFR 571.305a,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,cross_phase EV electrical safety
+us-fmvss-208,US,Occupant crash protection,FMVSS 208 / 49 CFR 571.208,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,restraint and occupant protection anchor
+eu-2018-858,EU,Type approval and market surveillance framework,Regulation (EU) 2018/858,https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0858-20221206,non_phase_admin framework anchor
+eu-2019-2144,EU,General Safety Regulation,Regulation (EU) 2019/2144,https://eur-lex.europa.eu/eli/reg/2019/2144/oj/eng,mixed active safety and protection requirements anchor
+eu-vehicle-safety-systems,EU,Vehicle Safety Systems explainer,EC Vehicle Safety Systems,https://transport.ec.europa.eu/transport-themes/smart-mobility/road/application-areas/vehicle-safety-systems_en,official explainer for pre/post-crash systems
+kr-performance-rule,KR,자동차 및 자동차부품의 성능과 기준에 관한 규칙,자동차 및 자동차부품의 성능과 기준에 관한 규칙,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270023,KR technical requirement anchor
+kr-implementation-detail,KR,자동차안전기준 시행세칙,자동차안전기준 시행세칙,https://www.law.go.kr/,KR implementation detail discovery pending
+kr-certification-rule,KR,자동차의 인증 및 조사 등에 관한 규정,자동차의 인증 및 조사 등에 관한 규정,https://www.law.go.kr/,KR conformity and investigation anchor pending canonical URL
+unece-wp29,UNECE,WP.29 Introduction,UNECE WP.29 Introduction,https://unece.org/wp29-introduction,UNECE governance anchor
+unece-1958,UNECE,1958 Agreement,1958 Agreement,https://unece.org/sites/default/files/2023-12/WP.29-191-12e.pdf,agreement-level framework anchor
+unece-un-reg-index,UNECE,UN Regulations addenda index,UN Regulations addenda index,https://unece.org/transport/vehicle-regulations-wp29/un-regulations-addenda-1958-agreement,representative UN Regulation selection index

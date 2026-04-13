@@ -1,0 +1,13 @@
+collection_id: xml_fmvss
+collection_kind: regulatory-xml-section
+input_root: raw/collections/xml_fmvss
+parser_mode: xml_fmvss_section
+language: en
+source_unit: file
+review_defaults:
+  source_summary: false
+  claim: false
+jurisdiction: US
+regulatory_layer: technical_requirement
+source_classes:
+  - xml_fmvss

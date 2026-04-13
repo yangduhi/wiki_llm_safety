@@ -1,0 +1,13 @@
+collection_id: official_web
+collection_kind: official-web-snapshot
+input_root: raw/collections/official_web
+parser_mode: official_web_capture
+language: en
+source_unit: file
+review_defaults:
+  source_summary: true
+  claim: true
+jurisdiction: US
+regulatory_layer: framework_admin
+source_classes:
+  - official_web

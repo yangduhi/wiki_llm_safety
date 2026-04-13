@@ -1,0 +1,22 @@
+servers:
+  filesystem:
+    kind: built_in
+    purpose: Repository-local file access for Codex and MCP-aware tooling
+  git:
+    kind: built_in
+    purpose: Repository-local version and diff operations
+  obsidian:
+    kind: contract_only
+    purpose: Shared vault integration point for local Obsidian workflows
+    notes: Use `.obsidian/` settings and generated markdown dashboards as the stable interface
+  qmd:
+    kind: wrapper
+    executable: qmd
+    purpose: Local search and materialization over markdown content
+  marp:
+    kind: wrapper
+    executable: marp
+    purpose: Slide export from materialized overview notes
+  web_clipper:
+    kind: drop_folder
+    purpose: Intake via `raw/collections/web_clipper/`

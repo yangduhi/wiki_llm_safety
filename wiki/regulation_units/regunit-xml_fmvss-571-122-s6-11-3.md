@@ -1,0 +1,124 @@
+---
+aliases: []
+basis: 'S6.11.3 Performance requirements. When the brakes are tested in accordance
+  with the test procedure set out in S6.11.2, the stopping distance shall be as specified
+  in column 2 of Table 4. Note that if the power assistance may be activated by more
+  than one control, the above performance shall be achieved when each control is actuated
+  separately.
+
+  Tables and Figures to § 571.122
+
+  Table 1—Test Sequence Test order Paragraph 1. Dry stop—single brake control actuated
+  S6.3 2. Dry stop—all service brake controls actuated S6.4 3. High speed S6.5 4.
+  Wet brake S6.6 5. If fitted: 6.1. Parking brake system S6.8 6.2. ABS S6.9 6.3. Partial
+  failure, for split service brake systems S6.10 6.4. Power-assisted braking system
+  failure S6.11 6. Heat fade S6.7
+
+  Table 2—Performance Requirements, Dry Stop Test—Single Brake Control Actuated Column
+  1 Column 2 Motorcycle category Stopping Distance(s) (where V is the specified test
+  speed in km/h and S is the required stopping distance in meters) Single brake system,
+  front wheel(s) braking only 3-1 S ≤0.1 V + 0.0111 V 2 . 3-2 S ≤0.1 V + 0.0143 V
+  2 . 3-3 S ≤0.1 V + 0.0087 V 2 . 3-4 S ≤0.1 V + 0.0105 V 2 . 3-5 Not applicable.
+  Single brake system, rear wheel(s) braking only 3-1 S ≤0.1 V + 0.0143 V 2 . 3-2
+  S ≤0.1 V + 0.0143 V 2 . 3-3 S ≤0.1 V + 0.0133 V 2 . 3-4 S ≤0.1 V + 0.0105 V 2 .
+  3-5 Not applicable. Vehicles with CBS or split service brake systems: For laden
+  and lightly loaded conditions 3-1 and 3-2 S ≤0.1 V + 0.0087 V 2 . 3-3 S ≤0.1 V +
+  0.0076 V 2 . 3-4 S ≤0.1 V + 0.0071 V 2 . 3-5 S ≤0.1 V + 0.0077 V 2 . Vehicles with
+  CBS—secondary service brake system ALL S ≤0.1 V + 0.0154 V. 2
+
+  Table 3—ABS Tests ABS Tests Paragraph a. Stops on a high friction surface—as specified
+  in S6.1.1.1 S6.9.3 b. Stops on a low friction surface—as specified in S6.1.1.2 S6.9.4
+  c. Wheel lock checks on high and low friction surfaces S6.9.5 d. Wheel lock check—high
+  to low friction surface transition S6.9.6 e. Wheel lock check—low to high friction
+  surface transition S6.9.7 f. Stops with an ABS electrical failure S6.9.8
+
+  Table 4—Performance Requirements, Power-Assisted Braking System Failure Test Column
+  1 Column 2 Vehicle category Stopping Distance(s) (where V is the specified test
+  speed in km/h and S is the required stopping distance in meters) Single brake system
+  3-1 S ≤0.1 V + 0.0143 V 2 . 3-2 S ≤0.1 V + 0.0143 V 2 . 3-3 S ≤0.1 V + 0.0133 V
+  2 . 3-4 S ≤0.1 V + 0.0105 V 2 . Vehicles with CBS or split service brake systems
+  All S ≤0.1 V + 0.0154 V. 2
+
+  [77 FR 51671, Aug. 24, 2012, as amended at 86 FR 1298, Jan. 8, 2021; 87 FR 34810,
+  June 8, 2022]'
+browse_buckets:
+- rear_impact
+clause_path: s6-11-3
+confidence: medium
+created: '2026-04-13'
+document_id: xml_fmvss-571-122
+effective_date: null
+functional_domain:
+- fire_electrical_and_energy_storage_safety
+id: regunit-xml_fmvss-571-122-s6-11-3
+jurisdiction: US
+legacy_domain: needs_review
+note_type: regulation_unit
+page_end: null
+page_start: null
+phase: cross_phase
+primary_topic: electrical_safety
+provenance:
+  parser_run_id: 20260413T052617Z__23a01984
+  source_files:
+  - raw/collections/xml_fmvss/571.122.xml
+  source_hashes:
+    raw/collections/xml_fmvss/571.122.xml: 4c6dd544e4e214b6cee403ead272b9664ce4f819c0d2fe6a6a188a040466a75e
+  source_url: null
+record_layer: knowledge
+regulatory_layer: technical_requirement
+review_required: false
+secondary_topics:
+- electrical_isolation
+source_collection: xml_fmvss
+source_files:
+- raw/collections/xml_fmvss/571.122.xml
+source_hashes:
+  raw/collections/xml_fmvss/571.122.xml: 4c6dd544e4e214b6cee403ead272b9664ce4f819c0d2fe6a6a188a040466a75e
+source_url: null
+statement: S6.11.3 Performance requirements. When the brakes are tested in accordance
+  with the test procedure set out in S6.11.2, the stopping distance shall be as specified
+  in column 2 of Table 4. Note that if the power assistance may be activated by more
+  than one control, the above performance shall be achieved when each control is actuated
+  separately.
+status: draft
+summary: Regulation unit `s6-11-3` from xml_fmvss-571-122.
+title: S6.11.3 Performance requirements. When the brakes are tested in accordance
+  with the test procedure set out in S6.11.2, t
+updated: '2026-04-13'
+---
+
+# S6.11.3 Performance requirements. When the brakes are tested in accordance with the test procedure set out in S6.11.2, t
+
+## Statement
+S6.11.3 Performance requirements. When the brakes are tested in accordance with the test procedure set out in S6.11.2, the stopping distance shall be as specified in column 2 of Table 4. Note that if the power assistance may be activated by more than one control, the above performance shall be achieved when each control is actuated separately.
+
+## Classification
+- jurisdiction: US
+- source_collection: xml_fmvss
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: fire_electrical_and_energy_storage_safety
+- primary_topic: electrical_safety
+- secondary_topics: electrical_isolation
+- browse_buckets: rear_impact
+- legacy_domain: needs_review
+
+## Basis
+S6.11.3 Performance requirements. When the brakes are tested in accordance with the test procedure set out in S6.11.2, the stopping distance shall be as specified in column 2 of Table 4. Note that if the power assistance may be activated by more than one control, the above performance shall be achieved when each control is actuated separately.
+Tables and Figures to § 571.122
+Table 1—Test Sequence Test order Paragraph 1. Dry stop—single brake control actuated S6.3 2. Dry stop—all service brake controls actuated S6.4 3. High speed S6.5 4. Wet brake S6.6 5. If fitted: 6.1. Parking brake system S6.8 6.2. ABS S6.9 6.3. Partial failure, for split service brake systems S6.10 6.4. Power-assisted braking system failure S6.11 6. Heat fade S6.7
+Table 2—Performance Requirements, Dry Stop Test—Single Brake Control Actuated Column 1 Column 2 Motorcycle category Stopping Distance(s) (where V is the specified test speed in km/h and S is the required stopping distance in meters) Single brake system, front wheel(s) braking only 3-1 S ≤0.1 V + 0.0111 V 2 . 3-2 S ≤0.1 V + 0.0143 V 2 . 3-3 S ≤0.1 V + 0.0087 V 2 . 3-4 S ≤0.1 V + 0.0105 V 2 . 3-5 Not applicable. Single brake system, rear wheel(s) braking only 3-1 S ≤0.1 V + 0.0143 V 2 . 3-2 S ≤0.1 V + 0.0143 V 2 . 3-3 S ≤0.1 V + 0.0133 V 2 . 3-4 S ≤0.1 V + 0.0105 V 2 . 3-5 Not applicable. Vehicles with CBS or split service brake systems: For laden and lightly loaded conditions 3-1 and 3-2 S ≤0.1 V + 0.0087 V 2 . 3-3 S ≤0.1 V + 0.0076 V 2 . 3-4 S ≤0.1 V + 0.0071 V 2 . 3-5 S ≤0.1 V + 0.0077 V 2 . Vehicles with CBS—secondary service brake system ALL S ≤0.1 V + 0.0154 V. 2
+Table 3—ABS Tests ABS Tests Paragraph a. Stops on a high friction surface—as specified in S6.1.1.1 S6.9.3 b. Stops on a low friction surface—as specified in S6.1.1.2 S6.9.4 c. Wheel lock checks on high and low friction surfaces S6.9.5 d. Wheel lock check—high to low friction surface transition S6.9.6 e. Wheel lock check—low to high friction surface transition S6.9.7 f. Stops with an ABS electrical failure S6.9.8
+Table 4—Performance Requirements, Power-Assisted Braking System Failure Test Column 1 Column 2 Vehicle category Stopping Distance(s) (where V is the specified test speed in km/h and S is the required stopping distance in meters) Single brake system 3-1 S ≤0.1 V + 0.0143 V 2 . 3-2 S ≤0.1 V + 0.0143 V 2 . 3-3 S ≤0.1 V + 0.0133 V 2 . 3-4 S ≤0.1 V + 0.0105 V 2 . Vehicles with CBS or split service brake systems All S ≤0.1 V + 0.0154 V. 2
+[77 FR 51671, Aug. 24, 2012, as amended at 86 FR 1298, Jan. 8, 2021; 87 FR 34810, June 8, 2022]
+
+## Authority
+- clause_path: s6-11-3
+- source_file: raw/collections/xml_fmvss/571.122.xml
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_fmvss-571-122]]
+- [[jurisdictions/jurisdiction-us]]

@@ -1,0 +1,81 @@
+---
+aliases: []
+basis: '(2) 895 (T/V FS ); whichever is higher
+
+  where T is the average temperature of the test gas in degrees Kelvin, stabilized
+  to ambient temperature before testing, where average temperature (T) is calculated
+  by measuring ambient temperature at the start of the test time and then every 15
+  minutes until the test time of 60 minutes is completed; the sum of the ambient temperatures
+  is then divided by five to yield the average temperature (T); and where V FS is
+  the internal volume in liters of the fuel container and the fuel lines up to the
+  first pressure regulator.'
+browse_buckets:
+- fuel_system_integrity
+clause_path: '2'
+confidence: medium
+created: '2026-04-13'
+document_id: xml_fmvss-571-303
+effective_date: null
+functional_domain:
+- other_or_review
+id: regunit-xml_fmvss-571-303-2
+jurisdiction: US
+legacy_domain: needs_review
+note_type: regulation_unit
+page_end: null
+page_start: null
+phase: cross_phase
+primary_topic: whichever-higher-whichever
+provenance:
+  parser_run_id: 20260413T052617Z__23a01984
+  source_files:
+  - raw/collections/xml_fmvss/571.303.xml
+  source_hashes:
+    raw/collections/xml_fmvss/571.303.xml: ed59d909375333e896330275840e1cfe31c19cab65564f51ed2be2bba051300e
+  source_url: null
+record_layer: knowledge
+regulatory_layer: technical_requirement
+review_required: false
+secondary_topics: []
+source_collection: xml_fmvss
+source_files:
+- raw/collections/xml_fmvss/571.303.xml
+source_hashes:
+  raw/collections/xml_fmvss/571.303.xml: ed59d909375333e896330275840e1cfe31c19cab65564f51ed2be2bba051300e
+source_url: null
+statement: (2) 895 (T/V FS ); whichever is higher
+status: draft
+summary: Regulation unit `2` from xml_fmvss-571-303.
+title: (2) 895 (T/V FS ); whichever is higher
+updated: '2026-04-13'
+---
+
+# (2) 895 (T/V FS ); whichever is higher
+
+## Statement
+(2) 895 (T/V FS ); whichever is higher
+
+## Classification
+- jurisdiction: US
+- source_collection: xml_fmvss
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: whichever-higher-whichever
+- secondary_topics: n/a
+- browse_buckets: fuel_system_integrity
+- legacy_domain: needs_review
+
+## Basis
+(2) 895 (T/V FS ); whichever is higher
+where T is the average temperature of the test gas in degrees Kelvin, stabilized to ambient temperature before testing, where average temperature (T) is calculated by measuring ambient temperature at the start of the test time and then every 15 minutes until the test time of 60 minutes is completed; the sum of the ambient temperatures is then divided by five to yield the average temperature (T); and where V FS is the internal volume in liters of the fuel container and the fuel lines up to the first pressure regulator.
+
+## Authority
+- clause_path: 2
+- source_file: raw/collections/xml_fmvss/571.303.xml
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_fmvss-571-303]]
+- [[jurisdictions/jurisdiction-us]]

@@ -1,0 +1,13 @@
+collection_id: pdf_ece
+collection_kind: regulatory-pdf
+input_root: raw/collections/pdf_ece
+parser_mode: pdf_text_first
+language: en
+source_unit: file
+review_defaults:
+  source_summary: true
+  claim: true
+jurisdiction: UNECE
+regulatory_layer: technical_requirement
+source_classes:
+  - pdf_ece

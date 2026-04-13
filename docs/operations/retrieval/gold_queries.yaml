@@ -1,0 +1,180 @@
+queries:
+  - id: q01
+    question: US glazing visibility requirements
+    expected_jurisdiction: US
+    expected_phase: cross_phase
+    expected_functional_domain: visibility_glazing_and_driver_information
+
+  - id: q02
+    question: FMVSS 205 glazing materials
+    expected_jurisdiction: US
+    expected_phase: cross_phase
+    expected_functional_domain: visibility_glazing_and_driver_information
+
+  - id: q03
+    question: FMVSS 206 door retention
+    expected_jurisdiction: US
+    expected_phase: in_crash
+    expected_functional_domain: structural_integrity_retention_and_egress
+
+  - id: q04
+    question: FMVSS 208 occupant crash protection
+    expected_jurisdiction: US
+    expected_phase: in_crash
+    expected_functional_domain: occupant_protection_and_restraints
+
+  - id: q05
+    question: FMVSS 302 interior flammability
+    expected_jurisdiction: US
+    expected_phase: post_crash
+    expected_functional_domain: interior_materials_and_fire
+
+  - id: q06
+    question: FMVSS 305a electrical shock protection
+    expected_jurisdiction: US
+    expected_phase: cross_phase
+    expected_functional_domain: fire_electrical_and_energy_storage_safety
+
+  - id: q07
+    question: AEB for pedestrian
+    expected_jurisdiction: any
+    expected_phase: pre_crash
+    expected_functional_domain: crash_avoidance_and_vehicle_control
+
+  - id: q08
+    question: ESC stability control requirements
+    expected_jurisdiction: any
+    expected_phase: pre_crash
+    expected_functional_domain: crash_avoidance_and_vehicle_control
+
+  - id: q09
+    question: lane departure warning rule
+    expected_jurisdiction: any
+    expected_phase: pre_crash
+    expected_functional_domain: crash_avoidance_and_vehicle_control
+
+  - id: q10
+    question: lane keeping assist regulation
+    expected_jurisdiction: any
+    expected_phase: pre_crash
+    expected_functional_domain: crash_avoidance_and_vehicle_control
+
+  - id: q11
+    question: EU 2018/858 type approval framework
+    expected_jurisdiction: EU
+    expected_phase: non_phase_admin
+    expected_functional_domain: other_or_review
+
+  - id: q12
+    question: EU 2019/2144 general safety regulation
+    expected_jurisdiction: EU
+    expected_phase: cross_phase
+    expected_functional_domain: other_or_review
+
+  - id: q13
+    question: eCall emergency call system
+    expected_jurisdiction: EU
+    expected_phase: post_crash
+    expected_functional_domain: post_crash_response_and_data
+
+  - id: q14
+    question: EDR event data recorder requirement
+    expected_jurisdiction: EU
+    expected_phase: post_crash
+    expected_functional_domain: post_crash_response_and_data
+
+  - id: q15
+    question: UNECE WP.29 overview
+    expected_jurisdiction: UNECE
+    expected_phase: non_phase_admin
+    expected_functional_domain: other_or_review
+
+  - id: q16
+    question: 1958 Agreement mutual recognition
+    expected_jurisdiction: UNECE
+    expected_phase: non_phase_admin
+    expected_functional_domain: other_or_review
+
+  - id: q17
+    question: UN regulation door retention index
+    expected_jurisdiction: UNECE
+    expected_phase: non_phase_admin
+    expected_functional_domain: other_or_review
+
+  - id: q18
+    question: KR 자동차 성능 기준 정면 충돌
+    expected_jurisdiction: KR
+    expected_phase: in_crash
+    expected_functional_domain: occupant_protection_and_restraints
+
+  - id: q19
+    question: KR 보행자 보호 기준
+    expected_jurisdiction: KR
+    expected_phase: in_crash
+    expected_functional_domain: vru_protection
+
+  - id: q20
+    question: KR 전기차 전기 안전
+    expected_jurisdiction: KR
+    expected_phase: cross_phase
+    expected_functional_domain: fire_electrical_and_energy_storage_safety
+
+  - id: q21
+    question: KR 자동차 인증 및 조사 규정
+    expected_jurisdiction: KR
+    expected_phase: non_phase_admin
+    expected_functional_domain: other_or_review
+
+  - id: q22
+    question: side impact test regulation
+    expected_jurisdiction: any
+    expected_phase: in_crash
+    expected_functional_domain: occupant_protection_and_restraints
+
+  - id: q23
+    question: rear impact whiplash requirement
+    expected_jurisdiction: any
+    expected_phase: in_crash
+    expected_functional_domain: occupant_protection_and_restraints
+
+  - id: q24
+    question: rollover roof crush regulation
+    expected_jurisdiction: any
+    expected_phase: in_crash
+    expected_functional_domain: structural_integrity_retention_and_egress
+
+  - id: q25
+    question: windshield glazing requirements
+    expected_jurisdiction: any
+    expected_phase: cross_phase
+    expected_functional_domain: visibility_glazing_and_driver_information
+
+  - id: q26
+    question: instrument panel injury criteria
+    expected_jurisdiction: any
+    expected_phase: in_crash
+    expected_functional_domain: occupant_protection_and_restraints
+
+  - id: q27
+    question: seat belt anchorage
+    expected_jurisdiction: any
+    expected_phase: in_crash
+    expected_functional_domain: occupant_protection_and_restraints
+
+  - id: q28
+    question: child restraint system rule
+    expected_jurisdiction: any
+    expected_phase: in_crash
+    expected_functional_domain: child_occupant_protection
+
+  - id: q29
+    question: emergency braking system for heavy vehicles
+    expected_jurisdiction: any
+    expected_phase: pre_crash
+    expected_functional_domain: crash_avoidance_and_vehicle_control
+
+  - id: q30
+    question: market surveillance recall framework
+    expected_jurisdiction: any
+    expected_phase: non_phase_admin
+    expected_functional_domain: other_or_review

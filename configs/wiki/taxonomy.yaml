@@ -1,0 +1,51 @@
+types:
+  regulation_document:
+    dir: regulation_documents
+    index_section: Regulation Documents
+    required_headings:
+      - "## Snapshot"
+      - "## Source Details"
+      - "## Canonical Classification"
+      - "## Authority"
+      - "## Related Units"
+  regulation_unit:
+    dir: regulation_units
+    index_section: Regulation Units
+    compact: true
+    required_headings:
+      - "## Statement"
+      - "## Classification"
+      - "## Basis"
+      - "## Authority"
+      - "## Related Notes"
+  concept_node:
+    dir: concepts
+    index_section: Concept Nodes
+    required_headings:
+      - "## Definition"
+      - "## Classification Role"
+      - "## Evidence"
+      - "## Related Notes"
+  jurisdiction_overview:
+    dir: jurisdictions
+    index_section: Jurisdictions
+    required_headings:
+      - "## Snapshot"
+      - "## Source Landscape"
+      - "## Phase Coverage"
+      - "## Related Notes"
+  analysis:
+    dir: analyses
+    index_section: Analyses
+    required_headings:
+      - "## Question"
+      - "## Answer"
+      - "## Evidence"
+      - "## Counterarguments or Alternatives"
+  crosswalk:
+    dir: crosswalks
+    index_section: Crosswalks
+    required_headings:
+      - "## Mapping Rules"
+      - "## Current Note Counts By Legacy Domain"
+      - "## Current Note Counts By Phase"

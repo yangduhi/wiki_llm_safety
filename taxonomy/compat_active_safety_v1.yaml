@@ -1,0 +1,10 @@
+registry_version: v1
+legacy_domain: active_safety
+features:
+  - aeb
+  - fcw
+  - esc
+  - lane_support
+  - collision_warning
+  - pedestrian_detection
+  - vru_detection

@@ -1,0 +1,67 @@
+functional_domains:
+  - id: crash_avoidance_and_vehicle_control
+    label: Crash Avoidance And Vehicle Control
+    scope_note: AEB, FCW, ESC, lane support, collision avoidance, driver intervention
+    examples:
+      - AEB for pedestrian
+      - FCW
+      - ESC
+
+  - id: occupant_protection_and_restraints
+    label: Occupant Protection And Restraints
+    scope_note: occupant impact criteria, restraint systems, seat belt logic, restraint-focused crash protection
+    examples:
+      - FMVSS 208
+      - seat belt related occupant protection
+
+  - id: vru_protection
+    label: VRU Protection
+    scope_note: pedestrian and vulnerable road user passive protection in impact
+    examples:
+      - pedestrian headform impact protection
+
+  - id: visibility_glazing_and_driver_information
+    label: Visibility Glazing And Driver Information
+    scope_note: glazing, driver field of view, visibility, driver information and display context
+    examples:
+      - FMVSS 205
+      - glazing requirements
+
+  - id: structural_integrity_retention_and_egress
+    label: Structural Integrity Retention And Egress
+    scope_note: doors, retention, anti-ejection, retention of the occupant compartment, egress
+    examples:
+      - FMVSS 206
+      - door retention
+
+  - id: fire_electrical_and_energy_storage_safety
+    label: Fire Electrical And Energy Storage Safety
+    scope_note: EV electrical safety, energy storage, electrical isolation, fire risk
+    examples:
+      - FMVSS 305
+      - FMVSS 305a
+
+  - id: post_crash_response_and_data
+    label: Post Crash Response And Data
+    scope_note: eCall, EDR, rescue support, post-crash data capture
+    examples:
+      - eCall
+      - EDR
+
+  - id: interior_materials_and_fire
+    label: Interior Materials And Fire
+    scope_note: interior flammability, interior materials, cabin fire propagation
+    examples:
+      - FMVSS 302
+
+  - id: child_occupant_protection
+    label: Child Occupant Protection
+    scope_note: child restraint systems, child occupant protection and related anchorage logic
+    examples:
+      - child restraint regulations
+
+  - id: other_or_review
+    label: Other Or Review
+    scope_note: unresolved or insufficiently evidenced cases reserved for manual review
+    examples:
+      - unresolved mixed-topic framework text

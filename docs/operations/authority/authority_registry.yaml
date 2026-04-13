@@ -1,0 +1,143 @@
+sources:
+  - source_id: kr-performance-rule
+    jurisdiction: KR
+    regulatory_layer_guess: technical_requirement
+    source_url: https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270023
+    official_status: primary_official
+    document_title: 자동차 및 자동차부품의 성능과 기준에 관한 규칙
+    citation_preferred_form: 자동차 및 자동차부품의 성능과 기준에 관한 규칙
+    version_or_effective_date: current law.go.kr text checked 2026-04-13
+    parser_strategy: html_or_pdf_manual_capture
+    notes: 국가법령정보센터 current-text page를 1차 원문으로 사용
+
+  - source_id: kr-performance-rule-pdf-current
+    jurisdiction: KR
+    regulatory_layer_guess: technical_requirement
+    source_url: https://www.law.go.kr/LSW/lsPdfPrint.do?ancYnChk=0&bylChaChk=N&efGubun=Y&efYd=20221121&joAllCheck=Y&joEfOutPutYn=on&lsiSeq=245469&mokChaChk=N
+    official_status: primary_official
+    document_title: 자동차 및 자동차부품의 성능과 기준에 관한 규칙 PDF current text
+    citation_preferred_form: 자동차 및 자동차부품의 성능과 기준에 관한 규칙
+    version_or_effective_date: law.go.kr PDF current text checked 2026-04-13
+    parser_strategy: pdf_text_first
+    notes: 조문 전체 검토용 PDF mirror
+
+  - source_id: kr-certification-and-investigation-regulation
+    jurisdiction: KR
+    regulatory_layer_guess: conformity_assessment
+    source_url: https://www.law.go.kr/
+    official_status: pending_official_confirmation
+    document_title: 자동차의 인증 및 조사 등에 관한 규정
+    citation_preferred_form: 자동차의 인증 및 조사 등에 관한 규정
+    version_or_effective_date: official current URL to be confirmed during pilot
+    parser_strategy: manual_registry_capture
+    notes: 국토교통부 고시 current canonical URL을 파일럿 단계에서 확정
+
+  - source_id: kr-implementation-detail-rule
+    jurisdiction: KR
+    regulatory_layer_guess: test_procedure
+    source_url: https://www.law.go.kr/
+    official_status: pending_official_confirmation
+    document_title: 자동차안전기준 시행세칙
+    citation_preferred_form: 자동차안전기준 시행세칙
+    version_or_effective_date: official current URL to be confirmed during pilot
+    parser_strategy: manual_registry_capture
+    notes: 시행세칙 current canonical URL은 authority inventory 단계에서 discovery pending 처리
+
+  - source_id: us-nhtsa-laws-and-regulations
+    jurisdiction: US
+    regulatory_layer_guess: framework_admin
+    source_url: https://www.nhtsa.gov/laws-regulations
+    official_status: primary_official
+    document_title: NHTSA Statutes, Regulations, Authorities & FMVSS landing
+    citation_preferred_form: NHTSA laws and regulations landing
+    version_or_effective_date: current landing page checked 2026-04-13
+    parser_strategy: html_manual_capture
+    notes: FMVSS and authority 체계 소개용 루트
+
+  - source_id: us-fmvss-part-571
+    jurisdiction: US
+    regulatory_layer_guess: technical_requirement
+    source_url: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571
+    official_status: primary_official
+    document_title: 49 CFR Part 571 Federal Motor Vehicle Safety Standards
+    citation_preferred_form: 49 CFR Part 571
+    version_or_effective_date: eCFR current text checked 2026-04-13
+    parser_strategy: html_section_capture
+    notes: FMVSS 기술기준 canonical root
+
+  - source_id: us-fmvss-205
+    jurisdiction: US
+    regulatory_layer_guess: technical_requirement
+    source_url: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.205
+    official_status: primary_official
+    document_title: eCFR 49 CFR 571.205 Standard No. 205 Glazing materials
+    citation_preferred_form: FMVSS 205 / 49 CFR 571.205
+    version_or_effective_date: eCFR current text checked 2026-04-13
+    parser_strategy: html_section_capture
+    notes: cross_phase 대표 파일럿
+
+  - source_id: eu-2018-858
+    jurisdiction: EU
+    regulatory_layer_guess: framework_admin
+    source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0858-20221206
+    official_status: primary_official
+    document_title: Regulation (EU) 2018/858 consolidated text
+    citation_preferred_form: Regulation (EU) 2018/858
+    version_or_effective_date: consolidated text 2022-12-06
+    parser_strategy: html_manual_capture
+    notes: type approval and market surveillance framework
+
+  - source_id: eu-2019-2144
+    jurisdiction: EU
+    regulatory_layer_guess: technical_requirement
+    source_url: https://eur-lex.europa.eu/eli/reg/2019/2144/oj/eng
+    official_status: primary_official
+    document_title: Regulation (EU) 2019/2144 General Safety Regulation
+    citation_preferred_form: Regulation (EU) 2019/2144
+    version_or_effective_date: official journal text checked 2026-04-13
+    parser_strategy: html_manual_capture
+    notes: general safety and vehicle protection requirements
+
+  - source_id: eu-vehicle-safety-systems-explainer
+    jurisdiction: EU
+    regulatory_layer_guess: framework_admin
+    source_url: https://transport.ec.europa.eu/transport-themes/smart-mobility/road/application-areas/vehicle-safety-systems_en
+    official_status: official_explainer
+    document_title: European Commission Vehicle Safety Systems explainer
+    citation_preferred_form: EC Vehicle Safety Systems
+    version_or_effective_date: current explainer checked 2026-04-13
+    parser_strategy: html_manual_capture
+    notes: active safety and post-crash systems 설명용
+
+  - source_id: unece-wp29-introduction
+    jurisdiction: UNECE
+    regulatory_layer_guess: framework_admin
+    source_url: https://unece.org/wp29-introduction
+    official_status: primary_official
+    document_title: WP.29 Introduction
+    citation_preferred_form: UNECE WP.29 Introduction
+    version_or_effective_date: current page checked 2026-04-13
+    parser_strategy: html_manual_capture
+    notes: UNECE vehicle regulation governance overview
+
+  - source_id: unece-1958-agreement
+    jurisdiction: UNECE
+    regulatory_layer_guess: framework_admin
+    source_url: https://unece.org/sites/default/files/2023-12/WP.29-191-12e.pdf
+    official_status: primary_official
+    document_title: 1958 Agreement working paper reference
+    citation_preferred_form: 1958 Agreement
+    version_or_effective_date: UNECE PDF published 2023-12
+    parser_strategy: pdf_text_first
+    notes: agreement-level legal framework reference in current UNECE material
+
+  - source_id: unece-un-regulations-index
+    jurisdiction: UNECE
+    regulatory_layer_guess: technical_requirement
+    source_url: https://unece.org/transport/vehicle-regulations-wp29/un-regulations-addenda-1958-agreement
+    official_status: secondary_official_index
+    document_title: UNECE UN Regulations addenda index
+    citation_preferred_form: UN Regulations addenda index
+    version_or_effective_date: current index checked 2026-04-13
+    parser_strategy: html_manual_capture
+    notes: representative UN Regulation set selection용 index

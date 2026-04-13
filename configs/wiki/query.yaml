@@ -1,0 +1,7 @@
+default_top_k: 8
+max_answer_length: 1400
+writeback_default: false
+prefer_note_types:
+  - regulation_unit
+  - regulation_document
+  - analysis
