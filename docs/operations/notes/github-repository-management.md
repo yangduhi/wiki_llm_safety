@@ -26,6 +26,7 @@ tags:
 - create feature branches from `main`
 - keep branch names short and task-oriented
 - open pull requests back into `main`
+- default workflow is PR-first, with admin bypass kept available for urgent maintenance
 
 ## Verification
 
@@ -36,8 +37,17 @@ tags:
 ## GitHub Automation
 
 - GitHub Actions runs repository verification on pushes and pull requests targeting `main`
+- the workflow also runs on feature-branch pushes so verification fails early
 - the workflow fails if tests fail, verify fails, or generated files are stale
+- concurrency cancels superseded runs on the same ref to reduce queue noise
 - `CODEOWNERS` assigns default review ownership to `@yangduhi`
+
+## Merge Policy
+
+- `main` is protected by a repository ruleset instead of ad hoc direct-push practice
+- required status check name is `verify`
+- merge strategy is `squash` only
+- merged branches should be deleted automatically
 
 ## Collaboration
 

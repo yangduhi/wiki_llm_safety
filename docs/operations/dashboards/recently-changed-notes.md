@@ -2,6 +2,8 @@
 
 ## Snapshot
 - `2026-04-13` | `jurisdiction-us` | US
+- `2026-04-13` | `regdoc-official_web-fmvss-landing-sample` | FMVSS Landing
+- `2026-04-13` | `regdoc-web_clipper-pedestrian-aeb-sample` | AEB for Pedestrian
 - `2026-04-13` | `regdoc-xml_fmvss-571-101` | § 571.101 Standard No. 101; Controls and displays.
 - `2026-04-13` | `regdoc-xml_fmvss-571-102` | § 571.102 Standard No. 102; Transmission shift position sequence, starter interlock, and transmission braking effect.
 - `2026-04-13` | `regdoc-xml_fmvss-571-103` | § 571.103 Standard No. 103; Windshield defrosting and defogging systems.
@@ -24,8 +26,6 @@
 - `2026-04-13` | `regdoc-xml_fmvss-571-120` | § 571.120 Tire selection and rims and motor home/recreation vehicle trailer load carrying capacity information for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds).
 - `2026-04-13` | `regdoc-xml_fmvss-571-121` | § 571.121 Standard No. 121; Air brake systems.
 - `2026-04-13` | `regdoc-xml_fmvss-571-122` | § 571.122 Standard No. 122; Motorcycle brake systems.
-- `2026-04-13` | `regdoc-xml_fmvss-571-122a` | § 571.122a Standard No. 122; Motorcycle brake systems.
-- `2026-04-13` | `regdoc-xml_fmvss-571-123` | § 571.123 Standard No. 123; Motorcycle controls and displays.
 
 ## Dataview
 ```dataview
