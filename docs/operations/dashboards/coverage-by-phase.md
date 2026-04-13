@@ -3,9 +3,9 @@
 ## Snapshot
 - phase: `cross_phase` -> 4955
 - phase: `in_crash` -> 796
-- phase: `non_phase_admin` -> 23
+- phase: `non_phase_admin` -> 25
 - phase: `post_crash` -> 8
-- phase: `pre_crash` -> 478
+- phase: `pre_crash` -> 480
 - phase: `unknown` -> 1
 
 ## Dataview
