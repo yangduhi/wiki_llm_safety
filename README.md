@@ -82,3 +82,7 @@ This repository is not a chat transcript archive. It is a compounding knowledge 
 - default integration branch: `main`
 - run `.\scripts\wiki.ps1 verify` before pushing write tasks
 - GitHub Actions mirrors the same verification flow and fails when generated indexes or dashboards are stale
+
+## Assistant Entry Point
+
+- For ChatGPT or other general-purpose assistants using the GitHub repository as context, start with [CHATGPT.md](/D:/vscode/4__wiki__obsidian__chatgpt_repo/CHATGPT.md).
