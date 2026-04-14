@@ -40,6 +40,7 @@
 - [Apply Profile Xml_Kmvss](docs/operations/notes/apply-profile-xml_kmvss.md) (`status: active`)
 - [Repository Architecture](docs/operations/notes/architecture.md) - Describes the four-layer v2 architecture and the split between generic platform and automotive domain pack. (`status: active`)
 - [Automotive Safety Regulation Project Understanding](docs/operations/notes/automotive-safety-regulation-project-understanding.md) (`status: active`)
+- [Git Sync Automation](docs/operations/notes/git-sync-automation.md) - Defines the repository-safe git sync commands and the expected automation behavior for keeping local clones current. (`status: active`)
 - [GitHub Repository Management](docs/operations/notes/github-repository-management.md) - Documents the canonical remote, branch model, PR expectations, and CI verification flow for the shared repository. (`status: active`)
 - [Obsidian Shared Vault Pilot Note](docs/operations/notes/obsidian-shared-vault.md) - Describes how Obsidian should reflect the ontology pilot without prematurely changing the production dashboard structure. (`status: active`)
 - [Obsidian Toolchain](docs/operations/notes/obsidian-toolchain.md) - Explains how Obsidian, Dataview, qmd, Marp, and web clip intake are connected in the repository. (`status: active`)

@@ -33,6 +33,8 @@ tags:
 - run `.\scripts\wiki.ps1 verify` before pushing write tasks
 - run `.\.venv\Scripts\python.exe -m pytest -q` when Python code changes
 - treat generated `index.md`, `docs/operations/INDEX.md`, and dashboard pages as committed artifacts
+- use `.\scripts\wiki.ps1 git-sync-status` before manual repo updates when local state is unclear
+- use `.\scripts\wiki.ps1 git-sync-safe` for fast-forward-only local updates that must not discard work
 
 ## GitHub Automation
 
@@ -41,6 +43,7 @@ tags:
 - the workflow fails if tests fail, verify fails, or generated files are stale
 - concurrency cancels superseded runs on the same ref to reduce queue noise
 - `CODEOWNERS` assigns default review ownership to `@yangduhi`
+- local recurring sync automation should use the repo-safe git sync commands instead of raw `pull` logic
 
 ## Merge Policy
 
