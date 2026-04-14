@@ -1,45 +1,61 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S19 Requirements to provide protection for infants in rear facing and convertible
   child restraints and car beds.
 browse_buckets:
 - rear_impact
+- occupant_restraints
 - child_restraints
 clause_path: s19
+comparison_key: 7f60655da028a93b99f787600338ada48956e3fd
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
-- child_occupant_protection
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-208-s19
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
 phase: in_crash
-primary_topic: requirements-provide-protection
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: S19
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-208 / s19
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
 statement: S19 Requirements to provide protection for infants in rear facing and convertible
   child restraints and car beds.
 status: draft
+subject: null
 summary: Regulation unit `s19` from xml_fmvss-571-208.
 title: S19 Requirements to provide protection for infants in rear facing and convertible
   child restraints and car beds.
@@ -56,10 +72,10 @@ S19 Requirements to provide protection for infants in rear facing and convertibl
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: in_crash
-- functional_domain: child_occupant_protection
-- primary_topic: requirements-provide-protection
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: frontal_impact
 - secondary_topics: n/a
-- browse_buckets: rear_impact, child_restraints
+- browse_buckets: rear_impact, occupant_restraints, child_restraints
 - legacy_domain: passive_crash
 
 ## Basis
@@ -68,6 +84,7 @@ S19 Requirements to provide protection for infants in rear facing and convertibl
 ## Authority
 - clause_path: s19
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / s19
 - source_url: n/a
 - confidence: medium
 

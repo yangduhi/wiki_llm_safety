@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S7.6.2 Fade stops. Make 10 stops from 60 m.p.h. at not less than 15 f.p.s.p.s.
   for each stop. The initial brake temperature before the first brake application
   shall be between 130 °F. and 150 °F. Initial brake temperatures before brake applications
@@ -11,36 +13,48 @@ basis: S7.6.2 Fade stops. Make 10 stops from 60 m.p.h. at not less than 15 f.p.s
   test specified in S7.6.3.
 browse_buckets: []
 clause_path: s7-6-2
+comparison_key: 2932e72b6743b0ffe02cafef97157720b4e80fd6
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-122a
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-122a-s7-6-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.122a Standard No. 122; Motorcycle brake systems.
 phase: cross_phase
-primary_topic: fade-stops-make
+primary_topic: s7-6-2-fade-stops-make-10-stops-from-60-m-p-h-at-not-less-than-15-f-p-s-p-s-for-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.122a.xml
   source_hashes:
     raw/collections/xml_fmvss/571.122a.xml: a54a59d92bd36390e082c95800360457035e800f1f00f2486a0a9ff1f60a0667
   source_url: null
+raw_marker: S7.6.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-122a / s7-6-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.122a.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.122a.xml: a54a59d92bd36390e082c95800360457035e800f1f00f2486a0a9ff1f60a0667
 source_url: null
 statement: S7.6.2 Fade stops. Make 10 stops from 60 m.p.h. at not less than 15 f.p.s.p.s.
   for each stop. The initial brake temperature before the first brake application
@@ -52,6 +66,7 @@ statement: S7.6.2 Fade stops. Make 10 stops from 60 m.p.h. at not less than 15 f
   1 mile at 30 m.p.h. after the last fade stop and immediately conduct the recovery
   test specified in S7.6.3.
 status: draft
+subject: null
 summary: Regulation unit `s7-6-2` from xml_fmvss-571-122a.
 title: S7.6.2 Fade stops. Make 10 stops from 60 m.p.h. at not less than 15 f.p.s.p.s.
   for each stop. The initial brake temperat
@@ -69,7 +84,7 @@ S7.6.2 Fade stops. Make 10 stops from 60 m.p.h. at not less than 15 f.p.s.p.s. f
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: fade-stops-make
+- primary_topic: s7-6-2-fade-stops-make-10-stops-from-60-m-p-h-at-not-less-than-15-f-p-s-p-s-for-
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -80,6 +95,7 @@ S7.6.2 Fade stops. Make 10 stops from 60 m.p.h. at not less than 15 f.p.s.p.s. f
 ## Authority
 - clause_path: s7-6-2
 - source_file: raw/collections/xml_fmvss/571.122a.xml
+- source_citation: xml_fmvss-571-122a / s7-6-2
 - source_url: n/a
 - confidence: medium
 

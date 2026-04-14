@@ -1,0 +1,104 @@
+---
+aliases: []
+attachment_bucket: short_value_rows
+attachment_section: 부분 자율주행시스템의 안전기준(제111조의3 관련)
+basis: '라) 다음의 항목을 포함하여 자동차로유지기능을 구성하는 모든 기능과 자동
+
+  차로유지기능을 작동하여 자동차를 운행하게 하는데 필요한 자동차의 관
+
+  련 기능 및 장치가 정상적으로 작동되고 있을 것
+
+  (1) 자가진단기능
+
+  (2) 운전자모니터링시스템
+
+  (3) 자율주행정보 기록장치'
+browse_buckets: []
+clause_path: item-59
+comparison_key: 81696c51e86a6c2aca321ccfd5950e82190aa1f5
+confidence: medium
+created: '2026-04-13'
+document_id: xml_kmvss-kmvss_att_0027_128
+document_kind: attachment
+effective_date: null
+functional_domain:
+- crash_avoidance_and_vehicle_control
+id: regunit-xml_kmvss-kmvss_att_0027_128-item-59
+inherits_section_context: true
+inherits_subject_context: true
+is_attachment: true
+is_table_like_row: false
+jurisdiction: KR
+legacy_domain: active_safety
+line_index_end: 69
+line_index_start: 59
+note_type: regulation_unit
+page_end: null
+page_start: null
+parent_clause_path: 2-55
+parent_clause_text: 다) 제2호다목에 따른 운전조작 가능 여부를 감지한 결과 운전자의 운전조작
+parent_title: 라) 다음의 항목을 포함하여 자동차로유지기능을 구성하는 모든 기능과 자동
+phase: pre_crash
+primary_topic: automated_driving_assist
+provenance:
+  parser_run_id: 20260414T051134Z__dc745dc5
+  source_files:
+  - raw/collections/xml_kmvss/KMVSS_Att_0027_128.xml
+  source_hashes:
+    raw/collections/xml_kmvss/KMVSS_Att_0027_128.xml: b71721534f9d4b9153ee3a120c87da2e70731a36cb5ca10655eb5db604c4674a
+  source_url: null
+raw_marker: item-59
+record_layer: knowledge
+reference_articles:
+- 제111조의3
+regulatory_layer: technical_requirement
+review_required: true
+row_group_id: group-12
+secondary_topics:
+- automated_driving
+sectno: 별표 0027
+source_citation: xml_kmvss-kmvss_att_0027_128 / item-59
+source_collection: xml_kmvss
+source_url: null
+statement: 라) 다음의 항목을 포함하여 자동차로유지기능을 구성하는 모든 기능과 자동
+status: draft
+subject: 부분 자율주행시스템의 안전기준(제111조의3 관련)
+summary: Regulation unit `item-59` from xml_kmvss-kmvss_att_0027_128.
+title: 라) 다음의 항목을 포함하여 자동차로유지기능을 구성하는 모든 기능과 자동
+updated: '2026-04-13'
+---
+
+# 라) 다음의 항목을 포함하여 자동차로유지기능을 구성하는 모든 기능과 자동
+
+## Statement
+라) 다음의 항목을 포함하여 자동차로유지기능을 구성하는 모든 기능과 자동
+
+## Classification
+- jurisdiction: KR
+- source_collection: xml_kmvss
+- regulatory_layer: technical_requirement
+- phase: pre_crash
+- functional_domain: crash_avoidance_and_vehicle_control
+- primary_topic: automated_driving_assist
+- secondary_topics: automated_driving
+- browse_buckets: n/a
+- legacy_domain: active_safety
+
+## Basis
+라) 다음의 항목을 포함하여 자동차로유지기능을 구성하는 모든 기능과 자동
+차로유지기능을 작동하여 자동차를 운행하게 하는데 필요한 자동차의 관
+련 기능 및 장치가 정상적으로 작동되고 있을 것
+(1) 자가진단기능
+(2) 운전자모니터링시스템
+(3) 자율주행정보 기록장치
+
+## Authority
+- clause_path: item-59
+- source_file: raw/collections/xml_kmvss/KMVSS_Att_0027_128.xml
+- source_citation: xml_kmvss-kmvss_att_0027_128 / item-59
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_kmvss-kmvss_att_0027_128]]
+- [[jurisdictions/jurisdiction-kr]]

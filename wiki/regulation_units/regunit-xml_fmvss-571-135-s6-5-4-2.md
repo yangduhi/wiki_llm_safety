@@ -1,45 +1,60 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S6.5.4.2. Stops are made without any part of the vehicle leaving the lane and
   without rotation of the vehicle about its vertical axis of more than ±15° from the
   center line of the test lane at any time during any stop.
 browse_buckets: []
 clause_path: s6-5-4-2
+comparison_key: eabc1730830d241d7e71329e6c1522a2dbd8301f
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-135
+document_kind: null
 effective_date: null
 functional_domain:
 - crash_avoidance_and_vehicle_control
 id: regunit-xml_fmvss-571-135-s6-5-4-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: stops-made-without
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.135 Standard No. 135; Light vehicle brake systems.
+phase: cross_phase
+primary_topic: s6-5-4-2-stops-are-made-without-any-part-of-the-vehicle-leaving-the-lane-and-wit
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.135.xml
   source_hashes:
     raw/collections/xml_fmvss/571.135.xml: 20d8c4994e3d67cb5712e0c14a26d1dfebb1ce3186179d688636262d38e3c434
   source_url: null
+raw_marker: S6.5.4.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-135 / s6-5-4-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.135.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.135.xml: 20d8c4994e3d67cb5712e0c14a26d1dfebb1ce3186179d688636262d38e3c434
 source_url: null
 statement: S6.5.4.2. Stops are made without any part of the vehicle leaving the lane
   and without rotation of the vehicle about its vertical axis of more than ±15° from
   the center line of the test lane at any time during any stop.
 status: draft
+subject: null
 summary: Regulation unit `s6-5-4-2` from xml_fmvss-571-135.
 title: 'S6.5.4.2. Stops are made without any part of the vehicle leaving the lane
   and without rotation of the vehicle about its '
@@ -55,12 +70,12 @@ S6.5.4.2. Stops are made without any part of the vehicle leaving the lane and wi
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
+- phase: cross_phase
 - functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: stops-made-without
+- primary_topic: s6-5-4-2-stops-are-made-without-any-part-of-the-vehicle-leaving-the-lane-and-wit
 - secondary_topics: n/a
 - browse_buckets: n/a
-- legacy_domain: active_safety
+- legacy_domain: needs_review
 
 ## Basis
 S6.5.4.2. Stops are made without any part of the vehicle leaving the lane and without rotation of the vehicle about its vertical axis of more than ±15° from the center line of the test lane at any time during any stop.
@@ -68,6 +83,7 @@ S6.5.4.2. Stops are made without any part of the vehicle leaving the lane and wi
 ## Authority
 - clause_path: s6-5-4-2
 - source_file: raw/collections/xml_fmvss/571.135.xml
+- source_citation: xml_fmvss-571-135 / s6-5-4-2
 - source_url: n/a
 - confidence: medium
 

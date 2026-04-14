@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S5.8 Service brake system design durability. Each motorcycle shall be capable
   of completing all braking requirements of S5 without detachment of brake linings
   from the shoes or pad, detachment or fracture of any brake system components, or
@@ -7,36 +9,48 @@ basis: S5.8 Service brake system design durability. Each motorcycle shall be cap
   cover, seal, or retention device (S7.11).
 browse_buckets: []
 clause_path: s5-8
+comparison_key: a165bddc789e35248e9fae2099c4a225e5421790
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-122a
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-122a-s5-8
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.122a Standard No. 122; Motorcycle brake systems.
 phase: cross_phase
-primary_topic: service-brake-system
+primary_topic: s5-8-service-brake-system-design-durability-each-motorcycle-shall-be-capable-of-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.122a.xml
   source_hashes:
     raw/collections/xml_fmvss/571.122a.xml: a54a59d92bd36390e082c95800360457035e800f1f00f2486a0a9ff1f60a0667
   source_url: null
+raw_marker: S5.8
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-122a / s5-8
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.122a.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.122a.xml: a54a59d92bd36390e082c95800360457035e800f1f00f2486a0a9ff1f60a0667
 source_url: null
 statement: S5.8 Service brake system design durability. Each motorcycle shall be capable
   of completing all braking requirements of S5 without detachment of brake linings
@@ -44,6 +58,7 @@ statement: S5.8 Service brake system design durability. Each motorcycle shall be
   leakage of fluid or lubricant at the wheel cylinder, and master cylinder reservoir
   cover, seal, or retention device (S7.11).
 status: draft
+subject: null
 summary: Regulation unit `s5-8` from xml_fmvss-571-122a.
 title: 'S5.8 Service brake system design durability. Each motorcycle shall be capable
   of completing all braking requirements of '
@@ -61,7 +76,7 @@ S5.8 Service brake system design durability. Each motorcycle shall be capable of
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: service-brake-system
+- primary_topic: s5-8-service-brake-system-design-durability-each-motorcycle-shall-be-capable-of-
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -72,6 +87,7 @@ S5.8 Service brake system design durability. Each motorcycle shall be capable of
 ## Authority
 - clause_path: s5-8
 - source_file: raw/collections/xml_fmvss/571.122a.xml
+- source_citation: xml_fmvss-571-122a / s5-8
 - source_url: n/a
 - confidence: medium
 

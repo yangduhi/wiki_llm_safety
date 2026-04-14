@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S6.5.1 DOT marking. The lens of each original equipment and replacement headlamp,
   and of each original equipment and replacement beam contributor, and each replacement
   headlamp lens for an integral beam or replaceable bulb headlamp, must be marked
@@ -8,36 +10,49 @@ basis: S6.5.1 DOT marking. The lens of each original equipment and replacement h
 browse_buckets:
 - head_impact
 clause_path: s6-5-1
+comparison_key: c4c884cb6ad088aa65660d4aac1d89bd199b3b5d
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-108
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-108-s6-5-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.108 Standard No. 108; Lamps, reflective devices, and associated
+  equipment.
 phase: cross_phase
-primary_topic: marking-lens-each
+primary_topic: s6-5-1-dot-marking-the-lens-of-each-original-equipment-and-replacement-headlamp-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.108.xml
   source_hashes:
     raw/collections/xml_fmvss/571.108.xml: 733120543fd9c5aa9cd0651a6279ea063548778ae2a24e6f33b2e8531c08673e
   source_url: null
+raw_marker: S6.5.1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-108 / s6-5-1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.108.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.108.xml: 733120543fd9c5aa9cd0651a6279ea063548778ae2a24e6f33b2e8531c08673e
 source_url: null
 statement: S6.5.1 DOT marking. The lens of each original equipment and replacement
   headlamp, and of each original equipment and replacement beam contributor, and each
@@ -45,6 +60,7 @@ statement: S6.5.1 DOT marking. The lens of each original equipment and replaceme
   be marked with the symbol “DOT” either horizontally or vertically to indicate certification
   under 49 U.S.C. 30115.
 status: draft
+subject: null
 summary: Regulation unit `s6-5-1` from xml_fmvss-571-108.
 title: S6.5.1 DOT marking. The lens of each original equipment and replacement headlamp,
   and of each original equipment and rep
@@ -62,7 +78,7 @@ S6.5.1 DOT marking. The lens of each original equipment and replacement headlamp
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: marking-lens-each
+- primary_topic: s6-5-1-dot-marking-the-lens-of-each-original-equipment-and-replacement-headlamp-
 - secondary_topics: n/a
 - browse_buckets: head_impact
 - legacy_domain: needs_review
@@ -73,6 +89,7 @@ S6.5.1 DOT marking. The lens of each original equipment and replacement headlamp
 ## Authority
 - clause_path: s6-5-1
 - source_file: raw/collections/xml_fmvss/571.108.xml
+- source_citation: xml_fmvss-571-108 / s6-5-1
 - source_url: n/a
 - confidence: medium
 

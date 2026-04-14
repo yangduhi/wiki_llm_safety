@@ -1,46 +1,61 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S5.2.3 Barrier performance forward. When force is applied to the restraining
   barrier in the same manner as specified in S5.1.3.1 through S5.1.3.4 for seating
   performance tests:'
 browse_buckets:
 - seat_systems
 clause_path: s5-2-3
+comparison_key: 4d4921def3b784e633eed10e72f0ac4b362f9a1a
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-222
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-222-s5-2-3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.222 Standard No. 222; School bus passenger seating and crash protection.
 phase: cross_phase
-primary_topic: barrier-performance-forward
+primary_topic: s5-2-3-barrier-performance-forward-when-force-is-applied-to-the-restraining-barr
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.222.xml
   source_hashes:
     raw/collections/xml_fmvss/571.222.xml: f9122780b29250d242d0b0906cd2937a727e74d020a2888c17ae9431dcd79a67
   source_url: null
+raw_marker: S5.2.3
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-222 / s5-2-3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.222.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.222.xml: f9122780b29250d242d0b0906cd2937a727e74d020a2888c17ae9431dcd79a67
 source_url: null
 statement: 'S5.2.3 Barrier performance forward. When force is applied to the restraining
   barrier in the same manner as specified in S5.1.3.1 through S5.1.3.4 for seating
   performance tests:'
 status: draft
+subject: null
 summary: Regulation unit `s5-2-3` from xml_fmvss-571-222.
 title: 'S5.2.3 Barrier performance forward. When force is applied to the restraining
   barrier in the same manner as specified in '
@@ -58,7 +73,7 @@ S5.2.3 Barrier performance forward. When force is applied to the restraining bar
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: barrier-performance-forward
+- primary_topic: s5-2-3-barrier-performance-forward-when-force-is-applied-to-the-restraining-barr
 - secondary_topics: n/a
 - browse_buckets: seat_systems
 - legacy_domain: needs_review
@@ -69,6 +84,7 @@ S5.2.3 Barrier performance forward. When force is applied to the restraining bar
 ## Authority
 - clause_path: s5-2-3
 - source_file: raw/collections/xml_fmvss/571.222.xml
+- source_citation: xml_fmvss-571-222 / s5-2-3
 - source_url: n/a
 - confidence: medium
 

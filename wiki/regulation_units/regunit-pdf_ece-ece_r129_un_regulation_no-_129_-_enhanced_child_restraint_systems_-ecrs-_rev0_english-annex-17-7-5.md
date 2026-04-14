@@ -1,0 +1,158 @@
+---
+aliases: []
+attachment_bucket: null
+attachment_section: Annex 17 shows a typical device for a buckle strength test. The
+  buckle is
+basis: '7.5.
+
+  The measuring procedures shall correspond to those defined in the latest
+
+  version of ISO 6487. The channel frequency class shall be:
+
+  Table 9
+
+  Type of measurement
+
+  CFC(FH)
+
+  Cut-off frequency (FN)
+
+  Trolley acceleration
+
+  see ISO 6487Annex A
+
+  Belt loads
+
+  see ISO 6487Annex A
+
+  Chest acceleration
+
+  see ISO 6487Annex A
+
+  Head acceleration
+
+  1,000
+
+  1,650 Hz
+
+  Upper neck force
+
+  Upper neck moment
+
+  Chest deflection
+
+  The sampling rate should be a minimum of 10 times the channel frequency
+
+  class (i.e. in installations with channel frequency class of 1,000, this
+
+  corresponds to a minimum sampling rate of 10,000 samples per second per
+
+  channel).'
+browse_buckets:
+- head_impact
+- child_restraints
+clause_path: annex-17-7-5
+comparison_key: 203237a0a110ceb8fc8f3b0c04c588d4eb9beb2f
+confidence: medium
+created: '2026-04-13'
+document_id: pdf_ece-ece_r129_un_regulation_no-_129_-_enhanced_child_restraint_systems_-ecrs-_rev0_english
+document_kind: annex_clause
+effective_date: null
+functional_domain:
+- occupant_protection_and_restraints
+id: regunit-pdf_ece-ece_r129_un_regulation_no-_129_-_enhanced_child_restraint_systems_-ecrs-_rev0_english-annex-17-7-5
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
+jurisdiction: UNECE
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
+note_type: regulation_unit
+page_end: 50
+page_start: 50
+parent_clause_path: null
+parent_clause_text: null
+parent_title: ECE R129 UN Regulation No. 129 - Enhanced Child Restraint Systems (ECRS)
+  Rev0 English
+phase: cross_phase
+primary_topic: 7-5
+provenance:
+  parser_run_id: 20260414T051508Z__014a8f04
+  source_files:
+  - raw/collections/pdf_ece/ECE_R129_UN_Regulation_No._129_-_Enhanced_Child_Restraint_Systems_(ECRS)_Rev0_English.pdf
+  source_hashes:
+    raw/collections/pdf_ece/ECE_R129_UN_Regulation_No._129_-_Enhanced_Child_Restraint_Systems_(ECRS)_Rev0_English.pdf: c287bad954ff87e633f5001e86dbfbaa312560228983b81fd8b37c718d241fca
+  source_url: null
+raw_marker: annex-17-7.5
+record_layer: knowledge
+reference_articles: []
+regulatory_layer: technical_requirement
+review_required: true
+row_group_id: null
+secondary_topics: []
+sectno: null
+source_citation: pdf_ece-ece_r129_un_regulation_no-_129_-_enhanced_child_restraint_systems_-ecrs-_rev0_english
+  / annex-17-7-5
+source_collection: pdf_ece
+source_url: null
+statement: 7.5.
+status: draft
+subject: null
+summary: Regulation unit `annex-17-7-5` from pdf_ece-ece_r129_un_regulation_no-_129_-_enhanced_child_restraint_systems_-ecrs-_rev0_english.
+title: 7.5.
+updated: '2026-04-13'
+---
+
+# 7.5.
+
+## Statement
+7.5.
+
+## Classification
+- jurisdiction: UNECE
+- source_collection: pdf_ece
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: 7-5
+- secondary_topics: n/a
+- browse_buckets: head_impact, child_restraints
+- legacy_domain: needs_review
+
+## Basis
+7.5.
+The measuring procedures shall correspond to those defined in the latest
+version of ISO 6487. The channel frequency class shall be:
+Table 9
+Type of measurement
+CFC(FH)
+Cut-off frequency (FN)
+Trolley acceleration
+see ISO 6487Annex A
+Belt loads
+see ISO 6487Annex A
+Chest acceleration
+see ISO 6487Annex A
+Head acceleration
+1,000
+1,650 Hz
+Upper neck force
+Upper neck moment
+Chest deflection
+The sampling rate should be a minimum of 10 times the channel frequency
+class (i.e. in installations with channel frequency class of 1,000, this
+corresponds to a minimum sampling rate of 10,000 samples per second per
+channel).
+
+## Authority
+- clause_path: annex-17-7-5
+- source_file: raw/collections/pdf_ece/ECE_R129_UN_Regulation_No._129_-_Enhanced_Child_Restraint_Systems_(ECRS)_Rev0_English.pdf
+- source_citation: pdf_ece-ece_r129_un_regulation_no-_129_-_enhanced_child_restraint_systems_-ecrs-_rev0_english / annex-17-7-5
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/pdf_ece-ece_r129_un_regulation_no-_129_-_enhanced_child_restraint_systems_-ecrs-_rev0_english]]
+- [[jurisdictions/jurisdiction-unece]]

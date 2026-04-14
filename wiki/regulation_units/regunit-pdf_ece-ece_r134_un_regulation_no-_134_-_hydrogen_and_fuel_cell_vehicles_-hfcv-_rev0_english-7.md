@@ -1,0 +1,97 @@
+---
+aliases: []
+attachment_bucket: null
+attachment_section: null
+basis: '7.
+
+  Part III – Specifications of a vehicle fuel system incorporating the compressed
+  hydrogen
+
+  storage system ..................................................................................................................................'
+browse_buckets:
+- fuel_system_integrity
+clause_path: '7'
+comparison_key: 8e237dff07aa3fece47449ec81a4496d42a7c4b1
+confidence: medium
+created: '2026-04-13'
+document_id: pdf_ece-ece_r134_un_regulation_no-_134_-_hydrogen_and_fuel_cell_vehicles_-hfcv-_rev0_english
+document_kind: article
+effective_date: null
+functional_domain:
+- fire_electrical_and_energy_storage_safety
+id: regunit-pdf_ece-ece_r134_un_regulation_no-_134_-_hydrogen_and_fuel_cell_vehicles_-hfcv-_rev0_english-7
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
+jurisdiction: UNECE
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
+note_type: regulation_unit
+page_end: 3
+page_start: 3
+parent_clause_path: null
+parent_clause_text: null
+parent_title: ECE R134 UN Regulation No. 134 - Hydrogen and fuel cell vehicles (HFCV)
+  Rev0 English
+phase: cross_phase
+primary_topic: '7'
+provenance:
+  parser_run_id: 20260414T051508Z__014a8f04
+  source_files:
+  - raw/collections/pdf_ece/ECE_R134_UN_Regulation_No._134_-_Hydrogen_and_fuel_cell_vehicles_(HFCV)_Rev0_English.pdf
+  source_hashes:
+    raw/collections/pdf_ece/ECE_R134_UN_Regulation_No._134_-_Hydrogen_and_fuel_cell_vehicles_(HFCV)_Rev0_English.pdf: b444aa79df323c052e26e11d381c8a1dc5dbf451eecd6de8b26b199bad99c5c0
+  source_url: null
+raw_marker: '7'
+record_layer: knowledge
+reference_articles: []
+regulatory_layer: technical_requirement
+review_required: true
+row_group_id: null
+secondary_topics: []
+sectno: null
+source_citation: pdf_ece-ece_r134_un_regulation_no-_134_-_hydrogen_and_fuel_cell_vehicles_-hfcv-_rev0_english
+  / 7
+source_collection: pdf_ece
+source_url: null
+statement: '7.'
+status: draft
+subject: null
+summary: Regulation unit `7` from pdf_ece-ece_r134_un_regulation_no-_134_-_hydrogen_and_fuel_cell_vehicles_-hfcv-_rev0_english.
+title: '7.'
+updated: '2026-04-13'
+---
+
+# 7.
+
+## Statement
+7.
+
+## Classification
+- jurisdiction: UNECE
+- source_collection: pdf_ece
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: fire_electrical_and_energy_storage_safety
+- primary_topic: 7
+- secondary_topics: n/a
+- browse_buckets: fuel_system_integrity
+- legacy_domain: needs_review
+
+## Basis
+7.
+Part III – Specifications of a vehicle fuel system incorporating the compressed hydrogen
+storage system ..................................................................................................................................
+
+## Authority
+- clause_path: 7
+- source_file: raw/collections/pdf_ece/ECE_R134_UN_Regulation_No._134_-_Hydrogen_and_fuel_cell_vehicles_(HFCV)_Rev0_English.pdf
+- source_citation: pdf_ece-ece_r134_un_regulation_no-_134_-_hydrogen_and_fuel_cell_vehicles_-hfcv-_rev0_english / 7
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/pdf_ece-ece_r134_un_regulation_no-_134_-_hydrogen_and_fuel_cell_vehicles_-hfcv-_rev0_english]]
+- [[jurisdictions/jurisdiction-unece]]

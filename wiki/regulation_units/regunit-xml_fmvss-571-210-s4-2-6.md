@@ -1,42 +1,59 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S4.2.6 Manufacturer's choice of compliance option. The manufacturer shall select
   the compliance option by the time it certifies the vehicle and may not thereafter
   select a different option for the vehicle. Each manufacturer shall, upon the request
   from the National Highway Traffic Safety Administration, provide information regarding
   which of the compliance options it selected for a particular vehicle or make/model.
-browse_buckets: []
+browse_buckets:
+- occupant_restraints
+- seat_systems
 clause_path: s4-2-6
+comparison_key: db4700a5809a180bd21cbf37b86915ce87b6eee9
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-210
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-210-s4-2-6
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.210 Standard No. 210; Seat belt assembly anchorages.
 phase: cross_phase
-primary_topic: manufacturer-choice-compliance
+primary_topic: s4-2-6-manufacturer-s-choice-of-compliance-option-the-manufacturer-shall-select-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.210.xml
   source_hashes:
     raw/collections/xml_fmvss/571.210.xml: 568f5de3738a2d37686fe87131ddc16a5feeb6fd68cd679c2f61ac0ea2fc4df0
   source_url: null
+raw_marker: S4.2.6
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics: []
+row_group_id: null
+secondary_topics:
+- seat_belts
+sectno: null
+source_citation: xml_fmvss-571-210 / s4-2-6
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.210.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.210.xml: 568f5de3738a2d37686fe87131ddc16a5feeb6fd68cd679c2f61ac0ea2fc4df0
 source_url: null
 statement: S4.2.6 Manufacturer's choice of compliance option. The manufacturer shall
   select the compliance option by the time it certifies the vehicle and may not thereafter
@@ -44,6 +61,7 @@ statement: S4.2.6 Manufacturer's choice of compliance option. The manufacturer s
   from the National Highway Traffic Safety Administration, provide information regarding
   which of the compliance options it selected for a particular vehicle or make/model.
 status: draft
+subject: null
 summary: Regulation unit `s4-2-6` from xml_fmvss-571-210.
 title: S4.2.6 Manufacturer's choice of compliance option. The manufacturer shall select
   the compliance option by the time it ce
@@ -60,10 +78,10 @@ S4.2.6 Manufacturer's choice of compliance option. The manufacturer shall select
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: manufacturer-choice-compliance
-- secondary_topics: n/a
-- browse_buckets: n/a
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: s4-2-6-manufacturer-s-choice-of-compliance-option-the-manufacturer-shall-select-
+- secondary_topics: seat_belts
+- browse_buckets: occupant_restraints, seat_systems
 - legacy_domain: needs_review
 
 ## Basis
@@ -72,6 +90,7 @@ S4.2.6 Manufacturer's choice of compliance option. The manufacturer shall select
 ## Authority
 - clause_path: s4-2-6
 - source_file: raw/collections/xml_fmvss/571.210.xml
+- source_citation: xml_fmvss-571-210 / s4-2-6
 - source_url: n/a
 - confidence: medium
 

@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S7.1.1 Impact attenuation is measured by determining acceleration imparted
   to an instrumented test headform on which a complete helmet is mounted as specified
   in S6.3, when it is dropped in guided free fall upon a fixed hemispherical anvil
@@ -7,42 +9,55 @@ basis: S7.1.1 Impact attenuation is measured by determining acceleration imparte
 browse_buckets:
 - head_impact
 clause_path: s7-1-1
+comparison_key: 96f68fc5df52e5b4b726836c42b2dac448dcf0a3
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-218
+document_kind: null
 effective_date: null
 functional_domain:
 - vru_protection
 id: regunit-xml_fmvss-571-218-s7-1-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: impact-attenuation-measured
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.218 Standard No. 218; Motorcycle helmets.
+phase: cross_phase
+primary_topic: s7-1-1-impact-attenuation-is-measured-by-determining-acceleration-imparted-to-an
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.218.xml
   source_hashes:
     raw/collections/xml_fmvss/571.218.xml: 5edb1279ec51ae25bc08a3d3498acecffd8e7da82343760da507e7cb97be58aa
   source_url: null
+raw_marker: S7.1.1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-218 / s7-1-1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.218.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.218.xml: 5edb1279ec51ae25bc08a3d3498acecffd8e7da82343760da507e7cb97be58aa
 source_url: null
 statement: S7.1.1 Impact attenuation is measured by determining acceleration imparted
   to an instrumented test headform on which a complete helmet is mounted as specified
   in S6.3, when it is dropped in guided free fall upon a fixed hemispherical anvil
   and a fixed flat steel anvil.
 status: draft
+subject: null
 summary: Regulation unit `s7-1-1` from xml_fmvss-571-218.
 title: S7.1.1 Impact attenuation is measured by determining acceleration imparted
   to an instrumented test headform on which a c
@@ -58,12 +73,12 @@ S7.1.1 Impact attenuation is measured by determining acceleration imparted to an
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
+- phase: cross_phase
 - functional_domain: vru_protection
-- primary_topic: impact-attenuation-measured
+- primary_topic: s7-1-1-impact-attenuation-is-measured-by-determining-acceleration-imparted-to-an
 - secondary_topics: n/a
 - browse_buckets: head_impact
-- legacy_domain: passive_crash
+- legacy_domain: needs_review
 
 ## Basis
 S7.1.1 Impact attenuation is measured by determining acceleration imparted to an instrumented test headform on which a complete helmet is mounted as specified in S6.3, when it is dropped in guided free fall upon a fixed hemispherical anvil and a fixed flat steel anvil.
@@ -71,6 +86,7 @@ S7.1.1 Impact attenuation is measured by determining acceleration imparted to an
 ## Authority
 - clause_path: s7-1-1
 - source_file: raw/collections/xml_fmvss/571.218.xml
+- source_citation: xml_fmvss-571-218 / s7-1-1
 - source_url: n/a
 - confidence: medium
 

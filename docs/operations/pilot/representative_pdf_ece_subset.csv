@@ -1,0 +1,6 @@
+subset_id,collection,raw_file,intended_phase,intended_functional_domain,rationale
+pdf-ece-r100,pdf_ece,ECE_R100_UN_Regulation_No._100_-_Rev.2_-_Electric_power_trained_vehicles_Rev0_English.pdf,post_crash,fire_electrical_and_energy_storage_safety,Representative UNECE post-crash electrical safety case
+pdf-ece-r131,pdf_ece,ECE_R131_UN_Regulation_No._131_-_Rev.1_-_Advanced_Emergency_Braking_Systems_(AEBS)_Rev0_English.pdf,pre_crash,crash_avoidance_and_vehicle_control,Representative UNECE AEBS case
+pdf-ece-r144,pdf_ece,ECE_R144_UN_Regulation_No._144_-_Accident_Emergency_Call_Systems_(AECS)_Rev0_English.pdf,post_crash,post_crash_response_and_data,Representative UNECE emergency response case
+pdf-ece-r94,pdf_ece,ECE_R94_UN_Regulation_No._94_-_Rev.3_-_Frontal_collision_protection_-_03_series_Rev0_English.pdf,in_crash,occupant_protection_and_restraints,Representative UNECE frontal impact case
+pdf-ece-r95,pdf_ece,ECE_R95_UN_Regulation_No._95_-_Rev.2_-_Lateral_collision_protection_Rev0_English.pdf,in_crash,occupant_protection_and_restraints,Representative UNECE lateral impact case

@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S14.6.10.1.3 Test duration. After the headlamp has been wiped with the test
   fluid, it is stored in its designed operating attitude for 48 hours at a temperature
   of 73° ±7 °F (23° ±4 °C) and a relative humidity of 30% ±10%. At the end of the
@@ -8,36 +10,49 @@ basis: S14.6.10.1.3 Test duration. After the headlamp has been wiped with the te
 browse_buckets:
 - head_impact
 clause_path: s14-6-10-1-3
+comparison_key: e17336c022eda1b10ae42e6ae00294ed22fecde8
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-108
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-108-s14-6-10-1-3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.108 Standard No. 108; Lamps, reflective devices, and associated
+  equipment.
 phase: cross_phase
-primary_topic: test-duration-after
+primary_topic: s14-6-10-1-3-test-duration-after-the-headlamp-has-been-wiped-with-the-test-fluid
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.108.xml
   source_hashes:
     raw/collections/xml_fmvss/571.108.xml: 733120543fd9c5aa9cd0651a6279ea063548778ae2a24e6f33b2e8531c08673e
   source_url: null
+raw_marker: S14.6.10.1.3
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-108 / s14-6-10-1-3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.108.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.108.xml: 733120543fd9c5aa9cd0651a6279ea063548778ae2a24e6f33b2e8531c08673e
 source_url: null
 statement: S14.6.10.1.3 Test duration. After the headlamp has been wiped with the
   test fluid, it is stored in its designed operating attitude for 48 hours at a temperature
@@ -45,6 +60,7 @@ statement: S14.6.10.1.3 Test duration. After the headlamp has been wiped with th
   48-hour period, the headlamp is wiped clean with a soft dry cotton cloth and visually
   inspected.
 status: draft
+subject: null
 summary: Regulation unit `s14-6-10-1-3` from xml_fmvss-571-108.
 title: S14.6.10.1.3 Test duration. After the headlamp has been wiped with the test
   fluid, it is stored in its designed operatin
@@ -62,7 +78,7 @@ S14.6.10.1.3 Test duration. After the headlamp has been wiped with the test flui
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: test-duration-after
+- primary_topic: s14-6-10-1-3-test-duration-after-the-headlamp-has-been-wiped-with-the-test-fluid
 - secondary_topics: n/a
 - browse_buckets: head_impact
 - legacy_domain: needs_review
@@ -73,6 +89,7 @@ S14.6.10.1.3 Test duration. After the headlamp has been wiped with the test flui
 ## Authority
 - clause_path: s14-6-10-1-3
 - source_file: raw/collections/xml_fmvss/571.108.xml
+- source_citation: xml_fmvss-571-108 / s14-6-10-1-3
 - source_url: n/a
 - confidence: medium
 

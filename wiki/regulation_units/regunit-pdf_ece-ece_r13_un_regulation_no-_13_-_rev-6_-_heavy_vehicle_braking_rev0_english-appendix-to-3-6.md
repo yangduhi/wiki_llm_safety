@@ -1,0 +1,117 @@
+---
+aliases: []
+attachment_bucket: null
+attachment_section: appendix to this annex shall be observed. If the braking force
+  is regulated in steps, they
+basis: '3.6.
+
+  Automatic braking of the trailer shall be provided in accordance with the conditions
+  of
+
+  paragraph 5.2.2.9. of this Regulation. If this automatic braking action requires
+  electrical
+
+  energy, a trailer braking force of at least 25 per cent of the maximum total axle
+  load shall
+
+  be achieved for at least 15 minutes to satisfy the above-mentioned conditions.
+
+  E/ECE/324
+
+  E/ECE/TRANS/505 } Rev.1/Add.12/Rev.6
+
+  Regulation No. 13
+
+  page 207'
+browse_buckets: []
+clause_path: appendix-to-3-6
+comparison_key: 09737a2e9db72c06c9135ef75ba4209529723cb5
+confidence: medium
+created: '2026-04-13'
+document_id: pdf_ece-ece_r13_un_regulation_no-_13_-_rev-6_-_heavy_vehicle_braking_rev0_english
+document_kind: annex_clause
+effective_date: null
+functional_domain:
+- other_or_review
+id: regunit-pdf_ece-ece_r13_un_regulation_no-_13_-_rev-6_-_heavy_vehicle_braking_rev0_english-appendix-to-3-6
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
+jurisdiction: UNECE
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
+note_type: regulation_unit
+page_end: 207
+page_start: 206
+parent_clause_path: null
+parent_clause_text: null
+parent_title: ECE R13 UN Regulation No. 13 - Rev.6 - Heavy vehicle braking Rev0 English
+phase: cross_phase
+primary_topic: 3-6
+provenance:
+  parser_run_id: 20260414T051508Z__014a8f04
+  source_files:
+  - raw/collections/pdf_ece/ECE_R13_UN_Regulation_No._13_-_Rev.6_-_Heavy_vehicle_braking_Rev0_English.pdf
+  source_hashes:
+    raw/collections/pdf_ece/ECE_R13_UN_Regulation_No._13_-_Rev.6_-_Heavy_vehicle_braking_Rev0_English.pdf: 87e6376b1dc6d24435554a12133b2f78d9a80c255c028a6e45a84b6c7c3aa047
+  source_url: null
+raw_marker: appendix-to-3.6
+record_layer: knowledge
+reference_articles: []
+regulatory_layer: technical_requirement
+review_required: true
+row_group_id: null
+secondary_topics:
+- electrical_isolation
+sectno: null
+source_citation: pdf_ece-ece_r13_un_regulation_no-_13_-_rev-6_-_heavy_vehicle_braking_rev0_english
+  / appendix-to-3-6
+source_collection: pdf_ece
+source_url: null
+statement: 3.6.
+status: draft
+subject: null
+summary: Regulation unit `appendix-to-3-6` from pdf_ece-ece_r13_un_regulation_no-_13_-_rev-6_-_heavy_vehicle_braking_rev0_english.
+title: 3.6.
+updated: '2026-04-13'
+---
+
+# 3.6.
+
+## Statement
+3.6.
+
+## Classification
+- jurisdiction: UNECE
+- source_collection: pdf_ece
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: 3-6
+- secondary_topics: electrical_isolation
+- browse_buckets: n/a
+- legacy_domain: needs_review
+
+## Basis
+3.6.
+Automatic braking of the trailer shall be provided in accordance with the conditions of
+paragraph 5.2.2.9. of this Regulation. If this automatic braking action requires electrical
+energy, a trailer braking force of at least 25 per cent of the maximum total axle load shall
+be achieved for at least 15 minutes to satisfy the above-mentioned conditions.
+E/ECE/324
+E/ECE/TRANS/505 } Rev.1/Add.12/Rev.6
+Regulation No. 13
+page 207
+
+## Authority
+- clause_path: appendix-to-3-6
+- source_file: raw/collections/pdf_ece/ECE_R13_UN_Regulation_No._13_-_Rev.6_-_Heavy_vehicle_braking_Rev0_English.pdf
+- source_citation: pdf_ece-ece_r13_un_regulation_no-_13_-_rev-6_-_heavy_vehicle_braking_rev0_english / appendix-to-3-6
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/pdf_ece-ece_r13_un_regulation_no-_13_-_rev-6_-_heavy_vehicle_braking_rev0_english]]
+- [[jurisdictions/jurisdiction-unece]]

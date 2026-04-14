@@ -1,44 +1,60 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S5.1.2 The requirements of this standard do not apply to a window whose minimum
   surface dimension measured through the center of its area is less than 8 inches.
 browse_buckets: []
 clause_path: s5-1-2
+comparison_key: f7d1d62d16fe5fba472b6b5261c89ae06f52879f
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-217
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-217-s5-1-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.217 Standard No. 217; Bus emergency exits and window retention
+  and release.
 phase: cross_phase
-primary_topic: requirements-this-standard
+primary_topic: s5-1-2-the-requirements-of-this-standard-do-not-apply-to-a-window-whose-minimum-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.217.xml
   source_hashes:
     raw/collections/xml_fmvss/571.217.xml: 08f70f21eff78ab0ab68d78b8dfeaefc7828e8b6ca5855d592951208514fc8f7
   source_url: null
+raw_marker: S5.1.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-217 / s5-1-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.217.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.217.xml: 08f70f21eff78ab0ab68d78b8dfeaefc7828e8b6ca5855d592951208514fc8f7
 source_url: null
 statement: S5.1.2 The requirements of this standard do not apply to a window whose
   minimum surface dimension measured through the center of its area is less than 8
   inches.
 status: draft
+subject: null
 summary: Regulation unit `s5-1-2` from xml_fmvss-571-217.
 title: S5.1.2 The requirements of this standard do not apply to a window whose minimum
   surface dimension measured through the c
@@ -56,7 +72,7 @@ S5.1.2 The requirements of this standard do not apply to a window whose minimum 
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: requirements-this-standard
+- primary_topic: s5-1-2-the-requirements-of-this-standard-do-not-apply-to-a-window-whose-minimum-
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -67,6 +83,7 @@ S5.1.2 The requirements of this standard do not apply to a window whose minimum 
 ## Authority
 - clause_path: s5-1-2
 - source_file: raw/collections/xml_fmvss/571.217.xml
+- source_citation: xml_fmvss-571-217 / s5-1-2
 - source_url: n/a
 - confidence: medium
 

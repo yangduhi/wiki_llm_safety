@@ -1,43 +1,59 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S13.1.1 Pre phase-in. Vehicles manufactured before September 1, 2028, are subject
   to S6.1.1, S6.2.1, S9.2.1, S9.2.2, S9.2.3, S9.5.1, and S12.1 of this standard.
-browse_buckets: []
+browse_buckets:
+- child_restraints
 clause_path: s13-1-1
+comparison_key: 2f642575506335fdc7530bdd1d9c3abb86502e7c
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-225
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-225-s13-1-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.225 Standard No. 225; Child restraint anchorage systems.
 phase: cross_phase
-primary_topic: phase-vehicles-manufactured
+primary_topic: s13-1-1-pre-phase-in-vehicles-manufactured-before-september-1-2028-are-subject-t
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.225.xml
   source_hashes:
     raw/collections/xml_fmvss/571.225.xml: ef95044ec799d141cec5e15e3e13ae81f153149334db1005d2ecf3f58b7255c6
   source_url: null
+raw_marker: S13.1.1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-225 / s13-1-1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.225.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.225.xml: ef95044ec799d141cec5e15e3e13ae81f153149334db1005d2ecf3f58b7255c6
 source_url: null
 statement: S13.1.1 Pre phase-in. Vehicles manufactured before September 1, 2028, are
   subject to S6.1.1, S6.2.1, S9.2.1, S9.2.2, S9.2.3, S9.5.1, and S12.1 of this standard.
 status: draft
+subject: null
 summary: Regulation unit `s13-1-1` from xml_fmvss-571-225.
 title: S13.1.1 Pre phase-in. Vehicles manufactured before September 1, 2028, are subject
   to S6.1.1, S6.2.1, S9.2.1, S9.2.2, S9.
@@ -54,10 +70,10 @@ S13.1.1 Pre phase-in. Vehicles manufactured before September 1, 2028, are subjec
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: phase-vehicles-manufactured
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: s13-1-1-pre-phase-in-vehicles-manufactured-before-september-1-2028-are-subject-t
 - secondary_topics: n/a
-- browse_buckets: n/a
+- browse_buckets: child_restraints
 - legacy_domain: needs_review
 
 ## Basis
@@ -66,6 +82,7 @@ S13.1.1 Pre phase-in. Vehicles manufactured before September 1, 2028, are subjec
 ## Authority
 - clause_path: s13-1-1
 - source_file: raw/collections/xml_fmvss/571.225.xml
+- source_citation: xml_fmvss-571-225 / s13-1-1
 - source_url: n/a
 - confidence: medium
 

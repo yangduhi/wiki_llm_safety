@@ -1,0 +1,95 @@
+---
+aliases: []
+attachment_bucket: short_value_rows
+attachment_section: 고전원전기장치 절연 안전성 등에 관한 기준(제18조의2 및 제18조의6제1항제3호 관련)
+basis: '다. 연료전지자동차의 고전압 직류회로는 절연저항이 100Ω/V 이하로 떨어질 경
+
+  우 운전자에게 경고를 줄 수 있도록 절연저항 감시시스템을 갖추어야 한다.'
+browse_buckets: []
+clause_path: 100-v-101
+comparison_key: 9cd574f9861d37c38e9fd08f5ddf9214eaa14fa4
+confidence: medium
+created: '2026-04-13'
+document_id: xml_kmvss-kmvss_att_0005_009
+document_kind: attachment
+effective_date: null
+functional_domain:
+- fire_electrical_and_energy_storage_safety
+id: regunit-xml_kmvss-kmvss_att_0005_009-100-v-101
+inherits_section_context: true
+inherits_subject_context: true
+is_attachment: true
+is_table_like_row: false
+jurisdiction: KR
+legacy_domain: needs_review
+line_index_end: 103
+line_index_start: 101
+note_type: regulation_unit
+page_end: null
+page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: 다. 연료전지자동차의 고전압 직류회로는 절연저항이 100Ω/V 이하로 떨어질 경
+phase: post_crash
+primary_topic: post_crash_electrical_safety
+provenance:
+  parser_run_id: 20260414T051134Z__dc745dc5
+  source_files:
+  - raw/collections/xml_kmvss/KMVSS_Att_0005_009.xml
+  source_hashes:
+    raw/collections/xml_kmvss/KMVSS_Att_0005_009.xml: 21579acfdc13e839bfa9c19b6cf83435af2009fa9b8622f797021953c53b4715
+  source_url: null
+raw_marker: 100-v-101
+record_layer: knowledge
+reference_articles:
+- 제18조의2
+- 제18조의6제1항제3호
+regulatory_layer: technical_requirement
+review_required: true
+row_group_id: group-24
+secondary_topics:
+- high_voltage
+- electrical_isolation
+- fuel
+sectno: 별표 0005
+source_citation: xml_kmvss-kmvss_att_0005_009 / 100-v-101
+source_collection: xml_kmvss
+source_url: null
+statement: 다. 연료전지자동차의 고전압 직류회로는 절연저항이 100Ω/V 이하로 떨어질 경
+status: draft
+subject: 고전원전기장치 절연 안전성 등에 관한 기준(제18조의2 및 제18조의6제1항제3호 관련)
+summary: Regulation unit `100-v-101` from xml_kmvss-kmvss_att_0005_009.
+title: 다. 연료전지자동차의 고전압 직류회로는 절연저항이 100Ω/V 이하로 떨어질 경
+updated: '2026-04-13'
+---
+
+# 다. 연료전지자동차의 고전압 직류회로는 절연저항이 100Ω/V 이하로 떨어질 경
+
+## Statement
+다. 연료전지자동차의 고전압 직류회로는 절연저항이 100Ω/V 이하로 떨어질 경
+
+## Classification
+- jurisdiction: KR
+- source_collection: xml_kmvss
+- regulatory_layer: technical_requirement
+- phase: post_crash
+- functional_domain: fire_electrical_and_energy_storage_safety
+- primary_topic: post_crash_electrical_safety
+- secondary_topics: high_voltage, electrical_isolation, fuel
+- browse_buckets: n/a
+- legacy_domain: needs_review
+
+## Basis
+다. 연료전지자동차의 고전압 직류회로는 절연저항이 100Ω/V 이하로 떨어질 경
+우 운전자에게 경고를 줄 수 있도록 절연저항 감시시스템을 갖추어야 한다.
+
+## Authority
+- clause_path: 100-v-101
+- source_file: raw/collections/xml_kmvss/KMVSS_Att_0005_009.xml
+- source_citation: xml_kmvss-kmvss_att_0005_009 / 100-v-101
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_kmvss-kmvss_att_0005_009]]
+- [[jurisdictions/jurisdiction-kr]]

@@ -1,75 +1,88 @@
 ---
 aliases: []
-basis: (2) The rear boundary of the survival space is the inside surface of the rear
-  wall of the occupant compartment of the vehicle.
+attachment_bucket: null
+attachment_section: null
+basis: (2) Buses that are not over-the-road buses, and that have a gross vehicle weight
+  rating (GVWR) greater than 11,793 kilograms (26,000 pounds).
 browse_buckets:
-- side_impact
-- rear_impact
-- occupant_restraints
-- occupant_compartment_integrity
+- rollover
 clause_path: '2'
+comparison_key: 98f91597cd3feab8fbfce14b7daa1956756e9b96
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-227
+document_kind: null
 effective_date: null
 functional_domain:
-- occupant_protection_and_restraints
+- other_or_review
 id: regunit-xml_fmvss-571-227-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: rear-boundary-survival
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.227 Standard No. 227; Bus rollover structural integrity.
+phase: cross_phase
+primary_topic: 2-buses-that-are-not-over-the-road-buses-and-that-have-a-gross-vehicle-weight-ra
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.227.xml
   source_hashes:
     raw/collections/xml_fmvss/571.227.xml: 25d8a878ddb16d9e3be4d95f6a8328973f523df39656f7e8b9de43d27ee9215b
   source_url: null
+raw_marker: (2)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-227 / 2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.227.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.227.xml: 25d8a878ddb16d9e3be4d95f6a8328973f523df39656f7e8b9de43d27ee9215b
 source_url: null
-statement: (2) The rear boundary of the survival space is the inside surface of the
-  rear wall of the occupant compartment of the vehicle.
+statement: (2) Buses that are not over-the-road buses, and that have a gross vehicle
+  weight rating (GVWR) greater than 11,793 kilograms (26,000 pounds).
 status: draft
+subject: null
 summary: Regulation unit `2` from xml_fmvss-571-227.
-title: (2) The rear boundary of the survival space is the inside surface of the rear
-  wall of the occupant compartment of the ve
+title: (2) Buses that are not over-the-road buses, and that have a gross vehicle weight
+  rating (GVWR) greater than 11,793 kilog
 updated: '2026-04-13'
 ---
 
-# (2) The rear boundary of the survival space is the inside surface of the rear wall of the occupant compartment of the ve
+# (2) Buses that are not over-the-road buses, and that have a gross vehicle weight rating (GVWR) greater than 11,793 kilog
 
 ## Statement
-(2) The rear boundary of the survival space is the inside surface of the rear wall of the occupant compartment of the vehicle.
+(2) Buses that are not over-the-road buses, and that have a gross vehicle weight rating (GVWR) greater than 11,793 kilograms (26,000 pounds).
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
-- functional_domain: occupant_protection_and_restraints
-- primary_topic: rear-boundary-survival
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: 2-buses-that-are-not-over-the-road-buses-and-that-have-a-gross-vehicle-weight-ra
 - secondary_topics: n/a
-- browse_buckets: side_impact, rear_impact, occupant_restraints, occupant_compartment_integrity
-- legacy_domain: passive_crash
+- browse_buckets: rollover
+- legacy_domain: needs_review
 
 ## Basis
-(2) The rear boundary of the survival space is the inside surface of the rear wall of the occupant compartment of the vehicle.
+(2) Buses that are not over-the-road buses, and that have a gross vehicle weight rating (GVWR) greater than 11,793 kilograms (26,000 pounds).
 
 ## Authority
 - clause_path: 2
 - source_file: raw/collections/xml_fmvss/571.227.xml
+- source_citation: xml_fmvss-571-227 / 2
 - source_url: n/a
 - confidence: medium
 

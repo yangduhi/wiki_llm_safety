@@ -1,55 +1,70 @@
 ---
 aliases: []
-basis: '(c) If the resonance frequency is not found, the test shall be conducted at
-  any frequency between 35 Hz and 45 Hz.
-
-  [90 FR 6281, Jan. 17, 2025]'
+attachment_bucket: null
+attachment_section: null
+basis: (c) A TPRD subjected to temperature cycling testing in accordance with S6.2.6.1.3
+  of this standard shall be sequentially tested in accordance with S6.2.6.1.8(a)(3),
+  S6.2.6.1.9, and S6.2.6.1.10 of this standard;
 browse_buckets: []
 clause_path: c
+comparison_key: 6fff2614e5ed05bebf4860867663ad2c82e8df8c
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-308
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-308-c
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.308 Standard No. 308; Compressed hydrogen storage system integrity.
 phase: cross_phase
-primary_topic: resonance-frequency-found
+primary_topic: c-a-tprd-subjected-to-temperature-cycling-testing-in-accordance-with-s6-2-6-1-3-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.308.xml
   source_hashes:
     raw/collections/xml_fmvss/571.308.xml: f375b76f2d4090cb38b3efbdc5e5a036f470f133944d5c4476a7e5ad568ee4d8
   source_url: null
+raw_marker: (c)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-308 / c
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.308.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.308.xml: f375b76f2d4090cb38b3efbdc5e5a036f470f133944d5c4476a7e5ad568ee4d8
 source_url: null
-statement: (c) If the resonance frequency is not found, the test shall be conducted
-  at any frequency between 35 Hz and 45 Hz.
+statement: (c) A TPRD subjected to temperature cycling testing in accordance with
+  S6.2.6.1.3 of this standard shall be sequentially tested in accordance with S6.2.6.1.8(a)(3),
+  S6.2.6.1.9, and S6.2.6.1.10 of this standard;
 status: draft
+subject: null
 summary: Regulation unit `c` from xml_fmvss-571-308.
-title: (c) If the resonance frequency is not found, the test shall be conducted at
-  any frequency between 35 Hz and 45 Hz.
+title: (c) A TPRD subjected to temperature cycling testing in accordance with S6.2.6.1.3
+  of this standard shall be sequentially
 updated: '2026-04-13'
 ---
 
-# (c) If the resonance frequency is not found, the test shall be conducted at any frequency between 35 Hz and 45 Hz.
+# (c) A TPRD subjected to temperature cycling testing in accordance with S6.2.6.1.3 of this standard shall be sequentially
 
 ## Statement
-(c) If the resonance frequency is not found, the test shall be conducted at any frequency between 35 Hz and 45 Hz.
+(c) A TPRD subjected to temperature cycling testing in accordance with S6.2.6.1.3 of this standard shall be sequentially tested in accordance with S6.2.6.1.8(a)(3), S6.2.6.1.9, and S6.2.6.1.10 of this standard;
 
 ## Classification
 - jurisdiction: US
@@ -57,18 +72,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: resonance-frequency-found
+- primary_topic: c-a-tprd-subjected-to-temperature-cycling-testing-in-accordance-with-s6-2-6-1-3-
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(c) If the resonance frequency is not found, the test shall be conducted at any frequency between 35 Hz and 45 Hz.
-[90 FR 6281, Jan. 17, 2025]
+(c) A TPRD subjected to temperature cycling testing in accordance with S6.2.6.1.3 of this standard shall be sequentially tested in accordance with S6.2.6.1.8(a)(3), S6.2.6.1.9, and S6.2.6.1.10 of this standard;
 
 ## Authority
 - clause_path: c
 - source_file: raw/collections/xml_fmvss/571.308.xml
+- source_citation: xml_fmvss-571-308 / c
 - source_url: n/a
 - confidence: medium
 

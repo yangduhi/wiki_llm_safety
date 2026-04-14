@@ -1,53 +1,71 @@
 ---
 aliases: []
-basis: (2) actuation devices for closing power-operated windows, partitions, or roof
-  panels which comply with paragraph S5.
+attachment_bucket: null
+attachment_section: null
+basis: (2) Apply a force not to exceed 135 Newtons (30 pounds) through the geometric
+  center of the sphere. This force may be applied at any angle with respect to the
+  actuation device.
 browse_buckets: []
 clause_path: '2'
+comparison_key: 7ee539725ca5bf97330188b242371e7dfd133a97
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-118
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-118-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.118 Standard No. 118; Power-operated window, partition, and roof
+  panel systems.
 phase: cross_phase
-primary_topic: actuation-devices-closing
+primary_topic: 2-apply-a-force-not-to-exceed-135-newtons-30-pounds-through-the-geometric-center
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.118.xml
   source_hashes:
     raw/collections/xml_fmvss/571.118.xml: 691eb6623eb26593b5fcb61a901e368c5b8ca723b41fcdc0d491746749a97ad1
   source_url: null
+raw_marker: (2)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-118 / 2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.118.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.118.xml: 691eb6623eb26593b5fcb61a901e368c5b8ca723b41fcdc0d491746749a97ad1
 source_url: null
-statement: (2) actuation devices for closing power-operated windows, partitions, or
-  roof panels which comply with paragraph S5.
+statement: (2) Apply a force not to exceed 135 Newtons (30 pounds) through the geometric
+  center of the sphere. This force may be applied at any angle with respect to the
+  actuation device.
 status: draft
+subject: null
 summary: Regulation unit `2` from xml_fmvss-571-118.
-title: (2) actuation devices for closing power-operated windows, partitions, or roof
-  panels which comply with paragraph S5.
+title: (2) Apply a force not to exceed 135 Newtons (30 pounds) through the geometric
+  center of the sphere. This force may be ap
 updated: '2026-04-13'
 ---
 
-# (2) actuation devices for closing power-operated windows, partitions, or roof panels which comply with paragraph S5.
+# (2) Apply a force not to exceed 135 Newtons (30 pounds) through the geometric center of the sphere. This force may be ap
 
 ## Statement
-(2) actuation devices for closing power-operated windows, partitions, or roof panels which comply with paragraph S5.
+(2) Apply a force not to exceed 135 Newtons (30 pounds) through the geometric center of the sphere. This force may be applied at any angle with respect to the actuation device.
 
 ## Classification
 - jurisdiction: US
@@ -55,17 +73,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: actuation-devices-closing
+- primary_topic: 2-apply-a-force-not-to-exceed-135-newtons-30-pounds-through-the-geometric-center
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(2) actuation devices for closing power-operated windows, partitions, or roof panels which comply with paragraph S5.
+(2) Apply a force not to exceed 135 Newtons (30 pounds) through the geometric center of the sphere. This force may be applied at any angle with respect to the actuation device.
 
 ## Authority
 - clause_path: 2
 - source_file: raw/collections/xml_fmvss/571.118.xml
+- source_citation: xml_fmvss-571-118 / 2
 - source_url: n/a
 - confidence: medium
 

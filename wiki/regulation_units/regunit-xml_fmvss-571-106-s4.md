@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S4. Definitions.
 
   Armor means protective material installed on a brake hose to increase the resistance
@@ -37,41 +39,55 @@ basis: 'S4. Definitions.
   tubing to metal tubing in a brake system, (ii) is attached without end fittings,
   and (iii) when installed, has an unsupported length less than the total length of
   those portions that cover the metal tubing.'
-browse_buckets: []
+browse_buckets:
+- side_impact
 clause_path: s4
+comparison_key: 976f5131d8cc836302009bdb99ca049d1f59c80f
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-106
+document_kind: null
 effective_date: null
 functional_domain:
-- crash_avoidance_and_vehicle_control
+- other_or_review
 id: regunit-xml_fmvss-571-106-s4
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: definitions-definitions-definitions
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.106 Standard No. 106; Brake hoses.
+phase: cross_phase
+primary_topic: s4-definitions
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.106.xml
   source_hashes:
     raw/collections/xml_fmvss/571.106.xml: d65d321084536dd5193418028d4c0dc7e9cd222aa4dac14dfeb8fc93d7b9e5d4
   source_url: null
+raw_marker: S4
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-106 / s4
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.106.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.106.xml: d65d321084536dd5193418028d4c0dc7e9cd222aa4dac14dfeb8fc93d7b9e5d4
 source_url: null
 statement: S4. Definitions.
 status: draft
+subject: null
 summary: Regulation unit `s4` from xml_fmvss-571-106.
 title: S4. Definitions.
 updated: '2026-04-13'
@@ -86,12 +102,12 @@ S4. Definitions.
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
-- functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: definitions-definitions-definitions
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: s4-definitions
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: active_safety
+- browse_buckets: side_impact
+- legacy_domain: needs_review
 
 ## Basis
 S4. Definitions.
@@ -108,6 +124,7 @@ Vacuum tubing connector means a flexible conduit of vacuum that (i) connects met
 ## Authority
 - clause_path: s4
 - source_file: raw/collections/xml_fmvss/571.106.xml
+- source_citation: xml_fmvss-571-106 / s4
 - source_url: n/a
 - confidence: medium
 

@@ -1,43 +1,59 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S7.2 Stationary vehicle in reverse gear. Test the vehicle per S7.1.1 through
   S7.1.5 except that the rear plane of the vehicle is placed on the PP' line, no center
   microphone is used, and the vehicle's transmission gear selector is placed in the
   `Reverse' position. The minimum sound level requirements for the Reverse test condition
   are contained in S5.1.2, Table 2, for four-band compliance and in S5.2, Table 6,
   for two-band compliance.
-browse_buckets: []
+browse_buckets:
+- rear_impact
 clause_path: s7-2
+comparison_key: af3af7e87d6f86146f193bd0f305e255e31e14bf
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-141
+document_kind: null
 effective_date: null
 functional_domain:
 - crash_avoidance_and_vehicle_control
 id: regunit-xml_fmvss-571-141-s7-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: stationary-vehicle-reverse
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.141 Standard No. 141; Minimum Sound Requirements for Hybrid and
+  Electric Vehicles.
+phase: cross_phase
+primary_topic: s7-2-stationary-vehicle-in-reverse-gear-test-the-vehicle-per-s7-1-1-through-s7-1
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.141.xml
   source_hashes:
     raw/collections/xml_fmvss/571.141.xml: b81e399b4d036d5d89bfa9bf46476e304c17132dcb803dc56927b3eda115b479
   source_url: null
+raw_marker: S7.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-141 / s7-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.141.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.141.xml: b81e399b4d036d5d89bfa9bf46476e304c17132dcb803dc56927b3eda115b479
 source_url: null
 statement: S7.2 Stationary vehicle in reverse gear. Test the vehicle per S7.1.1 through
   S7.1.5 except that the rear plane of the vehicle is placed on the PP' line, no center
@@ -46,6 +62,7 @@ statement: S7.2 Stationary vehicle in reverse gear. Test the vehicle per S7.1.1 
   are contained in S5.1.2, Table 2, for four-band compliance and in S5.2, Table 6,
   for two-band compliance.
 status: draft
+subject: null
 summary: Regulation unit `s7-2` from xml_fmvss-571-141.
 title: S7.2 Stationary vehicle in reverse gear. Test the vehicle per S7.1.1 through
   S7.1.5 except that the rear plane of the ve
@@ -61,12 +78,12 @@ S7.2 Stationary vehicle in reverse gear. Test the vehicle per S7.1.1 through S7.
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
+- phase: cross_phase
 - functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: stationary-vehicle-reverse
+- primary_topic: s7-2-stationary-vehicle-in-reverse-gear-test-the-vehicle-per-s7-1-1-through-s7-1
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: active_safety
+- browse_buckets: rear_impact
+- legacy_domain: needs_review
 
 ## Basis
 S7.2 Stationary vehicle in reverse gear. Test the vehicle per S7.1.1 through S7.1.5 except that the rear plane of the vehicle is placed on the PP' line, no center microphone is used, and the vehicle's transmission gear selector is placed in the `Reverse' position. The minimum sound level requirements for the Reverse test condition are contained in S5.1.2, Table 2, for four-band compliance and in S5.2, Table 6, for two-band compliance.
@@ -74,6 +91,7 @@ S7.2 Stationary vehicle in reverse gear. Test the vehicle per S7.1.1 through S7.
 ## Authority
 - clause_path: s7-2
 - source_file: raw/collections/xml_fmvss/571.141.xml
+- source_citation: xml_fmvss-571-141 / s7-2
 - source_url: n/a
 - confidence: medium
 

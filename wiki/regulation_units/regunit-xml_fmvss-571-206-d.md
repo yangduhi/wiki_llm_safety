@@ -1,75 +1,86 @@
 ---
 aliases: []
-basis: (d) Maintain each force application device load as specified in paragraph (c)
-  and within 30 seconds measure the separation between the exterior edge of the doorframe
-  and the interior of the door along the perimeter of the door.
+attachment_bucket: null
+attachment_section: null
+basis: (d) For back doors,
 browse_buckets:
 - door_retention
 clause_path: d
+comparison_key: 94ddb628698e8fb4155f0dec607b7342fc6e40ce
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-206
+document_kind: null
 effective_date: null
 functional_domain:
 - structural_integrity_retention_and_egress
 id: regunit-xml_fmvss-571-206-d
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: maintain-each-force
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.206 Standard No. 206; Door locks and door retention components.
+phase: in_crash
+primary_topic: door_retention
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.206.xml
   source_hashes:
     raw/collections/xml_fmvss/571.206.xml: 49c7d11279595462bf14f3c587a271bb5a8c8c17e93dbaedbb0224931f840804
   source_url: null
+raw_marker: (d)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - doors
+sectno: null
+source_citation: xml_fmvss-571-206 / d
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.206.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.206.xml: 49c7d11279595462bf14f3c587a271bb5a8c8c17e93dbaedbb0224931f840804
 source_url: null
-statement: (d) Maintain each force application device load as specified in paragraph
-  (c) and within 30 seconds measure the separation between the exterior edge of the
-  doorframe and the interior of the door along the perimeter of the door.
+statement: (d) For back doors,
 status: draft
+subject: null
 summary: Regulation unit `d` from xml_fmvss-571-206.
-title: (d) Maintain each force application device load as specified in paragraph (c)
-  and within 30 seconds measure the separati
+title: (d) For back doors,
 updated: '2026-04-13'
 ---
 
-# (d) Maintain each force application device load as specified in paragraph (c) and within 30 seconds measure the separati
+# (d) For back doors,
 
 ## Statement
-(d) Maintain each force application device load as specified in paragraph (c) and within 30 seconds measure the separation between the exterior edge of the doorframe and the interior of the door along the perimeter of the door.
+(d) For back doors,
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
+- phase: in_crash
 - functional_domain: structural_integrity_retention_and_egress
-- primary_topic: maintain-each-force
+- primary_topic: door_retention
 - secondary_topics: doors
 - browse_buckets: door_retention
-- legacy_domain: needs_review
+- legacy_domain: passive_crash
 
 ## Basis
-(d) Maintain each force application device load as specified in paragraph (c) and within 30 seconds measure the separation between the exterior edge of the doorframe and the interior of the door along the perimeter of the door.
+(d) For back doors,
 
 ## Authority
 - clause_path: d
 - source_file: raw/collections/xml_fmvss/571.206.xml
+- source_citation: xml_fmvss-571-206 / d
 - source_url: n/a
 - confidence: medium
 

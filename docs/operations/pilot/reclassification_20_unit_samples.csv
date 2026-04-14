@@ -1,0 +1,61 @@
+calibration_id,unit_sample_id,unit_label,source_locator,document_selected_phase,selected_phase,rejected_alternative_phase,authority_source,note
+us-fmvss-111,us-fmvss-111-u1,mirror visibility requirement,visibility_clause,pre_crash,pre_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Rear visibility keeps pre-crash intent at unit level.
+us-fmvss-111,us-fmvss-111-u2,field of view performance,test_clause,pre_crash,pre_crash,in_crash,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Driver awareness before impact dominates.
+us-fmvss-111,us-fmvss-111-u3,indirect vision support,equipment_clause,pre_crash,pre_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,No crash-phase obligation dominates.
+us-fmvss-126,us-fmvss-126-u1,yaw stability control logic,control_clause,pre_crash,pre_crash,in_crash,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Control and avoidance intent dominates before impact.
+us-fmvss-126,us-fmvss-126-u2,test maneuver threshold,test_clause,pre_crash,pre_crash,in_crash,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Test exists to validate pre-crash control.
+us-fmvss-126,us-fmvss-126-u3,malfunction telltale,warning_clause,pre_crash,pre_crash,non_phase_admin,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Warning behavior still supports pre-crash control.
+unece-r131,unece-r131-u1,collision warning timing,warning_clause,pre_crash,pre_crash,in_crash,https://unece.org/,Warning and intervention happen before impact.
+unece-r131,unece-r131-u2,automatic braking trigger,trigger_clause,pre_crash,pre_crash,in_crash,https://unece.org/,Braking trigger is pre-collision intervention.
+unece-r131,unece-r131-u3,system performance validation,test_clause,pre_crash,pre_crash,in_crash,https://unece.org/,Test validates pre-crash safety function.
+unece-r152,unece-r152-u1,pedestrian detection response,detection_clause,pre_crash,pre_crash,in_crash,https://unece.org/,Detection and response remain pre-crash.
+unece-r152,unece-r152-u2,braking system activation,activation_clause,pre_crash,pre_crash,in_crash,https://unece.org/,Activation occurs before collision.
+unece-r152,unece-r152-u3,minimum system performance,performance_clause,pre_crash,pre_crash,in_crash,https://unece.org/,Performance target is impact avoidance.
+us-fmvss-208,us-fmvss-208-u1,seat belt performance,restraint_clause,in_crash,in_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Restraint performance is crash-event dominant.
+us-fmvss-208,us-fmvss-208-u2,dummy injury criteria,injury_clause,in_crash,in_crash,post_crash,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Injury criteria are measured during crash.
+us-fmvss-208,us-fmvss-208-u3,airbag deployment requirement,deployment_clause,in_crash,in_crash,pre_crash,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Deployment is tied to impact response.
+us-fmvss-206,us-fmvss-206-u1,door latch strength,retention_clause,in_crash,in_crash,post_crash,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Retention in crash dominates.
+us-fmvss-206,us-fmvss-206-u2,hinge integrity,hinge_clause,in_crash,in_crash,post_crash,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Structural integrity is crash-phase dominant.
+us-fmvss-206,us-fmvss-206-u3,inertial opening prevention,opening_clause,in_crash,in_crash,post_crash,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Preventing opening during crash dominates.
+us-fmvss-214,us-fmvss-214-u1,side impact barrier performance,barrier_clause,in_crash,in_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Side-impact loading is central.
+us-fmvss-214,us-fmvss-214-u2,occupant injury metric,injury_clause,in_crash,in_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Occupant injury response is crash-time.
+us-fmvss-214,us-fmvss-214-u3,lateral structural response,structure_clause,in_crash,in_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Lateral crash response dominates.
+us-fmvss-226,us-fmvss-226-u1,ejection mitigation deployment,deployment_clause,in_crash,in_crash,post_crash,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Mitigation is tied to crash kinematics.
+us-fmvss-226,us-fmvss-226-u2,side curtain interaction,curtain_clause,in_crash,in_crash,post_crash,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Occupant retention during crash dominates.
+us-fmvss-226,us-fmvss-226-u3,ejection test protocol,test_clause,in_crash,in_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Test validates in-crash mitigation behavior.
+unece-r94,unece-r94-u1,frontal crash pulse,test_clause,in_crash,in_crash,cross_phase,https://unece.org/,Frontal crash pulse is in-crash evidence.
+unece-r94,unece-r94-u2,occupant injury criterion,injury_clause,in_crash,in_crash,cross_phase,https://unece.org/,Injury criterion is crash-phase.
+unece-r94,unece-r94-u3,restraint interaction,restraint_clause,in_crash,in_crash,cross_phase,https://unece.org/,Restraint interaction is measured in collision.
+unece-r95,unece-r95-u1,lateral collision test,test_clause,in_crash,in_crash,cross_phase,https://unece.org/,Side collision test is crash-phase.
+unece-r95,unece-r95-u2,occupant loading metric,injury_clause,in_crash,in_crash,cross_phase,https://unece.org/,Occupant loading occurs in impact.
+unece-r95,unece-r95-u3,side protection structure,structure_clause,in_crash,in_crash,cross_phase,https://unece.org/,Protective structure is crash-dominant.
+us-fmvss-302,us-fmvss-302-u1,burn rate limit,material_clause,post_crash,post_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Flame spread after crash is the key concern.
+us-fmvss-302,us-fmvss-302-u2,interior specimen test,test_clause,post_crash,post_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Test exists to limit post-crash cabin fire risk.
+us-fmvss-302,us-fmvss-302-u3,flame propagation threshold,threshold_clause,post_crash,post_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Threshold supports post-crash fire stability.
+us-fmvss-305a,us-fmvss-305a-u1,electrolyte spillage limit,spillage_clause,post_crash,post_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Spillage after crash is post-crash dominant.
+us-fmvss-305a,us-fmvss-305a-u2,isolation resistance,isolation_clause,post_crash,post_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Isolation after crash is post-crash electrical safety.
+us-fmvss-305a,us-fmvss-305a-u3,electrical shock protection,shock_clause,post_crash,post_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,Shock protection after collision remains post-crash.
+kr-kmvss-art-112-186,kr-kmvss-art-112-186-u1,구동축전지 고전압 안정성,high_voltage_clause,post_crash,post_crash,cross_phase,https://www.law.go.kr/,고전압 안정성은 충돌 후 전기 안전성이 중심이다.
+kr-kmvss-art-112-186,kr-kmvss-art-112-186-u2,전해액 누출 방지,spillage_clause,post_crash,post_crash,cross_phase,https://www.law.go.kr/,전해액 누출 방지는 충돌 후 안전 확보가 중심이다.
+kr-kmvss-art-112-186,kr-kmvss-art-112-186-u3,절연 유지,insulation_clause,post_crash,post_crash,cross_phase,https://www.law.go.kr/,절연 유지 요구는 post-crash 전기 안전으로 본다.
+unece-r100,unece-r100-u1,electric shock protection,shock_clause,post_crash,post_crash,cross_phase,https://unece.org/,Shock protection is post-crash dominant at clause level.
+unece-r100,unece-r100-u2,energy storage retention,energy_storage_clause,post_crash,post_crash,cross_phase,https://unece.org/,Energy storage safety after collision dominates.
+unece-r100,unece-r100-u3,post-crash isolation,isolation_clause,post_crash,post_crash,cross_phase,https://unece.org/,Isolation after crash remains post-crash.
+unece-r144,unece-r144-u1,accident trigger,trigger_clause,post_crash,post_crash,non_phase_admin,https://unece.org/,Emergency call starts after the crash event.
+unece-r144,unece-r144-u2,minimum data set,data_clause,post_crash,post_crash,non_phase_admin,https://unece.org/,Data transmission is tied to post-crash response.
+unece-r144,unece-r144-u3,call performance,performance_clause,post_crash,post_crash,non_phase_admin,https://unece.org/,System performance is evaluated for post-crash communication.
+us-fmvss-205,us-fmvss-205-u1,driver visibility requirement,visibility_clause,cross_phase,pre_crash,cross_phase,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.205,Visibility clause is pre-crash at unit level.
+us-fmvss-205,us-fmvss-205-u2,retention and ejection safety,retention_clause,cross_phase,in_crash,pre_crash,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.205,Retention/ejection safety is in-crash at unit level.
+us-fmvss-205,us-fmvss-205-u3,material standard umbrella,material_clause,cross_phase,cross_phase,pre_crash,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.205,Material standard remains cross-phase if not separable.
+eu-2019-2144,eu-2019-2144-u1,adas mandate,adas_clause,cross_phase,pre_crash,cross_phase,https://eur-lex.europa.eu/eli/reg/2019/2144/oj/eng,ADAS clause is pre-crash at unit level.
+eu-2019-2144,eu-2019-2144-u2,occupant protection requirement,occupant_clause,cross_phase,in_crash,pre_crash,https://eur-lex.europa.eu/eli/reg/2019/2144/oj/eng,Occupant protection clause is in-crash at unit level.
+eu-2019-2144,eu-2019-2144-u3,edr or emergency response clause,post_clause,cross_phase,post_crash,in_crash,https://eur-lex.europa.eu/eli/reg/2019/2144/oj/eng,Post-crash clause should not stay umbrella at unit level.
+kr-performance-rule,kr-performance-rule-u1,aeb-related article,pre_clause,cross_phase,pre_crash,in_crash,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270023,AEB-type article is pre-crash at unit level.
+kr-performance-rule,kr-performance-rule-u2,occupant protection article,in_clause,cross_phase,in_crash,pre_crash,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270023,Occupant protection article is in-crash at unit level.
+kr-performance-rule,kr-performance-rule-u3,ev battery safety article,post_clause,cross_phase,post_crash,cross_phase,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270023,EV battery safety article is post-crash at unit level.
+eu-2018-858,eu-2018-858-u1,type approval issuance,approval_clause,non_phase_admin,non_phase_admin,cross_phase,https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0858-20221206,Approval issuance is administrative.
+eu-2018-858,eu-2018-858-u2,market surveillance,surveillance_clause,non_phase_admin,non_phase_admin,cross_phase,https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0858-20221206,Market surveillance is administrative.
+eu-2018-858,eu-2018-858-u3,conformity obligation,conformity_clause,non_phase_admin,non_phase_admin,cross_phase,https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0858-20221206,Conformity obligation is administrative.
+unece-1958,unece-1958-u1,mutual recognition,recognition_clause,non_phase_admin,non_phase_admin,cross_phase,https://unece.org/sites/default/files/2023-12/WP.29-191-12e.pdf,Mutual recognition is governance-level.
+unece-1958,unece-1958-u2,approval authority role,authority_clause,non_phase_admin,non_phase_admin,cross_phase,https://unece.org/sites/default/files/2023-12/WP.29-191-12e.pdf,Authority role is administrative governance.
+unece-1958,unece-1958-u3,contracting party obligation,contracting_party_clause,non_phase_admin,non_phase_admin,cross_phase,https://unece.org/sites/default/files/2023-12/WP.29-191-12e.pdf,Contracting party obligations are framework-level.

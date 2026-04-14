@@ -1,41 +1,57 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S5. Requirements.
-browse_buckets: []
+browse_buckets:
+- rear_impact
 clause_path: s5
+comparison_key: 5af7f6b52daab1ef0ef1fdc4719a9a1cc67799bd
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-224
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-224-s5
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.224 Standard No. 224; Rear impact protection.
 phase: cross_phase
-primary_topic: requirements-requirements-requirements
+primary_topic: s5-requirements
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.224.xml
   source_hashes:
     raw/collections/xml_fmvss/571.224.xml: a1ecf2c84abf34f79a85e81cfa660060d735851ee91690fbd56175515fae4dd7
   source_url: null
+raw_marker: S5
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-224 / s5
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.224.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.224.xml: a1ecf2c84abf34f79a85e81cfa660060d735851ee91690fbd56175515fae4dd7
 source_url: null
 statement: S5. Requirements.
 status: draft
+subject: null
 summary: Regulation unit `s5` from xml_fmvss-571-224.
 title: S5. Requirements.
 updated: '2026-04-13'
@@ -52,9 +68,9 @@ S5. Requirements.
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: requirements-requirements-requirements
+- primary_topic: s5-requirements
 - secondary_topics: n/a
-- browse_buckets: n/a
+- browse_buckets: rear_impact
 - legacy_domain: needs_review
 
 ## Basis
@@ -63,6 +79,7 @@ S5. Requirements.
 ## Authority
 - clause_path: s5
 - source_file: raw/collections/xml_fmvss/571.224.xml
+- source_citation: xml_fmvss-571-224 / s5
 - source_url: n/a
 - confidence: medium
 

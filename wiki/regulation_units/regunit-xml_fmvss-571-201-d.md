@@ -1,74 +1,94 @@
 ---
 aliases: []
-basis: (d) Target DF4. Locate a horizontal plane (Plane 36) half-way between Plane
-  34 and Plane 35. Target DF4 is the point located in Plane 36 and on the interior
-  surface of the door frame that is closest to CG-R for the nearest seating position.
-browse_buckets: []
+attachment_bucket: null
+attachment_section: null
+basis: (d) If the steering control is present, areas outboard of any point of tangency
+  on the instrument panel of a 165 mm diameter head form tangent to and inboard of
+  a vertical longitudinal plane tangent to the inboard edge of the steering control;
+  or
+browse_buckets:
+- occupant_restraints
+- head_impact
+- steering_control
 clause_path: d
+comparison_key: 95fa2c2d99682f9ae09f5c9186ce98abc4673ebe
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-201
+document_kind: null
 effective_date: null
 functional_domain:
 - crash_avoidance_and_vehicle_control
 id: regunit-xml_fmvss-571-201-d
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: target-locate-horizontal
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.201 Standard No. 201; Occupant protection in interior impact.
+phase: in_crash
+primary_topic: d-if-the-steering-control-is-present-areas-outboard-of-any-point-of-tangency-on-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.201.xml
   source_hashes:
     raw/collections/xml_fmvss/571.201.xml: 3d6892280e12b52cee800b97b7828f6f5913b18fb5f64dc19f61210284212ac8
   source_url: null
+raw_marker: (d)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics:
-- doors
+row_group_id: null
+secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-201 / d
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.201.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.201.xml: 3d6892280e12b52cee800b97b7828f6f5913b18fb5f64dc19f61210284212ac8
 source_url: null
-statement: (d) Target DF4. Locate a horizontal plane (Plane 36) half-way between Plane
-  34 and Plane 35. Target DF4 is the point located in Plane 36 and on the interior
-  surface of the door frame that is closest to CG-R for the nearest seating position.
+statement: (d) If the steering control is present, areas outboard of any point of
+  tangency on the instrument panel of a 165 mm diameter head form tangent to and inboard
+  of a vertical longitudinal plane tangent to the inboard edge of the steering control;
+  or
 status: draft
+subject: null
 summary: Regulation unit `d` from xml_fmvss-571-201.
-title: (d) Target DF4. Locate a horizontal plane (Plane 36) half-way between Plane
-  34 and Plane 35. Target DF4 is the point loc
+title: (d) If the steering control is present, areas outboard of any point of tangency
+  on the instrument panel of a 165 mm diam
 updated: '2026-04-13'
 ---
 
-# (d) Target DF4. Locate a horizontal plane (Plane 36) half-way between Plane 34 and Plane 35. Target DF4 is the point loc
+# (d) If the steering control is present, areas outboard of any point of tangency on the instrument panel of a 165 mm diam
 
 ## Statement
-(d) Target DF4. Locate a horizontal plane (Plane 36) half-way between Plane 34 and Plane 35. Target DF4 is the point located in Plane 36 and on the interior surface of the door frame that is closest to CG-R for the nearest seating position.
+(d) If the steering control is present, areas outboard of any point of tangency on the instrument panel of a 165 mm diameter head form tangent to and inboard of a vertical longitudinal plane tangent to the inboard edge of the steering control; or
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
+- phase: in_crash
 - functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: target-locate-horizontal
-- secondary_topics: doors
-- browse_buckets: n/a
-- legacy_domain: active_safety
+- primary_topic: d-if-the-steering-control-is-present-areas-outboard-of-any-point-of-tangency-on-
+- secondary_topics: n/a
+- browse_buckets: occupant_restraints, head_impact, steering_control
+- legacy_domain: passive_crash
 
 ## Basis
-(d) Target DF4. Locate a horizontal plane (Plane 36) half-way between Plane 34 and Plane 35. Target DF4 is the point located in Plane 36 and on the interior surface of the door frame that is closest to CG-R for the nearest seating position.
+(d) If the steering control is present, areas outboard of any point of tangency on the instrument panel of a 165 mm diameter head form tangent to and inboard of a vertical longitudinal plane tangent to the inboard edge of the steering control; or
 
 ## Authority
 - clause_path: d
 - source_file: raw/collections/xml_fmvss/571.201.xml
+- source_citation: xml_fmvss-571-201 / d
 - source_url: n/a
 - confidence: medium
 

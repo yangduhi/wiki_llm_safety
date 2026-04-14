@@ -1,41 +1,59 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S4.4 Requirements for assembly performance.
-browse_buckets: []
+browse_buckets:
+- occupant_restraints
+- seat_systems
 clause_path: s4-4
+comparison_key: 844bb4d0ba1c44f968e63e0779d23d6b2807e484
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-209
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-209-s4-4
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.209 Standard No. 209; Seat belt assemblies.
 phase: cross_phase
-primary_topic: requirements-assembly-performance
+primary_topic: s4-4-requirements-for-assembly-performance
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.209.xml
   source_hashes:
     raw/collections/xml_fmvss/571.209.xml: e26e250f0b7090e9729431ec45532f14d578a238e93d8bbce26e7fa3d774e825
   source_url: null
+raw_marker: S4.4
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics: []
+row_group_id: null
+secondary_topics:
+- seat_belts
+sectno: null
+source_citation: xml_fmvss-571-209 / s4-4
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.209.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.209.xml: e26e250f0b7090e9729431ec45532f14d578a238e93d8bbce26e7fa3d774e825
 source_url: null
 statement: S4.4 Requirements for assembly performance.
 status: draft
+subject: null
 summary: Regulation unit `s4-4` from xml_fmvss-571-209.
 title: S4.4 Requirements for assembly performance.
 updated: '2026-04-13'
@@ -51,10 +69,10 @@ S4.4 Requirements for assembly performance.
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: requirements-assembly-performance
-- secondary_topics: n/a
-- browse_buckets: n/a
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: s4-4-requirements-for-assembly-performance
+- secondary_topics: seat_belts
+- browse_buckets: occupant_restraints, seat_systems
 - legacy_domain: needs_review
 
 ## Basis
@@ -63,6 +81,7 @@ S4.4 Requirements for assembly performance.
 ## Authority
 - clause_path: s4-4
 - source_file: raw/collections/xml_fmvss/571.209.xml
+- source_citation: xml_fmvss-571-209 / s4-4
 - source_url: n/a
 - confidence: medium
 

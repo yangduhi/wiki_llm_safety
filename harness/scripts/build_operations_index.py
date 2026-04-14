@@ -14,6 +14,7 @@ BUCKETS = {
     "Plans": ("docs", "operations", "plans"),
     "Dashboards": ("docs", "operations", "dashboards"),
     "Notes": ("docs", "operations", "notes"),
+    "Graph Operations": ("docs",),
     "Pilot": ("docs", "operations", "pilot"),
     "Risks": ("docs", "operations", "risks"),
     "Archive": ("docs", "operations", "archive"),
@@ -26,6 +27,10 @@ class Entry:
     rel: str
     summary: str
     status: str
+
+
+def fallback_title(path: Path) -> str:
+    return path.stem.replace("-", " ").replace("_", " ").title()
 
 
 def parse_args() -> argparse.Namespace:
@@ -52,14 +57,18 @@ def parse_frontmatter(path: Path) -> dict:
 def collect_entries(root: Path) -> dict[str, list[Entry]]:
     grouped: dict[str, list[Entry]] = defaultdict(list)
     for bucket, parts in BUCKETS.items():
-        bucket_root = root.joinpath(*parts)
-        if not bucket_root.exists():
-            continue
-        for path in sorted(bucket_root.rglob("*.md")):
+        if bucket == "Graph Operations":
+            paths = sorted((root / "docs").glob("obsidian_graph*.md"))
+        else:
+            bucket_root = root.joinpath(*parts)
+            if not bucket_root.exists():
+                continue
+            paths = sorted(bucket_root.rglob("*.md"))
+        for path in paths:
             if path.name in EXCLUDE_FILENAMES:
                 continue
             frontmatter = parse_frontmatter(path)
-            title = str(frontmatter.get("title") or path.stem.replace("-", " ").title())
+            title = str(frontmatter.get("title") or fallback_title(path))
             summary = str(frontmatter.get("summary") or "").strip()
             status = str(frontmatter.get("status") or "active")
             grouped[bucket].append(Entry(title=title, rel=path.relative_to(root).as_posix(), summary=summary, status=status))

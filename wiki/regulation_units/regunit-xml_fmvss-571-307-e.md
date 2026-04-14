@@ -1,74 +1,88 @@
 ---
 aliases: []
-basis: (e) After fueling, the vehicle shall be maintained at rest for any duration
-  between 2.0 and 3.0 hours before conducting a crash test in accordance with S6.1
-  of this standard.
+attachment_bucket: null
+attachment_section: null
+basis: (e) The fueling receptacle shall not be installed in enclosed or semi-enclosed
+  spaces.
 browse_buckets:
 - fuel_system_integrity
 clause_path: e
+comparison_key: 36c55fddc193391c045a46caadb7cb4352876bd9
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-307
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- fire_electrical_and_energy_storage_safety
 id: regunit-xml_fmvss-571-307-e
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: after-fueling-vehicle
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.307 Standard No. 307; Fuel system integrity of hydrogen vehicles.
+phase: cross_phase
+primary_topic: e-the-fueling-receptacle-shall-not-be-installed-in-enclosed-or-semi-enclosed-spa
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.307.xml
   source_hashes:
     raw/collections/xml_fmvss/571.307.xml: 6c30f72f4f4e351017492048c2c57529e7c2a011a1657b31589855f0351861f1
   source_url: null
+raw_marker: (e)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-307 / e
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.307.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.307.xml: 6c30f72f4f4e351017492048c2c57529e7c2a011a1657b31589855f0351861f1
 source_url: null
-statement: (e) After fueling, the vehicle shall be maintained at rest for any duration
-  between 2.0 and 3.0 hours before conducting a crash test in accordance with S6.1
-  of this standard.
+statement: (e) The fueling receptacle shall not be installed in enclosed or semi-enclosed
+  spaces.
 status: draft
+subject: null
 summary: Regulation unit `e` from xml_fmvss-571-307.
-title: '(e) After fueling, the vehicle shall be maintained at rest for any duration
-  between 2.0 and 3.0 hours before conducting '
+title: (e) The fueling receptacle shall not be installed in enclosed or semi-enclosed
+  spaces.
 updated: '2026-04-13'
 ---
 
-# (e) After fueling, the vehicle shall be maintained at rest for any duration between 2.0 and 3.0 hours before conducting 
+# (e) The fueling receptacle shall not be installed in enclosed or semi-enclosed spaces.
 
 ## Statement
-(e) After fueling, the vehicle shall be maintained at rest for any duration between 2.0 and 3.0 hours before conducting a crash test in accordance with S6.1 of this standard.
+(e) The fueling receptacle shall not be installed in enclosed or semi-enclosed spaces.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
-- functional_domain: other_or_review
-- primary_topic: after-fueling-vehicle
+- phase: cross_phase
+- functional_domain: fire_electrical_and_energy_storage_safety
+- primary_topic: e-the-fueling-receptacle-shall-not-be-installed-in-enclosed-or-semi-enclosed-spa
 - secondary_topics: n/a
 - browse_buckets: fuel_system_integrity
-- legacy_domain: passive_crash
+- legacy_domain: needs_review
 
 ## Basis
-(e) After fueling, the vehicle shall be maintained at rest for any duration between 2.0 and 3.0 hours before conducting a crash test in accordance with S6.1 of this standard.
+(e) The fueling receptacle shall not be installed in enclosed or semi-enclosed spaces.
 
 ## Authority
 - clause_path: e
 - source_file: raw/collections/xml_fmvss/571.307.xml
+- source_citation: xml_fmvss-571-307 / e
 - source_url: n/a
 - confidence: medium
 

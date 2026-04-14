@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S4.1 Vehicles manufactured before September 1, 1991. When a passenger car or
   a truck, bus, or multipurpose passenger vehicle with a gross vehicle weight rating
   of 10,000 pounds or less and an unloaded vehicle weight of 4,000 pounds or less
@@ -14,36 +16,48 @@ browse_buckets:
 - rear_impact
 - steering_control
 clause_path: s4-1
+comparison_key: 0b8fef0d57a0a42bc3f962355d16a882b506340e
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-204
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-204-s4-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: vehicles-manufactured-before
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.204 Standard No. 204; Steering control rearward displacement.
+phase: cross_phase
+primary_topic: s4-1-vehicles-manufactured-before-september-1-1991-when-a-passenger-car-or-a-tru
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.204.xml
   source_hashes:
     raw/collections/xml_fmvss/571.204.xml: a2fe5c319c38fd6ffc2a0d002d17cb4cd73f5ff462c9429cfbd12cc92b9e1805
   source_url: null
+raw_marker: S4.1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-204 / s4-1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.204.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.204.xml: a2fe5c319c38fd6ffc2a0d002d17cb4cd73f5ff462c9429cfbd12cc92b9e1805
 source_url: null
 statement: S4.1 Vehicles manufactured before September 1, 1991. When a passenger car
   or a truck, bus, or multipurpose passenger vehicle with a gross vehicle weight rating
@@ -56,6 +70,7 @@ statement: S4.1 Vehicles manufactured before September 1, 1991. When a passenger
   the maximum dynamic movement of the upper end of the steering column and shaft during
   the crash test.
 status: draft
+subject: null
 summary: Regulation unit `s4-1` from xml_fmvss-571-204.
 title: S4.1 Vehicles manufactured before September 1, 1991. When a passenger car or
   a truck, bus, or multipurpose passenger veh
@@ -71,12 +86,12 @@ S4.1 Vehicles manufactured before September 1, 1991. When a passenger car or a t
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
+- phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: vehicles-manufactured-before
+- primary_topic: s4-1-vehicles-manufactured-before-september-1-1991-when-a-passenger-car-or-a-tru
 - secondary_topics: n/a
 - browse_buckets: rear_impact, steering_control
-- legacy_domain: passive_crash
+- legacy_domain: needs_review
 
 ## Basis
 S4.1 Vehicles manufactured before September 1, 1991. When a passenger car or a truck, bus, or multipurpose passenger vehicle with a gross vehicle weight rating of 10,000 pounds or less and an unloaded vehicle weight of 4,000 pounds or less is tested under the conditions of S5 in a 30 mile per hour perpendicular impact into a fixed collision barrier, the upper end of the steering column and shaft in the vehicle shall not be displaced more than 5 inches in a horizontal rearward direction parallel to the longitudinal axis of the vehicle. The amount of displacement shall be measured relative to an undisturbed point on the vehicle and shall represent the maximum dynamic movement of the upper end of the steering column and shaft during the crash test.
@@ -84,6 +99,7 @@ S4.1 Vehicles manufactured before September 1, 1991. When a passenger car or a t
 ## Authority
 - clause_path: s4-1
 - source_file: raw/collections/xml_fmvss/571.204.xml
+- source_citation: xml_fmvss-571-204 / s4-1
 - source_url: n/a
 - confidence: medium
 

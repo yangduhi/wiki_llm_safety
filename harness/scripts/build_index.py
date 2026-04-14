@@ -10,6 +10,13 @@ import yaml
 
 EXCLUDE_DIRS = {"_templates"}
 EXCLUDE_FILENAMES = {"README.md", ".gitkeep"}
+BROWSE_HUB_ORDER = {
+    "wiki/indexes/functional-domain-hub.md": 0,
+    "wiki/indexes/phase-hub.md": 1,
+    "wiki/indexes/jurisdiction-hub.md": 2,
+    "wiki/indexes/approval-and-governance-hub.md": 3,
+    "wiki/indexes/in-crash-browse-hub.md": 4,
+}
 
 
 @dataclass(frozen=True)
@@ -77,12 +84,21 @@ def collect_pages(root: Path, ordered_types: list[tuple[str, str, tuple[str, ...
         frontmatter = parse_frontmatter(path)
         if str(frontmatter.get("record_layer") or "") != "knowledge":
             continue
+        if _is_pseudo_document_unit(frontmatter):
+            continue
         title = str(frontmatter.get("title") or path.stem.replace("-", " ").title())
         summary = str(frontmatter.get("summary") or "").strip()
         status = str(frontmatter.get("status") or "unknown")
         heading = infer_section(rel, ordered_types)
         grouped[heading].append(PageEntry(title=title, rel=rel.as_posix(), summary=summary, status=status, frontmatter=frontmatter))
     return grouped
+
+
+def _is_pseudo_document_unit(frontmatter: dict) -> bool:
+    return str(frontmatter.get("note_type") or "") == "regulation_unit" and (
+        str(frontmatter.get("clause_path") or "") == "document"
+        or str(frontmatter.get("id") or "").endswith("-document")
+    )
 
 
 def render_compact(lines: list[str], pages: list[PageEntry], label: str) -> None:
@@ -118,6 +134,8 @@ def render(root: Path) -> str:
         if not pages:
             lines.extend(["_None yet._", ""])
             continue
+        if heading == "Browse Hubs":
+            pages = sorted(pages, key=lambda entry: (BROWSE_HUB_ORDER.get(f"wiki/{entry.rel}", 999), entry.title))
         if compact:
             render_compact(lines, pages, heading)
             lines.append("")

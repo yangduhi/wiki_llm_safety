@@ -1,76 +1,93 @@
 ---
 aliases: []
-basis: (10) Measure and set the dummy's pelvic angle using the pelvic angle gage.
-  The angle is set to 20.0 degrees ±2.5 degrees. If this is not possible, adjust the
-  pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation
-  platform of the head as level as possible by adjustments specified in S12.3.2(a)(9).
+attachment_bucket: null
+attachment_section: null
+basis: (10) The term “seat cushion reference line” means a line on the side of the
+  seat cushion, passing through the seat cushion reference point, whose projection
+  in the vehicle vertical longitudinal plane is straight and has a known angle with
+  respect to the horizontal.
 browse_buckets:
-- head_impact
+- side_impact
+- seat_systems
 clause_path: '10'
+comparison_key: edbc838df83e7880d57aecc0be23983c9e29fffd
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-214
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- crash_avoidance_and_vehicle_control
 id: regunit-xml_fmvss-571-214-10
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: measure-dummy-pelvic
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.214 Standard No. 214; Side impact protection.
+phase: in_crash
+primary_topic: side_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.214.xml
   source_hashes:
     raw/collections/xml_fmvss/571.214.xml: bc04834da3eda5481db2b2377401049c18801a5f0fbb243026534555d175922e
   source_url: null
+raw_marker: (10)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-214 / 10
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.214.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.214.xml: bc04834da3eda5481db2b2377401049c18801a5f0fbb243026534555d175922e
 source_url: null
-statement: (10) Measure and set the dummy's pelvic angle using the pelvic angle gage.
-  The angle is set to 20.0 degrees ±2.5 degrees. If this is not possible, adjust the
-  pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation
-  platform of the head as level as possible by adjustments specified in S12.3.2(a)(9).
+statement: (10) The term “seat cushion reference line” means a line on the side of
+  the seat cushion, passing through the seat cushion reference point, whose projection
+  in the vehicle vertical longitudinal plane is straight and has a known angle with
+  respect to the horizontal.
 status: draft
+subject: null
 summary: Regulation unit `10` from xml_fmvss-571-214.
-title: (10) Measure and set the dummy's pelvic angle using the pelvic angle gage.
-  The angle is set to 20.0 degrees ±2.5 degrees
+title: (10) The term “seat cushion reference line” means a line on the side of the
+  seat cushion, passing through the seat cushi
 updated: '2026-04-13'
 ---
 
-# (10) Measure and set the dummy's pelvic angle using the pelvic angle gage. The angle is set to 20.0 degrees ±2.5 degrees
+# (10) The term “seat cushion reference line” means a line on the side of the seat cushion, passing through the seat cushi
 
 ## Statement
-(10) Measure and set the dummy's pelvic angle using the pelvic angle gage. The angle is set to 20.0 degrees ±2.5 degrees. If this is not possible, adjust the pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation platform of the head as level as possible by adjustments specified in S12.3.2(a)(9).
+(10) The term “seat cushion reference line” means a line on the side of the seat cushion, passing through the seat cushion reference point, whose projection in the vehicle vertical longitudinal plane is straight and has a known angle with respect to the horizontal.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: measure-dummy-pelvic
+- phase: in_crash
+- functional_domain: crash_avoidance_and_vehicle_control
+- primary_topic: side_impact
 - secondary_topics: n/a
-- browse_buckets: head_impact
-- legacy_domain: needs_review
+- browse_buckets: side_impact, seat_systems
+- legacy_domain: passive_crash
 
 ## Basis
-(10) Measure and set the dummy's pelvic angle using the pelvic angle gage. The angle is set to 20.0 degrees ±2.5 degrees. If this is not possible, adjust the pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation platform of the head as level as possible by adjustments specified in S12.3.2(a)(9).
+(10) The term “seat cushion reference line” means a line on the side of the seat cushion, passing through the seat cushion reference point, whose projection in the vehicle vertical longitudinal plane is straight and has a known angle with respect to the horizontal.
 
 ## Authority
 - clause_path: 10
 - source_file: raw/collections/xml_fmvss/571.214.xml
+- source_citation: xml_fmvss-571-214 / 10
 - source_url: n/a
 - confidence: medium
 

@@ -1,78 +1,91 @@
 ---
 aliases: []
-basis: (3) The force application plate is positioned such that the long edge of the
-  plate is as close to the interior edge of the door as possible, but not such that
-  the forward edge of forward plate and the rear edge of the rear plate are more than
-  12.5 mm from the respective interior edges.
+attachment_bucket: null
+attachment_section: null
+basis: (3) Not separate when a load of 9,000 N is applied in the direction of the
+  axis of the hinge pin (Load Test Three—only for back doors that open in a vertical
+  direction).
 browse_buckets:
-- rear_impact
 - door_retention
 clause_path: '3'
+comparison_key: cc95ef0a0351101f2ed96418eab707c9970deed5
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-206
+document_kind: null
 effective_date: null
 functional_domain:
 - structural_integrity_retention_and_egress
 id: regunit-xml_fmvss-571-206-3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: force-application-plate
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.206 Standard No. 206; Door locks and door retention components.
+phase: in_crash
+primary_topic: door_retention
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.206.xml
   source_hashes:
     raw/collections/xml_fmvss/571.206.xml: 49c7d11279595462bf14f3c587a271bb5a8c8c17e93dbaedbb0224931f840804
   source_url: null
+raw_marker: (3)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - doors
+sectno: null
+source_citation: xml_fmvss-571-206 / 3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.206.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.206.xml: 49c7d11279595462bf14f3c587a271bb5a8c8c17e93dbaedbb0224931f840804
 source_url: null
-statement: (3) The force application plate is positioned such that the long edge of
-  the plate is as close to the interior edge of the door as possible, but not such
-  that the forward edge of forward plate and the rear edge of the rear plate are more
-  than 12.5 mm from the respective interior edges.
+statement: (3) Not separate when a load of 9,000 N is applied in the direction of
+  the axis of the hinge pin (Load Test Three—only for back doors that open in a vertical
+  direction).
 status: draft
+subject: null
 summary: Regulation unit `3` from xml_fmvss-571-206.
-title: (3) The force application plate is positioned such that the long edge of the
-  plate is as close to the interior edge of t
+title: (3) Not separate when a load of 9,000 N is applied in the direction of the
+  axis of the hinge pin (Load Test Three—only f
 updated: '2026-04-13'
 ---
 
-# (3) The force application plate is positioned such that the long edge of the plate is as close to the interior edge of t
+# (3) Not separate when a load of 9,000 N is applied in the direction of the axis of the hinge pin (Load Test Three—only f
 
 ## Statement
-(3) The force application plate is positioned such that the long edge of the plate is as close to the interior edge of the door as possible, but not such that the forward edge of forward plate and the rear edge of the rear plate are more than 12.5 mm from the respective interior edges.
+(3) Not separate when a load of 9,000 N is applied in the direction of the axis of the hinge pin (Load Test Three—only for back doors that open in a vertical direction).
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
+- phase: in_crash
 - functional_domain: structural_integrity_retention_and_egress
-- primary_topic: force-application-plate
+- primary_topic: door_retention
 - secondary_topics: doors
-- browse_buckets: rear_impact, door_retention
-- legacy_domain: needs_review
+- browse_buckets: door_retention
+- legacy_domain: passive_crash
 
 ## Basis
-(3) The force application plate is positioned such that the long edge of the plate is as close to the interior edge of the door as possible, but not such that the forward edge of forward plate and the rear edge of the rear plate are more than 12.5 mm from the respective interior edges.
+(3) Not separate when a load of 9,000 N is applied in the direction of the axis of the hinge pin (Load Test Three—only for back doors that open in a vertical direction).
 
 ## Authority
 - clause_path: 3
 - source_file: raw/collections/xml_fmvss/571.206.xml
+- source_citation: xml_fmvss-571-206 / 3
 - source_url: n/a
 - confidence: medium
 

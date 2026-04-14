@@ -1,0 +1,113 @@
+---
+aliases: []
+attachment_bucket: null
+attachment_section: Annex 2
+basis: '10.
+
+  Components of AECD were tested according to paragraph 17.7 :
+
+  Warning signal device: yes/no2
+
+  Hands-free audio equipment (micros and speakers): yes/no2
+
+  Power supply other than back-up battery: yes/no2
+
+  Information signal device: yes/no2
+
+  GNSS antenna:yes/no2
+
+  GNSS receiver: yes/no2
+
+  Orientation of the AECD : ...........................................................................................'
+browse_buckets: []
+clause_path: annex-2-10
+comparison_key: 55935846a76c855c255d05af8b84124ec3d06cf7
+confidence: medium
+created: '2026-04-13'
+document_id: pdf_ece-ece_r144_un_regulation_no-_144_-_accident_emergency_call_systems_-aecs-_rev0_english
+document_kind: annex_clause
+effective_date: null
+functional_domain:
+- fire_electrical_and_energy_storage_safety
+id: regunit-pdf_ece-ece_r144_un_regulation_no-_144_-_accident_emergency_call_systems_-aecs-_rev0_english-annex-2-10
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
+jurisdiction: UNECE
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
+note_type: regulation_unit
+page_end: 49
+page_start: 49
+parent_clause_path: null
+parent_clause_text: null
+parent_title: Uniform provisions concerning the Accident Emergency Call Systems
+phase: post_crash
+primary_topic: emergency_call_systems
+provenance:
+  parser_run_id: 20260414T051508Z__014a8f04
+  source_files:
+  - raw/collections/pdf_ece/ECE_R144_UN_Regulation_No._144_-_Accident_Emergency_Call_Systems_(AECS)_Rev0_English.pdf
+  source_hashes:
+    raw/collections/pdf_ece/ECE_R144_UN_Regulation_No._144_-_Accident_Emergency_Call_Systems_(AECS)_Rev0_English.pdf: 1c938e728d03cdda8084ed0912d003a84e69e5c1e6dc58a22ed960f2f4c14650
+  source_url: null
+raw_marker: annex-2-10
+record_layer: knowledge
+reference_articles: []
+regulatory_layer: technical_requirement
+review_required: true
+row_group_id: null
+secondary_topics:
+- battery
+sectno: null
+source_citation: pdf_ece-ece_r144_un_regulation_no-_144_-_accident_emergency_call_systems_-aecs-_rev0_english
+  / annex-2-10
+source_collection: pdf_ece
+source_url: null
+statement: '10.'
+status: draft
+subject: null
+summary: Regulation unit `annex-2-10` from pdf_ece-ece_r144_un_regulation_no-_144_-_accident_emergency_call_systems_-aecs-_rev0_english.
+title: '10.'
+updated: '2026-04-13'
+---
+
+# 10.
+
+## Statement
+10.
+
+## Classification
+- jurisdiction: UNECE
+- source_collection: pdf_ece
+- regulatory_layer: technical_requirement
+- phase: post_crash
+- functional_domain: fire_electrical_and_energy_storage_safety
+- primary_topic: emergency_call_systems
+- secondary_topics: battery
+- browse_buckets: n/a
+- legacy_domain: needs_review
+
+## Basis
+10.
+Components of AECD were tested according to paragraph 17.7 :
+Warning signal device: yes/no2
+Hands-free audio equipment (micros and speakers): yes/no2
+Power supply other than back-up battery: yes/no2
+Information signal device: yes/no2
+GNSS antenna:yes/no2
+GNSS receiver: yes/no2
+Orientation of the AECD : ...........................................................................................
+
+## Authority
+- clause_path: annex-2-10
+- source_file: raw/collections/pdf_ece/ECE_R144_UN_Regulation_No._144_-_Accident_Emergency_Call_Systems_(AECS)_Rev0_English.pdf
+- source_citation: pdf_ece-ece_r144_un_regulation_no-_144_-_accident_emergency_call_systems_-aecs-_rev0_english / annex-2-10
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/pdf_ece-ece_r144_un_regulation_no-_144_-_accident_emergency_call_systems_-aecs-_rev0_english]]
+- [[jurisdictions/jurisdiction-unece]]

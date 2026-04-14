@@ -1,84 +1,115 @@
 ---
 aliases: []
-basis: (f) Hybrid III 6-year-old dummy (49 CFR part 572, subpart N) and Hybrid III
-  6-year-old weighted dummy (49 CFR part 572, subpart S), and Hybrid III 10-year-old
-  dummy (49 CFR part 572, subpart T). When used in testing under this standard, the
-  dummies specified in 49 CFR part 572, subparts N and S, are clothed as specified
-  in subpart N and with child or youth size 13 M sneakers weighing not more than 0.45
-  kg each. When used in testing under this standard, the dummy specified in 49 CFR
-  part 572, subpart T, is clothed as specified in subpart T and with youth size 3
-  sneakers weighing not more than 0.6 kg each.
+attachment_bucket: null
+attachment_section: null
+basis: '(f) Each child restraint system that is equipped with an internal harness
+  or other internal components to restrain the child need not meet this standard when
+  attached to the lower anchors of the child restraint anchorage system on the standard
+  seat assembly if the sum of the weight of the child restraint system (in pounds)
+  and the average weight of child represented by the test dummy used to test the child
+  restraint in accordance with S7 of this standard, shown in the table below, exceeds
+  65 pounds. Such a child restraint must meet this standard when tested using its
+  internal harness or components to restrain such a test dummy while installed using
+  the standard seat belt assembly specified in S5.3.2 of this standard.
+
+  Table to S5( f )—Average Weight of Child Represented by Various Test Dummies Test
+  dummy (specified in S7 of this standard) Average weight of child represented by
+  test dummy (pounds) CRABI 12-month-old infant dummy (49 CFR Part 572, Subpart R)
+  22 Hybrid III 3-year-old dummy (49 CFR Part 572, Subpart P) 31 Hybrid III 6-year-old
+  dummy 49 CFR Part 572, Subpart N) 45 Hybrid III 6-year-old weighted child test dummy
+  (49 CFR Part 572 Subpart S) 62 Hybrid II 6-year-old dummy (49, CFR Part 572, Subpart
+  I) 45'
 browse_buckets:
+- occupant_restraints
 - child_restraints
+- seat_systems
 clause_path: f
+comparison_key: f8b6f8e649da58db5f283750a79591dce188c3d3
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-213
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-213-f
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: hybrid-year-dummy
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.213 Child restraint systems; Applicable unless a vehicle or child
+  restraint system is certified to § 571.213b.
+phase: in_crash
+primary_topic: f-each-child-restraint-system-that-is-equipped-with-an-internal-harness-or-other
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.213.xml
   source_hashes:
     raw/collections/xml_fmvss/571.213.xml: 1725238e3cdac638b9d5ef3385ea164d3519b6a5903309c2a9e33bb35798ebaf
   source_url: null
+raw_marker: (f)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics: []
+row_group_id: null
+secondary_topics:
+- seat_belts
+sectno: null
+source_citation: xml_fmvss-571-213 / f
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.213.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.213.xml: 1725238e3cdac638b9d5ef3385ea164d3519b6a5903309c2a9e33bb35798ebaf
 source_url: null
-statement: (f) Hybrid III 6-year-old dummy (49 CFR part 572, subpart N) and Hybrid
-  III 6-year-old weighted dummy (49 CFR part 572, subpart S), and Hybrid III 10-year-old
-  dummy (49 CFR part 572, subpart T). When used in testing under this standard, the
-  dummies specified in 49 CFR part 572, subparts N and S, are clothed as specified
-  in subpart N and with child or youth size 13 M sneakers weighing not more than 0.45
-  kg each. When used in testing under this standard, the dummy specified in 49 CFR
-  part 572, subpart T, is clothed as specified in subpart T and with youth size 3
-  sneakers weighing not more than 0.6 kg each.
+statement: (f) Each child restraint system that is equipped with an internal harness
+  or other internal components to restrain the child need not meet this standard when
+  attached to the lower anchors of the child restraint anchorage system on the standard
+  seat assembly if the sum of the weight of the child restraint system (in pounds)
+  and the average weight of child represented by the test dummy used to test the child
+  restraint in accordance with S7 of this standard, shown in the table below, exceeds
+  65 pounds. Such a child restraint must meet this standard when tested using its
+  internal harness or components to restrain such a test dummy while installed using
+  the standard seat belt assembly specified in S5.3.2 of this standard.
 status: draft
+subject: null
 summary: Regulation unit `f` from xml_fmvss-571-213.
-title: '(f) Hybrid III 6-year-old dummy (49 CFR part 572, subpart N) and Hybrid III
-  6-year-old weighted dummy (49 CFR part 572, '
+title: (f) Each child restraint system that is equipped with an internal harness or
+  other internal components to restrain the c
 updated: '2026-04-13'
 ---
 
-# (f) Hybrid III 6-year-old dummy (49 CFR part 572, subpart N) and Hybrid III 6-year-old weighted dummy (49 CFR part 572, 
+# (f) Each child restraint system that is equipped with an internal harness or other internal components to restrain the c
 
 ## Statement
-(f) Hybrid III 6-year-old dummy (49 CFR part 572, subpart N) and Hybrid III 6-year-old weighted dummy (49 CFR part 572, subpart S), and Hybrid III 10-year-old dummy (49 CFR part 572, subpart T). When used in testing under this standard, the dummies specified in 49 CFR part 572, subparts N and S, are clothed as specified in subpart N and with child or youth size 13 M sneakers weighing not more than 0.45 kg each. When used in testing under this standard, the dummy specified in 49 CFR part 572, subpart T, is clothed as specified in subpart T and with youth size 3 sneakers weighing not more than 0.6 kg each.
+(f) Each child restraint system that is equipped with an internal harness or other internal components to restrain the child need not meet this standard when attached to the lower anchors of the child restraint anchorage system on the standard seat assembly if the sum of the weight of the child restraint system (in pounds) and the average weight of child represented by the test dummy used to test the child restraint in accordance with S7 of this standard, shown in the table below, exceeds 65 pounds. Such a child restraint must meet this standard when tested using its internal harness or components to restrain such a test dummy while installed using the standard seat belt assembly specified in S5.3.2 of this standard.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: hybrid-year-dummy
-- secondary_topics: n/a
-- browse_buckets: child_restraints
-- legacy_domain: needs_review
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: f-each-child-restraint-system-that-is-equipped-with-an-internal-harness-or-other
+- secondary_topics: seat_belts
+- browse_buckets: occupant_restraints, child_restraints, seat_systems
+- legacy_domain: passive_crash
 
 ## Basis
-(f) Hybrid III 6-year-old dummy (49 CFR part 572, subpart N) and Hybrid III 6-year-old weighted dummy (49 CFR part 572, subpart S), and Hybrid III 10-year-old dummy (49 CFR part 572, subpart T). When used in testing under this standard, the dummies specified in 49 CFR part 572, subparts N and S, are clothed as specified in subpart N and with child or youth size 13 M sneakers weighing not more than 0.45 kg each. When used in testing under this standard, the dummy specified in 49 CFR part 572, subpart T, is clothed as specified in subpart T and with youth size 3 sneakers weighing not more than 0.6 kg each.
+(f) Each child restraint system that is equipped with an internal harness or other internal components to restrain the child need not meet this standard when attached to the lower anchors of the child restraint anchorage system on the standard seat assembly if the sum of the weight of the child restraint system (in pounds) and the average weight of child represented by the test dummy used to test the child restraint in accordance with S7 of this standard, shown in the table below, exceeds 65 pounds. Such a child restraint must meet this standard when tested using its internal harness or components to restrain such a test dummy while installed using the standard seat belt assembly specified in S5.3.2 of this standard.
+Table to S5( f )—Average Weight of Child Represented by Various Test Dummies Test dummy (specified in S7 of this standard) Average weight of child represented by test dummy (pounds) CRABI 12-month-old infant dummy (49 CFR Part 572, Subpart R) 22 Hybrid III 3-year-old dummy (49 CFR Part 572, Subpart P) 31 Hybrid III 6-year-old dummy 49 CFR Part 572, Subpart N) 45 Hybrid III 6-year-old weighted child test dummy (49 CFR Part 572 Subpart S) 62 Hybrid II 6-year-old dummy (49, CFR Part 572, Subpart I) 45
 
 ## Authority
 - clause_path: f
 - source_file: raw/collections/xml_fmvss/571.213.xml
+- source_citation: xml_fmvss-571-213 / f
 - source_url: n/a
 - confidence: medium
 

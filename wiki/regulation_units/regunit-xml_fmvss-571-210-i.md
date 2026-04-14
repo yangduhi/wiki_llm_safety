@@ -1,77 +1,93 @@
 ---
 aliases: []
-basis: (i) If contact occurs between adjacent FAD1s, replace the FAD1 on the right-hand
-  side (as viewed in the direction the seat is facing) with a FAD2. If contact remains,
-  replace the FAD1 on the left-hand side with a FAD2. For multiple instances of contact
-  between FAD1s, begin replacing FAD1s at the rightmost seating position.
+attachment_bucket: null
+attachment_section: null
+basis: '(i) 280 mm for seating positions in a flexible occupancy seat in a maximum
+  occupancy configuration, as defined in 49 CFR 571.222; and
+
+  (ii) 330 mm for all other seating positions.'
 browse_buckets:
-- side_impact
+- occupant_restraints
 - seat_systems
 clause_path: i
+comparison_key: c6a88627d545dae47d5814c27775305a85954301
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-210
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-210-i
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.210 Standard No. 210; Seat belt assembly anchorages.
 phase: cross_phase
-primary_topic: contact-occurs-between
+primary_topic: i-280-mm-for-seating-positions-in-a-flexible-occupancy-seat-in-a-maximum-occupan
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.210.xml
   source_hashes:
     raw/collections/xml_fmvss/571.210.xml: 568f5de3738a2d37686fe87131ddc16a5feeb6fd68cd679c2f61ac0ea2fc4df0
   source_url: null
+raw_marker: (i)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics: []
+row_group_id: null
+secondary_topics:
+- seat_belts
+sectno: null
+source_citation: xml_fmvss-571-210 / i
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.210.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.210.xml: 568f5de3738a2d37686fe87131ddc16a5feeb6fd68cd679c2f61ac0ea2fc4df0
 source_url: null
-statement: (i) If contact occurs between adjacent FAD1s, replace the FAD1 on the right-hand
-  side (as viewed in the direction the seat is facing) with a FAD2. If contact remains,
-  replace the FAD1 on the left-hand side with a FAD2. For multiple instances of contact
-  between FAD1s, begin replacing FAD1s at the rightmost seating position.
+statement: (i) 280 mm for seating positions in a flexible occupancy seat in a maximum
+  occupancy configuration, as defined in 49 CFR 571.222; and
 status: draft
+subject: null
 summary: Regulation unit `i` from xml_fmvss-571-210.
-title: (i) If contact occurs between adjacent FAD1s, replace the FAD1 on the right-hand
-  side (as viewed in the direction the se
+title: (i) 280 mm for seating positions in a flexible occupancy seat in a maximum
+  occupancy configuration, as defined in 49 CFR
 updated: '2026-04-13'
 ---
 
-# (i) If contact occurs between adjacent FAD1s, replace the FAD1 on the right-hand side (as viewed in the direction the se
+# (i) 280 mm for seating positions in a flexible occupancy seat in a maximum occupancy configuration, as defined in 49 CFR
 
 ## Statement
-(i) If contact occurs between adjacent FAD1s, replace the FAD1 on the right-hand side (as viewed in the direction the seat is facing) with a FAD2. If contact remains, replace the FAD1 on the left-hand side with a FAD2. For multiple instances of contact between FAD1s, begin replacing FAD1s at the rightmost seating position.
+(i) 280 mm for seating positions in a flexible occupancy seat in a maximum occupancy configuration, as defined in 49 CFR 571.222; and
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: contact-occurs-between
-- secondary_topics: n/a
-- browse_buckets: side_impact, seat_systems
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: i-280-mm-for-seating-positions-in-a-flexible-occupancy-seat-in-a-maximum-occupan
+- secondary_topics: seat_belts
+- browse_buckets: occupant_restraints, seat_systems
 - legacy_domain: needs_review
 
 ## Basis
-(i) If contact occurs between adjacent FAD1s, replace the FAD1 on the right-hand side (as viewed in the direction the seat is facing) with a FAD2. If contact remains, replace the FAD1 on the left-hand side with a FAD2. For multiple instances of contact between FAD1s, begin replacing FAD1s at the rightmost seating position.
+(i) 280 mm for seating positions in a flexible occupancy seat in a maximum occupancy configuration, as defined in 49 CFR 571.222; and
+(ii) 330 mm for all other seating positions.
 
 ## Authority
 - clause_path: i
 - source_file: raw/collections/xml_fmvss/571.210.xml
+- source_citation: xml_fmvss-571-210 / i
 - source_url: n/a
 - confidence: medium
 

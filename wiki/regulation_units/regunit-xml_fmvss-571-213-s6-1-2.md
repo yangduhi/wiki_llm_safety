@@ -1,41 +1,58 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S6.1.2 Dynamic test procedure.
-browse_buckets: []
+browse_buckets:
+- child_restraints
 clause_path: s6-1-2
+comparison_key: 4c55848bb8d4d4b7a9f5cfefc50815609d6d2b51
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-213
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-213-s6-1-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.213 Child restraint systems; Applicable unless a vehicle or child
+  restraint system is certified to § 571.213b.
 phase: cross_phase
-primary_topic: dynamic-test-procedure
+primary_topic: s6-1-2-dynamic-test-procedure
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.213.xml
   source_hashes:
     raw/collections/xml_fmvss/571.213.xml: 1725238e3cdac638b9d5ef3385ea164d3519b6a5903309c2a9e33bb35798ebaf
   source_url: null
+raw_marker: S6.1.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-213 / s6-1-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.213.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.213.xml: 1725238e3cdac638b9d5ef3385ea164d3519b6a5903309c2a9e33bb35798ebaf
 source_url: null
 statement: S6.1.2 Dynamic test procedure.
 status: draft
+subject: null
 summary: Regulation unit `s6-1-2` from xml_fmvss-571-213.
 title: S6.1.2 Dynamic test procedure.
 updated: '2026-04-13'
@@ -51,10 +68,10 @@ S6.1.2 Dynamic test procedure.
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: dynamic-test-procedure
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: s6-1-2-dynamic-test-procedure
 - secondary_topics: n/a
-- browse_buckets: n/a
+- browse_buckets: child_restraints
 - legacy_domain: needs_review
 
 ## Basis
@@ -63,6 +80,7 @@ S6.1.2 Dynamic test procedure.
 ## Authority
 - clause_path: s6-1-2
 - source_file: raw/collections/xml_fmvss/571.213.xml
+- source_citation: xml_fmvss-571-213 / s6-1-2
 - source_url: n/a
 - confidence: medium
 

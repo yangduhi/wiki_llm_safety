@@ -1,47 +1,63 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S26.1 Each vehicle that is certified as complying with S25.3 shall meet the
   requirements of S25.3 and S25.4 with the 49 CFR part 572 subpart O 5th percentile
   adult female dummy in both of the following positions: Driver position 1 (S26.2)
   and Driver position 2 (S26.3).'
-browse_buckets: []
+browse_buckets:
+- occupant_restraints
 clause_path: s26-1
+comparison_key: 813553314ac773b2c4c9a9f5ee40c97f1661abe9
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-208-s26-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: each-vehicle-that
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
+phase: in_crash
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: S26.1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-208 / s26-1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
 statement: 'S26.1 Each vehicle that is certified as complying with S25.3 shall meet
   the requirements of S25.3 and S25.4 with the 49 CFR part 572 subpart O 5th percentile
   adult female dummy in both of the following positions: Driver position 1 (S26.2)
   and Driver position 2 (S26.3).'
 status: draft
+subject: null
 summary: Regulation unit `s26-1` from xml_fmvss-571-208.
 title: 'S26.1 Each vehicle that is certified as complying with S25.3 shall meet the
   requirements of S25.3 and S25.4 with the 49 '
@@ -57,12 +73,12 @@ S26.1 Each vehicle that is certified as complying with S25.3 shall meet the requ
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: each-vehicle-that
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: frontal_impact
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: needs_review
+- browse_buckets: occupant_restraints
+- legacy_domain: passive_crash
 
 ## Basis
 S26.1 Each vehicle that is certified as complying with S25.3 shall meet the requirements of S25.3 and S25.4 with the 49 CFR part 572 subpart O 5th percentile adult female dummy in both of the following positions: Driver position 1 (S26.2) and Driver position 2 (S26.3).
@@ -70,6 +86,7 @@ S26.1 Each vehicle that is certified as complying with S25.3 shall meet the requ
 ## Authority
 - clause_path: s26-1
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / s26-1
 - source_url: n/a
 - confidence: medium
 

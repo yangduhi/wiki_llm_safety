@@ -1,43 +1,58 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S6.5.5.2. For tests in gear, a stop or snub is made in accordance with the
   following procedures:'
 browse_buckets: []
 clause_path: s6-5-5-2
+comparison_key: aab04b9bcde79b4e01570c2599ec0214c201566c
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-135
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-135-s6-5-5-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.135 Standard No. 135; Light vehicle brake systems.
 phase: cross_phase
-primary_topic: tests-gear-stop
+primary_topic: s6-5-5-2-for-tests-in-gear-a-stop-or-snub-is-made-in-accordance-with-the-followi
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.135.xml
   source_hashes:
     raw/collections/xml_fmvss/571.135.xml: 20d8c4994e3d67cb5712e0c14a26d1dfebb1ce3186179d688636262d38e3c434
   source_url: null
+raw_marker: S6.5.5.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-135 / s6-5-5-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.135.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.135.xml: 20d8c4994e3d67cb5712e0c14a26d1dfebb1ce3186179d688636262d38e3c434
 source_url: null
 statement: 'S6.5.5.2. For tests in gear, a stop or snub is made in accordance with
   the following procedures:'
 status: draft
+subject: null
 summary: Regulation unit `s6-5-5-2` from xml_fmvss-571-135.
 title: 'S6.5.5.2. For tests in gear, a stop or snub is made in accordance with the
   following procedures:'
@@ -55,7 +70,7 @@ S6.5.5.2. For tests in gear, a stop or snub is made in accordance with the follo
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: tests-gear-stop
+- primary_topic: s6-5-5-2-for-tests-in-gear-a-stop-or-snub-is-made-in-accordance-with-the-followi
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -66,6 +81,7 @@ S6.5.5.2. For tests in gear, a stop or snub is made in accordance with the follo
 ## Authority
 - clause_path: s6-5-5-2
 - source_file: raw/collections/xml_fmvss/571.135.xml
+- source_citation: xml_fmvss-571-135 / s6-5-5-2
 - source_url: n/a
 - confidence: medium
 

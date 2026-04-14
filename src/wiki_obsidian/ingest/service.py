@@ -4,6 +4,7 @@ from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
+from wiki_obsidian.jurisdiction_overviews import refresh_jurisdiction_overviews
 from wiki_obsidian.normalize.service import normalize_collection
 from wiki_obsidian.operations import append_knowledge_log, rebuild_indexes
 from wiki_obsidian.settings import load_project_settings
@@ -27,7 +28,6 @@ def ingest_wiki(
 
     documents = read_jsonl(run_root / "documents.jsonl")
     units = read_jsonl(run_root / "units.jsonl")
-    jurisdictions = read_jsonl(run_root / "jurisdictions.jsonl")
     concepts = read_jsonl(run_root / "concepts.jsonl")
 
     doc_to_units: dict[str, list[dict[str, Any]]] = {}
@@ -45,15 +45,16 @@ def ingest_wiki(
         write_text(path, _render_regulation_unit(unit))
         written_files.append(path.relative_to(settings.paths.project_root).as_posix())
 
-    for jurisdiction in jurisdictions:
-        path = settings.paths.jurisdictions_root / f"{slugify(str(jurisdiction['id']))}.md"
-        write_text(path, _render_jurisdiction(jurisdiction))
-        written_files.append(path.relative_to(settings.paths.project_root).as_posix())
-
     for concept in concepts:
         path = settings.paths.concepts_root / f"{slugify(str(concept['id']))}.md"
         write_text(path, _render_concept(concept))
         written_files.append(path.relative_to(settings.paths.project_root).as_posix())
+
+    jurisdiction_refresh = refresh_jurisdiction_overviews(
+        project_root=settings.paths.project_root,
+        run_id=active_run_id,
+    )
+    written_files.extend(jurisdiction_refresh["written_files"])
 
     append_knowledge_log(
         title=f"Ingested collection {collection}",
@@ -62,7 +63,7 @@ def ingest_wiki(
             f"- collection_id: `{collection}`",
             f"- document_notes_written: {len(documents)}",
             f"- regulation_units_written: {len(units)}",
-            f"- jurisdiction_notes_written: {len(jurisdictions)}",
+            f"- jurisdiction_notes_written: {jurisdiction_refresh['jurisdiction_count']}",
         ],
         project_root=settings.paths.project_root,
         operation="ingest",
@@ -107,8 +108,6 @@ def write_analysis_page(
             "parser_run_id": run_id,
         },
         "confidence": "medium",
-        "source_files": source_files,
-        "source_hashes": source_hashes,
         "derived_from": matched_pages,
     }
     body = [
@@ -143,6 +142,8 @@ def write_analysis_page(
 
 
 def _render_regulation_document(document: dict[str, Any], units: list[dict[str, Any]]) -> str:
+    provenance = document.get("provenance") or {}
+    source_files = provenance.get("source_files") or []
     lines = [
         render_frontmatter(document),
         f"# {document['title']}",
@@ -154,7 +155,8 @@ def _render_regulation_document(document: dict[str, Any], units: list[dict[str, 
         "",
         "## Source Details",
         f"- document_id: {document['document_id']}",
-        f"- source_file: {document['source_files'][0] if document.get('source_files') else 'n/a'}",
+        f"- source_file: {source_files[0] if source_files else 'n/a'}",
+        f"- source_citation: {document.get('source_citation') or 'n/a'}",
         f"- source_language: {document.get('source_language', 'n/a')}",
         f"- page_count: {document.get('page_count') or 'n/a'}",
         "",
@@ -170,15 +172,18 @@ def _render_regulation_document(document: dict[str, Any], units: list[dict[str, 
         "",
         "## Related Units",
     ]
-    for unit in units[:40]:
+    visible_units = [unit for unit in units if not _is_pseudo_document_unit(unit)]
+    for unit in visible_units[:40]:
         lines.append(f"- [[regulation_units/{slugify(str(unit['id']))}]]")
-    if not units:
+    if not visible_units:
         lines.append("- None yet.")
     lines.append("")
     return "\n".join(lines)
 
 
 def _render_regulation_unit(unit: dict[str, Any]) -> str:
+    provenance = unit.get("provenance") or {}
+    source_files = provenance.get("source_files") or []
     lines = [
         render_frontmatter(unit),
         f"# {unit['title']}",
@@ -202,7 +207,8 @@ def _render_regulation_unit(unit: dict[str, Any]) -> str:
         "",
         "## Authority",
         f"- clause_path: {unit['clause_path']}",
-        f"- source_file: {unit['source_files'][0] if unit.get('source_files') else 'n/a'}",
+        f"- source_file: {source_files[0] if source_files else 'n/a'}",
+        f"- source_citation: {unit.get('source_citation') or 'n/a'}",
         f"- source_url: {unit.get('source_url') or 'n/a'}",
         f"- confidence: {unit['confidence']}",
         "",
@@ -258,3 +264,9 @@ def _render_concept(concept: dict[str, Any]) -> str:
 
 def _today() -> str:
     return datetime.now(UTC).strftime("%Y-%m-%d")
+
+
+def _is_pseudo_document_unit(unit: dict[str, Any]) -> bool:
+    return str(unit.get("note_type") or "") == "regulation_unit" and (
+        str(unit.get("clause_path") or "") == "document" or str(unit.get("id") or "").endswith("-document")
+    )

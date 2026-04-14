@@ -1,47 +1,63 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S5.1.5 Tell-tale warning. A warning shall be given to the driver, or to all
   front seat occupants for vehicles without a driver''s designated seating position,
   by a visual signal or display text with the following properties:'
 browse_buckets:
 - occupant_restraints
 - seat_systems
+- fuel_system_integrity
 clause_path: s5-1-5
+comparison_key: 26483660cb73ccb62c24d616d7d79c22e702b296
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-307
+document_kind: null
 effective_date: null
 functional_domain:
 - occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-307-s5-1-5
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: tell-tale-warning
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.307 Standard No. 307; Fuel system integrity of hydrogen vehicles.
+phase: cross_phase
+primary_topic: s5-1-5-tell-tale-warning-a-warning-shall-be-given-to-the-driver-or-to-all-front-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.307.xml
   source_hashes:
     raw/collections/xml_fmvss/571.307.xml: 6c30f72f4f4e351017492048c2c57529e7c2a011a1657b31589855f0351861f1
   source_url: null
+raw_marker: S5.1.5
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-307 / s5-1-5
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.307.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.307.xml: 6c30f72f4f4e351017492048c2c57529e7c2a011a1657b31589855f0351861f1
 source_url: null
 statement: 'S5.1.5 Tell-tale warning. A warning shall be given to the driver, or to
   all front seat occupants for vehicles without a driver''s designated seating position,
   by a visual signal or display text with the following properties:'
 status: draft
+subject: null
 summary: Regulation unit `s5-1-5` from xml_fmvss-571-307.
 title: 'S5.1.5 Tell-tale warning. A warning shall be given to the driver, or to all
   front seat occupants for vehicles without a '
@@ -57,12 +73,12 @@ S5.1.5 Tell-tale warning. A warning shall be given to the driver, or to all fron
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
+- phase: cross_phase
 - functional_domain: occupant_protection_and_restraints
-- primary_topic: tell-tale-warning
+- primary_topic: s5-1-5-tell-tale-warning-a-warning-shall-be-given-to-the-driver-or-to-all-front-
 - secondary_topics: n/a
-- browse_buckets: occupant_restraints, seat_systems
-- legacy_domain: passive_crash
+- browse_buckets: occupant_restraints, seat_systems, fuel_system_integrity
+- legacy_domain: needs_review
 
 ## Basis
 S5.1.5 Tell-tale warning. A warning shall be given to the driver, or to all front seat occupants for vehicles without a driver's designated seating position, by a visual signal or display text with the following properties:
@@ -70,6 +86,7 @@ S5.1.5 Tell-tale warning. A warning shall be given to the driver, or to all fron
 ## Authority
 - clause_path: s5-1-5
 - source_file: raw/collections/xml_fmvss/571.307.xml
+- source_citation: xml_fmvss-571-307 / s5-1-5
 - source_url: n/a
 - confidence: medium
 

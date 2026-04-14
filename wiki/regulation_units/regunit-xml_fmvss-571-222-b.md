@@ -1,68 +1,95 @@
 ---
 aliases: []
-basis: (b) [Reserved]
-browse_buckets: []
+attachment_bucket: null
+attachment_section: null
+basis: (b) The number of seating positions and the number of Type 1 seat belt positions
+  considered to be in a bench seat for vehicles manufactured on or after October 21,
+  2011 is expressed by the symbol W, and calculated as the seat bench width in millimeters
+  divided by 380 and rounded to the nearest whole number.
+browse_buckets:
+- side_impact
+- occupant_restraints
+- seat_systems
 clause_path: b
+comparison_key: e1730e1aaa631cf259546cb5b20993a6c4471824
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-222
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-222-b
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.222 Standard No. 222; School bus passenger seating and crash protection.
 phase: cross_phase
-primary_topic: reserved-reserved-reserved
+primary_topic: b-the-number-of-seating-positions-and-the-number-of-type-1-seat-belt-positions-c
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.222.xml
   source_hashes:
     raw/collections/xml_fmvss/571.222.xml: f9122780b29250d242d0b0906cd2937a727e74d020a2888c17ae9431dcd79a67
   source_url: null
+raw_marker: (b)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics: []
+row_group_id: null
+secondary_topics:
+- seat_belts
+sectno: null
+source_citation: xml_fmvss-571-222 / b
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.222.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.222.xml: f9122780b29250d242d0b0906cd2937a727e74d020a2888c17ae9431dcd79a67
 source_url: null
-statement: (b) [Reserved]
+statement: (b) The number of seating positions and the number of Type 1 seat belt
+  positions considered to be in a bench seat for vehicles manufactured on or after
+  October 21, 2011 is expressed by the symbol W, and calculated as the seat bench
+  width in millimeters divided by 380 and rounded to the nearest whole number.
 status: draft
+subject: null
 summary: Regulation unit `b` from xml_fmvss-571-222.
-title: (b) [Reserved]
+title: (b) The number of seating positions and the number of Type 1 seat belt positions
+  considered to be in a bench seat for ve
 updated: '2026-04-13'
 ---
 
-# (b) [Reserved]
+# (b) The number of seating positions and the number of Type 1 seat belt positions considered to be in a bench seat for ve
 
 ## Statement
-(b) [Reserved]
+(b) The number of seating positions and the number of Type 1 seat belt positions considered to be in a bench seat for vehicles manufactured on or after October 21, 2011 is expressed by the symbol W, and calculated as the seat bench width in millimeters divided by 380 and rounded to the nearest whole number.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: reserved-reserved-reserved
-- secondary_topics: n/a
-- browse_buckets: n/a
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: b-the-number-of-seating-positions-and-the-number-of-type-1-seat-belt-positions-c
+- secondary_topics: seat_belts
+- browse_buckets: side_impact, occupant_restraints, seat_systems
 - legacy_domain: needs_review
 
 ## Basis
-(b) [Reserved]
+(b) The number of seating positions and the number of Type 1 seat belt positions considered to be in a bench seat for vehicles manufactured on or after October 21, 2011 is expressed by the symbol W, and calculated as the seat bench width in millimeters divided by 380 and rounded to the nearest whole number.
 
 ## Authority
 - clause_path: b
 - source_file: raw/collections/xml_fmvss/571.222.xml
+- source_citation: xml_fmvss-571-222 / b
 - source_url: n/a
 - confidence: medium
 

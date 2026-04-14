@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S5.1.6.5.3 Apply a force of 3,114W N (700W pounds) horizontally in the forward
   direction through the lower loading bar specified at S6.5 at the pivot attachment
   point. Reach the specified load in not less than 5 and not more than 30 seconds.
@@ -7,38 +9,51 @@ basis: S5.1.6.5.3 Apply a force of 3,114W N (700W pounds) horizontally in the fo
   to 1,557W N (350W pounds) and maintain the pivot point position of the loading bar
   at the position where the 1,557W N (350W pounds) is attained until the completion
   of S5.1.6.5.7 of this standard.
-browse_buckets: []
+browse_buckets:
+- seat_systems
 clause_path: s5-1-6-5-3
+comparison_key: fe26b0d4c9ddbc35bd77c032b0ee8e3f76c9cb83
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-222
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-222-s5-1-6-5-3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.222 Standard No. 222; School bus passenger seating and crash protection.
 phase: cross_phase
-primary_topic: apply-force-114w
+primary_topic: s5-1-6-5-3-apply-a-force-of-3-114w-n-700w-pounds-horizontally-in-the-forward-dir
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.222.xml
   source_hashes:
     raw/collections/xml_fmvss/571.222.xml: f9122780b29250d242d0b0906cd2937a727e74d020a2888c17ae9431dcd79a67
   source_url: null
+raw_marker: S5.1.6.5.3
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-222 / s5-1-6-5-3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.222.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.222.xml: f9122780b29250d242d0b0906cd2937a727e74d020a2888c17ae9431dcd79a67
 source_url: null
 statement: S5.1.6.5.3 Apply a force of 3,114W N (700W pounds) horizontally in the
   forward direction through the lower loading bar specified at S6.5 at the pivot attachment
@@ -48,6 +63,7 @@ statement: S5.1.6.5.3 Apply a force of 3,114W N (700W pounds) horizontally in th
   at the position where the 1,557W N (350W pounds) is attained until the completion
   of S5.1.6.5.7 of this standard.
 status: draft
+subject: null
 summary: Regulation unit `s5-1-6-5-3` from xml_fmvss-571-222.
 title: S5.1.6.5.3 Apply a force of 3,114W N (700W pounds) horizontally in the forward
   direction through the lower loading bar s
@@ -65,9 +81,9 @@ S5.1.6.5.3 Apply a force of 3,114W N (700W pounds) horizontally in the forward d
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: apply-force-114w
+- primary_topic: s5-1-6-5-3-apply-a-force-of-3-114w-n-700w-pounds-horizontally-in-the-forward-dir
 - secondary_topics: n/a
-- browse_buckets: n/a
+- browse_buckets: seat_systems
 - legacy_domain: needs_review
 
 ## Basis
@@ -76,6 +92,7 @@ S5.1.6.5.3 Apply a force of 3,114W N (700W pounds) horizontally in the forward d
 ## Authority
 - clause_path: s5-1-6-5-3
 - source_file: raw/collections/xml_fmvss/571.222.xml
+- source_citation: xml_fmvss-571-222 / s5-1-6-5-3
 - source_url: n/a
 - confidence: medium
 

@@ -1,71 +1,97 @@
 ---
 aliases: []
-basis: (c) Once both force application devices have achieved 9,000 N each hold the
-  resulting load.
-browse_buckets: []
+attachment_bucket: null
+attachment_section: null
+basis: (c) Each component or subassembly is calculated for its minimum inertial load
+  resistance in a particular direction. The combined resistance to the unlatching
+  operation must assure that the door latch system, when properly assembled in the
+  vehicle door, will remain latched when subjected to an inertial load of 30 g in
+  the vehicle directions specified in paragraph (a) of this section or paragraph (b)
+  of this section, as applicable, when calculated in accordance with S5.1.1.4 (a).
+browse_buckets:
+- door_retention
 clause_path: c
+comparison_key: 53d543610b462b8debf2c180972d8230d40cb9c4
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-206
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- structural_integrity_retention_and_egress
 id: regunit-xml_fmvss-571-206-c
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: once-both-force
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.206 Standard No. 206; Door locks and door retention components.
+phase: in_crash
+primary_topic: door_retention
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.206.xml
   source_hashes:
     raw/collections/xml_fmvss/571.206.xml: 49c7d11279595462bf14f3c587a271bb5a8c8c17e93dbaedbb0224931f840804
   source_url: null
+raw_marker: (c)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics: []
+row_group_id: null
+secondary_topics:
+- doors
+sectno: null
+source_citation: xml_fmvss-571-206 / c
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.206.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.206.xml: 49c7d11279595462bf14f3c587a271bb5a8c8c17e93dbaedbb0224931f840804
 source_url: null
-statement: (c) Once both force application devices have achieved 9,000 N each hold
-  the resulting load.
+statement: (c) Each component or subassembly is calculated for its minimum inertial
+  load resistance in a particular direction. The combined resistance to the unlatching
+  operation must assure that the door latch system, when properly assembled in the
+  vehicle door, will remain latched when subjected to an inertial load of 30 g in
+  the vehicle directions specified in paragraph (a) of this section or paragraph (b)
+  of this section, as applicable, when calculated in accordance with S5.1.1.4 (a).
 status: draft
+subject: null
 summary: Regulation unit `c` from xml_fmvss-571-206.
-title: (c) Once both force application devices have achieved 9,000 N each hold the
-  resulting load.
+title: '(c) Each component or subassembly is calculated for its minimum inertial load
+  resistance in a particular direction. The '
 updated: '2026-04-13'
 ---
 
-# (c) Once both force application devices have achieved 9,000 N each hold the resulting load.
+# (c) Each component or subassembly is calculated for its minimum inertial load resistance in a particular direction. The 
 
 ## Statement
-(c) Once both force application devices have achieved 9,000 N each hold the resulting load.
+(c) Each component or subassembly is calculated for its minimum inertial load resistance in a particular direction. The combined resistance to the unlatching operation must assure that the door latch system, when properly assembled in the vehicle door, will remain latched when subjected to an inertial load of 30 g in the vehicle directions specified in paragraph (a) of this section or paragraph (b) of this section, as applicable, when calculated in accordance with S5.1.1.4 (a).
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: once-both-force
-- secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: needs_review
+- phase: in_crash
+- functional_domain: structural_integrity_retention_and_egress
+- primary_topic: door_retention
+- secondary_topics: doors
+- browse_buckets: door_retention
+- legacy_domain: passive_crash
 
 ## Basis
-(c) Once both force application devices have achieved 9,000 N each hold the resulting load.
+(c) Each component or subassembly is calculated for its minimum inertial load resistance in a particular direction. The combined resistance to the unlatching operation must assure that the door latch system, when properly assembled in the vehicle door, will remain latched when subjected to an inertial load of 30 g in the vehicle directions specified in paragraph (a) of this section or paragraph (b) of this section, as applicable, when calculated in accordance with S5.1.1.4 (a).
 
 ## Authority
 - clause_path: c
 - source_file: raw/collections/xml_fmvss/571.206.xml
+- source_citation: xml_fmvss-571-206 / c
 - source_url: n/a
 - confidence: medium
 

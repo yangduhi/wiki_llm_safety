@@ -1,74 +1,87 @@
 ---
 aliases: []
-basis: (b) The guided free fall drop height for the helmet and test headform combination
-  onto the flat anvil shall be such that the impact speed is any speed from 19.0 ft/s
-  to and including 20.3 ft/s (from 5.8 m/s to and including 6.2 m/s).
-browse_buckets:
-- head_impact
+attachment_bucket: null
+attachment_section: null
+basis: (b) Accelerations in excess of 200g shall not exceed a cumulative duration
+  of 2.0 milliseconds; and
+browse_buckets: []
 clause_path: b
+comparison_key: 136dcb569df7418562c6a0a0046b5c56d86c76ba
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-218
+document_kind: null
 effective_date: null
 functional_domain:
-- vru_protection
+- other_or_review
 id: regunit-xml_fmvss-571-218-b
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: guided-free-fall
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.218 Standard No. 218; Motorcycle helmets.
+phase: cross_phase
+primary_topic: b-accelerations-in-excess-of-200g-shall-not-exceed-a-cumulative-duration-of-2-0-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.218.xml
   source_hashes:
     raw/collections/xml_fmvss/571.218.xml: 5edb1279ec51ae25bc08a3d3498acecffd8e7da82343760da507e7cb97be58aa
   source_url: null
+raw_marker: (b)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-218 / b
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.218.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.218.xml: 5edb1279ec51ae25bc08a3d3498acecffd8e7da82343760da507e7cb97be58aa
 source_url: null
-statement: (b) The guided free fall drop height for the helmet and test headform combination
-  onto the flat anvil shall be such that the impact speed is any speed from 19.0 ft/s
-  to and including 20.3 ft/s (from 5.8 m/s to and including 6.2 m/s).
+statement: (b) Accelerations in excess of 200g shall not exceed a cumulative duration
+  of 2.0 milliseconds; and
 status: draft
+subject: null
 summary: Regulation unit `b` from xml_fmvss-571-218.
-title: (b) The guided free fall drop height for the helmet and test headform combination
-  onto the flat anvil shall be such that
+title: (b) Accelerations in excess of 200g shall not exceed a cumulative duration
+  of 2.0 milliseconds; and
 updated: '2026-04-13'
 ---
 
-# (b) The guided free fall drop height for the helmet and test headform combination onto the flat anvil shall be such that
+# (b) Accelerations in excess of 200g shall not exceed a cumulative duration of 2.0 milliseconds; and
 
 ## Statement
-(b) The guided free fall drop height for the helmet and test headform combination onto the flat anvil shall be such that the impact speed is any speed from 19.0 ft/s to and including 20.3 ft/s (from 5.8 m/s to and including 6.2 m/s).
+(b) Accelerations in excess of 200g shall not exceed a cumulative duration of 2.0 milliseconds; and
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
-- functional_domain: vru_protection
-- primary_topic: guided-free-fall
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: b-accelerations-in-excess-of-200g-shall-not-exceed-a-cumulative-duration-of-2-0-
 - secondary_topics: n/a
-- browse_buckets: head_impact
-- legacy_domain: passive_crash
+- browse_buckets: n/a
+- legacy_domain: needs_review
 
 ## Basis
-(b) The guided free fall drop height for the helmet and test headform combination onto the flat anvil shall be such that the impact speed is any speed from 19.0 ft/s to and including 20.3 ft/s (from 5.8 m/s to and including 6.2 m/s).
+(b) Accelerations in excess of 200g shall not exceed a cumulative duration of 2.0 milliseconds; and
 
 ## Authority
 - clause_path: b
 - source_file: raw/collections/xml_fmvss/571.218.xml
+- source_citation: xml_fmvss-571-218 / b
 - source_url: n/a
 - confidence: medium
 

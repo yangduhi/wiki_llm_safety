@@ -1,115 +1,94 @@
 ---
 aliases: []
-basis: '(b) At the conclusion of the standing water test, with the vehicle still wet,
-  electrical isolation is determined in accordance with S7.2 of this standard.
-
-  Figures to FMVSS No. 305a
-
-  Figure 1. Voltage Measurements of the High Voltage Source
-
-  Figure 2. Measurement for V1 Voltage Between the Negative Side of the High Voltage
-  Source and the Electrical Chassis
-
-  Figure 3. Measurement for V2 Voltage Between the Positive Side of the High Voltage
-  Source and the Electrical Chassis
-
-  Figure 4. Measurement for V1'' Voltage Across Resistor Between Negative Side of
-  the High Voltage Source and Electrical Chassis
-
-  Figure 5. Measurement for V2'' Voltage Across Resistor Between Positive Side of
-  the High Voltage Source and Electrical Chassis
-
-  Figure 6. Marking of High Voltage Sources
-
-  Figure 7a. Access Probes for the Tests of Direct Contact Protection. Access Probe
-  IPXXB (Top) and Access Probe IPXXD (Bottom)
-
-  Figure 7b. Jointed Test Finger IPXXB
-
-  Figure 8. Connection To Determine Resistance Between Exposed Conductive Parts of
-  Electrical Protection Barrier and Electrical Chassis
-
-  Figure 9. Standard Nozzle for IPX5 Water Exposure Test
-
-  [89 FR 104352, Dec. 20, 2024]'
-browse_buckets:
-- side_impact
+attachment_bucket: null
+attachment_section: null
+basis: (b) Mandatory applicability begins September 1, 2027, for vehicles with a gross
+  vehicle weight rating of 4,536 kilograms (kg) or less and September 1, 2028, for
+  vehicles with a gross vehicle weight rating over 4,536 kg. Small-volume manufacturers,
+  final-stage manufacturers, and alterers are provided an additional year to comply
+  with the requirements beyond the dates identified in this paragraph (b).
+browse_buckets: []
 clause_path: b
+comparison_key: dfabcf1adf02e5d711f28b0f8323933ebc628be9
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-305a
+document_kind: null
 effective_date: null
 functional_domain:
-- fire_electrical_and_energy_storage_safety
+- other_or_review
 id: regunit-xml_fmvss-571-305a-b
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: electrical_safety
+parent_clause_path: null
+parent_clause_text: null
+parent_title: '§ 571.305a Standard No. 305a; electric-powered vehicles: Electric powertrain
+  integrity; mandatory applicability begins on September 1, 2027.'
+phase: post_crash
+primary_topic: b-mandatory-applicability-begins-september-1-2027-for-vehicles-with-a-gross-vehi
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.305a.xml
   source_hashes:
     raw/collections/xml_fmvss/571.305a.xml: 674876d4f731021d37975de6830b9ad64ee542a208f87929bc1c7f14311a5d80
   source_url: null
+raw_marker: (b)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics:
-- electrical_isolation
+row_group_id: null
+secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-305a / b
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.305a.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.305a.xml: 674876d4f731021d37975de6830b9ad64ee542a208f87929bc1c7f14311a5d80
 source_url: null
-statement: (b) At the conclusion of the standing water test, with the vehicle still
-  wet, electrical isolation is determined in accordance with S7.2 of this standard.
+statement: (b) Mandatory applicability begins September 1, 2027, for vehicles with
+  a gross vehicle weight rating of 4,536 kilograms (kg) or less and September 1, 2028,
+  for vehicles with a gross vehicle weight rating over 4,536 kg. Small-volume manufacturers,
+  final-stage manufacturers, and alterers are provided an additional year to comply
+  with the requirements beyond the dates identified in this paragraph (b).
 status: draft
+subject: null
 summary: Regulation unit `b` from xml_fmvss-571-305a.
-title: (b) At the conclusion of the standing water test, with the vehicle still wet,
-  electrical isolation is determined in acco
+title: (b) Mandatory applicability begins September 1, 2027, for vehicles with a gross
+  vehicle weight rating of 4,536 kilograms
 updated: '2026-04-13'
 ---
 
-# (b) At the conclusion of the standing water test, with the vehicle still wet, electrical isolation is determined in acco
+# (b) Mandatory applicability begins September 1, 2027, for vehicles with a gross vehicle weight rating of 4,536 kilograms
 
 ## Statement
-(b) At the conclusion of the standing water test, with the vehicle still wet, electrical isolation is determined in accordance with S7.2 of this standard.
+(b) Mandatory applicability begins September 1, 2027, for vehicles with a gross vehicle weight rating of 4,536 kilograms (kg) or less and September 1, 2028, for vehicles with a gross vehicle weight rating over 4,536 kg. Small-volume manufacturers, final-stage manufacturers, and alterers are provided an additional year to comply with the requirements beyond the dates identified in this paragraph (b).
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: fire_electrical_and_energy_storage_safety
-- primary_topic: electrical_safety
-- secondary_topics: electrical_isolation
-- browse_buckets: side_impact
+- phase: post_crash
+- functional_domain: other_or_review
+- primary_topic: b-mandatory-applicability-begins-september-1-2027-for-vehicles-with-a-gross-vehi
+- secondary_topics: n/a
+- browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(b) At the conclusion of the standing water test, with the vehicle still wet, electrical isolation is determined in accordance with S7.2 of this standard.
-Figures to FMVSS No. 305a
-Figure 1. Voltage Measurements of the High Voltage Source
-Figure 2. Measurement for V1 Voltage Between the Negative Side of the High Voltage Source and the Electrical Chassis
-Figure 3. Measurement for V2 Voltage Between the Positive Side of the High Voltage Source and the Electrical Chassis
-Figure 4. Measurement for V1' Voltage Across Resistor Between Negative Side of the High Voltage Source and Electrical Chassis
-Figure 5. Measurement for V2' Voltage Across Resistor Between Positive Side of the High Voltage Source and Electrical Chassis
-Figure 6. Marking of High Voltage Sources
-Figure 7a. Access Probes for the Tests of Direct Contact Protection. Access Probe IPXXB (Top) and Access Probe IPXXD (Bottom)
-Figure 7b. Jointed Test Finger IPXXB
-Figure 8. Connection To Determine Resistance Between Exposed Conductive Parts of Electrical Protection Barrier and Electrical Chassis
-Figure 9. Standard Nozzle for IPX5 Water Exposure Test
-[89 FR 104352, Dec. 20, 2024]
+(b) Mandatory applicability begins September 1, 2027, for vehicles with a gross vehicle weight rating of 4,536 kilograms (kg) or less and September 1, 2028, for vehicles with a gross vehicle weight rating over 4,536 kg. Small-volume manufacturers, final-stage manufacturers, and alterers are provided an additional year to comply with the requirements beyond the dates identified in this paragraph (b).
 
 ## Authority
 - clause_path: b
 - source_file: raw/collections/xml_fmvss/571.305a.xml
+- source_citation: xml_fmvss-571-305a / b
 - source_url: n/a
 - confidence: medium
 

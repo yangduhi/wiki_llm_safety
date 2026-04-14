@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S3 Definitions.
 
   Bead means the part of the tire that is made of steel wires, wrapped or reinforced
@@ -107,41 +109,56 @@ basis: 'S3 Definitions.
 
   Wheel-holding fixture means the fixture used to hold the wheel and tire assembly
   securely during testing.'
-browse_buckets: []
+browse_buckets:
+- side_impact
+- seat_systems
 clause_path: s3
+comparison_key: 8f6a9ceb4cd98282de812ea753c2699cb3c109c7
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-139
+document_kind: null
 effective_date: null
 functional_domain:
-- crash_avoidance_and_vehicle_control
+- other_or_review
 id: regunit-xml_fmvss-571-139-s3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: definitions-definitions-definitions
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.139 Standard No. 139; New pneumatic radial tires for light vehicles.
+phase: cross_phase
+primary_topic: s3-definitions
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.139.xml
   source_hashes:
     raw/collections/xml_fmvss/571.139.xml: 049ee35b7a229c5ffd96d6b32ce4c14fc438ead49b4cfdd14ddd25f57454d579
   source_url: null
+raw_marker: S3
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-139 / s3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.139.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.139.xml: 049ee35b7a229c5ffd96d6b32ce4c14fc438ead49b4cfdd14ddd25f57454d579
 source_url: null
 statement: S3 Definitions.
 status: draft
+subject: null
 summary: Regulation unit `s3` from xml_fmvss-571-139.
 title: S3 Definitions.
 updated: '2026-04-13'
@@ -156,12 +173,12 @@ S3 Definitions.
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
-- functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: definitions-definitions-definitions
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: s3-definitions
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: active_safety
+- browse_buckets: side_impact, seat_systems
+- legacy_domain: needs_review
 
 ## Basis
 S3 Definitions.
@@ -206,6 +223,7 @@ Wheel-holding fixture means the fixture used to hold the wheel and tire assembly
 ## Authority
 - clause_path: s3
 - source_file: raw/collections/xml_fmvss/571.139.xml
+- source_citation: xml_fmvss-571-139 / s3
 - source_url: n/a
 - confidence: medium
 

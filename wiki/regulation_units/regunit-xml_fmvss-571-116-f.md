@@ -1,57 +1,68 @@
 ---
 aliases: []
-basis: (f) Wheel cylinder (WC) assemblies (SAE RM-14a). Three unused cast iron housing
-  straight bore hydraulic brake WC assemblies having diameters of approximately 28
-  mm (1 1/8 inch) for each test. Pistons shall be made from unanodized SAE AA 2024
-  aluminum alloy.
+attachment_bucket: null
+attachment_section: null
+basis: (f) The pH value of water-wet brake fluid, except DOT 5 SBBF, at the end of
+  the test shall not be less than 7.0 nor more than 11.5;
 browse_buckets: []
 clause_path: f
+comparison_key: 8e43b9bf0356e75ec92bbf5a56d1b43c4481d94d
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-116
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-116-f
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.116 Standard No. 116; Motor vehicle brake fluids.
 phase: cross_phase
-primary_topic: wheel-cylinder-assemblies
+primary_topic: f-the-ph-value-of-water-wet-brake-fluid-except-dot-5-sbbf-at-the-end-of-the-test
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.116.xml
   source_hashes:
     raw/collections/xml_fmvss/571.116.xml: d845cfb317ee465277b49f367345aff5e46dfea4c77f6308db10eb145406c8e2
   source_url: null
+raw_marker: (f)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-116 / f
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.116.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.116.xml: d845cfb317ee465277b49f367345aff5e46dfea4c77f6308db10eb145406c8e2
 source_url: null
-statement: (f) Wheel cylinder (WC) assemblies (SAE RM-14a). Three unused cast iron
-  housing straight bore hydraulic brake WC assemblies having diameters of approximately
-  28 mm (1 1/8 inch) for each test. Pistons shall be made from unanodized SAE AA 2024
-  aluminum alloy.
+statement: (f) The pH value of water-wet brake fluid, except DOT 5 SBBF, at the end
+  of the test shall not be less than 7.0 nor more than 11.5;
 status: draft
+subject: null
 summary: Regulation unit `f` from xml_fmvss-571-116.
-title: (f) Wheel cylinder (WC) assemblies (SAE RM-14a). Three unused cast iron housing
-  straight bore hydraulic brake WC assembl
+title: (f) The pH value of water-wet brake fluid, except DOT 5 SBBF, at the end of
+  the test shall not be less than 7.0 nor more
 updated: '2026-04-13'
 ---
 
-# (f) Wheel cylinder (WC) assemblies (SAE RM-14a). Three unused cast iron housing straight bore hydraulic brake WC assembl
+# (f) The pH value of water-wet brake fluid, except DOT 5 SBBF, at the end of the test shall not be less than 7.0 nor more
 
 ## Statement
-(f) Wheel cylinder (WC) assemblies (SAE RM-14a). Three unused cast iron housing straight bore hydraulic brake WC assemblies having diameters of approximately 28 mm (1 1/8 inch) for each test. Pistons shall be made from unanodized SAE AA 2024 aluminum alloy.
+(f) The pH value of water-wet brake fluid, except DOT 5 SBBF, at the end of the test shall not be less than 7.0 nor more than 11.5;
 
 ## Classification
 - jurisdiction: US
@@ -59,17 +70,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: wheel-cylinder-assemblies
+- primary_topic: f-the-ph-value-of-water-wet-brake-fluid-except-dot-5-sbbf-at-the-end-of-the-test
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(f) Wheel cylinder (WC) assemblies (SAE RM-14a). Three unused cast iron housing straight bore hydraulic brake WC assemblies having diameters of approximately 28 mm (1 1/8 inch) for each test. Pistons shall be made from unanodized SAE AA 2024 aluminum alloy.
+(f) The pH value of water-wet brake fluid, except DOT 5 SBBF, at the end of the test shall not be less than 7.0 nor more than 11.5;
 
 ## Authority
 - clause_path: f
 - source_file: raw/collections/xml_fmvss/571.116.xml
+- source_citation: xml_fmvss-571-116 / f
 - source_url: n/a
 - confidence: medium
 

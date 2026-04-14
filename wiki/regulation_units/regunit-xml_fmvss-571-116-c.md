@@ -1,54 +1,65 @@
 ---
 aliases: []
-basis: (c) Within 5 minutes after removing the container from the fluid or oil, remove
-  excess liquid from the surface of the container by wiping with a clean dry cloth.
+attachment_bucket: null
+attachment_section: null
+basis: '(c) DOT 5: 260 °C. (500 °F.).'
 browse_buckets: []
 clause_path: c
+comparison_key: b77d506c1fe3bd62d630a4015b605d77465c6cba
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-116
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-116-c
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.116 Standard No. 116; Motor vehicle brake fluids.
 phase: cross_phase
-primary_topic: within-minutes-after
+primary_topic: c-dot-5-260-c-500-f
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.116.xml
   source_hashes:
     raw/collections/xml_fmvss/571.116.xml: d845cfb317ee465277b49f367345aff5e46dfea4c77f6308db10eb145406c8e2
   source_url: null
+raw_marker: (c)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-116 / c
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.116.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.116.xml: d845cfb317ee465277b49f367345aff5e46dfea4c77f6308db10eb145406c8e2
 source_url: null
-statement: (c) Within 5 minutes after removing the container from the fluid or oil,
-  remove excess liquid from the surface of the container by wiping with a clean dry
-  cloth.
+statement: '(c) DOT 5: 260 °C. (500 °F.).'
 status: draft
+subject: null
 summary: Regulation unit `c` from xml_fmvss-571-116.
-title: (c) Within 5 minutes after removing the container from the fluid or oil, remove
-  excess liquid from the surface of the co
+title: '(c) DOT 5: 260 °C. (500 °F.).'
 updated: '2026-04-13'
 ---
 
-# (c) Within 5 minutes after removing the container from the fluid or oil, remove excess liquid from the surface of the co
+# (c) DOT 5: 260 °C. (500 °F.).
 
 ## Statement
-(c) Within 5 minutes after removing the container from the fluid or oil, remove excess liquid from the surface of the container by wiping with a clean dry cloth.
+(c) DOT 5: 260 °C. (500 °F.).
 
 ## Classification
 - jurisdiction: US
@@ -56,17 +67,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: within-minutes-after
+- primary_topic: c-dot-5-260-c-500-f
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(c) Within 5 minutes after removing the container from the fluid or oil, remove excess liquid from the surface of the container by wiping with a clean dry cloth.
+(c) DOT 5: 260 °C. (500 °F.).
 
 ## Authority
 - clause_path: c
 - source_file: raw/collections/xml_fmvss/571.116.xml
+- source_citation: xml_fmvss-571-116 / c
 - source_url: n/a
 - confidence: medium
 

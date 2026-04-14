@@ -1,51 +1,70 @@
 ---
 aliases: []
-basis: (a) Minimum length of one inch greater than the maximum tire width of the tire,
+attachment_bucket: null
+attachment_section: null
+basis: (a) Its load rating shall be that specified in a submission made by a manufacturer,
+  pursuant to S4.4(a), or in one of the publications described in S4.4(b) for its
+  non-pneumatic tire identification code designation.
 browse_buckets: []
 clause_path: a
+comparison_key: abf81ed2e4eb5b28dc4d2c0a996f4ed23ab764e5
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-129
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-129-a
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.129 Standard No. 129; New non-pneumatic tires for passenger cars.
 phase: cross_phase
-primary_topic: minimum-length-inch
+primary_topic: a-its-load-rating-shall-be-that-specified-in-a-submission-made-by-a-manufacturer
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.129.xml
   source_hashes:
     raw/collections/xml_fmvss/571.129.xml: d85c856e631d7a74f957e4b31f792dfc0265861a349c01bc9df9f4cd32e1a800
   source_url: null
+raw_marker: (a)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-129 / a
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.129.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.129.xml: d85c856e631d7a74f957e4b31f792dfc0265861a349c01bc9df9f4cd32e1a800
 source_url: null
-statement: (a) Minimum length of one inch greater than the maximum tire width of the
-  tire,
+statement: (a) Its load rating shall be that specified in a submission made by a manufacturer,
+  pursuant to S4.4(a), or in one of the publications described in S4.4(b) for its
+  non-pneumatic tire identification code designation.
 status: draft
+subject: null
 summary: Regulation unit `a` from xml_fmvss-571-129.
-title: (a) Minimum length of one inch greater than the maximum tire width of the tire,
+title: (a) Its load rating shall be that specified in a submission made by a manufacturer,
+  pursuant to S4.4(a), or in one of th
 updated: '2026-04-13'
 ---
 
-# (a) Minimum length of one inch greater than the maximum tire width of the tire,
+# (a) Its load rating shall be that specified in a submission made by a manufacturer, pursuant to S4.4(a), or in one of th
 
 ## Statement
-(a) Minimum length of one inch greater than the maximum tire width of the tire,
+(a) Its load rating shall be that specified in a submission made by a manufacturer, pursuant to S4.4(a), or in one of the publications described in S4.4(b) for its non-pneumatic tire identification code designation.
 
 ## Classification
 - jurisdiction: US
@@ -53,17 +72,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: minimum-length-inch
+- primary_topic: a-its-load-rating-shall-be-that-specified-in-a-submission-made-by-a-manufacturer
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(a) Minimum length of one inch greater than the maximum tire width of the tire,
+(a) Its load rating shall be that specified in a submission made by a manufacturer, pursuant to S4.4(a), or in one of the publications described in S4.4(b) for its non-pneumatic tire identification code designation.
 
 ## Authority
 - clause_path: a
 - source_file: raw/collections/xml_fmvss/571.129.xml
+- source_citation: xml_fmvss-571-129 / a
 - source_url: n/a
 - confidence: medium
 

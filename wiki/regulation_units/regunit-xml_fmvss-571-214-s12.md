@@ -1,41 +1,57 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S12 Positioning procedures for the anthropomorphic test dummies.
-browse_buckets: []
+browse_buckets:
+- side_impact
 clause_path: s12
+comparison_key: 94ffe4ae63fcb4d74c5bb7cf71484f92d6afdd0d
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-214
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-214-s12
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: positioning-procedures-anthropomorphic
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.214 Standard No. 214; Side impact protection.
+phase: in_crash
+primary_topic: side_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.214.xml
   source_hashes:
     raw/collections/xml_fmvss/571.214.xml: bc04834da3eda5481db2b2377401049c18801a5f0fbb243026534555d175922e
   source_url: null
+raw_marker: S12
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-214 / s12
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.214.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.214.xml: bc04834da3eda5481db2b2377401049c18801a5f0fbb243026534555d175922e
 source_url: null
 statement: S12 Positioning procedures for the anthropomorphic test dummies.
 status: draft
+subject: null
 summary: Regulation unit `s12` from xml_fmvss-571-214.
 title: S12 Positioning procedures for the anthropomorphic test dummies.
 updated: '2026-04-13'
@@ -50,12 +66,12 @@ S12 Positioning procedures for the anthropomorphic test dummies.
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: positioning-procedures-anthropomorphic
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: side_impact
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: needs_review
+- browse_buckets: side_impact
+- legacy_domain: passive_crash
 
 ## Basis
 S12 Positioning procedures for the anthropomorphic test dummies.
@@ -63,6 +79,7 @@ S12 Positioning procedures for the anthropomorphic test dummies.
 ## Authority
 - clause_path: s12
 - source_file: raw/collections/xml_fmvss/571.214.xml
+- source_citation: xml_fmvss-571-214 / s12
 - source_url: n/a
 - confidence: medium
 

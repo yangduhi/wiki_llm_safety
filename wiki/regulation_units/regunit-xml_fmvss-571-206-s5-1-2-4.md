@@ -1,45 +1,62 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S5.1.2.4 For piano-type hinges, the hinge spacing requirements are not applicable
   and arrangement of the test fixture is altered so that the test forces are applied
   to the complete hinge.
-browse_buckets: []
+browse_buckets:
+- door_retention
 clause_path: s5-1-2-4
+comparison_key: 23b593f7f6103bbf83b704203456208b3aaefe5d
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-206
+document_kind: null
 effective_date: null
 functional_domain:
 - structural_integrity_retention_and_egress
 id: regunit-xml_fmvss-571-206-s5-1-2-4
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.206 Standard No. 206; Door locks and door retention components.
 phase: in_crash
-primary_topic: piano-type-hinges
+primary_topic: door_retention
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.206.xml
   source_hashes:
     raw/collections/xml_fmvss/571.206.xml: 49c7d11279595462bf14f3c587a271bb5a8c8c17e93dbaedbb0224931f840804
   source_url: null
+raw_marker: S5.1.2.4
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics: []
+row_group_id: null
+secondary_topics:
+- doors
+sectno: null
+source_citation: xml_fmvss-571-206 / s5-1-2-4
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.206.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.206.xml: 49c7d11279595462bf14f3c587a271bb5a8c8c17e93dbaedbb0224931f840804
 source_url: null
 statement: S5.1.2.4 For piano-type hinges, the hinge spacing requirements are not
   applicable and arrangement of the test fixture is altered so that the test forces
   are applied to the complete hinge.
 status: draft
+subject: null
 summary: Regulation unit `s5-1-2-4` from xml_fmvss-571-206.
 title: S5.1.2.4 For piano-type hinges, the hinge spacing requirements are not applicable
   and arrangement of the test fixture is
@@ -57,9 +74,9 @@ S5.1.2.4 For piano-type hinges, the hinge spacing requirements are not applicabl
 - regulatory_layer: technical_requirement
 - phase: in_crash
 - functional_domain: structural_integrity_retention_and_egress
-- primary_topic: piano-type-hinges
-- secondary_topics: n/a
-- browse_buckets: n/a
+- primary_topic: door_retention
+- secondary_topics: doors
+- browse_buckets: door_retention
 - legacy_domain: passive_crash
 
 ## Basis
@@ -68,6 +85,7 @@ S5.1.2.4 For piano-type hinges, the hinge spacing requirements are not applicabl
 ## Authority
 - clause_path: s5-1-2-4
 - source_file: raw/collections/xml_fmvss/571.206.xml
+- source_citation: xml_fmvss-571-206 / s5-1-2-4
 - source_url: n/a
 - confidence: medium
 

@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S5.1.1 Procedure for determining presence of head restraints in rear outboard
   seats. Measure the height of the top of a rear seat back or the top of any independently
   adjustable seat component attached to or adjacent to the rear seat back in its highest
@@ -13,36 +15,49 @@ browse_buckets:
 - head_impact
 - seat_systems
 clause_path: s5-1-1
+comparison_key: d25335821ef67fe778c6c7f73da53914ad074620
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-202a
+document_kind: null
 effective_date: null
 functional_domain:
 - occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-202a-s5-1-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: procedure-determining-presence
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.202a Standard No. 202a; Head restraints; Mandatory applicability
+  begins on September 1, 2009.
+phase: cross_phase
+primary_topic: s5-1-1-procedure-for-determining-presence-of-head-restraints-in-rear-outboard-se
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.202a.xml
   source_hashes:
     raw/collections/xml_fmvss/571.202a.xml: 5f017f1d67b0a4f98b409243ecb0861e372971e196859137d6987a060c92619b
   source_url: null
+raw_marker: S5.1.1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-202a / s5-1-1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.202a.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.202a.xml: 5f017f1d67b0a4f98b409243ecb0861e372971e196859137d6987a060c92619b
 source_url: null
 statement: S5.1.1 Procedure for determining presence of head restraints in rear outboard
   seats. Measure the height of the top of a rear seat back or the top of any independently
@@ -53,6 +68,7 @@ statement: S5.1.1 Procedure for determining presence of head restraints in rear 
   independently adjustable seat component attached to or adjacent to the rear seat
   back.
 status: draft
+subject: null
 summary: Regulation unit `s5-1-1` from xml_fmvss-571-202a.
 title: 'S5.1.1 Procedure for determining presence of head restraints in rear outboard
   seats. Measure the height of the top of a '
@@ -68,12 +84,12 @@ S5.1.1 Procedure for determining presence of head restraints in rear outboard se
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
+- phase: cross_phase
 - functional_domain: occupant_protection_and_restraints
-- primary_topic: procedure-determining-presence
+- primary_topic: s5-1-1-procedure-for-determining-presence-of-head-restraints-in-rear-outboard-se
 - secondary_topics: n/a
 - browse_buckets: rear_impact, head_impact, seat_systems
-- legacy_domain: passive_crash
+- legacy_domain: needs_review
 
 ## Basis
 S5.1.1 Procedure for determining presence of head restraints in rear outboard seats. Measure the height of the top of a rear seat back or the top of any independently adjustable seat component attached to or adjacent to the rear seat back in its highest position of adjustment using the scale incorporated into the SAE Standard J826 JUL95 (incorporated by reference, see § 571.5) manikin or an equivalent scale, which is positioned laterally within 15 mm of the centerline of the rear seat back or any independently adjustable seat component attached to or adjacent to the rear seat back.
@@ -81,6 +97,7 @@ S5.1.1 Procedure for determining presence of head restraints in rear outboard se
 ## Authority
 - clause_path: s5-1-1
 - source_file: raw/collections/xml_fmvss/571.202a.xml
+- source_citation: xml_fmvss-571-202a / s5-1-1
 - source_url: n/a
 - confidence: medium
 

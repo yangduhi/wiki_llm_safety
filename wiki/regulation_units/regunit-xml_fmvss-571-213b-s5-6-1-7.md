@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S5.6.1.7 Child restraint systems shall include statements informing the owner
   of the importance of registering the child restraint system for recall purposes
   and instructing the owner how to register the child restraint system at least by
@@ -9,36 +11,49 @@ basis: 'S5.6.1.7 Child restraint systems shall include statements informing the 
   ”'
 browse_buckets: []
 clause_path: s5-6-1-7
+comparison_key: dd439dda3554b6342526ed639e8dfe8ebd1dd3e8
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-213b
+document_kind: null
 effective_date: null
 functional_domain:
-- child_occupant_protection
+- other_or_review
 id: regunit-xml_fmvss-571-213b-s5-6-1-7
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.213b Standard No. 213b; Child restraint systems; Mandatory applicability
+  beginning December 5, 2026.
 phase: non_phase_admin
-primary_topic: emergency_call
+primary_topic: emergency_call_systems
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.213b.xml
   source_hashes:
     raw/collections/xml_fmvss/571.213b.xml: 53d4b3ead2b555344cf13cd2ea7f709717724b657b55ecef7e96f6022bbf278f
   source_url: null
+raw_marker: S5.6.1.7
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-213b / s5-6-1-7
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.213b.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.213b.xml: 53d4b3ead2b555344cf13cd2ea7f709717724b657b55ecef7e96f6022bbf278f
 source_url: null
 statement: 'S5.6.1.7 Child restraint systems shall include statements informing the
   owner of the importance of registering the child restraint system for recall purposes
@@ -48,6 +63,7 @@ statement: 'S5.6.1.7 Child restraint systems shall include statements informing 
   Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to www.NHTSA.gov.
   ”'
 status: draft
+subject: null
 summary: Regulation unit `s5-6-1-7` from xml_fmvss-571-213b.
 title: S5.6.1.7 Child restraint systems shall include statements informing the owner
   of the importance of registering the child
@@ -64,8 +80,8 @@ S5.6.1.7 Child restraint systems shall include statements informing the owner of
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: non_phase_admin
-- functional_domain: child_occupant_protection
-- primary_topic: emergency_call
+- functional_domain: other_or_review
+- primary_topic: emergency_call_systems
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -76,6 +92,7 @@ S5.6.1.7 Child restraint systems shall include statements informing the owner of
 ## Authority
 - clause_path: s5-6-1-7
 - source_file: raw/collections/xml_fmvss/571.213b.xml
+- source_citation: xml_fmvss-571-213b / s5-6-1-7
 - source_url: n/a
 - confidence: medium
 

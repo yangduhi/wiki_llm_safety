@@ -1,0 +1,88 @@
+---
+aliases: []
+attachment_bucket: null
+attachment_section: null
+basis: '[②] ②이륜자동차에 설치한 속도계의 지시오차는 평탄한 노면에서의 속도가 시속 25킬로미터 이상에서 다음 계산식에 적합하여야 한다.'
+browse_buckets: []
+clause_path: paragraph-2
+comparison_key: 83729ab2d45bd5ed26cc1f28f378792d22526950
+confidence: medium
+created: '2026-04-13'
+document_id: xml_kmvss-kmvss_art_85_122
+document_kind: article
+effective_date: null
+functional_domain:
+- visibility_glazing_and_driver_information
+id: regunit-xml_kmvss-kmvss_art_85_122-paragraph-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
+jurisdiction: KR
+legacy_domain: active_safety
+line_index_end: 3
+line_index_start: 3
+note_type: regulation_unit
+page_end: null
+page_start: null
+parent_clause_path: '85'
+parent_clause_text: 제85조(속도계)
+parent_title: 조문 85 속도계
+phase: pre_crash
+primary_topic: 2-25
+provenance:
+  parser_run_id: 20260414T051134Z__dc745dc5
+  source_files:
+  - raw/collections/xml_kmvss/KMVSS_Art_85_122.xml
+  source_hashes:
+    raw/collections/xml_kmvss/KMVSS_Art_85_122.xml: 5489c755e89ddee2a16e322694e41e34d4e6564cfd4b463b09c2bb4c5677e7ca
+  source_url: null
+raw_marker: paragraph-2
+record_layer: knowledge
+reference_articles: []
+regulatory_layer: technical_requirement
+review_required: true
+row_group_id: null
+secondary_topics: []
+sectno: 조문 85
+source_citation: xml_kmvss-kmvss_art_85_122 / paragraph-2
+source_collection: xml_kmvss
+source_url: null
+statement: '[②] ②이륜자동차에 설치한 속도계의 지시오차는 평탄한 노면에서의 속도가 시속 25킬로미터 이상에서 다음 계산식에 적합하여야
+  한다.'
+status: draft
+subject: 속도계
+summary: Regulation unit `paragraph-2` from xml_kmvss-kmvss_art_85_122.
+title: '[②] ②이륜자동차에 설치한 속도계의 지시오차는 평탄한 노면에서의 속도가 시속 25킬로미터 이상에서 다음 계산식에 적합하여야 한다.'
+updated: '2026-04-13'
+---
+
+# [②] ②이륜자동차에 설치한 속도계의 지시오차는 평탄한 노면에서의 속도가 시속 25킬로미터 이상에서 다음 계산식에 적합하여야 한다.
+
+## Statement
+[②] ②이륜자동차에 설치한 속도계의 지시오차는 평탄한 노면에서의 속도가 시속 25킬로미터 이상에서 다음 계산식에 적합하여야 한다.
+
+## Classification
+- jurisdiction: KR
+- source_collection: xml_kmvss
+- regulatory_layer: technical_requirement
+- phase: pre_crash
+- functional_domain: visibility_glazing_and_driver_information
+- primary_topic: 2-25
+- secondary_topics: n/a
+- browse_buckets: n/a
+- legacy_domain: active_safety
+
+## Basis
+[②] ②이륜자동차에 설치한 속도계의 지시오차는 평탄한 노면에서의 속도가 시속 25킬로미터 이상에서 다음 계산식에 적합하여야 한다.
+
+## Authority
+- clause_path: paragraph-2
+- source_file: raw/collections/xml_kmvss/KMVSS_Art_85_122.xml
+- source_citation: xml_kmvss-kmvss_art_85_122 / paragraph-2
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_kmvss-kmvss_art_85_122]]
+- [[jurisdictions/jurisdiction-kr]]

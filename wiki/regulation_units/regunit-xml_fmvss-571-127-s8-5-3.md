@@ -1,43 +1,59 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S8.5.3. Test conduct after either forward collision warning or subject vehicle
   braking onset.
 browse_buckets: []
 clause_path: s8-5-3
+comparison_key: 69f443ad7fc71b92c51700f88c42cfa79be1f03d
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-127
+document_kind: null
 effective_date: null
 functional_domain:
-- crash_avoidance_and_vehicle_control
+- other_or_review
 id: regunit-xml_fmvss-571-127-s8-5-3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: active_safety
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.127 Standard No. 127; Automatic emergency braking systems for
+  light vehicles.
 phase: pre_crash
-primary_topic: test-conduct-after
+primary_topic: s8-5-3-test-conduct-after-either-forward-collision-warning-or-subject-vehicle-br
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.127.xml
   source_hashes:
     raw/collections/xml_fmvss/571.127.xml: c53d35af4068d5af38c6833d4045b35dbc628cca7fb3c89c2addc43338791120
   source_url: null
+raw_marker: S8.5.3
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-127 / s8-5-3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.127.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.127.xml: c53d35af4068d5af38c6833d4045b35dbc628cca7fb3c89c2addc43338791120
 source_url: null
 statement: S8.5.3. Test conduct after either forward collision warning or subject
   vehicle braking onset.
 status: draft
+subject: null
 summary: Regulation unit `s8-5-3` from xml_fmvss-571-127.
 title: S8.5.3. Test conduct after either forward collision warning or subject vehicle
   braking onset.
@@ -54,8 +70,8 @@ S8.5.3. Test conduct after either forward collision warning or subject vehicle b
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: pre_crash
-- functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: test-conduct-after
+- functional_domain: other_or_review
+- primary_topic: s8-5-3-test-conduct-after-either-forward-collision-warning-or-subject-vehicle-br
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: active_safety
@@ -66,6 +82,7 @@ S8.5.3. Test conduct after either forward collision warning or subject vehicle b
 ## Authority
 - clause_path: s8-5-3
 - source_file: raw/collections/xml_fmvss/571.127.xml
+- source_citation: xml_fmvss-571-127 / s8-5-3
 - source_url: n/a
 - confidence: medium
 

@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S5.4.3.2 Exclusion of high voltage sources from electrical isolation requirements.
   A high voltage source that is conductively connected to an electric component which
   is conductively connected to the electrical chassis and has a working voltage less
@@ -8,37 +10,53 @@ basis: S5.4.3.2 Exclusion of high voltage sources from electrical isolation requ
   is less than or equal to 30 VAC or 60 VDC.
 browse_buckets: []
 clause_path: s5-4-3-2
+comparison_key: 4238412c690e76bed6c49e3467d059cb0e29e907
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-305
+document_kind: null
 effective_date: null
 functional_domain:
 - fire_electrical_and_energy_storage_safety
 id: regunit-xml_fmvss-571-305-s5-4-3-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: electrical_safety
+parent_clause_path: null
+parent_clause_text: null
+parent_title: '§ 571.305 Standard No. 305; electric-powered vehicles: electrolyte
+  spillage and electrical shock protection; applicable unless a vehicle is certified
+  to § 571.305a.'
+phase: post_crash
+primary_topic: post_crash_electrical_safety
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.305.xml
   source_hashes:
     raw/collections/xml_fmvss/571.305.xml: 85f00df5cd1bba685626a174940308b18c28e2bf7aa0556207f786b707fcf3b7
   source_url: null
+raw_marker: S5.4.3.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - electrical_isolation
+- high_voltage
+- electrolyte_spillage
+sectno: null
+source_citation: xml_fmvss-571-305 / s5-4-3-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.305.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.305.xml: 85f00df5cd1bba685626a174940308b18c28e2bf7aa0556207f786b707fcf3b7
 source_url: null
 statement: S5.4.3.2 Exclusion of high voltage sources from electrical isolation requirements.
   A high voltage source that is conductively connected to an electric component which
@@ -47,6 +65,7 @@ statement: S5.4.3.2 Exclusion of high voltage sources from electrical isolation 
   in S5.4.3.1 if the voltage between the high voltage source and the electrical chassis
   is less than or equal to 30 VAC or 60 VDC.
 status: draft
+subject: null
 summary: Regulation unit `s5-4-3-2` from xml_fmvss-571-305.
 title: S5.4.3.2 Exclusion of high voltage sources from electrical isolation requirements.
   A high voltage source that is conduct
@@ -62,10 +81,10 @@ S5.4.3.2 Exclusion of high voltage sources from electrical isolation requirement
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
+- phase: post_crash
 - functional_domain: fire_electrical_and_energy_storage_safety
-- primary_topic: electrical_safety
-- secondary_topics: electrical_isolation
+- primary_topic: post_crash_electrical_safety
+- secondary_topics: electrical_isolation, high_voltage, electrolyte_spillage
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
@@ -75,6 +94,7 @@ S5.4.3.2 Exclusion of high voltage sources from electrical isolation requirement
 ## Authority
 - clause_path: s5-4-3-2
 - source_file: raw/collections/xml_fmvss/571.305.xml
+- source_citation: xml_fmvss-571-305 / s5-4-3-2
 - source_url: n/a
 - confidence: medium
 

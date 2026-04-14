@@ -1,92 +1,96 @@
 ---
 aliases: []
-basis: (g) Buckle latch. The buckles from three seat belt assemblies shall be opened
-  fully and closed at least 10 times. Then the buckles shall be clamped or firmly
-  held against a flat surface so as to permit normal movement of buckle part, but
-  with the metal mating plate (metal-to-metal buckles) or of webbing end (metal-to-webbing
-  buckles) withdrawn from the buckle. The release mechanism shall be moved 200 times
-  through the maximum possible travel against its stop with a force of 133 N ±13 N
-  at a rate not to exceed 30 cycles per minute. The buckle shall be examined to determine
-  compliance with the performance requirements of S4.3(g). A metal-to-metal buckle
-  shall be examined to determine whether partial engagement is possible by means of
-  any technique representative of actual use. If partial engagement is possible, the
-  maximum force of separation when in such partial engagement shall be determined.
+attachment_bucket: null
+attachment_section: null
+basis: (g) Adjustment. (1) A Type 1 or Type 2 seat belt assembly shall be capable
+  of adjustment to fit occupants whose dimensions and weight range from those of a
+  5th-percentile adult female to those of a 95th-percentile adult male. The seat belt
+  assembly shall have either an automatic-locking retractor, an emergency-locking
+  retractor, or an adjusting device that is within the reach of the occupant.
 browse_buckets:
 - occupant_restraints
 - seat_systems
 clause_path: g
+comparison_key: c92f4a53f3fd4a0f04bbf12e50d4c11605855dae
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-209
+document_kind: null
 effective_date: null
 functional_domain:
-- structural_integrity_retention_and_egress
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-209-g
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: buckle-latch-buckles
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.209 Standard No. 209; Seat belt assemblies.
+phase: cross_phase
+primary_topic: g-adjustment-1-a-type-1-or-type-2-seat-belt-assembly-shall-be-capable-of-adjustm
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.209.xml
   source_hashes:
     raw/collections/xml_fmvss/571.209.xml: e26e250f0b7090e9729431ec45532f14d578a238e93d8bbce26e7fa3d774e825
   source_url: null
+raw_marker: (g)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - seat_belts
+sectno: null
+source_citation: xml_fmvss-571-209 / g
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.209.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.209.xml: e26e250f0b7090e9729431ec45532f14d578a238e93d8bbce26e7fa3d774e825
 source_url: null
-statement: (g) Buckle latch. The buckles from three seat belt assemblies shall be
-  opened fully and closed at least 10 times. Then the buckles shall be clamped or
-  firmly held against a flat surface so as to permit normal movement of buckle part,
-  but with the metal mating plate (metal-to-metal buckles) or of webbing end (metal-to-webbing
-  buckles) withdrawn from the buckle. The release mechanism shall be moved 200 times
-  through the maximum possible travel against its stop with a force of 133 N ±13 N
-  at a rate not to exceed 30 cycles per minute. The buckle shall be examined to determine
-  compliance with the performance requirements of S4.3(g). A metal-to-metal buckle
-  shall be examined to determine whether partial engagement is possible by means of
-  any technique representative of actual use. If partial engagement is possible, the
-  maximum force of separation when in such partial engagement shall be determined.
+statement: (g) Adjustment. (1) A Type 1 or Type 2 seat belt assembly shall be capable
+  of adjustment to fit occupants whose dimensions and weight range from those of a
+  5th-percentile adult female to those of a 95th-percentile adult male. The seat belt
+  assembly shall have either an automatic-locking retractor, an emergency-locking
+  retractor, or an adjusting device that is within the reach of the occupant.
 status: draft
+subject: null
 summary: Regulation unit `g` from xml_fmvss-571-209.
-title: (g) Buckle latch. The buckles from three seat belt assemblies shall be opened
-  fully and closed at least 10 times. Then t
+title: (g) Adjustment. (1) A Type 1 or Type 2 seat belt assembly shall be capable
+  of adjustment to fit occupants whose dimensio
 updated: '2026-04-13'
 ---
 
-# (g) Buckle latch. The buckles from three seat belt assemblies shall be opened fully and closed at least 10 times. Then t
+# (g) Adjustment. (1) A Type 1 or Type 2 seat belt assembly shall be capable of adjustment to fit occupants whose dimensio
 
 ## Statement
-(g) Buckle latch. The buckles from three seat belt assemblies shall be opened fully and closed at least 10 times. Then the buckles shall be clamped or firmly held against a flat surface so as to permit normal movement of buckle part, but with the metal mating plate (metal-to-metal buckles) or of webbing end (metal-to-webbing buckles) withdrawn from the buckle. The release mechanism shall be moved 200 times through the maximum possible travel against its stop with a force of 133 N ±13 N at a rate not to exceed 30 cycles per minute. The buckle shall be examined to determine compliance with the performance requirements of S4.3(g). A metal-to-metal buckle shall be examined to determine whether partial engagement is possible by means of any technique representative of actual use. If partial engagement is possible, the maximum force of separation when in such partial engagement shall be determined.
+(g) Adjustment. (1) A Type 1 or Type 2 seat belt assembly shall be capable of adjustment to fit occupants whose dimensions and weight range from those of a 5th-percentile adult female to those of a 95th-percentile adult male. The seat belt assembly shall have either an automatic-locking retractor, an emergency-locking retractor, or an adjusting device that is within the reach of the occupant.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
-- functional_domain: structural_integrity_retention_and_egress
-- primary_topic: buckle-latch-buckles
+- phase: cross_phase
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: g-adjustment-1-a-type-1-or-type-2-seat-belt-assembly-shall-be-capable-of-adjustm
 - secondary_topics: seat_belts
 - browse_buckets: occupant_restraints, seat_systems
-- legacy_domain: passive_crash
+- legacy_domain: needs_review
 
 ## Basis
-(g) Buckle latch. The buckles from three seat belt assemblies shall be opened fully and closed at least 10 times. Then the buckles shall be clamped or firmly held against a flat surface so as to permit normal movement of buckle part, but with the metal mating plate (metal-to-metal buckles) or of webbing end (metal-to-webbing buckles) withdrawn from the buckle. The release mechanism shall be moved 200 times through the maximum possible travel against its stop with a force of 133 N ±13 N at a rate not to exceed 30 cycles per minute. The buckle shall be examined to determine compliance with the performance requirements of S4.3(g). A metal-to-metal buckle shall be examined to determine whether partial engagement is possible by means of any technique representative of actual use. If partial engagement is possible, the maximum force of separation when in such partial engagement shall be determined.
+(g) Adjustment. (1) A Type 1 or Type 2 seat belt assembly shall be capable of adjustment to fit occupants whose dimensions and weight range from those of a 5th-percentile adult female to those of a 95th-percentile adult male. The seat belt assembly shall have either an automatic-locking retractor, an emergency-locking retractor, or an adjusting device that is within the reach of the occupant.
 
 ## Authority
 - clause_path: g
 - source_file: raw/collections/xml_fmvss/571.209.xml
+- source_citation: xml_fmvss-571-209 / g
 - source_url: n/a
 - confidence: medium
 

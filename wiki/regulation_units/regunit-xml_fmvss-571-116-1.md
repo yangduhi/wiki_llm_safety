@@ -1,73 +1,66 @@
 ---
 aliases: []
-basis: (1) When using a shoe and drum type apparatus, adjust the brake shoe toe clearances
-  to 1.0 ±0.1 mm (0.040 ±0.004 inch). Fill the system with brake fluid, bleeding all
-  wheel cylinders and the pressure gage to remove entrapped air. Operate the actuator
-  manually to apply a pressure greater than the required operating pressure and inspect
-  the system for leaks. Adjust the actuator and/or pressure relief valve to obtain
-  a pressure of 6895 kPa ±345 kPa (1,000 ±50 p.s.i.). A smooth pressure stroke pattern
-  is required when using a shoe and drum type apparatus. The pressure is relatively
-  low during the first part of the stroke and then builds up smoothly to the maximum
-  stroking pressure at the end of the stroke, to permit the primary cup to pass the
-  compensating hole at a relatively low pressure. Using stroking fixtures, adjust
-  the actuator and/or pressure relief valve to obtain a pressure of 6895 kPa ±345
-  kPa (1,000 ±50 p.s.i.).
+attachment_bucket: null
+attachment_section: null
+basis: (1) The fluid shall show no sludging, sedimentation, crystallization, or stratification;
 browse_buckets: []
 clause_path: '1'
+comparison_key: cfc997f13ab88befcd6806103519dc1474cf7be9
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-116
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-116-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.116 Standard No. 116; Motor vehicle brake fluids.
 phase: cross_phase
-primary_topic: when-using-shoe
+primary_topic: 1-the-fluid-shall-show-no-sludging-sedimentation-crystallization-or-stratificati
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.116.xml
   source_hashes:
     raw/collections/xml_fmvss/571.116.xml: d845cfb317ee465277b49f367345aff5e46dfea4c77f6308db10eb145406c8e2
   source_url: null
+raw_marker: (1)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-116 / 1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.116.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.116.xml: d845cfb317ee465277b49f367345aff5e46dfea4c77f6308db10eb145406c8e2
 source_url: null
-statement: (1) When using a shoe and drum type apparatus, adjust the brake shoe toe
-  clearances to 1.0 ±0.1 mm (0.040 ±0.004 inch). Fill the system with brake fluid,
-  bleeding all wheel cylinders and the pressure gage to remove entrapped air. Operate
-  the actuator manually to apply a pressure greater than the required operating pressure
-  and inspect the system for leaks. Adjust the actuator and/or pressure relief valve
-  to obtain a pressure of 6895 kPa ±345 kPa (1,000 ±50 p.s.i.). A smooth pressure
-  stroke pattern is required when using a shoe and drum type apparatus. The pressure
-  is relatively low during the first part of the stroke and then builds up smoothly
-  to the maximum stroking pressure at the end of the stroke, to permit the primary
-  cup to pass the compensating hole at a relatively low pressure. Using stroking fixtures,
-  adjust the actuator and/or pressure relief valve to obtain a pressure of 6895 kPa
-  ±345 kPa (1,000 ±50 p.s.i.).
+statement: (1) The fluid shall show no sludging, sedimentation, crystallization, or
+  stratification;
 status: draft
+subject: null
 summary: Regulation unit `1` from xml_fmvss-571-116.
-title: '(1) When using a shoe and drum type apparatus, adjust the brake shoe toe clearances
-  to 1.0 ±0.1 mm (0.040 ±0.004 inch). '
+title: (1) The fluid shall show no sludging, sedimentation, crystallization, or stratification;
 updated: '2026-04-13'
 ---
 
-# (1) When using a shoe and drum type apparatus, adjust the brake shoe toe clearances to 1.0 ±0.1 mm (0.040 ±0.004 inch). 
+# (1) The fluid shall show no sludging, sedimentation, crystallization, or stratification;
 
 ## Statement
-(1) When using a shoe and drum type apparatus, adjust the brake shoe toe clearances to 1.0 ±0.1 mm (0.040 ±0.004 inch). Fill the system with brake fluid, bleeding all wheel cylinders and the pressure gage to remove entrapped air. Operate the actuator manually to apply a pressure greater than the required operating pressure and inspect the system for leaks. Adjust the actuator and/or pressure relief valve to obtain a pressure of 6895 kPa ±345 kPa (1,000 ±50 p.s.i.). A smooth pressure stroke pattern is required when using a shoe and drum type apparatus. The pressure is relatively low during the first part of the stroke and then builds up smoothly to the maximum stroking pressure at the end of the stroke, to permit the primary cup to pass the compensating hole at a relatively low pressure. Using stroking fixtures, adjust the actuator and/or pressure relief valve to obtain a pressure of 6895 kPa ±345 kPa (1,000 ±50 p.s.i.).
+(1) The fluid shall show no sludging, sedimentation, crystallization, or stratification;
 
 ## Classification
 - jurisdiction: US
@@ -75,17 +68,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: when-using-shoe
+- primary_topic: 1-the-fluid-shall-show-no-sludging-sedimentation-crystallization-or-stratificati
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(1) When using a shoe and drum type apparatus, adjust the brake shoe toe clearances to 1.0 ±0.1 mm (0.040 ±0.004 inch). Fill the system with brake fluid, bleeding all wheel cylinders and the pressure gage to remove entrapped air. Operate the actuator manually to apply a pressure greater than the required operating pressure and inspect the system for leaks. Adjust the actuator and/or pressure relief valve to obtain a pressure of 6895 kPa ±345 kPa (1,000 ±50 p.s.i.). A smooth pressure stroke pattern is required when using a shoe and drum type apparatus. The pressure is relatively low during the first part of the stroke and then builds up smoothly to the maximum stroking pressure at the end of the stroke, to permit the primary cup to pass the compensating hole at a relatively low pressure. Using stroking fixtures, adjust the actuator and/or pressure relief valve to obtain a pressure of 6895 kPa ±345 kPa (1,000 ±50 p.s.i.).
+(1) The fluid shall show no sludging, sedimentation, crystallization, or stratification;
 
 ## Authority
 - clause_path: 1
 - source_file: raw/collections/xml_fmvss/571.116.xml
+- source_citation: xml_fmvss-571-116 / 1
 - source_url: n/a
 - confidence: medium
 

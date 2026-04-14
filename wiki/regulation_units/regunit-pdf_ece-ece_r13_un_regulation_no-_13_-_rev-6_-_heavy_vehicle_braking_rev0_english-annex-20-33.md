@@ -1,0 +1,287 @@
+---
+aliases: []
+attachment_bucket: null
+attachment_section: Annex 20 - Appendix 5
+basis: 'Annex 20 - Appendix 5
+
+  SYMBOLS AND DEFINITIONS
+
+  SYMBOL
+
+  DEFINITION
+
+  ADi
+
+  Tpi when Tpi < 0.8 NFDi for front axles, or
+
+  0.8 NFDi when Tpi > 0.8 NFDi for front axles
+
+  BDi
+
+  Tpi when Tpi < 0.8 NRDi for rear axles, or
+
+  0.8 NRDi when Tpi > 0.8 NRDi for rear axles
+
+  AUi
+
+  Tpi when Tpi < 0.8 NFUi for front axles, or
+
+  0.8 NFUi when Tpi > 0.8 NFUi for front axles
+
+  BUi
+
+  Tpi when Tpi < 0.8 NRUi for rear axles, or
+
+  0.8 NRUi when Tpi > 0.8 NRUi for rear axles
+
+  BF
+
+  brake factor
+
+  Co
+
+  threshold camshaft input torque (minimum camshaft torque necessary to
+
+  produce a measurable brake torque)
+
+  E
+
+  wheelbase
+
+  EL
+
+  distance between the coupling support leg or landing legs to the centre of the
+
+  axle(s) of a centre axle trailer or semi-trailer
+
+  ER
+
+  distance between king-pin and centre of axle or axles of semi-trailer
+
+  F
+
+  force (N)
+
+  Ff
+
+  total normal static reaction of road surface on front axle(s)
+
+  Ffdyn
+
+  total normal dynamic reaction of road surface on front axles(s)
+
+  Ff
+
+  total normal static reaction of road surface on rear axle(s)
+
+  Frdyn
+
+  total normal dynamic reaction of road surface on rear axle(s)
+
+  FR
+
+  total normal static reaction of road surface on all wheels of the trailer or semi-
+
+  trailer
+
+  FRdyn
+
+  total normal dynamic reaction of road surface on all wheels of the trailer or
+
+  semi-trailer
+
+  g
+
+  acceleration due to gravity (9.81 m/s2)
+
+  h
+
+  height above ground of centre of gravity
+
+  hK
+
+  height of fifth wheel coupling (king pin)
+
+  hr
+
+  height of centre of gravity of trailer
+
+  i
+
+  axle index
+
+  iF
+
+  number of front axles
+
+  iR
+
+  number of rear axles
+
+  l
+
+  lever length
+
+  n
+
+  number of spring brake actuators per axle
+
+  E/ECE/324
+
+  E/ECE/TRANS/505
+
+  } Rev.1/Add.12/Rev.6
+
+  Regulation No. 13
+
+  page 276'
+browse_buckets:
+- rear_impact
+clause_path: annex-20-33
+comparison_key: 34e8fdcae22864926b9ef24fade6fbf47f42fa2c
+confidence: medium
+created: '2026-04-13'
+document_id: pdf_ece-ece_r13_un_regulation_no-_13_-_rev-6_-_heavy_vehicle_braking_rev0_english
+document_kind: annex
+effective_date: null
+functional_domain:
+- other_or_review
+id: regunit-pdf_ece-ece_r13_un_regulation_no-_13_-_rev-6_-_heavy_vehicle_braking_rev0_english-annex-20-33
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
+jurisdiction: UNECE
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
+note_type: regulation_unit
+page_end: 276
+page_start: 275
+parent_clause_path: null
+parent_clause_text: null
+parent_title: ECE R13 UN Regulation No. 13 - Rev.6 - Heavy vehicle braking Rev0 English
+phase: cross_phase
+primary_topic: annex-20-appendix-5
+provenance:
+  parser_run_id: 20260414T051508Z__014a8f04
+  source_files:
+  - raw/collections/pdf_ece/ECE_R13_UN_Regulation_No._13_-_Rev.6_-_Heavy_vehicle_braking_Rev0_English.pdf
+  source_hashes:
+    raw/collections/pdf_ece/ECE_R13_UN_Regulation_No._13_-_Rev.6_-_Heavy_vehicle_braking_Rev0_English.pdf: 87e6376b1dc6d24435554a12133b2f78d9a80c255c028a6e45a84b6c7c3aa047
+  source_url: null
+raw_marker: annex-20
+record_layer: knowledge
+reference_articles: []
+regulatory_layer: technical_requirement
+review_required: true
+row_group_id: null
+secondary_topics: []
+sectno: null
+source_citation: pdf_ece-ece_r13_un_regulation_no-_13_-_rev-6_-_heavy_vehicle_braking_rev0_english
+  / annex-20-33
+source_collection: pdf_ece
+source_url: null
+statement: Annex 20 - Appendix 5
+status: draft
+subject: null
+summary: Regulation unit `annex-20-33` from pdf_ece-ece_r13_un_regulation_no-_13_-_rev-6_-_heavy_vehicle_braking_rev0_english.
+title: Annex 20 - Appendix 5
+updated: '2026-04-13'
+---
+
+# Annex 20 - Appendix 5
+
+## Statement
+Annex 20 - Appendix 5
+
+## Classification
+- jurisdiction: UNECE
+- source_collection: pdf_ece
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: annex-20-appendix-5
+- secondary_topics: n/a
+- browse_buckets: rear_impact
+- legacy_domain: needs_review
+
+## Basis
+Annex 20 - Appendix 5
+SYMBOLS AND DEFINITIONS
+SYMBOL
+DEFINITION
+ADi
+Tpi when Tpi < 0.8 NFDi for front axles, or
+0.8 NFDi when Tpi > 0.8 NFDi for front axles
+BDi
+Tpi when Tpi < 0.8 NRDi for rear axles, or
+0.8 NRDi when Tpi > 0.8 NRDi for rear axles
+AUi
+Tpi when Tpi < 0.8 NFUi for front axles, or
+0.8 NFUi when Tpi > 0.8 NFUi for front axles
+BUi
+Tpi when Tpi < 0.8 NRUi for rear axles, or
+0.8 NRUi when Tpi > 0.8 NRUi for rear axles
+BF
+brake factor
+Co
+threshold camshaft input torque (minimum camshaft torque necessary to
+produce a measurable brake torque)
+E
+wheelbase
+EL
+distance between the coupling support leg or landing legs to the centre of the
+axle(s) of a centre axle trailer or semi-trailer
+ER
+distance between king-pin and centre of axle or axles of semi-trailer
+F
+force (N)
+Ff
+total normal static reaction of road surface on front axle(s)
+Ffdyn
+total normal dynamic reaction of road surface on front axles(s)
+Ff
+total normal static reaction of road surface on rear axle(s)
+Frdyn
+total normal dynamic reaction of road surface on rear axle(s)
+FR
+total normal static reaction of road surface on all wheels of the trailer or semi-
+trailer
+FRdyn
+total normal dynamic reaction of road surface on all wheels of the trailer or
+semi-trailer
+g
+acceleration due to gravity (9.81 m/s2)
+h
+height above ground of centre of gravity
+hK
+height of fifth wheel coupling (king pin)
+hr
+height of centre of gravity of trailer
+i
+axle index
+iF
+number of front axles
+iR
+number of rear axles
+l
+lever length
+n
+number of spring brake actuators per axle
+E/ECE/324
+E/ECE/TRANS/505
+} Rev.1/Add.12/Rev.6
+Regulation No. 13
+page 276
+
+## Authority
+- clause_path: annex-20-33
+- source_file: raw/collections/pdf_ece/ECE_R13_UN_Regulation_No._13_-_Rev.6_-_Heavy_vehicle_braking_Rev0_English.pdf
+- source_citation: pdf_ece-ece_r13_un_regulation_no-_13_-_rev-6_-_heavy_vehicle_braking_rev0_english / annex-20-33
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/pdf_ece-ece_r13_un_regulation_no-_13_-_rev-6_-_heavy_vehicle_braking_rev0_english]]
+- [[jurisdictions/jurisdiction-unece]]

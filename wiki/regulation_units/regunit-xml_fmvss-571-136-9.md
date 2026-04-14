@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: '(9) When installed on a truck tractor, it has the means to provide brake pressure
   to automatically apply and modulate the brake torques of a towed trailer.
 
@@ -61,40 +63,54 @@ basis: '(9) When installed on a truck tractor, it has the means to provide brake
   per second of rotation about a vertical axis through the vehicle''s center of gravity.'
 browse_buckets: []
 clause_path: '9'
+comparison_key: 0772c196ce0e8eec36362304628c5df714367700
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-136
+document_kind: null
 effective_date: null
 functional_domain:
 - crash_avoidance_and_vehicle_control
 id: regunit-xml_fmvss-571-136-9
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: active_safety
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.136 Standard No. 136; Electronic stability control systems for
+  heavy vehicles.
 phase: pre_crash
-primary_topic: when-installed-truck
+primary_topic: electronic_stability_control
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.136.xml
   source_hashes:
     raw/collections/xml_fmvss/571.136.xml: 34f9b377fec6b323d9e76011526c645c782d1cc6c098099b690ef81a9fa9d6f6
   source_url: null
+raw_marker: (9)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-136 / 9
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.136.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.136.xml: 34f9b377fec6b323d9e76011526c645c782d1cc6c098099b690ef81a9fa9d6f6
 source_url: null
 statement: (9) When installed on a truck tractor, it has the means to provide brake
   pressure to automatically apply and modulate the brake torques of a towed trailer.
 status: draft
+subject: null
 summary: Regulation unit `9` from xml_fmvss-571-136.
 title: (9) When installed on a truck tractor, it has the means to provide brake pressure
   to automatically apply and modulate th
@@ -112,7 +128,7 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: pre_crash
 - functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: when-installed-truck
+- primary_topic: electronic_stability_control
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: active_safety
@@ -138,6 +154,7 @@ Yaw Rate means the rate of change of the vehicle's heading angle measure in degr
 ## Authority
 - clause_path: 9
 - source_file: raw/collections/xml_fmvss/571.136.xml
+- source_citation: xml_fmvss-571-136 / 9
 - source_url: n/a
 - confidence: medium
 

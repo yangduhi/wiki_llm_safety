@@ -1,44 +1,59 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S5.1 Seats with Type 1 or certain Type 2 seat belt assemblies.
 browse_buckets:
 - occupant_restraints
 - seat_systems
 clause_path: s5-1
+comparison_key: e38afe0af7e379cc86fcadb5254382b1ca7bb37c
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-210
+document_kind: null
 effective_date: null
 functional_domain:
 - occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-210-s5-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: seats-with-type
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.210 Standard No. 210; Seat belt assembly anchorages.
+phase: cross_phase
+primary_topic: s5-1-seats-with-type-1-or-certain-type-2-seat-belt-assemblies
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.210.xml
   source_hashes:
     raw/collections/xml_fmvss/571.210.xml: 568f5de3738a2d37686fe87131ddc16a5feeb6fd68cd679c2f61ac0ea2fc4df0
   source_url: null
+raw_marker: S5.1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - seat_belts
+sectno: null
+source_citation: xml_fmvss-571-210 / s5-1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.210.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.210.xml: 568f5de3738a2d37686fe87131ddc16a5feeb6fd68cd679c2f61ac0ea2fc4df0
 source_url: null
 statement: S5.1 Seats with Type 1 or certain Type 2 seat belt assemblies.
 status: draft
+subject: null
 summary: Regulation unit `s5-1` from xml_fmvss-571-210.
 title: S5.1 Seats with Type 1 or certain Type 2 seat belt assemblies.
 updated: '2026-04-13'
@@ -53,12 +68,12 @@ S5.1 Seats with Type 1 or certain Type 2 seat belt assemblies.
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
+- phase: cross_phase
 - functional_domain: occupant_protection_and_restraints
-- primary_topic: seats-with-type
+- primary_topic: s5-1-seats-with-type-1-or-certain-type-2-seat-belt-assemblies
 - secondary_topics: seat_belts
 - browse_buckets: occupant_restraints, seat_systems
-- legacy_domain: passive_crash
+- legacy_domain: needs_review
 
 ## Basis
 S5.1 Seats with Type 1 or certain Type 2 seat belt assemblies.
@@ -66,6 +81,7 @@ S5.1 Seats with Type 1 or certain Type 2 seat belt assemblies.
 ## Authority
 - clause_path: s5-1
 - source_file: raw/collections/xml_fmvss/571.210.xml
+- source_citation: xml_fmvss-571-210 / s5-1
 - source_url: n/a
 - confidence: medium
 

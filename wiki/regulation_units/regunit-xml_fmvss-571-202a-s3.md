@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S3. Definitions.
 
   Backset means the minimum horizontal distance between the rear of a representation
@@ -32,42 +34,60 @@ basis: 'S3. Definitions.
 
   Top of the head restraint means the point on the head restraint with the greatest
   height.'
-browse_buckets: []
+browse_buckets:
+- rear_impact
+- occupant_restraints
+- head_impact
+- seat_systems
 clause_path: s3
+comparison_key: 2b9a597f33a3a39a2e8dc7c126bc9197f569b9ae
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-202a
+document_kind: null
 effective_date: null
 functional_domain:
-- crash_avoidance_and_vehicle_control
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-202a-s3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: post_crash_egress
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.202a Standard No. 202a; Head restraints; Mandatory applicability
+  begins on September 1, 2009.
+phase: cross_phase
+primary_topic: s3-definitions
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.202a.xml
   source_hashes:
     raw/collections/xml_fmvss/571.202a.xml: 5f017f1d67b0a4f98b409243ecb0861e372971e196859137d6987a060c92619b
   source_url: null
+raw_marker: S3
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - egress
+sectno: null
+source_citation: xml_fmvss-571-202a / s3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.202a.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.202a.xml: 5f017f1d67b0a4f98b409243ecb0861e372971e196859137d6987a060c92619b
 source_url: null
 statement: S3. Definitions.
 status: draft
+subject: null
 summary: Regulation unit `s3` from xml_fmvss-571-202a.
 title: S3. Definitions.
 updated: '2026-04-13'
@@ -82,12 +102,12 @@ S3. Definitions.
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
-- functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: post_crash_egress
+- phase: cross_phase
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: s3-definitions
 - secondary_topics: egress
-- browse_buckets: n/a
-- legacy_domain: active_safety
+- browse_buckets: rear_impact, occupant_restraints, head_impact, seat_systems
+- legacy_domain: needs_review
 
 ## Basis
 S3. Definitions.
@@ -102,6 +122,7 @@ Top of the head restraint means the point on the head restraint with the greates
 ## Authority
 - clause_path: s3
 - source_file: raw/collections/xml_fmvss/571.202a.xml
+- source_citation: xml_fmvss-571-202a / s3
 - source_url: n/a
 - confidence: medium
 

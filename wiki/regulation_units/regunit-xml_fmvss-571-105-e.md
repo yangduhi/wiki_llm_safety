@@ -1,53 +1,73 @@
 ---
 aliases: []
-basis: (e) Unlimited wheel lockup is allowed during partial failure stops, and inoperative
-  brake power or power assist stops.
+attachment_bucket: null
+attachment_section: null
+basis: (e) For a vehicle with electrically-actuated service brakes, failure of the
+  source of electric power to the brakes, or diminution of state of charge of the
+  batteries to less than a level specified by the manufacturer for the purpose of
+  warning a driver of degraded brake performance.
 browse_buckets: []
 clause_path: e
+comparison_key: db5fc69f58a77b70a1ed8e52c28244ef7d8997a8
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-105
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-105-e
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.105 Standard No. 105; Hydraulic and electric brake systems.
 phase: cross_phase
-primary_topic: unlimited-wheel-lockup
+primary_topic: e-for-a-vehicle-with-electrically-actuated-service-brakes-failure-of-the-source-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.105.xml
   source_hashes:
     raw/collections/xml_fmvss/571.105.xml: 624b2aa080e310d3d805c34b311d60726267496c1ea71903dc6fca78d1b2e23f
   source_url: null
+raw_marker: (e)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics: []
+row_group_id: null
+secondary_topics:
+- electrical_isolation
+sectno: null
+source_citation: xml_fmvss-571-105 / e
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.105.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.105.xml: 624b2aa080e310d3d805c34b311d60726267496c1ea71903dc6fca78d1b2e23f
 source_url: null
-statement: (e) Unlimited wheel lockup is allowed during partial failure stops, and
-  inoperative brake power or power assist stops.
+statement: (e) For a vehicle with electrically-actuated service brakes, failure of
+  the source of electric power to the brakes, or diminution of state of charge of
+  the batteries to less than a level specified by the manufacturer for the purpose
+  of warning a driver of degraded brake performance.
 status: draft
+subject: null
 summary: Regulation unit `e` from xml_fmvss-571-105.
-title: (e) Unlimited wheel lockup is allowed during partial failure stops, and inoperative
-  brake power or power assist stops.
+title: (e) For a vehicle with electrically-actuated service brakes, failure of the
+  source of electric power to the brakes, or d
 updated: '2026-04-13'
 ---
 
-# (e) Unlimited wheel lockup is allowed during partial failure stops, and inoperative brake power or power assist stops.
+# (e) For a vehicle with electrically-actuated service brakes, failure of the source of electric power to the brakes, or d
 
 ## Statement
-(e) Unlimited wheel lockup is allowed during partial failure stops, and inoperative brake power or power assist stops.
+(e) For a vehicle with electrically-actuated service brakes, failure of the source of electric power to the brakes, or diminution of state of charge of the batteries to less than a level specified by the manufacturer for the purpose of warning a driver of degraded brake performance.
 
 ## Classification
 - jurisdiction: US
@@ -55,17 +75,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: unlimited-wheel-lockup
-- secondary_topics: n/a
+- primary_topic: e-for-a-vehicle-with-electrically-actuated-service-brakes-failure-of-the-source-
+- secondary_topics: electrical_isolation
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(e) Unlimited wheel lockup is allowed during partial failure stops, and inoperative brake power or power assist stops.
+(e) For a vehicle with electrically-actuated service brakes, failure of the source of electric power to the brakes, or diminution of state of charge of the batteries to less than a level specified by the manufacturer for the purpose of warning a driver of degraded brake performance.
 
 ## Authority
 - clause_path: e
 - source_file: raw/collections/xml_fmvss/571.105.xml
+- source_citation: xml_fmvss-571-105 / e
 - source_url: n/a
 - confidence: medium
 

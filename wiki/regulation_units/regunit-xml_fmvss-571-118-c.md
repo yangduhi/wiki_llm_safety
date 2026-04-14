@@ -1,62 +1,67 @@
 ---
 aliases: []
-basis: '(c) Infrared reflectance measurements of each sample of test rod surface material
-  and of the reference mirror are corrected to remove the contribution of infrared
-  light reflected and scattered by the sample holder and other parts of the apparatus
-  before computation of the infrared reflectance ratio.
-
-  [56 FR 15294, Apr. 16, 1991, as amended at 57 FR 23963, June 5, 1992; 57 FR 28012,
-  June 23, 1992; 58 FR 16785, Mar. 31, 1993; 60 FR 13644, Mar. 14, 1995; 69 FR 55531,
-  55544, Sept. 15, 2004; 71 FR 18683, Apr. 12, 2006; 71 FR 25285, Apr. 28, 2006; 73
-  FR 38339, July 7, 2008]'
+attachment_bucket: null
+attachment_section: null
+basis: (c) Upon continuous activation by a locking system on the exterior of the vehicle;
 browse_buckets: []
 clause_path: c
+comparison_key: 85d02a5c813ff46ef2e220a69138ec794636a850
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-118
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-118-c
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.118 Standard No. 118; Power-operated window, partition, and roof
+  panel systems.
 phase: cross_phase
-primary_topic: infrared-reflectance-measurements
+primary_topic: c-upon-continuous-activation-by-a-locking-system-on-the-exterior-of-the-vehicle
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.118.xml
   source_hashes:
     raw/collections/xml_fmvss/571.118.xml: 691eb6623eb26593b5fcb61a901e368c5b8ca723b41fcdc0d491746749a97ad1
   source_url: null
+raw_marker: (c)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-118 / c
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.118.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.118.xml: 691eb6623eb26593b5fcb61a901e368c5b8ca723b41fcdc0d491746749a97ad1
 source_url: null
-statement: (c) Infrared reflectance measurements of each sample of test rod surface
-  material and of the reference mirror are corrected to remove the contribution of
-  infrared light reflected and scattered by the sample holder and other parts of the
-  apparatus before computation of the infrared reflectance ratio.
+statement: (c) Upon continuous activation by a locking system on the exterior of the
+  vehicle;
 status: draft
+subject: null
 summary: Regulation unit `c` from xml_fmvss-571-118.
-title: (c) Infrared reflectance measurements of each sample of test rod surface material
-  and of the reference mirror are correc
+title: (c) Upon continuous activation by a locking system on the exterior of the vehicle;
 updated: '2026-04-13'
 ---
 
-# (c) Infrared reflectance measurements of each sample of test rod surface material and of the reference mirror are correc
+# (c) Upon continuous activation by a locking system on the exterior of the vehicle;
 
 ## Statement
-(c) Infrared reflectance measurements of each sample of test rod surface material and of the reference mirror are corrected to remove the contribution of infrared light reflected and scattered by the sample holder and other parts of the apparatus before computation of the infrared reflectance ratio.
+(c) Upon continuous activation by a locking system on the exterior of the vehicle;
 
 ## Classification
 - jurisdiction: US
@@ -64,18 +69,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: infrared-reflectance-measurements
+- primary_topic: c-upon-continuous-activation-by-a-locking-system-on-the-exterior-of-the-vehicle
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(c) Infrared reflectance measurements of each sample of test rod surface material and of the reference mirror are corrected to remove the contribution of infrared light reflected and scattered by the sample holder and other parts of the apparatus before computation of the infrared reflectance ratio.
-[56 FR 15294, Apr. 16, 1991, as amended at 57 FR 23963, June 5, 1992; 57 FR 28012, June 23, 1992; 58 FR 16785, Mar. 31, 1993; 60 FR 13644, Mar. 14, 1995; 69 FR 55531, 55544, Sept. 15, 2004; 71 FR 18683, Apr. 12, 2006; 71 FR 25285, Apr. 28, 2006; 73 FR 38339, July 7, 2008]
+(c) Upon continuous activation by a locking system on the exterior of the vehicle;
 
 ## Authority
 - clause_path: c
 - source_file: raw/collections/xml_fmvss/571.118.xml
+- source_citation: xml_fmvss-571-118 / c
 - source_url: n/a
 - confidence: medium
 

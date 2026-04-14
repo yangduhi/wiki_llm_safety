@@ -1,53 +1,65 @@
 ---
 aliases: []
-basis: (1) Held for any duration between 60.0 and 65.0 minutes at any voltage between
-  0.50 V and 1.5 times the rated voltage.
+attachment_bucket: null
+attachment_section: null
+basis: (1) Shall not leak nor burst for at least 7,500 cycles, and
 browse_buckets: []
 clause_path: '1'
+comparison_key: d52eca3bdce0253739615922d40042f2f49e433c
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-308
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-308-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.308 Standard No. 308; Compressed hydrogen storage system integrity.
 phase: cross_phase
-primary_topic: held-duration-between
+primary_topic: 1-shall-not-leak-nor-burst-for-at-least-7-500-cycles-and
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.308.xml
   source_hashes:
     raw/collections/xml_fmvss/571.308.xml: f375b76f2d4090cb38b3efbdc5e5a036f470f133944d5c4476a7e5ad568ee4d8
   source_url: null
+raw_marker: (1)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-308 / 1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.308.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.308.xml: f375b76f2d4090cb38b3efbdc5e5a036f470f133944d5c4476a7e5ad568ee4d8
 source_url: null
-statement: (1) Held for any duration between 60.0 and 65.0 minutes at any voltage
-  between 0.50 V and 1.5 times the rated voltage.
+statement: (1) Shall not leak nor burst for at least 7,500 cycles, and
 status: draft
+subject: null
 summary: Regulation unit `1` from xml_fmvss-571-308.
-title: (1) Held for any duration between 60.0 and 65.0 minutes at any voltage between
-  0.50 V and 1.5 times the rated voltage.
+title: (1) Shall not leak nor burst for at least 7,500 cycles, and
 updated: '2026-04-13'
 ---
 
-# (1) Held for any duration between 60.0 and 65.0 minutes at any voltage between 0.50 V and 1.5 times the rated voltage.
+# (1) Shall not leak nor burst for at least 7,500 cycles, and
 
 ## Statement
-(1) Held for any duration between 60.0 and 65.0 minutes at any voltage between 0.50 V and 1.5 times the rated voltage.
+(1) Shall not leak nor burst for at least 7,500 cycles, and
 
 ## Classification
 - jurisdiction: US
@@ -55,17 +67,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: held-duration-between
+- primary_topic: 1-shall-not-leak-nor-burst-for-at-least-7-500-cycles-and
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(1) Held for any duration between 60.0 and 65.0 minutes at any voltage between 0.50 V and 1.5 times the rated voltage.
+(1) Shall not leak nor burst for at least 7,500 cycles, and
 
 ## Authority
 - clause_path: 1
 - source_file: raw/collections/xml_fmvss/571.308.xml
+- source_citation: xml_fmvss-571-308 / 1
 - source_url: n/a
 - confidence: medium
 

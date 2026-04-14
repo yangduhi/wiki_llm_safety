@@ -1,43 +1,59 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S1. Scope. This standard establishes performance and equipment requirements
   for electronic stability control (ESC) systems.
 browse_buckets: []
 clause_path: s1
+comparison_key: 2954e22ada584f2f233a200d39ed12f5ed64ce70
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-126
+document_kind: null
 effective_date: null
 functional_domain:
 - crash_avoidance_and_vehicle_control
 id: regunit-xml_fmvss-571-126-s1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: active_safety
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.126 Standard No. 126; Electronic stability control systems for
+  light vehicles.
 phase: pre_crash
-primary_topic: scope-this-standard
+primary_topic: electronic_stability_control
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.126.xml
   source_hashes:
     raw/collections/xml_fmvss/571.126.xml: f9ff338e2690bc723beee2ce85e876309ad36fd16c279e7e08c80462a0a915f3
   source_url: null
+raw_marker: S1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-126 / s1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.126.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.126.xml: f9ff338e2690bc723beee2ce85e876309ad36fd16c279e7e08c80462a0a915f3
 source_url: null
 statement: S1. Scope. This standard establishes performance and equipment requirements
   for electronic stability control (ESC) systems.
 status: draft
+subject: null
 summary: Regulation unit `s1` from xml_fmvss-571-126.
 title: S1. Scope. This standard establishes performance and equipment requirements
   for electronic stability control (ESC) syste
@@ -55,7 +71,7 @@ S1. Scope. This standard establishes performance and equipment requirements for 
 - regulatory_layer: technical_requirement
 - phase: pre_crash
 - functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: scope-this-standard
+- primary_topic: electronic_stability_control
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: active_safety
@@ -66,6 +82,7 @@ S1. Scope. This standard establishes performance and equipment requirements for 
 ## Authority
 - clause_path: s1
 - source_file: raw/collections/xml_fmvss/571.126.xml
+- source_citation: xml_fmvss-571-126 / s1
 - source_url: n/a
 - confidence: medium
 

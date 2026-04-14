@@ -1,42 +1,58 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S9.2.3 Adjustable seats are adjusted as follows:'
 browse_buckets:
+- child_restraints
 - seat_systems
 clause_path: s9-2-3
+comparison_key: 6812a1d92a2232375e47fbb60dc0be010e6c732e
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-225
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-225-s9-2-3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.225 Standard No. 225; Child restraint anchorage systems.
 phase: cross_phase
-primary_topic: adjustable-seats-adjusted
+primary_topic: s9-2-3-adjustable-seats-are-adjusted-as-follows
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.225.xml
   source_hashes:
     raw/collections/xml_fmvss/571.225.xml: ef95044ec799d141cec5e15e3e13ae81f153149334db1005d2ecf3f58b7255c6
   source_url: null
+raw_marker: S9.2.3
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-225 / s9-2-3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.225.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.225.xml: ef95044ec799d141cec5e15e3e13ae81f153149334db1005d2ecf3f58b7255c6
 source_url: null
 statement: 'S9.2.3 Adjustable seats are adjusted as follows:'
 status: draft
+subject: null
 summary: Regulation unit `s9-2-3` from xml_fmvss-571-225.
 title: 'S9.2.3 Adjustable seats are adjusted as follows:'
 updated: '2026-04-13'
@@ -52,10 +68,10 @@ S9.2.3 Adjustable seats are adjusted as follows:
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: adjustable-seats-adjusted
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: s9-2-3-adjustable-seats-are-adjusted-as-follows
 - secondary_topics: n/a
-- browse_buckets: seat_systems
+- browse_buckets: child_restraints, seat_systems
 - legacy_domain: needs_review
 
 ## Basis
@@ -64,6 +80,7 @@ S9.2.3 Adjustable seats are adjusted as follows:
 ## Authority
 - clause_path: s9-2-3
 - source_file: raw/collections/xml_fmvss/571.225.xml
+- source_citation: xml_fmvss-571-225 / s9-2-3
 - source_url: n/a
 - confidence: medium
 

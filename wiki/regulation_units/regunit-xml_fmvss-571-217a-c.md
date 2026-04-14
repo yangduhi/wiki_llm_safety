@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: (c) Continue applying the line load with the electric staple gun by moving
   rearward in the grid until the end of a row is reached. Then move to the forwardmost
   mark on the next higher row and apply the line load. Continue in this pattern until
@@ -7,45 +9,60 @@ basis: (c) Continue applying the line load with the electric staple gun by movin
 browse_buckets:
 - side_impact
 - rear_impact
+- anti_ejection
 - glazing_retention
 clause_path: c
+comparison_key: 8922434cd1067930e1de2e0c40ddefaf03a34485
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-217a
+document_kind: null
 effective_date: null
 functional_domain:
-- visibility_glazing_and_driver_information
+- structural_integrity_retention_and_egress
 id: regunit-xml_fmvss-571-217a-c
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.217a Standard No. 217a; Anti-ejection glazing for bus portals;
+  Mandatory applicability beginning October 30, 2027.
 phase: cross_phase
-primary_topic: glazing_visibility
+primary_topic: c-continue-applying-the-line-load-with-the-electric-staple-gun-by-moving-rearwar
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.217a.xml
   source_hashes:
     raw/collections/xml_fmvss/571.217a.xml: 413593cd08e6f1718c9c2d27d8cd9c5b608b9426c9627ed256b324528917f83e
   source_url: null
+raw_marker: (c)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - glazing
+sectno: null
+source_citation: xml_fmvss-571-217a / c
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.217a.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.217a.xml: 413593cd08e6f1718c9c2d27d8cd9c5b608b9426c9627ed256b324528917f83e
 source_url: null
 statement: (c) Continue applying the line load with the electric staple gun by moving
   rearward in the grid until the end of a row is reached. Then move to the forwardmost
   mark on the next higher row and apply the line load. Continue in this pattern until
   the line load has been applied to all grid points on the inside surface of the glazing.
 status: draft
+subject: null
 summary: Regulation unit `c` from xml_fmvss-571-217a.
 title: (c) Continue applying the line load with the electric staple gun by moving
   rearward in the grid until the end of a row i
@@ -62,10 +79,10 @@ updated: '2026-04-13'
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: visibility_glazing_and_driver_information
-- primary_topic: glazing_visibility
+- functional_domain: structural_integrity_retention_and_egress
+- primary_topic: c-continue-applying-the-line-load-with-the-electric-staple-gun-by-moving-rearwar
 - secondary_topics: glazing
-- browse_buckets: side_impact, rear_impact, glazing_retention
+- browse_buckets: side_impact, rear_impact, anti_ejection, glazing_retention
 - legacy_domain: needs_review
 
 ## Basis
@@ -74,6 +91,7 @@ updated: '2026-04-13'
 ## Authority
 - clause_path: c
 - source_file: raw/collections/xml_fmvss/571.217a.xml
+- source_citation: xml_fmvss-571-217a / c
 - source_url: n/a
 - confidence: medium
 

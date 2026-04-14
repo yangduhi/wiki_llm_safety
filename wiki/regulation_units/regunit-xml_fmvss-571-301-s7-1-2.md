@@ -1,44 +1,59 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S7.1.2 The fuel system other than the fuel tank is filled with Stoddard solvent
   to its normal operating level.
 browse_buckets:
 - fuel_system_integrity
 clause_path: s7-1-2
+comparison_key: 727e28cb10ff0a78078061a951591b347a33d750
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-301
+document_kind: null
 effective_date: null
 functional_domain:
 - fire_electrical_and_energy_storage_safety
 id: regunit-xml_fmvss-571-301-s7-1-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.301 Standard No. 301; Fuel system integrity.
 phase: cross_phase
-primary_topic: fuel-system-other
+primary_topic: s7-1-2-the-fuel-system-other-than-the-fuel-tank-is-filled-with-stoddard-solvent-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.301.xml
   source_hashes:
     raw/collections/xml_fmvss/571.301.xml: a020a481b38bef1efe69b6e71a2c7ad3cc8aac2fb30c40ef4d0df9044725bf5e
   source_url: null
+raw_marker: S7.1.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-301 / s7-1-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.301.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.301.xml: a020a481b38bef1efe69b6e71a2c7ad3cc8aac2fb30c40ef4d0df9044725bf5e
 source_url: null
 statement: S7.1.2 The fuel system other than the fuel tank is filled with Stoddard
   solvent to its normal operating level.
 status: draft
+subject: null
 summary: Regulation unit `s7-1-2` from xml_fmvss-571-301.
 title: S7.1.2 The fuel system other than the fuel tank is filled with Stoddard solvent
   to its normal operating level.
@@ -56,7 +71,7 @@ S7.1.2 The fuel system other than the fuel tank is filled with Stoddard solvent 
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: fire_electrical_and_energy_storage_safety
-- primary_topic: fuel-system-other
+- primary_topic: s7-1-2-the-fuel-system-other-than-the-fuel-tank-is-filled-with-stoddard-solvent-
 - secondary_topics: n/a
 - browse_buckets: fuel_system_integrity
 - legacy_domain: needs_review
@@ -67,6 +82,7 @@ S7.1.2 The fuel system other than the fuel tank is filled with Stoddard solvent 
 ## Authority
 - clause_path: s7-1-2
 - source_file: raw/collections/xml_fmvss/571.301.xml
+- source_citation: xml_fmvss-571-301 / s7-1-2
 - source_url: n/a
 - confidence: medium
 

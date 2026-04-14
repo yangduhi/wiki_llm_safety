@@ -1,47 +1,62 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S6. General test conditions. Each vehicle must meet the performance requirements
   specified in S7 under the following test conditions and in accordance with the test
   procedures and test sequence specified. Where a range of conditions is specified,
   the vehicle must meet the requirements at all points within the range.
 browse_buckets: []
 clause_path: s6
+comparison_key: bd9c01d3b34054c38bfe36b8dcd572e05a7e876b
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-135
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-135-s6
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.135 Standard No. 135; Light vehicle brake systems.
 phase: cross_phase
-primary_topic: general-test-conditions
+primary_topic: s6-general-test-conditions-each-vehicle-must-meet-the-performance-requirements-s
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.135.xml
   source_hashes:
     raw/collections/xml_fmvss/571.135.xml: 20d8c4994e3d67cb5712e0c14a26d1dfebb1ce3186179d688636262d38e3c434
   source_url: null
+raw_marker: S6
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-135 / s6
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.135.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.135.xml: 20d8c4994e3d67cb5712e0c14a26d1dfebb1ce3186179d688636262d38e3c434
 source_url: null
 statement: S6. General test conditions. Each vehicle must meet the performance requirements
   specified in S7 under the following test conditions and in accordance with the test
   procedures and test sequence specified. Where a range of conditions is specified,
   the vehicle must meet the requirements at all points within the range.
 status: draft
+subject: null
 summary: Regulation unit `s6` from xml_fmvss-571-135.
 title: S6. General test conditions. Each vehicle must meet the performance requirements
   specified in S7 under the following tes
@@ -59,7 +74,7 @@ S6. General test conditions. Each vehicle must meet the performance requirements
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: general-test-conditions
+- primary_topic: s6-general-test-conditions-each-vehicle-must-meet-the-performance-requirements-s
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -70,6 +85,7 @@ S6. General test conditions. Each vehicle must meet the performance requirements
 ## Authority
 - clause_path: s6
 - source_file: raw/collections/xml_fmvss/571.135.xml
+- source_citation: xml_fmvss-571-135 / s6
 - source_url: n/a
 - confidence: medium
 

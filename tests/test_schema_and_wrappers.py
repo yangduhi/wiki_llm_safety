@@ -58,3 +58,9 @@ def test_tooling_fallback_messages_are_documented() -> None:
     tooling = yaml.safe_load((Path(__file__).resolve().parents[1] / "configs" / "tools" / "tooling.yaml").read_text(encoding="utf-8"))
     assert "fallback_message" in tooling["tools"]["qmd"]
     assert "fallback_message" in tooling["tools"]["marp"]
+
+
+def test_verify_wrapper_delegates_to_cli_verify() -> None:
+    wrapper = (Path(__file__).resolve().parents[1] / "scripts" / "wiki.ps1").read_text(encoding="utf-8")
+    assert '& $VenvPython -m wiki_obsidian.cli verify | Out-Host' in wrapper
+    assert '"graph-refresh"' in wrapper

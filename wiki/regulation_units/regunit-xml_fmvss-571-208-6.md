@@ -1,74 +1,92 @@
 ---
 aliases: []
-basis: (6) The head of the dummy is positioned towards the nearest passenger door,
-  and
+attachment_bucket: null
+attachment_section: null
+basis: (6) Measure and record the length of belt between points A and B along the
+  longitudinal centerline of the webbing for the lap belt or lap belt portion of the
+  seat belt assembly.
 browse_buckets:
-- door_retention
-- head_impact
+- occupant_restraints
+- seat_systems
 clause_path: '6'
+comparison_key: ee886fae6a8691eaa33daa4c83ce827f9fde5f33
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
-- structural_integrity_retention_and_egress
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-208-6
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: head-dummy-positioned
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
+phase: in_crash
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: (6)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
-- doors
+- seat_belts
+sectno: null
+source_citation: xml_fmvss-571-208 / 6
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
-statement: (6) The head of the dummy is positioned towards the nearest passenger door,
-  and
+statement: (6) Measure and record the length of belt between points A and B along
+  the longitudinal centerline of the webbing for the lap belt or lap belt portion
+  of the seat belt assembly.
 status: draft
+subject: null
 summary: Regulation unit `6` from xml_fmvss-571-208.
-title: (6) The head of the dummy is positioned towards the nearest passenger door,
-  and
+title: (6) Measure and record the length of belt between points A and B along the
+  longitudinal centerline of the webbing for th
 updated: '2026-04-13'
 ---
 
-# (6) The head of the dummy is positioned towards the nearest passenger door, and
+# (6) Measure and record the length of belt between points A and B along the longitudinal centerline of the webbing for th
 
 ## Statement
-(6) The head of the dummy is positioned towards the nearest passenger door, and
+(6) Measure and record the length of belt between points A and B along the longitudinal centerline of the webbing for the lap belt or lap belt portion of the seat belt assembly.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: structural_integrity_retention_and_egress
-- primary_topic: head-dummy-positioned
-- secondary_topics: doors
-- browse_buckets: door_retention, head_impact
-- legacy_domain: needs_review
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: frontal_impact
+- secondary_topics: seat_belts
+- browse_buckets: occupant_restraints, seat_systems
+- legacy_domain: passive_crash
 
 ## Basis
-(6) The head of the dummy is positioned towards the nearest passenger door, and
+(6) Measure and record the length of belt between points A and B along the longitudinal centerline of the webbing for the lap belt or lap belt portion of the seat belt assembly.
 
 ## Authority
 - clause_path: 6
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / 6
 - source_url: n/a
 - confidence: medium
 

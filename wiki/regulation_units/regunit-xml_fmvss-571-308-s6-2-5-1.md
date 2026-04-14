@@ -1,44 +1,59 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S6.2.5.1. Burner configuration. (a) The fuel for the burner shall be liquefied
   petroleum gas (LPG).
 browse_buckets:
 - fuel_system_integrity
 clause_path: s6-2-5-1
+comparison_key: f38b6ea5c4ae14bcd3cce7483d45eaa20f35441d
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-308
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-308-s6-2-5-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.308 Standard No. 308; Compressed hydrogen storage system integrity.
 phase: cross_phase
-primary_topic: burner-configuration-fuel
+primary_topic: s6-2-5-1-burner-configuration-a-the-fuel-for-the-burner-shall-be-liquefied-petro
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.308.xml
   source_hashes:
     raw/collections/xml_fmvss/571.308.xml: f375b76f2d4090cb38b3efbdc5e5a036f470f133944d5c4476a7e5ad568ee4d8
   source_url: null
+raw_marker: S6.2.5.1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-308 / s6-2-5-1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.308.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.308.xml: f375b76f2d4090cb38b3efbdc5e5a036f470f133944d5c4476a7e5ad568ee4d8
 source_url: null
 statement: S6.2.5.1. Burner configuration. (a) The fuel for the burner shall be liquefied
   petroleum gas (LPG).
 status: draft
+subject: null
 summary: Regulation unit `s6-2-5-1` from xml_fmvss-571-308.
 title: S6.2.5.1. Burner configuration. (a) The fuel for the burner shall be liquefied
   petroleum gas (LPG).
@@ -56,7 +71,7 @@ S6.2.5.1. Burner configuration. (a) The fuel for the burner shall be liquefied p
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: burner-configuration-fuel
+- primary_topic: s6-2-5-1-burner-configuration-a-the-fuel-for-the-burner-shall-be-liquefied-petro
 - secondary_topics: n/a
 - browse_buckets: fuel_system_integrity
 - legacy_domain: needs_review
@@ -67,6 +82,7 @@ S6.2.5.1. Burner configuration. (a) The fuel for the burner shall be liquefied p
 ## Authority
 - clause_path: s6-2-5-1
 - source_file: raw/collections/xml_fmvss/571.308.xml
+- source_citation: xml_fmvss-571-308 / s6-2-5-1
 - source_url: n/a
 - confidence: medium
 

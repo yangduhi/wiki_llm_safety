@@ -1,62 +1,70 @@
 ---
 aliases: []
-basis: '(b) Vehicles that are manufactured in two or more stages or that are altered
-  (within the meaning of 49 CFR 567.7) after having previously been certified in accordance
-  with part 567 of this chapter are not subject to the requirements of S8.1 through
-  S8.3. Instead, all vehicles produced by these manufacturers on or after September
-  1, 2017 must comply with this standard.
-
-  [74 FR 22384, May 12, 2009, as amended at 75 FR 17605, Apr. 7, 2010; 77 FR 768,
-  Jan. 6, 2012; 87 FR 18599, Mar. 30, 2022]'
+attachment_bucket: null
+attachment_section: null
+basis: '(b) At the option of the manufacturer, vehicles within either of the following
+  categories may comply with the roof crush requirements (S4) of Standard No. 220
+  (§ 571.220) instead of the requirements of this standard:'
 browse_buckets: []
 clause_path: b
+comparison_key: befa29fd17044a5a936583d687a611a3b4d4d041
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-216a
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-216a-b
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.216a Standard No. 216a; Roof crush resistance; Upgraded standard.
 phase: cross_phase
-primary_topic: vehicles-that-manufactured
+primary_topic: b-at-the-option-of-the-manufacturer-vehicles-within-either-of-the-following-cate
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.216a.xml
   source_hashes:
     raw/collections/xml_fmvss/571.216a.xml: 1f53f51c3cf96af457854eebe1cedf17853a6cdab2a4f0018133fed7cb2ca20b
   source_url: null
+raw_marker: (b)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-216a / b
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.216a.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.216a.xml: 1f53f51c3cf96af457854eebe1cedf17853a6cdab2a4f0018133fed7cb2ca20b
 source_url: null
-statement: (b) Vehicles that are manufactured in two or more stages or that are altered
-  (within the meaning of 49 CFR 567.7) after having previously been certified in accordance
-  with part 567 of this chapter are not subject to the requirements of S8.1 through
-  S8.3. Instead, all vehicles produced by these manufacturers on or after September
-  1, 2017 must comply with this standard.
+statement: '(b) At the option of the manufacturer, vehicles within either of the following
+  categories may comply with the roof crush requirements (S4) of Standard No. 220
+  (§ 571.220) instead of the requirements of this standard:'
 status: draft
+subject: null
 summary: Regulation unit `b` from xml_fmvss-571-216a.
-title: '(b) Vehicles that are manufactured in two or more stages or that are altered
-  (within the meaning of 49 CFR 567.7) after '
+title: (b) At the option of the manufacturer, vehicles within either of the following
+  categories may comply with the roof crush
 updated: '2026-04-13'
 ---
 
-# (b) Vehicles that are manufactured in two or more stages or that are altered (within the meaning of 49 CFR 567.7) after 
+# (b) At the option of the manufacturer, vehicles within either of the following categories may comply with the roof crush
 
 ## Statement
-(b) Vehicles that are manufactured in two or more stages or that are altered (within the meaning of 49 CFR 567.7) after having previously been certified in accordance with part 567 of this chapter are not subject to the requirements of S8.1 through S8.3. Instead, all vehicles produced by these manufacturers on or after September 1, 2017 must comply with this standard.
+(b) At the option of the manufacturer, vehicles within either of the following categories may comply with the roof crush requirements (S4) of Standard No. 220 (§ 571.220) instead of the requirements of this standard:
 
 ## Classification
 - jurisdiction: US
@@ -64,18 +72,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: vehicles-that-manufactured
+- primary_topic: b-at-the-option-of-the-manufacturer-vehicles-within-either-of-the-following-cate
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(b) Vehicles that are manufactured in two or more stages or that are altered (within the meaning of 49 CFR 567.7) after having previously been certified in accordance with part 567 of this chapter are not subject to the requirements of S8.1 through S8.3. Instead, all vehicles produced by these manufacturers on or after September 1, 2017 must comply with this standard.
-[74 FR 22384, May 12, 2009, as amended at 75 FR 17605, Apr. 7, 2010; 77 FR 768, Jan. 6, 2012; 87 FR 18599, Mar. 30, 2022]
+(b) At the option of the manufacturer, vehicles within either of the following categories may comply with the roof crush requirements (S4) of Standard No. 220 (§ 571.220) instead of the requirements of this standard:
 
 ## Authority
 - clause_path: b
 - source_file: raw/collections/xml_fmvss/571.216a.xml
+- source_citation: xml_fmvss-571-216a / b
 - source_url: n/a
 - confidence: medium
 

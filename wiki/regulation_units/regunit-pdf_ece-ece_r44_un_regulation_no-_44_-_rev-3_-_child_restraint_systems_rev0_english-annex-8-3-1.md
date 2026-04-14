@@ -1,0 +1,220 @@
+---
+aliases: []
+attachment_bucket: null
+attachment_section: Annex 8 – Appendix 1
+basis: '3.1.
+
+  Mass
+
+  Table 1
+
+  Component
+
+  Mass in kg by age group
+
+  9 months
+
+  3 years
+
+  6 years
+
+  10 years
+
+  Head + neck
+
+  Torso
+
+  Upper arm (2x)
+
+  Lower arm (2x)
+
+  Upper leg (2x)
+
+  Lower leg (2x)
+
+  2.20 ± 0.10
+
+  3.40 ± 0.10
+
+  0.70 ± 0.05
+
+  0.45 ± 0.05
+
+  1.40 ± 0.05
+
+  0.85 ± 0.05
+
+  2.70 ± 0.10
+
+  5.80 ± 0.15
+
+  1.10 ± 0.05
+
+  0.70 ± 0.05
+
+  3.00 ± 0.10
+
+  1.70 ± 0.10
+
+  3.45 ± 0.10
+
+  8.45 ± 0.20
+
+  1.85 ± 0.10
+
+  1.15 ± 0.05
+
+  4.10 ± 0.15
+
+  3.00 ± 0.10
+
+  3.60 ± 0.10
+
+  12.30 ± 0.30
+
+  2.00 ± 0.10
+
+  1.60 ± 0.10
+
+  7.50 ± 0.15
+
+  5.00 ± 0.15
+
+  Total
+
+  9.00 ± 0.20
+
+  15.00 ± 0.30
+
+  22.00 ± 0.50
+
+  32.00 ± 0.70'
+browse_buckets:
+- head_impact
+- child_restraints
+clause_path: annex-8-3-1
+comparison_key: 2c9488737c23b6d22adb82fb62fa146c6d4709f8
+confidence: medium
+created: '2026-04-13'
+document_id: pdf_ece-ece_r44_un_regulation_no-_44_-_rev-3_-_child_restraint_systems_rev0_english
+document_kind: annex_clause
+effective_date: null
+functional_domain:
+- occupant_protection_and_restraints
+id: regunit-pdf_ece-ece_r44_un_regulation_no-_44_-_rev-3_-_child_restraint_systems_rev0_english-annex-8-3-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
+jurisdiction: UNECE
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
+note_type: regulation_unit
+page_end: 91
+page_start: 91
+parent_clause_path: null
+parent_clause_text: null
+parent_title: ECE R44 UN Regulation No. 44 - Rev.3 - Child Restraint Systems Rev0
+  English
+phase: cross_phase
+primary_topic: 3-1
+provenance:
+  parser_run_id: 20260414T051508Z__014a8f04
+  source_files:
+  - raw/collections/pdf_ece/ECE_R44_UN_Regulation_No._44_-_Rev.3_-_Child_Restraint_Systems_Rev0_English.pdf
+  source_hashes:
+    raw/collections/pdf_ece/ECE_R44_UN_Regulation_No._44_-_Rev.3_-_Child_Restraint_Systems_Rev0_English.pdf: 06811761b97bf2e09c0014700c0eb1e459e663806c98559ba6e416354f98bae5
+  source_url: null
+raw_marker: annex-8-3.1
+record_layer: knowledge
+reference_articles: []
+regulatory_layer: technical_requirement
+review_required: true
+row_group_id: null
+secondary_topics: []
+sectno: null
+source_citation: pdf_ece-ece_r44_un_regulation_no-_44_-_rev-3_-_child_restraint_systems_rev0_english
+  / annex-8-3-1
+source_collection: pdf_ece
+source_url: null
+statement: 3.1.
+status: draft
+subject: null
+summary: Regulation unit `annex-8-3-1` from pdf_ece-ece_r44_un_regulation_no-_44_-_rev-3_-_child_restraint_systems_rev0_english.
+title: 3.1.
+updated: '2026-04-13'
+---
+
+# 3.1.
+
+## Statement
+3.1.
+
+## Classification
+- jurisdiction: UNECE
+- source_collection: pdf_ece
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: 3-1
+- secondary_topics: n/a
+- browse_buckets: head_impact, child_restraints
+- legacy_domain: needs_review
+
+## Basis
+3.1.
+Mass
+Table 1
+Component
+Mass in kg by age group
+9 months
+3 years
+6 years
+10 years
+Head + neck
+Torso
+Upper arm (2x)
+Lower arm (2x)
+Upper leg (2x)
+Lower leg (2x)
+2.20 ± 0.10
+3.40 ± 0.10
+0.70 ± 0.05
+0.45 ± 0.05
+1.40 ± 0.05
+0.85 ± 0.05
+2.70 ± 0.10
+5.80 ± 0.15
+1.10 ± 0.05
+0.70 ± 0.05
+3.00 ± 0.10
+1.70 ± 0.10
+3.45 ± 0.10
+8.45 ± 0.20
+1.85 ± 0.10
+1.15 ± 0.05
+4.10 ± 0.15
+3.00 ± 0.10
+3.60 ± 0.10
+12.30 ± 0.30
+2.00 ± 0.10
+1.60 ± 0.10
+7.50 ± 0.15
+5.00 ± 0.15
+Total
+9.00 ± 0.20
+15.00 ± 0.30
+22.00 ± 0.50
+32.00 ± 0.70
+
+## Authority
+- clause_path: annex-8-3-1
+- source_file: raw/collections/pdf_ece/ECE_R44_UN_Regulation_No._44_-_Rev.3_-_Child_Restraint_Systems_Rev0_English.pdf
+- source_citation: pdf_ece-ece_r44_un_regulation_no-_44_-_rev-3_-_child_restraint_systems_rev0_english / annex-8-3-1
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/pdf_ece-ece_r44_un_regulation_no-_44_-_rev-3_-_child_restraint_systems_rev0_english]]
+- [[jurisdictions/jurisdiction-unece]]

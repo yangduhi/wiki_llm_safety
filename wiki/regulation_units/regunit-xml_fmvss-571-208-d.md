@@ -1,74 +1,90 @@
 ---
 aliases: []
-basis: (d) For S21.2 and S21.5.1, instead of using the 49 CFR part 572 subpart P 3-year-old
-  child dummy, a human child who weighs between 13.4 and 18 kg (29.5 and 39.5 lb),
-  and who is between 89 and 99 cm (35 and 39 in) tall may be used.
+attachment_bucket: null
+attachment_section: null
+basis: (d) At each front outboard designated seating position, have a seat belt warning
+  system that conforms to S7.3.
 browse_buckets:
-- child_restraints
+- occupant_restraints
+- seat_systems
 clause_path: d
+comparison_key: d7b8b805f7eda515359d45d35a26d112002b042b
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-208-d
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: instead-using-part
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
+phase: in_crash
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: (d)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics: []
+row_group_id: null
+secondary_topics:
+- seat_belts
+sectno: null
+source_citation: xml_fmvss-571-208 / d
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
-statement: (d) For S21.2 and S21.5.1, instead of using the 49 CFR part 572 subpart
-  P 3-year-old child dummy, a human child who weighs between 13.4 and 18 kg (29.5
-  and 39.5 lb), and who is between 89 and 99 cm (35 and 39 in) tall may be used.
+statement: (d) At each front outboard designated seating position, have a seat belt
+  warning system that conforms to S7.3.
 status: draft
+subject: null
 summary: Regulation unit `d` from xml_fmvss-571-208.
-title: (d) For S21.2 and S21.5.1, instead of using the 49 CFR part 572 subpart P 3-year-old
-  child dummy, a human child who weig
+title: (d) At each front outboard designated seating position, have a seat belt warning
+  system that conforms to S7.3.
 updated: '2026-04-13'
 ---
 
-# (d) For S21.2 and S21.5.1, instead of using the 49 CFR part 572 subpart P 3-year-old child dummy, a human child who weig
+# (d) At each front outboard designated seating position, have a seat belt warning system that conforms to S7.3.
 
 ## Statement
-(d) For S21.2 and S21.5.1, instead of using the 49 CFR part 572 subpart P 3-year-old child dummy, a human child who weighs between 13.4 and 18 kg (29.5 and 39.5 lb), and who is between 89 and 99 cm (35 and 39 in) tall may be used.
+(d) At each front outboard designated seating position, have a seat belt warning system that conforms to S7.3.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: instead-using-part
-- secondary_topics: n/a
-- browse_buckets: child_restraints
-- legacy_domain: needs_review
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: frontal_impact
+- secondary_topics: seat_belts
+- browse_buckets: occupant_restraints, seat_systems
+- legacy_domain: passive_crash
 
 ## Basis
-(d) For S21.2 and S21.5.1, instead of using the 49 CFR part 572 subpart P 3-year-old child dummy, a human child who weighs between 13.4 and 18 kg (29.5 and 39.5 lb), and who is between 89 and 99 cm (35 and 39 in) tall may be used.
+(d) At each front outboard designated seating position, have a seat belt warning system that conforms to S7.3.
 
 ## Authority
 - clause_path: d
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / d
 - source_url: n/a
 - confidence: medium
 

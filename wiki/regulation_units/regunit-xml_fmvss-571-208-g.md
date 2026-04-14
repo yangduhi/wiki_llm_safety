@@ -1,73 +1,95 @@
 ---
 aliases: []
-basis: (g) Push against the dummy's left shoulder to lean the dummy against the door;
-  close all remaining doors.
+attachment_bucket: null
+attachment_section: null
+basis: (g) Additional labels placed elsewhere in the vehicle interior. The language
+  on additional air bag warning labels placed elsewhere in the vehicle interior shall
+  not cause confusion or contradiction of any of the statements required in the air
+  bag sun visor label, and shall be expressed in symbols, words and abbreviations
+  required by this standard.
 browse_buckets:
-- door_retention
+- occupant_restraints
 clause_path: g
+comparison_key: 563f7ca8d19151dc87e6e4cc4689eb3bab348bc6
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
-- structural_integrity_retention_and_egress
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-208-g
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: push-against-dummy
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
+phase: in_crash
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: (g)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
-- doors
+- airbags
+sectno: null
+source_citation: xml_fmvss-571-208 / g
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
-statement: (g) Push against the dummy's left shoulder to lean the dummy against the
-  door; close all remaining doors.
+statement: (g) Additional labels placed elsewhere in the vehicle interior. The language
+  on additional air bag warning labels placed elsewhere in the vehicle interior shall
+  not cause confusion or contradiction of any of the statements required in the air
+  bag sun visor label, and shall be expressed in symbols, words and abbreviations
+  required by this standard.
 status: draft
+subject: null
 summary: Regulation unit `g` from xml_fmvss-571-208.
-title: (g) Push against the dummy's left shoulder to lean the dummy against the door;
-  close all remaining doors.
+title: (g) Additional labels placed elsewhere in the vehicle interior. The language
+  on additional air bag warning labels placed
 updated: '2026-04-13'
 ---
 
-# (g) Push against the dummy's left shoulder to lean the dummy against the door; close all remaining doors.
+# (g) Additional labels placed elsewhere in the vehicle interior. The language on additional air bag warning labels placed
 
 ## Statement
-(g) Push against the dummy's left shoulder to lean the dummy against the door; close all remaining doors.
+(g) Additional labels placed elsewhere in the vehicle interior. The language on additional air bag warning labels placed elsewhere in the vehicle interior shall not cause confusion or contradiction of any of the statements required in the air bag sun visor label, and shall be expressed in symbols, words and abbreviations required by this standard.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: structural_integrity_retention_and_egress
-- primary_topic: push-against-dummy
-- secondary_topics: doors
-- browse_buckets: door_retention
-- legacy_domain: needs_review
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: frontal_impact
+- secondary_topics: airbags
+- browse_buckets: occupant_restraints
+- legacy_domain: passive_crash
 
 ## Basis
-(g) Push against the dummy's left shoulder to lean the dummy against the door; close all remaining doors.
+(g) Additional labels placed elsewhere in the vehicle interior. The language on additional air bag warning labels placed elsewhere in the vehicle interior shall not cause confusion or contradiction of any of the statements required in the air bag sun visor label, and shall be expressed in symbols, words and abbreviations required by this standard.
 
 ## Authority
 - clause_path: g
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / g
 - source_url: n/a
 - confidence: medium
 

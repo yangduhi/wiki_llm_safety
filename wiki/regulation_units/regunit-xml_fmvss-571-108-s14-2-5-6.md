@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S14.2.5.6 Positioner. The goniometer configuration, used to position the sample
   headlamp when making photometric measurements at specific angular test points, is
   horizontal rotation over elevation. The vertical axis of the goniometer must correspond
@@ -8,36 +10,49 @@ basis: S14.2.5.6 Positioner. The goniometer configuration, used to position the 
 browse_buckets:
 - head_impact
 clause_path: s14-2-5-6
+comparison_key: de9d1acc094900d73daa6db092fd9406a2070259
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-108
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-108-s14-2-5-6
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.108 Standard No. 108; Lamps, reflective devices, and associated
+  equipment.
 phase: cross_phase
-primary_topic: positioner-goniometer-configuration
+primary_topic: s14-2-5-6-positioner-the-goniometer-configuration-used-to-position-the-sample-he
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.108.xml
   source_hashes:
     raw/collections/xml_fmvss/571.108.xml: 733120543fd9c5aa9cd0651a6279ea063548778ae2a24e6f33b2e8531c08673e
   source_url: null
+raw_marker: S14.2.5.6
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-108 / s14-2-5-6
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.108.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.108.xml: 733120543fd9c5aa9cd0651a6279ea063548778ae2a24e6f33b2e8531c08673e
 source_url: null
 statement: S14.2.5.6 Positioner. The goniometer configuration, used to position the
   sample headlamp when making photometric measurements at specific angular test points,
@@ -45,6 +60,7 @@ statement: S14.2.5.6 Positioner. The goniometer configuration, used to position 
   correspond to the design position vertical axis of the sample headlamp which is
   vertical and perpendicular to the longitudinal axis of the vehicle.
 status: draft
+subject: null
 summary: Regulation unit `s14-2-5-6` from xml_fmvss-571-108.
 title: S14.2.5.6 Positioner. The goniometer configuration, used to position the sample
   headlamp when making photometric measure
@@ -62,7 +78,7 @@ S14.2.5.6 Positioner. The goniometer configuration, used to position the sample 
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: positioner-goniometer-configuration
+- primary_topic: s14-2-5-6-positioner-the-goniometer-configuration-used-to-position-the-sample-he
 - secondary_topics: n/a
 - browse_buckets: head_impact
 - legacy_domain: needs_review
@@ -73,6 +89,7 @@ S14.2.5.6 Positioner. The goniometer configuration, used to position the sample 
 ## Authority
 - clause_path: s14-2-5-6
 - source_file: raw/collections/xml_fmvss/571.108.xml
+- source_citation: xml_fmvss-571-108 / s14-2-5-6
 - source_url: n/a
 - confidence: medium
 

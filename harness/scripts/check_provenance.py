@@ -60,8 +60,8 @@ def main() -> int:
         frontmatter = parse_frontmatter(path)
         rel = path.relative_to(root).as_posix()
         provenance = frontmatter.get("provenance") or {}
-        source_files = provenance.get("source_files", frontmatter.get("source_files", []))
-        source_hashes = provenance.get("source_hashes", frontmatter.get("source_hashes", {}))
+        source_files = provenance.get("source_files", [])
+        source_hashes = provenance.get("source_hashes", {})
         note_type = str(frontmatter.get("note_type") or "")
 
         if note_type in {"regulation_document", "regulation_unit"} and not provenance:

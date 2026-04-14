@@ -22,6 +22,7 @@
     "note_type": {
       "type": "string",
       "enum": [
+        "browse_index",
         "regulation_document",
         "regulation_unit",
         "concept_node",

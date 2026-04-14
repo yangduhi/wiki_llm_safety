@@ -1,53 +1,69 @@
 ---
 aliases: []
-basis: (d) Caliper the section width and overall width at six points approximately
-  equally spaced around the tire circumference.
+attachment_bucket: null
+attachment_section: null
+basis: (d) It shall incorporate a tread wear indicator that will provide a visual
+  indication that the tire has worn to a tread depth of 1.6 mm ( 1/16 inch).
 browse_buckets: []
 clause_path: d
+comparison_key: e73b392a3aef71bf42dec8b9ccb30fa58f18e535
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-109
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-109-d
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.109 Standard No. 109; New pneumatic tires for vehicles manufactured
+  from 1949 to 1975, bias ply tires, and T-type spare tires.
 phase: cross_phase
-primary_topic: caliper-section-width
+primary_topic: d-it-shall-incorporate-a-tread-wear-indicator-that-will-provide-a-visual-indicat
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.109.xml
   source_hashes:
     raw/collections/xml_fmvss/571.109.xml: 9a6f252b89e5153f66aa618c33f42df46370a4337942ae117f870b2f7928432d
   source_url: null
+raw_marker: (d)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-109 / d
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.109.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.109.xml: 9a6f252b89e5153f66aa618c33f42df46370a4337942ae117f870b2f7928432d
 source_url: null
-statement: (d) Caliper the section width and overall width at six points approximately
-  equally spaced around the tire circumference.
+statement: (d) It shall incorporate a tread wear indicator that will provide a visual
+  indication that the tire has worn to a tread depth of 1.6 mm ( 1/16 inch).
 status: draft
+subject: null
 summary: Regulation unit `d` from xml_fmvss-571-109.
-title: (d) Caliper the section width and overall width at six points approximately
-  equally spaced around the tire circumference
+title: '(d) It shall incorporate a tread wear indicator that will provide a visual
+  indication that the tire has worn to a tread '
 updated: '2026-04-13'
 ---
 
-# (d) Caliper the section width and overall width at six points approximately equally spaced around the tire circumference
+# (d) It shall incorporate a tread wear indicator that will provide a visual indication that the tire has worn to a tread 
 
 ## Statement
-(d) Caliper the section width and overall width at six points approximately equally spaced around the tire circumference.
+(d) It shall incorporate a tread wear indicator that will provide a visual indication that the tire has worn to a tread depth of 1.6 mm ( 1/16 inch).
 
 ## Classification
 - jurisdiction: US
@@ -55,17 +71,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: caliper-section-width
+- primary_topic: d-it-shall-incorporate-a-tread-wear-indicator-that-will-provide-a-visual-indicat
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(d) Caliper the section width and overall width at six points approximately equally spaced around the tire circumference.
+(d) It shall incorporate a tread wear indicator that will provide a visual indication that the tire has worn to a tread depth of 1.6 mm ( 1/16 inch).
 
 ## Authority
 - clause_path: d
 - source_file: raw/collections/xml_fmvss/571.109.xml
+- source_citation: xml_fmvss-571-109 / d
 - source_url: n/a
 - confidence: medium
 

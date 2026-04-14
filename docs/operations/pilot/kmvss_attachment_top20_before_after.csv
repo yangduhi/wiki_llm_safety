@@ -1,0 +1,21 @@
+document_id,sectno,subject,bucket,before_cross_units,after_cross_units,before_other_units,after_other_units,before_total_units,after_total_units,major_fallback_before,major_fallback_after
+xml_kmvss-kmvss_att_0006_066,별표 0006,자동차 및 이륜자동차 광원형식 및 전력기준(제48조제3항 및 제82조제3항 관련),lighting_photometric_reflector_signaling,213,0,213,0,213,5,<none>,<none>
+xml_kmvss-kmvss_att_0001_001,별표 0001,자동차 및 이륜자동차의 공기압타이어 표기ㆍ구조 및 성능 기준(제12조제1항 및 제64조제1항 관련),labeling_marking_indication,175,0,173,93,185,93,<none>,<none>
+xml_kmvss-kmvss_att_0007_080,별표 0007,승합자동차·화물자동차(피견인자동차를 제외한다) 및 특수자동차의 제동능력 기준(제90조제2호관련),braking_performance_hardware,92,0,82,0,129,96,<none>,<none>
+xml_kmvss-kmvss_att_0024_125,별표 0024,전자파 적합성 기준(제107조 관련),emc_electrical_compatibility,61,0,61,25,62,25,<none>,<none>
+xml_kmvss-kmvss_att_0006_051,별표 0006,앞면안개등의 설치 및 광도기준(제38조의2제1항제3호 관련),lighting_photometric_reflector_signaling,51,0,51,0,55,23,<none>,<none>
+xml_kmvss-kmvss_att_0030_137,별표 0030,브레이크호스 기준(제112조의2 관련),braking_performance_hardware,51,0,48,0,52,63,<none>,<none>
+xml_kmvss-kmvss_att_0005_022,별표 0005,이륜자동차의 등화별 전구형식 및 전력기준(제82조제3항 관련),lighting_photometric_reflector_signaling,49,0,48,0,50,7,<none>,<none>
+xml_kmvss-kmvss_att_0006_062,별표 0006,방향지시등의 설치 및 광도기준(제44조제3호 관련),lighting_photometric_reflector_signaling,52,0,44,0,53,71,<none>,<none>
+xml_kmvss-kmvss_att_0007_081,별표 0007,피견인자동차의 제동능력 기준(제90조제3호관련),braking_performance_hardware,48,0,47,0,62,47,<none>,<none>
+xml_kmvss-kmvss_att_0005_021,별표 0005,이륜자동차의 제동능력 기준(제67조제1항제4호ㆍ제12호 및 제2항제2호 관련),braking_performance_hardware,45,0,40,0,61,42,<none>,<none>
+xml_kmvss-kmvss_att_0026_127,별표 0026,최고속도제한장치의 구조 및 성능기준(제110조의2 관련),short_value_rows,41,42,34,0,43,44,<none>,<none>
+xml_kmvss-kmvss_att_0030_140,별표 0030,자동차 휠 기준(제112조의11 관련),tire_wheel_hose_running_gear,36,41,37,39,39,41,<none>,<none>
+xml_kmvss-kmvss_att_0005_031,별표 0005,이륜자동차 후부반사기 등 설치기준(제80조제1항 및 제2항 관련),lighting_photometric_reflector_signaling,34,0,36,0,37,37,<none>,<none>
+xml_kmvss-kmvss_att_0005_030,별표 0005,이륜자동차 방향지시등 설치 및 광도기준(제79조 관련),lighting_photometric_reflector_signaling,34,0,32,0,37,41,<none>,<none>
+xml_kmvss-kmvss_att_0006_073,별표 0006,후부반사판의 설치 및 반사성능 기준(제49조제6항 및 제112조의9제1호 관련),lighting_photometric_reflector_signaling,29,0,29,0,29,30,<none>,<none>
+xml_kmvss-kmvss_att_0007_079,별표 0007,승용자동차의 제동능력 기준(제90조제1호관련),braking_performance_hardware,29,0,28,0,40,31,<none>,<none>
+xml_kmvss-kmvss_att_0002_002,별표 0002,손조작식 조종장치 또는 표시장치의 식별표시 및 조명기준(제13조제4항 및 제5항 관련),labeling_marking_indication,29,1,27,26,43,43,<none>,<none>
+xml_kmvss-kmvss_att_0005_016,별표 0005,카메라모니터 시스템 성능기준(제50조제1항제2호 관련),short_value_rows,31,47,25,39,31,47,<none>,<none>
+xml_kmvss-kmvss_att_0005_029,별표 0005,이륜자동차 제동등 설치 및 광도기준(제78조제1항 및 제2항 관련),lighting_photometric_reflector_signaling,27,0,28,0,29,35,<none>,<none>
+xml_kmvss-kmvss_att_0005_035,별표 0005,"입석면적 공간 및 손잡이 설치 기준(제23조제1항제5호, 제28조제2항 및 제3항, 제29조제1항제3호 관련)",short_value_rows,28,25,22,19,35,32,<none>,<none>

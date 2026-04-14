@@ -1,44 +1,61 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S5.1.3.3 Car beds. In the case of car beds, all portions of the test dummy's
   head and torso shall be retained within the confines of the car bed.
 browse_buckets:
 - head_impact
+- child_restraints
 clause_path: s5-1-3-3
+comparison_key: ec115adcd855760fe2f061ae846c2d512ed899d4
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-213b
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-213b-s5-1-3-3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.213b Standard No. 213b; Child restraint systems; Mandatory applicability
+  beginning December 5, 2026.
 phase: cross_phase
-primary_topic: beds-case-beds
+primary_topic: s5-1-3-3-car-beds-in-the-case-of-car-beds-all-portions-of-the-test-dummy-s-head-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.213b.xml
   source_hashes:
     raw/collections/xml_fmvss/571.213b.xml: 53d4b3ead2b555344cf13cd2ea7f709717724b657b55ecef7e96f6022bbf278f
   source_url: null
+raw_marker: S5.1.3.3
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-213b / s5-1-3-3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.213b.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.213b.xml: 53d4b3ead2b555344cf13cd2ea7f709717724b657b55ecef7e96f6022bbf278f
 source_url: null
 statement: S5.1.3.3 Car beds. In the case of car beds, all portions of the test dummy's
   head and torso shall be retained within the confines of the car bed.
 status: draft
+subject: null
 summary: Regulation unit `s5-1-3-3` from xml_fmvss-571-213b.
 title: S5.1.3.3 Car beds. In the case of car beds, all portions of the test dummy's
   head and torso shall be retained within the
@@ -55,10 +72,10 @@ S5.1.3.3 Car beds. In the case of car beds, all portions of the test dummy's hea
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: beds-case-beds
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: s5-1-3-3-car-beds-in-the-case-of-car-beds-all-portions-of-the-test-dummy-s-head-
 - secondary_topics: n/a
-- browse_buckets: head_impact
+- browse_buckets: head_impact, child_restraints
 - legacy_domain: needs_review
 
 ## Basis
@@ -67,6 +84,7 @@ S5.1.3.3 Car beds. In the case of car beds, all portions of the test dummy's hea
 ## Authority
 - clause_path: s5-1-3-3
 - source_file: raw/collections/xml_fmvss/571.213b.xml
+- source_citation: xml_fmvss-571-213b / s5-1-3-3
 - source_url: n/a
 - confidence: medium
 

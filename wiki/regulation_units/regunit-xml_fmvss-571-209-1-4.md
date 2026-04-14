@@ -1,0 +1,125 @@
+---
+aliases: []
+attachment_bucket: null
+attachment_section: null
+basis: '(1) For seat belt assemblies manufactured before February 22, 2007. Except
+  for manufacturers that elect to comply with S4.3(j)(2) and the corresponding test
+  procedures of S5.2(j)(2), a retractor shall be tested in a manner that permits the
+  retraction force to be determined exclusive of the gravitational forces on hardware
+  or webbing being retracted. The webbing shall be fully extended from the retractor,
+  passing over or through any hardware or other material specified in the installation
+  instructions. While the webbing is being retracted, the lowest force of retraction
+  within ±51 mm of 75 percent extension shall be determined. A retractor that is sensitive
+  to webbing withdrawal shall be subjected to an acceleration of 3 m/s 2 (0.3 g) within
+  a period of 50 milliseconds (ms) while the webbing is at 75 percent extension, to
+  determine compliance with S4.3(j)(1)(ii). The retractor shall be subjected to an
+  acceleration of 7 m/s 2 (0.7 g) within a period of 50 ms, while the webbing is at
+  75 percent extension, and the webbing movement before locking shall be measured
+  under the following conditions: For a retractor sensitive to webbing withdrawal,
+  the retractor shall be accelerated in the direction of webbing retraction while
+  the retractor drum''s central axis is oriented horizontally and at angles of 45°,
+  90°, 135°, and 180° to the horizontal plane. For a retractor sensitive to vehicle
+  acceleration, the retractor shall be:'
+browse_buckets:
+- occupant_restraints
+- seat_systems
+clause_path: 1-4
+comparison_key: 0b44a5c37e5e4de20f2516e9be51a9287a2a6ba9
+confidence: medium
+created: '2026-04-13'
+document_id: xml_fmvss-571-209
+document_kind: null
+effective_date: null
+functional_domain:
+- crash_avoidance_and_vehicle_control
+id: regunit-xml_fmvss-571-209-1-4
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
+jurisdiction: US
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
+note_type: regulation_unit
+page_end: null
+page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.209 Standard No. 209; Seat belt assemblies.
+phase: cross_phase
+primary_topic: 1-for-seat-belt-assemblies-manufactured-before-february-22-2007-except-for-manuf
+provenance:
+  parser_run_id: 20260414T050834Z__953d9693
+  source_files:
+  - raw/collections/xml_fmvss/571.209.xml
+  source_hashes:
+    raw/collections/xml_fmvss/571.209.xml: e26e250f0b7090e9729431ec45532f14d578a238e93d8bbce26e7fa3d774e825
+  source_url: null
+raw_marker: (1)
+record_layer: knowledge
+reference_articles: []
+regulatory_layer: technical_requirement
+review_required: false
+row_group_id: null
+secondary_topics:
+- seat_belts
+sectno: null
+source_citation: xml_fmvss-571-209 / 1-4
+source_collection: xml_fmvss
+source_url: null
+statement: '(1) For seat belt assemblies manufactured before February 22, 2007. Except
+  for manufacturers that elect to comply with S4.3(j)(2) and the corresponding test
+  procedures of S5.2(j)(2), a retractor shall be tested in a manner that permits the
+  retraction force to be determined exclusive of the gravitational forces on hardware
+  or webbing being retracted. The webbing shall be fully extended from the retractor,
+  passing over or through any hardware or other material specified in the installation
+  instructions. While the webbing is being retracted, the lowest force of retraction
+  within ±51 mm of 75 percent extension shall be determined. A retractor that is sensitive
+  to webbing withdrawal shall be subjected to an acceleration of 3 m/s 2 (0.3 g) within
+  a period of 50 milliseconds (ms) while the webbing is at 75 percent extension, to
+  determine compliance with S4.3(j)(1)(ii). The retractor shall be subjected to an
+  acceleration of 7 m/s 2 (0.7 g) within a period of 50 ms, while the webbing is at
+  75 percent extension, and the webbing movement before locking shall be measured
+  under the following conditions: For a retractor sensitive to webbing withdrawal,
+  the retractor shall be accelerated in the direction of webbing retraction while
+  the retractor drum''s central axis is oriented horizontally and at angles of 45°,
+  90°, 135°, and 180° to the horizontal plane. For a retractor sensitive to vehicle
+  acceleration, the retractor shall be:'
+status: draft
+subject: null
+summary: Regulation unit `1-4` from xml_fmvss-571-209.
+title: (1) For seat belt assemblies manufactured before February 22, 2007. Except
+  for manufacturers that elect to comply with S
+updated: '2026-04-13'
+---
+
+# (1) For seat belt assemblies manufactured before February 22, 2007. Except for manufacturers that elect to comply with S
+
+## Statement
+(1) For seat belt assemblies manufactured before February 22, 2007. Except for manufacturers that elect to comply with S4.3(j)(2) and the corresponding test procedures of S5.2(j)(2), a retractor shall be tested in a manner that permits the retraction force to be determined exclusive of the gravitational forces on hardware or webbing being retracted. The webbing shall be fully extended from the retractor, passing over or through any hardware or other material specified in the installation instructions. While the webbing is being retracted, the lowest force of retraction within ±51 mm of 75 percent extension shall be determined. A retractor that is sensitive to webbing withdrawal shall be subjected to an acceleration of 3 m/s 2 (0.3 g) within a period of 50 milliseconds (ms) while the webbing is at 75 percent extension, to determine compliance with S4.3(j)(1)(ii). The retractor shall be subjected to an acceleration of 7 m/s 2 (0.7 g) within a period of 50 ms, while the webbing is at 75 percent extension, and the webbing movement before locking shall be measured under the following conditions: For a retractor sensitive to webbing withdrawal, the retractor shall be accelerated in the direction of webbing retraction while the retractor drum's central axis is oriented horizontally and at angles of 45°, 90°, 135°, and 180° to the horizontal plane. For a retractor sensitive to vehicle acceleration, the retractor shall be:
+
+## Classification
+- jurisdiction: US
+- source_collection: xml_fmvss
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: crash_avoidance_and_vehicle_control
+- primary_topic: 1-for-seat-belt-assemblies-manufactured-before-february-22-2007-except-for-manuf
+- secondary_topics: seat_belts
+- browse_buckets: occupant_restraints, seat_systems
+- legacy_domain: needs_review
+
+## Basis
+(1) For seat belt assemblies manufactured before February 22, 2007. Except for manufacturers that elect to comply with S4.3(j)(2) and the corresponding test procedures of S5.2(j)(2), a retractor shall be tested in a manner that permits the retraction force to be determined exclusive of the gravitational forces on hardware or webbing being retracted. The webbing shall be fully extended from the retractor, passing over or through any hardware or other material specified in the installation instructions. While the webbing is being retracted, the lowest force of retraction within ±51 mm of 75 percent extension shall be determined. A retractor that is sensitive to webbing withdrawal shall be subjected to an acceleration of 3 m/s 2 (0.3 g) within a period of 50 milliseconds (ms) while the webbing is at 75 percent extension, to determine compliance with S4.3(j)(1)(ii). The retractor shall be subjected to an acceleration of 7 m/s 2 (0.7 g) within a period of 50 ms, while the webbing is at 75 percent extension, and the webbing movement before locking shall be measured under the following conditions: For a retractor sensitive to webbing withdrawal, the retractor shall be accelerated in the direction of webbing retraction while the retractor drum's central axis is oriented horizontally and at angles of 45°, 90°, 135°, and 180° to the horizontal plane. For a retractor sensitive to vehicle acceleration, the retractor shall be:
+
+## Authority
+- clause_path: 1-4
+- source_file: raw/collections/xml_fmvss/571.209.xml
+- source_citation: xml_fmvss-571-209 / 1-4
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_fmvss-571-209]]
+- [[jurisdictions/jurisdiction-us]]

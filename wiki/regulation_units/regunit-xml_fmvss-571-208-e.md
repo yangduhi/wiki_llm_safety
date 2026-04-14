@@ -1,74 +1,88 @@
 ---
 aliases: []
-basis: (e) For S23.2 and S23.5.1, instead of using the 49 CFR part 572 subpart N 6-year-old
-  child dummy, a human child who weighs between 21 and 25.6 kg (46.5 and 56.5 lb),
-  and who is between 114 and 124.5 cm (45 and 49 in) tall may be used.
+attachment_bucket: null
+attachment_section: null
+basis: (e) Comply with the requirements of S7.1.1.5, S7.1.1.6, S7.1.3, and S7.2 of
+  this standard.
 browse_buckets:
-- child_restraints
+- occupant_restraints
 clause_path: e
+comparison_key: 7bf69174eaf92f85d433b857c696d99de1799ca3
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-208-e
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: instead-using-part
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
+phase: in_crash
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: (e)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-208 / e
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
-statement: (e) For S23.2 and S23.5.1, instead of using the 49 CFR part 572 subpart
-  N 6-year-old child dummy, a human child who weighs between 21 and 25.6 kg (46.5
-  and 56.5 lb), and who is between 114 and 124.5 cm (45 and 49 in) tall may be used.
+statement: (e) Comply with the requirements of S7.1.1.5, S7.1.1.6, S7.1.3, and S7.2
+  of this standard.
 status: draft
+subject: null
 summary: Regulation unit `e` from xml_fmvss-571-208.
-title: (e) For S23.2 and S23.5.1, instead of using the 49 CFR part 572 subpart N 6-year-old
-  child dummy, a human child who weig
+title: (e) Comply with the requirements of S7.1.1.5, S7.1.1.6, S7.1.3, and S7.2 of
+  this standard.
 updated: '2026-04-13'
 ---
 
-# (e) For S23.2 and S23.5.1, instead of using the 49 CFR part 572 subpart N 6-year-old child dummy, a human child who weig
+# (e) Comply with the requirements of S7.1.1.5, S7.1.1.6, S7.1.3, and S7.2 of this standard.
 
 ## Statement
-(e) For S23.2 and S23.5.1, instead of using the 49 CFR part 572 subpart N 6-year-old child dummy, a human child who weighs between 21 and 25.6 kg (46.5 and 56.5 lb), and who is between 114 and 124.5 cm (45 and 49 in) tall may be used.
+(e) Comply with the requirements of S7.1.1.5, S7.1.1.6, S7.1.3, and S7.2 of this standard.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: instead-using-part
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: frontal_impact
 - secondary_topics: n/a
-- browse_buckets: child_restraints
-- legacy_domain: needs_review
+- browse_buckets: occupant_restraints
+- legacy_domain: passive_crash
 
 ## Basis
-(e) For S23.2 and S23.5.1, instead of using the 49 CFR part 572 subpart N 6-year-old child dummy, a human child who weighs between 21 and 25.6 kg (46.5 and 56.5 lb), and who is between 114 and 124.5 cm (45 and 49 in) tall may be used.
+(e) Comply with the requirements of S7.1.1.5, S7.1.1.6, S7.1.3, and S7.2 of this standard.
 
 ## Authority
 - clause_path: e
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / e
 - source_url: n/a
 - confidence: medium
 

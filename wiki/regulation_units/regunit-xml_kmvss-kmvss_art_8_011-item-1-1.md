@@ -1,0 +1,91 @@
+---
+aliases: []
+attachment_bucket: null
+attachment_section: null
+basis: '1. 1. 승용자동차, 화물자동차, 특수자동차 및 승차정원 10명 이하인 승합자동차: 공차상태에서 35도(차량총중량이 차량중량의 1.2배
+  이하인 경우에는 30도)'
+browse_buckets: []
+clause_path: item-1-1
+comparison_key: 094fa4c959b8defe07a869ef028f04486681dd55
+confidence: medium
+created: '2026-04-13'
+document_id: xml_kmvss-kmvss_art_8_011
+document_kind: article
+effective_date: null
+functional_domain:
+- crash_avoidance_and_vehicle_control
+id: regunit-xml_kmvss-kmvss_art_8_011-item-1-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
+jurisdiction: KR
+legacy_domain: active_safety
+line_index_end: 3
+line_index_start: 3
+note_type: regulation_unit
+page_end: null
+page_start: null
+parent_clause_path: paragraph-1
+parent_clause_text: '[①] ① 자동차(연결자동차를 포함한다)는 다음 각 호에 따라 좌우로 기울인 상태에서 전복되지 아니하여야 한다.
+  <개정 2023.11.23>'
+parent_title: 조문 8 최대안전경사각도
+phase: pre_crash
+primary_topic: 1-1-10-35-1-2-30
+provenance:
+  parser_run_id: 20260414T051134Z__dc745dc5
+  source_files:
+  - raw/collections/xml_kmvss/KMVSS_Art_8_011.xml
+  source_hashes:
+    raw/collections/xml_kmvss/KMVSS_Art_8_011.xml: 4714c71f71bd880727a95f834aa1fc18f586375d9f004a955563a24b980b751b
+  source_url: null
+raw_marker: item-1-1
+record_layer: knowledge
+reference_articles: []
+regulatory_layer: technical_requirement
+review_required: true
+row_group_id: null
+secondary_topics: []
+sectno: 조문 8
+source_citation: xml_kmvss-kmvss_art_8_011 / item-1-1
+source_collection: xml_kmvss
+source_url: null
+statement: '1. 1. 승용자동차, 화물자동차, 특수자동차 및 승차정원 10명 이하인 승합자동차: 공차상태에서 35도(차량총중량이 차량중량의
+  1.2배 이하인 경우에는 30도)'
+status: draft
+subject: 최대안전경사각도
+summary: Regulation unit `item-1-1` from xml_kmvss-kmvss_art_8_011.
+title: '1. 1. 승용자동차, 화물자동차, 특수자동차 및 승차정원 10명 이하인 승합자동차: 공차상태에서 35도(차량총중량이 차량중량의 1.2배
+  이하인 경우에는 30도)'
+updated: '2026-04-13'
+---
+
+# 1. 1. 승용자동차, 화물자동차, 특수자동차 및 승차정원 10명 이하인 승합자동차: 공차상태에서 35도(차량총중량이 차량중량의 1.2배 이하인 경우에는 30도)
+
+## Statement
+1. 1. 승용자동차, 화물자동차, 특수자동차 및 승차정원 10명 이하인 승합자동차: 공차상태에서 35도(차량총중량이 차량중량의 1.2배 이하인 경우에는 30도)
+
+## Classification
+- jurisdiction: KR
+- source_collection: xml_kmvss
+- regulatory_layer: technical_requirement
+- phase: pre_crash
+- functional_domain: crash_avoidance_and_vehicle_control
+- primary_topic: 1-1-10-35-1-2-30
+- secondary_topics: n/a
+- browse_buckets: n/a
+- legacy_domain: active_safety
+
+## Basis
+1. 1. 승용자동차, 화물자동차, 특수자동차 및 승차정원 10명 이하인 승합자동차: 공차상태에서 35도(차량총중량이 차량중량의 1.2배 이하인 경우에는 30도)
+
+## Authority
+- clause_path: item-1-1
+- source_file: raw/collections/xml_kmvss/KMVSS_Art_8_011.xml
+- source_citation: xml_kmvss-kmvss_art_8_011 / item-1-1
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_kmvss-kmvss_art_8_011]]
+- [[jurisdictions/jurisdiction-kr]]

@@ -1,75 +1,92 @@
 ---
 aliases: []
-basis: '(k) One of the following statements, inserting an address and a U.S. telephone
-  number. If a manufacturer opts to provide a Web site on the registration card as
-  permitted in Figure 9a of this section, the manufacturer must include the statement
-  in part (ii):'
-browse_buckets: []
+attachment_bucket: null
+attachment_section: null
+basis: '(k) (1) In the case of each rear-facing child restraint system that is designed
+  for infants only, the statement: Use only in a rear-facing position when using it
+  in the vehicle.'
+browse_buckets:
+- rear_impact
+- child_restraints
 clause_path: k
+comparison_key: f2d8471ad760e2294366f4c99035ca59e59af962
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-213
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-213-k
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.213 Child restraint systems; Applicable unless a vehicle or child
+  restraint system is certified to § 571.213b.
 phase: cross_phase
-primary_topic: following-statements-inserting
+primary_topic: k-1-in-the-case-of-each-rear-facing-child-restraint-system-that-is-designed-for-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.213.xml
   source_hashes:
     raw/collections/xml_fmvss/571.213.xml: 1725238e3cdac638b9d5ef3385ea164d3519b6a5903309c2a9e33bb35798ebaf
   source_url: null
+raw_marker: (k)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-213 / k
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.213.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.213.xml: 1725238e3cdac638b9d5ef3385ea164d3519b6a5903309c2a9e33bb35798ebaf
 source_url: null
-statement: '(k) One of the following statements, inserting an address and a U.S. telephone
-  number. If a manufacturer opts to provide a Web site on the registration card as
-  permitted in Figure 9a of this section, the manufacturer must include the statement
-  in part (ii):'
+statement: '(k) (1) In the case of each rear-facing child restraint system that is
+  designed for infants only, the statement: Use only in a rear-facing position when
+  using it in the vehicle.'
 status: draft
+subject: null
 summary: Regulation unit `k` from xml_fmvss-571-213.
-title: (k) One of the following statements, inserting an address and a U.S. telephone
-  number. If a manufacturer opts to provide
+title: '(k) (1) In the case of each rear-facing child restraint system that is designed
+  for infants only, the statement: Use onl'
 updated: '2026-04-13'
 ---
 
-# (k) One of the following statements, inserting an address and a U.S. telephone number. If a manufacturer opts to provide
+# (k) (1) In the case of each rear-facing child restraint system that is designed for infants only, the statement: Use onl
 
 ## Statement
-(k) One of the following statements, inserting an address and a U.S. telephone number. If a manufacturer opts to provide a Web site on the registration card as permitted in Figure 9a of this section, the manufacturer must include the statement in part (ii):
+(k) (1) In the case of each rear-facing child restraint system that is designed for infants only, the statement: Use only in a rear-facing position when using it in the vehicle.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: following-statements-inserting
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: k-1-in-the-case-of-each-rear-facing-child-restraint-system-that-is-designed-for-
 - secondary_topics: n/a
-- browse_buckets: n/a
+- browse_buckets: rear_impact, child_restraints
 - legacy_domain: needs_review
 
 ## Basis
-(k) One of the following statements, inserting an address and a U.S. telephone number. If a manufacturer opts to provide a Web site on the registration card as permitted in Figure 9a of this section, the manufacturer must include the statement in part (ii):
+(k) (1) In the case of each rear-facing child restraint system that is designed for infants only, the statement: Use only in a rear-facing position when using it in the vehicle.
 
 ## Authority
 - clause_path: k
 - source_file: raw/collections/xml_fmvss/571.213.xml
+- source_citation: xml_fmvss-571-213 / k
 - source_url: n/a
 - confidence: medium
 

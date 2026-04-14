@@ -1,96 +1,98 @@
 ---
 aliases: []
-basis: '(h) Nonlocking retractor. After the retractor is cycled 10 times by full extension
-  and retraction of the webbing, the retractor and webbing shall be suspended vertically
-  and a force of 18 N shall be applied to extend the webbing from the retractor. The
-  force shall be reduced to 13 N when attached to a pelvic restraint, or to 5 N per
-  strap or webbing that contacts the shoulder of an occupant when retractor is attached
-  to an upper torso restraint. The residual extension of the webbing shall be measured
-  by manual rotation of the retractor drum or by disengaging the retraction mechanism.
-  Measurements shall be made on three retractors. The location of the retractor attached
-  to upper torso restraint shall be examined for visibility of reel during use of
-  seat belt assembly in a vehicle.
-
-  Note: This test shall not be required on a nonlocking retractor attached to the
-  free end of webbing which is not subjected to any tension during restraint of an
-  occupant by the assembly.'
+attachment_bucket: null
+attachment_section: null
+basis: (h) Webbing. The ends of webbing in a seat belt assembly shall be protected
+  or treated to prevent raveling. The end of webbing in a seat belt assembly having
+  a metal-to-metal buckle that is used by the occupant to adjust the size of the assembly
+  shall not pull out of the adjustment hardware at maximum size adjustment. Provision
+  shall be made for essentially unimpeded movement of webbing routed between a seat
+  back and seat cushion and attached to a retractor located behind the seat.
 browse_buckets:
 - occupant_restraints
 - seat_systems
 clause_path: h
+comparison_key: 62b3e3ad59a98e49ef206e115dd7a41917bd799e
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-209
+document_kind: null
 effective_date: null
 functional_domain:
-- visibility_glazing_and_driver_information
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-209-h
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.209 Standard No. 209; Seat belt assemblies.
 phase: cross_phase
-primary_topic: glazing_visibility
+primary_topic: h-webbing-the-ends-of-webbing-in-a-seat-belt-assembly-shall-be-protected-or-trea
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.209.xml
   source_hashes:
     raw/collections/xml_fmvss/571.209.xml: e26e250f0b7090e9729431ec45532f14d578a238e93d8bbce26e7fa3d774e825
   source_url: null
+raw_marker: (h)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - seat_belts
-- visibility
+sectno: null
+source_citation: xml_fmvss-571-209 / h
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.209.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.209.xml: e26e250f0b7090e9729431ec45532f14d578a238e93d8bbce26e7fa3d774e825
 source_url: null
-statement: (h) Nonlocking retractor. After the retractor is cycled 10 times by full
-  extension and retraction of the webbing, the retractor and webbing shall be suspended
-  vertically and a force of 18 N shall be applied to extend the webbing from the retractor.
-  The force shall be reduced to 13 N when attached to a pelvic restraint, or to 5
-  N per strap or webbing that contacts the shoulder of an occupant when retractor
-  is attached to an upper torso restraint. The residual extension of the webbing shall
-  be measured by manual rotation of the retractor drum or by disengaging the retraction
-  mechanism. Measurements shall be made on three retractors. The location of the retractor
-  attached to upper torso restraint shall be examined for visibility of reel during
-  use of seat belt assembly in a vehicle.
+statement: (h) Webbing. The ends of webbing in a seat belt assembly shall be protected
+  or treated to prevent raveling. The end of webbing in a seat belt assembly having
+  a metal-to-metal buckle that is used by the occupant to adjust the size of the assembly
+  shall not pull out of the adjustment hardware at maximum size adjustment. Provision
+  shall be made for essentially unimpeded movement of webbing routed between a seat
+  back and seat cushion and attached to a retractor located behind the seat.
 status: draft
+subject: null
 summary: Regulation unit `h` from xml_fmvss-571-209.
-title: (h) Nonlocking retractor. After the retractor is cycled 10 times by full extension
-  and retraction of the webbing, the re
+title: (h) Webbing. The ends of webbing in a seat belt assembly shall be protected
+  or treated to prevent raveling. The end of w
 updated: '2026-04-13'
 ---
 
-# (h) Nonlocking retractor. After the retractor is cycled 10 times by full extension and retraction of the webbing, the re
+# (h) Webbing. The ends of webbing in a seat belt assembly shall be protected or treated to prevent raveling. The end of w
 
 ## Statement
-(h) Nonlocking retractor. After the retractor is cycled 10 times by full extension and retraction of the webbing, the retractor and webbing shall be suspended vertically and a force of 18 N shall be applied to extend the webbing from the retractor. The force shall be reduced to 13 N when attached to a pelvic restraint, or to 5 N per strap or webbing that contacts the shoulder of an occupant when retractor is attached to an upper torso restraint. The residual extension of the webbing shall be measured by manual rotation of the retractor drum or by disengaging the retraction mechanism. Measurements shall be made on three retractors. The location of the retractor attached to upper torso restraint shall be examined for visibility of reel during use of seat belt assembly in a vehicle.
+(h) Webbing. The ends of webbing in a seat belt assembly shall be protected or treated to prevent raveling. The end of webbing in a seat belt assembly having a metal-to-metal buckle that is used by the occupant to adjust the size of the assembly shall not pull out of the adjustment hardware at maximum size adjustment. Provision shall be made for essentially unimpeded movement of webbing routed between a seat back and seat cushion and attached to a retractor located behind the seat.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: visibility_glazing_and_driver_information
-- primary_topic: glazing_visibility
-- secondary_topics: seat_belts, visibility
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: h-webbing-the-ends-of-webbing-in-a-seat-belt-assembly-shall-be-protected-or-trea
+- secondary_topics: seat_belts
 - browse_buckets: occupant_restraints, seat_systems
 - legacy_domain: needs_review
 
 ## Basis
-(h) Nonlocking retractor. After the retractor is cycled 10 times by full extension and retraction of the webbing, the retractor and webbing shall be suspended vertically and a force of 18 N shall be applied to extend the webbing from the retractor. The force shall be reduced to 13 N when attached to a pelvic restraint, or to 5 N per strap or webbing that contacts the shoulder of an occupant when retractor is attached to an upper torso restraint. The residual extension of the webbing shall be measured by manual rotation of the retractor drum or by disengaging the retraction mechanism. Measurements shall be made on three retractors. The location of the retractor attached to upper torso restraint shall be examined for visibility of reel during use of seat belt assembly in a vehicle.
-Note: This test shall not be required on a nonlocking retractor attached to the free end of webbing which is not subjected to any tension during restraint of an occupant by the assembly.
+(h) Webbing. The ends of webbing in a seat belt assembly shall be protected or treated to prevent raveling. The end of webbing in a seat belt assembly having a metal-to-metal buckle that is used by the occupant to adjust the size of the assembly shall not pull out of the adjustment hardware at maximum size adjustment. Provision shall be made for essentially unimpeded movement of webbing routed between a seat back and seat cushion and attached to a retractor located behind the seat.
 
 ## Authority
 - clause_path: h
 - source_file: raw/collections/xml_fmvss/571.209.xml
+- source_citation: xml_fmvss-571-209 / h
 - source_url: n/a
 - confidence: medium
 

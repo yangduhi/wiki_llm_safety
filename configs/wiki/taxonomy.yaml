@@ -1,4 +1,12 @@
 types:
+  browse_index:
+    dir: indexes
+    index_section: Browse Hubs
+    required_headings:
+      - "## Snapshot"
+      - "## Why This Hub Exists"
+      - "## Browse View"
+      - "## Dataview"
   regulation_document:
     dir: regulation_documents
     index_section: Regulation Documents

@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S5.2 The steering control system shall be so constructed that no components
   or attachments, including horn actuating mechanisms and trim hardware, can catch
   the driver''s clothing or jewelry during normal driving maneuvers.
@@ -14,41 +16,55 @@ basis: 'S5.2 The steering control system shall be so constructed that no compone
 browse_buckets:
 - steering_control
 clause_path: s5-2
+comparison_key: f6e634e36133eb3a6c18dd3019b6da51f156e6ee
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-203
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-203-s5-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.203 Standard No. 203; Impact protection for the driver from the
+  steering control system.
 phase: cross_phase
-primary_topic: steering-control-system
+primary_topic: s5-2-the-steering-control-system-shall-be-so-constructed-that-no-components-or-a
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.203.xml
   source_hashes:
     raw/collections/xml_fmvss/571.203.xml: 47250f25c9883397e0f5c9cde5581e9aaeaedc3c08976439c03a3a2525fe3d8c
   source_url: null
+raw_marker: S5.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-203 / s5-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.203.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.203.xml: 47250f25c9883397e0f5c9cde5581e9aaeaedc3c08976439c03a3a2525fe3d8c
 source_url: null
 statement: S5.2 The steering control system shall be so constructed that no components
   or attachments, including horn actuating mechanisms and trim hardware, can catch
   the driver's clothing or jewelry during normal driving maneuvers.
 status: draft
+subject: null
 summary: Regulation unit `s5-2` from xml_fmvss-571-203.
 title: S5.2 The steering control system shall be so constructed that no components
   or attachments, including horn actuating mec
@@ -66,7 +82,7 @@ S5.2 The steering control system shall be so constructed that no components or a
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: steering-control-system
+- primary_topic: s5-2-the-steering-control-system-shall-be-so-constructed-that-no-components-or-a
 - secondary_topics: n/a
 - browse_buckets: steering_control
 - legacy_domain: needs_review
@@ -79,6 +95,7 @@ Note: The term jewelry refers to watches, rings, and bracelets without loosely a
 ## Authority
 - clause_path: s5-2
 - source_file: raw/collections/xml_fmvss/571.203.xml
+- source_citation: xml_fmvss-571-203 / s5-2
 - source_url: n/a
 - confidence: medium
 

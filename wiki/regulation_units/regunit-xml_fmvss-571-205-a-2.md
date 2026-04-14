@@ -1,84 +1,89 @@
 ---
 aliases: []
-basis: (2) The specimen is remounted on the specimen holder so that it rotates substantially
-  in a plane and subjected to abrasion for an additional 400 cycles on the same track
-  already abraded for 100 cycles. Specimens are carefully wiped after abrasion with
-  dry lens paper (or its equivalent). The light scattered by the abraded track is
-  then measured as specified in Test 17. The arithmetic mean of the percentages of
-  light scattered by the three specimens shall not exceed 10.0 percent after being
-  subjected to abrasion for 500 cycles.
-browse_buckets: []
-clause_path: '2'
+attachment_bucket: null
+attachment_section: null
+basis: (a) As a component of any specific motor vehicle or camper; or
+browse_buckets:
+- glazing_retention
+clause_path: a-2
+comparison_key: b9c13ac96d5b27a6ac5f3aeb1168d98d8be4a18a
 confidence: medium
 created: '2026-04-13'
-document_id: xml_fmvss-571-205-a
+document_id: xml_fmvss-571-205
+document_kind: null
 effective_date: null
 functional_domain:
-- crash_avoidance_and_vehicle_control
+- visibility_glazing_and_driver_information
 id: regunit-xml_fmvss-571-205-a-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: specimen-remounted-specimen
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.205 Standard No. 205, Glazing materials.
+phase: cross_phase
+primary_topic: glazing_visibility
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
-  - raw/collections/xml_fmvss/571.205(a).xml
+  - raw/collections/xml_fmvss/571.205.xml
   source_hashes:
-    raw/collections/xml_fmvss/571.205(a).xml: d4a459144faee8912dade1e92f295efa23109fa129e1ac5de092bbb9c1d9dc48
+    raw/collections/xml_fmvss/571.205.xml: 190422c23ca258c09fadd66236c5b23a1ddb58aab45d486cfcc6056ece9fef42
   source_url: null
+raw_marker: (a)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics: []
+row_group_id: null
+secondary_topics:
+- glazing
+sectno: null
+source_citation: xml_fmvss-571-205 / a-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.205(a).xml
-source_hashes:
-  raw/collections/xml_fmvss/571.205(a).xml: d4a459144faee8912dade1e92f295efa23109fa129e1ac5de092bbb9c1d9dc48
 source_url: null
-statement: (2) The specimen is remounted on the specimen holder so that it rotates
-  substantially in a plane and subjected to abrasion for an additional 400 cycles
-  on the same track already abraded for 100 cycles. Specimens are carefully wiped
-  after abrasion with dry lens paper (or its equivalent). The light scattered by the
-  abraded track is then measured as specified in Test 17. The arithmetic mean of the
-  percentages of light scattered by the three specimens shall not exceed 10.0 percent
-  after being subjected to abrasion for 500 cycles.
+statement: (a) As a component of any specific motor vehicle or camper; or
 status: draft
-summary: Regulation unit `2` from xml_fmvss-571-205-a.
-title: (2) The specimen is remounted on the specimen holder so that it rotates substantially
-  in a plane and subjected to abrasi
+subject: null
+summary: Regulation unit `a-2` from xml_fmvss-571-205.
+title: (a) As a component of any specific motor vehicle or camper; or
 updated: '2026-04-13'
 ---
 
-# (2) The specimen is remounted on the specimen holder so that it rotates substantially in a plane and subjected to abrasi
+# (a) As a component of any specific motor vehicle or camper; or
 
 ## Statement
-(2) The specimen is remounted on the specimen holder so that it rotates substantially in a plane and subjected to abrasion for an additional 400 cycles on the same track already abraded for 100 cycles. Specimens are carefully wiped after abrasion with dry lens paper (or its equivalent). The light scattered by the abraded track is then measured as specified in Test 17. The arithmetic mean of the percentages of light scattered by the three specimens shall not exceed 10.0 percent after being subjected to abrasion for 500 cycles.
+(a) As a component of any specific motor vehicle or camper; or
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
-- functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: specimen-remounted-specimen
-- secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: active_safety
+- phase: cross_phase
+- functional_domain: visibility_glazing_and_driver_information
+- primary_topic: glazing_visibility
+- secondary_topics: glazing
+- browse_buckets: glazing_retention
+- legacy_domain: needs_review
 
 ## Basis
-(2) The specimen is remounted on the specimen holder so that it rotates substantially in a plane and subjected to abrasion for an additional 400 cycles on the same track already abraded for 100 cycles. Specimens are carefully wiped after abrasion with dry lens paper (or its equivalent). The light scattered by the abraded track is then measured as specified in Test 17. The arithmetic mean of the percentages of light scattered by the three specimens shall not exceed 10.0 percent after being subjected to abrasion for 500 cycles.
+(a) As a component of any specific motor vehicle or camper; or
 
 ## Authority
-- clause_path: 2
-- source_file: raw/collections/xml_fmvss/571.205(a).xml
+- clause_path: a-2
+- source_file: raw/collections/xml_fmvss/571.205.xml
+- source_citation: xml_fmvss-571-205 / a-2
 - source_url: n/a
 - confidence: medium
 
 ## Related Notes
-- [[regulation_documents/xml_fmvss-571-205-a]]
+- [[regulation_documents/xml_fmvss-571-205]]
 - [[jurisdictions/jurisdiction-us]]

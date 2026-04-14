@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S9.1.1 Hose. Each vacuum brake hose shall be labeled, or cut from bulk hose
   that is labeled, at intervals of not more than 6 inches, measured from the end of
   one legend to the beginning of the next, in block capital letters and numerals at
@@ -10,36 +12,48 @@ basis: S9.1.1 Hose. Each vacuum brake hose shall be labeled, or cut from bulk ho
   motor vehicle safety standards.
 browse_buckets: []
 clause_path: s9-1-1
+comparison_key: 6ac6f138bd7de50e9f6ce4d9e3ef76d6d48b6e53
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-106
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-106-s9-1-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.106 Standard No. 106; Brake hoses.
 phase: cross_phase
-primary_topic: hose-each-vacuum
+primary_topic: s9-1-1-hose-each-vacuum-brake-hose-shall-be-labeled-or-cut-from-bulk-hose-that-i
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.106.xml
   source_hashes:
     raw/collections/xml_fmvss/571.106.xml: d65d321084536dd5193418028d4c0dc7e9cd222aa4dac14dfeb8fc93d7b9e5d4
   source_url: null
+raw_marker: S9.1.1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-106 / s9-1-1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.106.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.106.xml: d65d321084536dd5193418028d4c0dc7e9cd222aa4dac14dfeb8fc93d7b9e5d4
 source_url: null
 statement: S9.1.1 Hose. Each vacuum brake hose shall be labeled, or cut from bulk
   hose that is labeled, at intervals of not more than 6 inches, measured from the
@@ -50,6 +64,7 @@ statement: S9.1.1 Hose. Each vacuum brake hose shall be labeled, or cut from bul
   a certification by the hose manufacturer that the hose conforms to all applicable
   motor vehicle safety standards.
 status: draft
+subject: null
 summary: Regulation unit `s9-1-1` from xml_fmvss-571-106.
 title: S9.1.1 Hose. Each vacuum brake hose shall be labeled, or cut from bulk hose
   that is labeled, at intervals of not more th
@@ -67,7 +82,7 @@ S9.1.1 Hose. Each vacuum brake hose shall be labeled, or cut from bulk hose that
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: hose-each-vacuum
+- primary_topic: s9-1-1-hose-each-vacuum-brake-hose-shall-be-labeled-or-cut-from-bulk-hose-that-i
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -78,6 +93,7 @@ S9.1.1 Hose. Each vacuum brake hose shall be labeled, or cut from bulk hose that
 ## Authority
 - clause_path: s9-1-1
 - source_file: raw/collections/xml_fmvss/571.106.xml
+- source_citation: xml_fmvss-571-106 / s9-1-1
 - source_url: n/a
 - confidence: medium
 

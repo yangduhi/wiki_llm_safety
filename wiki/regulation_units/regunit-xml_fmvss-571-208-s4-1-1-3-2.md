@@ -1,48 +1,64 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S4.1.1.3.2 Convertibles and open-body type vehicles shall at each designated
   seating position have a Type 1 or Type 2 seatbelt assembly that conforms to § 571.209
   and to S7.1 and S7.2 of this standard, and at each front outboard designated seating
   position have a seatbelt warning system that conforms to S7.3.
 browse_buckets:
+- occupant_restraints
 - seat_systems
 clause_path: s4-1-1-3-2
+comparison_key: b6a9e9b5a679d6d5fc90a7aad627b64a7df80c60
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-208-s4-1-1-3-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: convertibles-open-body
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
+phase: in_crash
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: S4.1.1.3.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-208 / s4-1-1-3-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
 statement: S4.1.1.3.2 Convertibles and open-body type vehicles shall at each designated
   seating position have a Type 1 or Type 2 seatbelt assembly that conforms to § 571.209
   and to S7.1 and S7.2 of this standard, and at each front outboard designated seating
   position have a seatbelt warning system that conforms to S7.3.
 status: draft
+subject: null
 summary: Regulation unit `s4-1-1-3-2` from xml_fmvss-571-208.
 title: S4.1.1.3.2 Convertibles and open-body type vehicles shall at each designated
   seating position have a Type 1 or Type 2 se
@@ -58,12 +74,12 @@ S4.1.1.3.2 Convertibles and open-body type vehicles shall at each designated sea
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: convertibles-open-body
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: frontal_impact
 - secondary_topics: n/a
-- browse_buckets: seat_systems
-- legacy_domain: needs_review
+- browse_buckets: occupant_restraints, seat_systems
+- legacy_domain: passive_crash
 
 ## Basis
 S4.1.1.3.2 Convertibles and open-body type vehicles shall at each designated seating position have a Type 1 or Type 2 seatbelt assembly that conforms to § 571.209 and to S7.1 and S7.2 of this standard, and at each front outboard designated seating position have a seatbelt warning system that conforms to S7.3.
@@ -71,6 +87,7 @@ S4.1.1.3.2 Convertibles and open-body type vehicles shall at each designated sea
 ## Authority
 - clause_path: s4-1-1-3-2
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / s4-1-1-3-2
 - source_url: n/a
 - confidence: medium
 

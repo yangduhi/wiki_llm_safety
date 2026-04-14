@@ -1,74 +1,85 @@
 ---
 aliases: []
-basis: (c) Attach a rigid wheel support to the tilting platform at each axle of the
-  vehicle so that it contacts the outboard tire sidewall of the wheel closest to the
-  impact surface.
+attachment_bucket: null
+attachment_section: null
+basis: (c) The length is a minimum of 500 mm.
 browse_buckets:
-- side_impact
+- rollover
 clause_path: c
+comparison_key: 9527ddfb84d1d2997ebcc898bd598a63980a1a6d
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-227
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-227-c
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: attach-rigid-wheel
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.227 Standard No. 227; Bus rollover structural integrity.
+phase: cross_phase
+primary_topic: c-the-length-is-a-minimum-of-500-mm
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.227.xml
   source_hashes:
     raw/collections/xml_fmvss/571.227.xml: 25d8a878ddb16d9e3be4d95f6a8328973f523df39656f7e8b9de43d27ee9215b
   source_url: null
+raw_marker: (c)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-227 / c
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.227.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.227.xml: 25d8a878ddb16d9e3be4d95f6a8328973f523df39656f7e8b9de43d27ee9215b
 source_url: null
-statement: (c) Attach a rigid wheel support to the tilting platform at each axle of
-  the vehicle so that it contacts the outboard tire sidewall of the wheel closest
-  to the impact surface.
+statement: (c) The length is a minimum of 500 mm.
 status: draft
+subject: null
 summary: Regulation unit `c` from xml_fmvss-571-227.
-title: (c) Attach a rigid wheel support to the tilting platform at each axle of the
-  vehicle so that it contacts the outboard ti
+title: (c) The length is a minimum of 500 mm.
 updated: '2026-04-13'
 ---
 
-# (c) Attach a rigid wheel support to the tilting platform at each axle of the vehicle so that it contacts the outboard ti
+# (c) The length is a minimum of 500 mm.
 
 ## Statement
-(c) Attach a rigid wheel support to the tilting platform at each axle of the vehicle so that it contacts the outboard tire sidewall of the wheel closest to the impact surface.
+(c) The length is a minimum of 500 mm.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
+- phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: attach-rigid-wheel
+- primary_topic: c-the-length-is-a-minimum-of-500-mm
 - secondary_topics: n/a
-- browse_buckets: side_impact
-- legacy_domain: passive_crash
+- browse_buckets: rollover
+- legacy_domain: needs_review
 
 ## Basis
-(c) Attach a rigid wheel support to the tilting platform at each axle of the vehicle so that it contacts the outboard tire sidewall of the wheel closest to the impact surface.
+(c) The length is a minimum of 500 mm.
 
 ## Authority
 - clause_path: c
 - source_file: raw/collections/xml_fmvss/571.227.xml
+- source_citation: xml_fmvss-571-227 / c
 - source_url: n/a
 - confidence: medium
 

@@ -1,79 +1,88 @@
 ---
 aliases: []
-basis: (6) Place the legs at 120 degrees to the thighs. Set the initial transverse
-  distance between the longitudinal centerlines at the front of the dummy's knees
-  at 160 to 170 mm (6.3 to 6.7 in), with the thighs and legs of the dummy in vertical
-  planes. Push rearward on the dummy's knees to force the pelvis into the seat so
-  there is no gap between the pelvis and the seat back or until contact occurs between
-  the back of the dummy's calves and the front of the seat cushion.
-browse_buckets: []
+attachment_bucket: null
+attachment_section: null
+basis: (6) The term “leg” refers to the lower part of the entire leg including the
+  knee.
+browse_buckets:
+- side_impact
 clause_path: '6'
+comparison_key: d5e5771087311b8865f5843d0077ae2a72696dac
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-214
+document_kind: null
 effective_date: null
 functional_domain:
-- crash_avoidance_and_vehicle_control
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-214-6
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: place-legs-degrees
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.214 Standard No. 214; Side impact protection.
+phase: in_crash
+primary_topic: side_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.214.xml
   source_hashes:
     raw/collections/xml_fmvss/571.214.xml: bc04834da3eda5481db2b2377401049c18801a5f0fbb243026534555d175922e
   source_url: null
+raw_marker: (6)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-214 / 6
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.214.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.214.xml: bc04834da3eda5481db2b2377401049c18801a5f0fbb243026534555d175922e
 source_url: null
-statement: (6) Place the legs at 120 degrees to the thighs. Set the initial transverse
-  distance between the longitudinal centerlines at the front of the dummy's knees
-  at 160 to 170 mm (6.3 to 6.7 in), with the thighs and legs of the dummy in vertical
-  planes. Push rearward on the dummy's knees to force the pelvis into the seat so
-  there is no gap between the pelvis and the seat back or until contact occurs between
-  the back of the dummy's calves and the front of the seat cushion.
+statement: (6) The term “leg” refers to the lower part of the entire leg including
+  the knee.
 status: draft
+subject: null
 summary: Regulation unit `6` from xml_fmvss-571-214.
-title: (6) Place the legs at 120 degrees to the thighs. Set the initial transverse
-  distance between the longitudinal centerline
+title: (6) The term “leg” refers to the lower part of the entire leg including the
+  knee.
 updated: '2026-04-13'
 ---
 
-# (6) Place the legs at 120 degrees to the thighs. Set the initial transverse distance between the longitudinal centerline
+# (6) The term “leg” refers to the lower part of the entire leg including the knee.
 
 ## Statement
-(6) Place the legs at 120 degrees to the thighs. Set the initial transverse distance between the longitudinal centerlines at the front of the dummy's knees at 160 to 170 mm (6.3 to 6.7 in), with the thighs and legs of the dummy in vertical planes. Push rearward on the dummy's knees to force the pelvis into the seat so there is no gap between the pelvis and the seat back or until contact occurs between the back of the dummy's calves and the front of the seat cushion.
+(6) The term “leg” refers to the lower part of the entire leg including the knee.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
-- functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: place-legs-degrees
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: side_impact
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: active_safety
+- browse_buckets: side_impact
+- legacy_domain: passive_crash
 
 ## Basis
-(6) Place the legs at 120 degrees to the thighs. Set the initial transverse distance between the longitudinal centerlines at the front of the dummy's knees at 160 to 170 mm (6.3 to 6.7 in), with the thighs and legs of the dummy in vertical planes. Push rearward on the dummy's knees to force the pelvis into the seat so there is no gap between the pelvis and the seat back or until contact occurs between the back of the dummy's calves and the front of the seat cushion.
+(6) The term “leg” refers to the lower part of the entire leg including the knee.
 
 ## Authority
 - clause_path: 6
 - source_file: raw/collections/xml_fmvss/571.214.xml
+- source_citation: xml_fmvss-571-214 / 6
 - source_url: n/a
 - confidence: medium
 

@@ -1,77 +1,90 @@
 ---
 aliases: []
-basis: (d) Select the vehicle's reverse direction at any time not less than 4.0 seconds
-  and not more than 6.0 seconds after the driver's door is opened. The driver door
-  is open when the edge of the driver's door opposite of the door's hinge is no longer
-  flush with the exterior body panel.
-browse_buckets:
-- door_retention
+attachment_bucket: null
+attachment_section: null
+basis: (d) Place cylinders C, F, and I so that their centers are in a longitudinal
+  vertical plane that is tangent to the most outboard edge of the right side of the
+  bus's front bumper.
+browse_buckets: []
 clause_path: d
+comparison_key: 7e8b70780d578c62b06e705328457deb3895720f
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-111
+document_kind: null
 effective_date: null
 functional_domain:
-- structural_integrity_retention_and_egress
+- crash_avoidance_and_vehicle_control
 id: regunit-xml_fmvss-571-111-d
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: active_safety
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: select-vehicle-reverse
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.111 Standard No. 111; Rear visibility.
+phase: pre_crash
+primary_topic: rear_visibility
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.111.xml
   source_hashes:
     raw/collections/xml_fmvss/571.111.xml: ecbce0af0d6f82b27a17b1cf3481ad780ec9ae96ad5bdb87661bbfca1d118b58
   source_url: null
+raw_marker: (d)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
-- doors
+- visibility
+sectno: null
+source_citation: xml_fmvss-571-111 / d
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.111.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.111.xml: ecbce0af0d6f82b27a17b1cf3481ad780ec9ae96ad5bdb87661bbfca1d118b58
 source_url: null
-statement: (d) Select the vehicle's reverse direction at any time not less than 4.0
-  seconds and not more than 6.0 seconds after the driver's door is opened. The driver
-  door is open when the edge of the driver's door opposite of the door's hinge is
-  no longer flush with the exterior body panel.
+statement: (d) Place cylinders C, F, and I so that their centers are in a longitudinal
+  vertical plane that is tangent to the most outboard edge of the right side of the
+  bus's front bumper.
 status: draft
+subject: null
 summary: Regulation unit `d` from xml_fmvss-571-111.
-title: (d) Select the vehicle's reverse direction at any time not less than 4.0 seconds
-  and not more than 6.0 seconds after the
+title: (d) Place cylinders C, F, and I so that their centers are in a longitudinal
+  vertical plane that is tangent to the most o
 updated: '2026-04-13'
 ---
 
-# (d) Select the vehicle's reverse direction at any time not less than 4.0 seconds and not more than 6.0 seconds after the
+# (d) Place cylinders C, F, and I so that their centers are in a longitudinal vertical plane that is tangent to the most o
 
 ## Statement
-(d) Select the vehicle's reverse direction at any time not less than 4.0 seconds and not more than 6.0 seconds after the driver's door is opened. The driver door is open when the edge of the driver's door opposite of the door's hinge is no longer flush with the exterior body panel.
+(d) Place cylinders C, F, and I so that their centers are in a longitudinal vertical plane that is tangent to the most outboard edge of the right side of the bus's front bumper.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
-- functional_domain: structural_integrity_retention_and_egress
-- primary_topic: select-vehicle-reverse
-- secondary_topics: doors
-- browse_buckets: door_retention
-- legacy_domain: passive_crash
+- phase: pre_crash
+- functional_domain: crash_avoidance_and_vehicle_control
+- primary_topic: rear_visibility
+- secondary_topics: visibility
+- browse_buckets: n/a
+- legacy_domain: active_safety
 
 ## Basis
-(d) Select the vehicle's reverse direction at any time not less than 4.0 seconds and not more than 6.0 seconds after the driver's door is opened. The driver door is open when the edge of the driver's door opposite of the door's hinge is no longer flush with the exterior body panel.
+(d) Place cylinders C, F, and I so that their centers are in a longitudinal vertical plane that is tangent to the most outboard edge of the right side of the bus's front bumper.
 
 ## Authority
 - clause_path: d
 - source_file: raw/collections/xml_fmvss/571.111.xml
+- source_citation: xml_fmvss-571-111 / d
 - source_url: n/a
 - confidence: medium
 

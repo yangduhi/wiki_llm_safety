@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S6.3.5.1 The control trailer is an unbraked, flatbed semi-trailer that has
   a single axle with a GAWR of 8,165 kg (18,000 lb.). The control trailer has a length
   of at least 6,400 mm (252 inches), but no more than 7,010 mm (276 inches), when
@@ -11,36 +13,49 @@ basis: S6.3.5.1 The control trailer is an unbraked, flatbed semi-trailer that ha
   kingpin.
 browse_buckets: []
 clause_path: s6-3-5-1
+comparison_key: 38024a82c8f537dc9d4ed11cca574feb4d3e1c0c
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-136
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- crash_avoidance_and_vehicle_control
 id: regunit-xml_fmvss-571-136-s6-3-5-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: active_safety
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: control-trailer-unbraked
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.136 Standard No. 136; Electronic stability control systems for
+  heavy vehicles.
+phase: pre_crash
+primary_topic: electronic_stability_control
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.136.xml
   source_hashes:
     raw/collections/xml_fmvss/571.136.xml: 34f9b377fec6b323d9e76011526c645c782d1cc6c098099b690ef81a9fa9d6f6
   source_url: null
+raw_marker: S6.3.5.1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-136 / s6-3-5-1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.136.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.136.xml: 34f9b377fec6b323d9e76011526c645c782d1cc6c098099b690ef81a9fa9d6f6
 source_url: null
 statement: S6.3.5.1 The control trailer is an unbraked, flatbed semi-trailer that
   has a single axle with a GAWR of 8,165 kg (18,000 lb.). The control trailer has
@@ -52,6 +67,7 @@ statement: S6.3.5.1 The control trailer is an unbraked, flatbed semi-trailer tha
   when measured from the transverse centerline of the axle to the centerline of the
   kingpin.
 status: draft
+subject: null
 summary: Regulation unit `s6-3-5-1` from xml_fmvss-571-136.
 title: S6.3.5.1 The control trailer is an unbraked, flatbed semi-trailer that has
   a single axle with a GAWR of 8,165 kg (18,000
@@ -67,12 +83,12 @@ S6.3.5.1 The control trailer is an unbraked, flatbed semi-trailer that has a sin
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: control-trailer-unbraked
+- phase: pre_crash
+- functional_domain: crash_avoidance_and_vehicle_control
+- primary_topic: electronic_stability_control
 - secondary_topics: n/a
 - browse_buckets: n/a
-- legacy_domain: needs_review
+- legacy_domain: active_safety
 
 ## Basis
 S6.3.5.1 The control trailer is an unbraked, flatbed semi-trailer that has a single axle with a GAWR of 8,165 kg (18,000 lb.). The control trailer has a length of at least 6,400 mm (252 inches), but no more than 7,010 mm (276 inches), when measured from the transverse centerline of the axle to the centerline of the kingpin (the point where the trailer attaches to the truck tractor). At the manufacturer's option, truck tractors with four or more axles may use a control trailer with a length of more than 7,010 mm (276 inches), but no more than 13,208 mm (520 inches) when measured from the transverse centerline of the axle to the centerline of the kingpin.
@@ -80,6 +96,7 @@ S6.3.5.1 The control trailer is an unbraked, flatbed semi-trailer that has a sin
 ## Authority
 - clause_path: s6-3-5-1
 - source_file: raw/collections/xml_fmvss/571.136.xml
+- source_citation: xml_fmvss-571-136 / s6-3-5-1
 - source_url: n/a
 - confidence: medium
 

@@ -1,71 +1,90 @@
 ---
 aliases: []
-basis: (j) Hold the bar length at present position and allow the load to settle for
-  120 seconds after achieving the load in step (g) of this section.
-browse_buckets: []
+attachment_bucket: null
+attachment_section: null
+basis: (j) Following the settling period specified in step (i) of this section, increase
+  the load to 875±25 N such that the 875±25 N load is achieved within 10 seconds of
+  the settling period.
+browse_buckets:
+- occupant_restraints
 clause_path: j
+comparison_key: 5df85ba55ddf708722b31b77437aca4a441ea7c7
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-208-j
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: hold-length-present
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
+phase: in_crash
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: (j)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-208 / j
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
-statement: (j) Hold the bar length at present position and allow the load to settle
-  for 120 seconds after achieving the load in step (g) of this section.
+statement: (j) Following the settling period specified in step (i) of this section,
+  increase the load to 875±25 N such that the 875±25 N load is achieved within 10
+  seconds of the settling period.
 status: draft
+subject: null
 summary: Regulation unit `j` from xml_fmvss-571-208.
-title: (j) Hold the bar length at present position and allow the load to settle for
-  120 seconds after achieving the load in ste
+title: (j) Following the settling period specified in step (i) of this section, increase
+  the load to 875±25 N such that the 875
 updated: '2026-04-13'
 ---
 
-# (j) Hold the bar length at present position and allow the load to settle for 120 seconds after achieving the load in ste
+# (j) Following the settling period specified in step (i) of this section, increase the load to 875±25 N such that the 875
 
 ## Statement
-(j) Hold the bar length at present position and allow the load to settle for 120 seconds after achieving the load in step (g) of this section.
+(j) Following the settling period specified in step (i) of this section, increase the load to 875±25 N such that the 875±25 N load is achieved within 10 seconds of the settling period.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: hold-length-present
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: frontal_impact
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: needs_review
+- browse_buckets: occupant_restraints
+- legacy_domain: passive_crash
 
 ## Basis
-(j) Hold the bar length at present position and allow the load to settle for 120 seconds after achieving the load in step (g) of this section.
+(j) Following the settling period specified in step (i) of this section, increase the load to 875±25 N such that the 875±25 N load is achieved within 10 seconds of the settling period.
 
 ## Authority
 - clause_path: j
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / j
 - source_url: n/a
 - confidence: medium
 

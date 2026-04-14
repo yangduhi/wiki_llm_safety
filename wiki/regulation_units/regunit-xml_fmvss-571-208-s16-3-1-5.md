@@ -1,43 +1,59 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S16.3.1.5 The term “vertical plane” refers to a vertical plane, not necessarily
   parallel to the vehicle's longitudinal centerline.
-browse_buckets: []
+browse_buckets:
+- occupant_restraints
 clause_path: s16-3-1-5
+comparison_key: ca07c4697003e8107fbdd085f429e189a1121d73
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
 - crash_avoidance_and_vehicle_control
 id: regunit-xml_fmvss-571-208-s16-3-1-5
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: term-vertical-plane
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
+phase: in_crash
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: S16.3.1.5
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-208 / s16-3-1-5
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
 statement: S16.3.1.5 The term “vertical plane” refers to a vertical plane, not necessarily
   parallel to the vehicle's longitudinal centerline.
 status: draft
+subject: null
 summary: Regulation unit `s16-3-1-5` from xml_fmvss-571-208.
 title: S16.3.1.5 The term “vertical plane” refers to a vertical plane, not necessarily
   parallel to the vehicle's longitudinal c
@@ -53,12 +69,12 @@ S16.3.1.5 The term “vertical plane” refers to a vertical plane, not necessar
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
+- phase: in_crash
 - functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: term-vertical-plane
+- primary_topic: frontal_impact
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: active_safety
+- browse_buckets: occupant_restraints
+- legacy_domain: passive_crash
 
 ## Basis
 S16.3.1.5 The term “vertical plane” refers to a vertical plane, not necessarily parallel to the vehicle's longitudinal centerline.
@@ -66,6 +82,7 @@ S16.3.1.5 The term “vertical plane” refers to a vertical plane, not necessar
 ## Authority
 - clause_path: s16-3-1-5
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / s16-3-1-5
 - source_url: n/a
 - confidence: medium
 

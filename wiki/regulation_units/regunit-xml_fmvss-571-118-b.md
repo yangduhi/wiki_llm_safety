@@ -1,55 +1,66 @@
 ---
 aliases: []
-basis: (b) The intensity of incident infrared light is determined using a reference
-  mirror of nominally 100 percent reflectance mounted in place of the sample in the
-  test apparatus in Figure 2.
+attachment_bucket: null
+attachment_section: null
+basis: (b) By muscular force unassisted by vehicle supplied power;
 browse_buckets: []
 clause_path: b
+comparison_key: 4ff7d34c8d4a4bd9ce7e8af0065fa1fee4de4f42
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-118
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-118-b
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.118 Standard No. 118; Power-operated window, partition, and roof
+  panel systems.
 phase: cross_phase
-primary_topic: intensity-incident-infrared
+primary_topic: b-by-muscular-force-unassisted-by-vehicle-supplied-power
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.118.xml
   source_hashes:
     raw/collections/xml_fmvss/571.118.xml: 691eb6623eb26593b5fcb61a901e368c5b8ca723b41fcdc0d491746749a97ad1
   source_url: null
+raw_marker: (b)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-118 / b
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.118.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.118.xml: 691eb6623eb26593b5fcb61a901e368c5b8ca723b41fcdc0d491746749a97ad1
 source_url: null
-statement: (b) The intensity of incident infrared light is determined using a reference
-  mirror of nominally 100 percent reflectance mounted in place of the sample in the
-  test apparatus in Figure 2.
+statement: (b) By muscular force unassisted by vehicle supplied power;
 status: draft
+subject: null
 summary: Regulation unit `b` from xml_fmvss-571-118.
-title: (b) The intensity of incident infrared light is determined using a reference
-  mirror of nominally 100 percent reflectance
+title: (b) By muscular force unassisted by vehicle supplied power;
 updated: '2026-04-13'
 ---
 
-# (b) The intensity of incident infrared light is determined using a reference mirror of nominally 100 percent reflectance
+# (b) By muscular force unassisted by vehicle supplied power;
 
 ## Statement
-(b) The intensity of incident infrared light is determined using a reference mirror of nominally 100 percent reflectance mounted in place of the sample in the test apparatus in Figure 2.
+(b) By muscular force unassisted by vehicle supplied power;
 
 ## Classification
 - jurisdiction: US
@@ -57,17 +68,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: intensity-incident-infrared
+- primary_topic: b-by-muscular-force-unassisted-by-vehicle-supplied-power
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(b) The intensity of incident infrared light is determined using a reference mirror of nominally 100 percent reflectance mounted in place of the sample in the test apparatus in Figure 2.
+(b) By muscular force unassisted by vehicle supplied power;
 
 ## Authority
 - clause_path: b
 - source_file: raw/collections/xml_fmvss/571.118.xml
+- source_citation: xml_fmvss-571-118 / b
 - source_url: n/a
 - confidence: medium
 

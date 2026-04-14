@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S7. Test procedures and sequence. Each motorcycle shall be capable of meeting
   all the requirements of this standard when tested according to the procedures and
   in the sequence set forth below without replacing any brake system part, or making
@@ -9,36 +11,48 @@ basis: S7. Test procedures and sequence. Each motorcycle shall be capable of mee
   in Table I.
 browse_buckets: []
 clause_path: s7
+comparison_key: e8973a0f234e4ca3c72312dddba5e2c059ea1b03
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-122a
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-122a-s7
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.122a Standard No. 122; Motorcycle brake systems.
 phase: cross_phase
-primary_topic: test-procedures-sequence
+primary_topic: s7-test-procedures-and-sequence-each-motorcycle-shall-be-capable-of-meeting-all-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.122a.xml
   source_hashes:
     raw/collections/xml_fmvss/571.122a.xml: a54a59d92bd36390e082c95800360457035e800f1f00f2486a0a9ff1f60a0667
   source_url: null
+raw_marker: S7
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-122a / s7
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.122a.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.122a.xml: a54a59d92bd36390e082c95800360457035e800f1f00f2486a0a9ff1f60a0667
 source_url: null
 statement: S7. Test procedures and sequence. Each motorcycle shall be capable of meeting
   all the requirements of this standard when tested according to the procedures and
@@ -48,6 +62,7 @@ statement: S7. Test procedures and sequence. Each motorcycle shall be capable of
   specified in S7.3, S7.5 and S7.8 is made within the stopping distances specified
   in Table I.
 status: draft
+subject: null
 summary: Regulation unit `s7` from xml_fmvss-571-122a.
 title: S7. Test procedures and sequence. Each motorcycle shall be capable of meeting
   all the requirements of this standard when
@@ -65,7 +80,7 @@ S7. Test procedures and sequence. Each motorcycle shall be capable of meeting al
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: test-procedures-sequence
+- primary_topic: s7-test-procedures-and-sequence-each-motorcycle-shall-be-capable-of-meeting-all-
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -76,6 +91,7 @@ S7. Test procedures and sequence. Each motorcycle shall be capable of meeting al
 ## Authority
 - clause_path: s7
 - source_file: raw/collections/xml_fmvss/571.122a.xml
+- source_citation: xml_fmvss-571-122a / s7
 - source_url: n/a
 - confidence: medium
 

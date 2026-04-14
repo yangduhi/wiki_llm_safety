@@ -36,6 +36,9 @@ CANONICAL_REQUIRED = [
 STATUS_VALUES = {"draft", "reviewed", "superseded", "archived"}
 CONFIDENCE_VALUES = {"low", "medium", "high"}
 CANONICAL_NOTE_TYPES = {"regulation_document", "regulation_unit"}
+REGULATION_DOCUMENT_REQUIRED = ["document_id", "source_url", "source_citation"]
+REGULATION_UNIT_REQUIRED = ["document_id", "clause_path", "source_url", "source_citation"]
+PROHIBITED_DUPLICATE_SOURCE_KEYS = {"source_files", "source_hashes"}
 
 
 def parse_args() -> argparse.Namespace:
@@ -125,6 +128,13 @@ def main() -> int:
             for key in CANONICAL_REQUIRED:
                 if key not in frontmatter:
                     errors.append(f"{rel}: missing canonical frontmatter key `{key}`")
+            extra_required = REGULATION_UNIT_REQUIRED if note_type == "regulation_unit" else REGULATION_DOCUMENT_REQUIRED
+            for key in extra_required:
+                if key not in frontmatter:
+                    errors.append(f"{rel}: missing canonical frontmatter key `{key}`")
+            for key in PROHIBITED_DUPLICATE_SOURCE_KEYS:
+                if key in frontmatter:
+                    errors.append(f"{rel}: `{key}` must live only inside provenance")
             if str(frontmatter.get("phase") or "") not in phase_ids:
                 errors.append(f"{rel}: invalid phase `{frontmatter.get('phase')}`")
             domains = frontmatter.get("functional_domain") or []
@@ -149,6 +159,9 @@ def main() -> int:
                     errors.append(f"{rel}: provenance must include source_files")
                 if not isinstance(provenance.get("source_hashes", {}), dict) or not provenance.get("source_hashes"):
                     errors.append(f"{rel}: provenance must include source_hashes")
+        elif note_type == "browse_index":
+            if "browse_axis" not in frontmatter:
+                errors.append(f"{rel}: browse_index must define `browse_axis`")
 
         for heading in note_headings[note_type]:
             if heading not in body:

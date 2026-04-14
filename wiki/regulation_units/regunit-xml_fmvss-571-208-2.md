@@ -1,55 +1,79 @@
 ---
 aliases: []
-basis: (2) Interpreting the occupant characteristics and location information to determine
-  whether or not the air bag should deploy; and
+attachment_bucket: null
+attachment_section: null
+basis: (2) At each front outboard designated seating position have a Type 1 or Type
+  2 seat belt assembly that conforms to Standard No. 209 and S7.1 through S7.3, and
+  that meets the requirements of S5.1 with front test dummies as required by S5.1,
+  restrained by the Type 1 or Type 2 seat belt assembly (or the pelvic portion of
+  any Type 2 seat belt assembly which has a detachable upper torso belt) in addition
+  to the means that require no action by the vehicle occupant.
 browse_buckets:
 - occupant_restraints
+- seat_systems
 clause_path: '2'
+comparison_key: fdf43066fa76fa45a321e1bb2ec79a522bfc47dc
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
 - occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-208-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
 phase: in_crash
-primary_topic: interpreting-occupant-characteristics
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: (2)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
-- airbags
+- seat_belts
+sectno: null
+source_citation: xml_fmvss-571-208 / 2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
-statement: (2) Interpreting the occupant characteristics and location information
-  to determine whether or not the air bag should deploy; and
+statement: (2) At each front outboard designated seating position have a Type 1 or
+  Type 2 seat belt assembly that conforms to Standard No. 209 and S7.1 through S7.3,
+  and that meets the requirements of S5.1 with front test dummies as required by S5.1,
+  restrained by the Type 1 or Type 2 seat belt assembly (or the pelvic portion of
+  any Type 2 seat belt assembly which has a detachable upper torso belt) in addition
+  to the means that require no action by the vehicle occupant.
 status: draft
+subject: null
 summary: Regulation unit `2` from xml_fmvss-571-208.
-title: (2) Interpreting the occupant characteristics and location information to determine
-  whether or not the air bag should de
+title: (2) At each front outboard designated seating position have a Type 1 or Type
+  2 seat belt assembly that conforms to Stand
 updated: '2026-04-13'
 ---
 
-# (2) Interpreting the occupant characteristics and location information to determine whether or not the air bag should de
+# (2) At each front outboard designated seating position have a Type 1 or Type 2 seat belt assembly that conforms to Stand
 
 ## Statement
-(2) Interpreting the occupant characteristics and location information to determine whether or not the air bag should deploy; and
+(2) At each front outboard designated seating position have a Type 1 or Type 2 seat belt assembly that conforms to Standard No. 209 and S7.1 through S7.3, and that meets the requirements of S5.1 with front test dummies as required by S5.1, restrained by the Type 1 or Type 2 seat belt assembly (or the pelvic portion of any Type 2 seat belt assembly which has a detachable upper torso belt) in addition to the means that require no action by the vehicle occupant.
 
 ## Classification
 - jurisdiction: US
@@ -57,17 +81,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: in_crash
 - functional_domain: occupant_protection_and_restraints
-- primary_topic: interpreting-occupant-characteristics
-- secondary_topics: airbags
-- browse_buckets: occupant_restraints
+- primary_topic: frontal_impact
+- secondary_topics: seat_belts
+- browse_buckets: occupant_restraints, seat_systems
 - legacy_domain: passive_crash
 
 ## Basis
-(2) Interpreting the occupant characteristics and location information to determine whether or not the air bag should deploy; and
+(2) At each front outboard designated seating position have a Type 1 or Type 2 seat belt assembly that conforms to Standard No. 209 and S7.1 through S7.3, and that meets the requirements of S5.1 with front test dummies as required by S5.1, restrained by the Type 1 or Type 2 seat belt assembly (or the pelvic portion of any Type 2 seat belt assembly which has a detachable upper torso belt) in addition to the means that require no action by the vehicle occupant.
 
 ## Authority
 - clause_path: 2
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / 2
 - source_url: n/a
 - confidence: medium
 

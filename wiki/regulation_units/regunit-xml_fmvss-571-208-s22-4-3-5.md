@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S22.4.3.5 If head/torso contact with the instrument panel has not been made,
   maintain the angle of the thighs with respect to the horizontal while applying a
   force towards the front of the vehicle on the spine of the dummy between the shoulder
@@ -14,38 +16,54 @@ basis: S22.4.3.5 If head/torso contact with the instrument panel has not been ma
   If the dummy cannot be rolled forward on the seat due to contact of the dummy feet
   with the floor pan, extend the lower legs forward, at the knees, until floor pan
   contact is avoided.
-browse_buckets: []
+browse_buckets:
+- rear_impact
+- occupant_restraints
+- head_impact
+- seat_systems
 clause_path: s22-4-3-5
+comparison_key: 866eb0da3c908ff75be6bc04fe39475968565bfb
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
 - crash_avoidance_and_vehicle_control
 id: regunit-xml_fmvss-571-208-s22-4-3-5
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: head-torso-contact
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
+phase: in_crash
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: S22.4.3.5
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-208 / s22-4-3-5
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
 statement: S22.4.3.5 If head/torso contact with the instrument panel has not been
   made, maintain the angle of the thighs with respect to the horizontal while applying
@@ -62,6 +80,7 @@ statement: S22.4.3.5 If head/torso contact with the instrument panel has not bee
   with the floor pan, extend the lower legs forward, at the knees, until floor pan
   contact is avoided.
 status: draft
+subject: null
 summary: Regulation unit `s22-4-3-5` from xml_fmvss-571-208.
 title: S22.4.3.5 If head/torso contact with the instrument panel has not been made,
   maintain the angle of the thighs with respe
@@ -77,12 +96,12 @@ S22.4.3.5 If head/torso contact with the instrument panel has not been made, mai
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
+- phase: in_crash
 - functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: head-torso-contact
+- primary_topic: frontal_impact
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: active_safety
+- browse_buckets: rear_impact, occupant_restraints, head_impact, seat_systems
+- legacy_domain: passive_crash
 
 ## Basis
 S22.4.3.5 If head/torso contact with the instrument panel has not been made, maintain the angle of the thighs with respect to the horizontal while applying a force towards the front of the vehicle on the spine of the dummy between the shoulder joints, perpendicular to the thorax instrument cavity rear face, until the head or torso comes into contact with the vehicle's instrument panel or until a maximum force of 222 N (50 lb) is achieved. If the head/torso is still not in contact with the instrument panel, hold the femurs and release the 222 N (50 lb) force. While maintaining the relative angle between the torso and the femurs, roll the dummy forward on the seat cushion, without sliding, until head/torso contact with the instrument panel is achieved. If seat contact is lost prior to or during femur rotation out of the horizontal plane, constrain the dummy to rotate about the dummy H-point. If the dummy cannot be rolled forward on the seat due to contact of the dummy feet with the floor pan, extend the lower legs forward, at the knees, until floor pan contact is avoided.
@@ -90,6 +109,7 @@ S22.4.3.5 If head/torso contact with the instrument panel has not been made, mai
 ## Authority
 - clause_path: s22-4-3-5
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / s22-4-3-5
 - source_url: n/a
 - confidence: medium
 

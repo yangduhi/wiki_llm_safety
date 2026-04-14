@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S7.2 Static deflection. The ejection impactor targeting point must not deflect
   more than 20 mm in the x-z plane when a 981 N ±5 N force is applied in a vehicle
   vertical longitudinal plane, through the y axis of the headform and no more than
@@ -8,38 +10,53 @@ basis: 'S7.2 Static deflection. The ejection impactor targeting point must not d
   is made with the ejection impactor extended 400 mm outboard of the theoretical point
   of impact with the countermeasure and attached to the ejection propulsion mechanism,
   including any support frame and anchors.'
-browse_buckets: []
+browse_buckets:
+- rear_impact
+- anti_ejection
+- head_impact
 clause_path: s7-2
+comparison_key: 930308da88338b73280f34274577fc54bc04f36f
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-226
+document_kind: null
 effective_date: null
 functional_domain:
 - crash_avoidance_and_vehicle_control
 id: regunit-xml_fmvss-571-226-s7-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: static-deflection-ejection
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.226 Standard No. 226; Ejection Mitigation.
+phase: in_crash
+primary_topic: ejection_mitigation
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.226.xml
   source_hashes:
     raw/collections/xml_fmvss/571.226.xml: 8a8dd5dd312963e0cc3aec49a6005d0464c58fe78d063c6336f39a8a49a921e6
   source_url: null
+raw_marker: S7.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-226 / s7-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.226.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.226.xml: 8a8dd5dd312963e0cc3aec49a6005d0464c58fe78d063c6336f39a8a49a921e6
 source_url: null
 statement: 'S7.2 Static deflection. The ejection impactor targeting point must not
   deflect more than 20 mm in the x-z plane when a 981 N ±5 N force is applied in a
@@ -50,6 +67,7 @@ statement: 'S7.2 Static deflection. The ejection impactor targeting point must n
   point of impact with the countermeasure and attached to the ejection propulsion
   mechanism, including any support frame and anchors.'
 status: draft
+subject: null
 summary: Regulation unit `s7-2` from xml_fmvss-571-226.
 title: S7.2 Static deflection. The ejection impactor targeting point must not deflect
   more than 20 mm in the x-z plane when a 9
@@ -65,12 +83,12 @@ S7.2 Static deflection. The ejection impactor targeting point must not deflect m
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
+- phase: in_crash
 - functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: static-deflection-ejection
+- primary_topic: ejection_mitigation
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: active_safety
+- browse_buckets: rear_impact, anti_ejection, head_impact
+- legacy_domain: passive_crash
 
 ## Basis
 S7.2 Static deflection. The ejection impactor targeting point must not deflect more than 20 mm in the x-z plane when a 981 N ±5 N force is applied in a vehicle vertical longitudinal plane, through the y axis of the headform and no more than 5 mm rear of the posterior surface of the headform. The force is applied once in each of the following headform axes: + z, −z, + x, −x. The static deflection measurement is made with the ejection impactor extended 400 mm outboard of the theoretical point of impact with the countermeasure and attached to the ejection propulsion mechanism, including any support frame and anchors.
@@ -78,6 +96,7 @@ S7.2 Static deflection. The ejection impactor targeting point must not deflect m
 ## Authority
 - clause_path: s7-2
 - source_file: raw/collections/xml_fmvss/571.226.xml
+- source_citation: xml_fmvss-571-226 / s7-2
 - source_url: n/a
 - confidence: medium
 

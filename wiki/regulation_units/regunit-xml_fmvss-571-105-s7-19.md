@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S7.19 Moving barrier test. (Only for vehicles that have been tested according
   to S7.7.2.) Load the vehicle to GVWR, release parking brake, and place the transmission
   selector control to engage the parking mechanism. With a moving barrier as described
@@ -45,38 +47,51 @@ basis: 'S7.19 Moving barrier test. (Only for vehicles that have been tested acco
   Editorial Note: For Federal Register citations affecting § 571.105, see the List
   of CFR Sections Affected, which appears in the Finding Aids section of the printed
   volume and at www.govinfo.gov.'
-browse_buckets: []
+browse_buckets:
+- rear_impact
 clause_path: s7-19
+comparison_key: aab56b90b8b776c2117e40c47fe833db398d1cae
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-105
+document_kind: null
 effective_date: null
 functional_domain:
-- crash_avoidance_and_vehicle_control
+- other_or_review
 id: regunit-xml_fmvss-571-105-s7-19
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: moving-barrier-test
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.105 Standard No. 105; Hydraulic and electric brake systems.
+phase: cross_phase
+primary_topic: s7-19-moving-barrier-test-only-for-vehicles-that-have-been-tested-according-to-s
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.105.xml
   source_hashes:
     raw/collections/xml_fmvss/571.105.xml: 624b2aa080e310d3d805c34b311d60726267496c1ea71903dc6fca78d1b2e23f
   source_url: null
+raw_marker: S7.19
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-105 / s7-19
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.105.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.105.xml: 624b2aa080e310d3d805c34b311d60726267496c1ea71903dc6fca78d1b2e23f
 source_url: null
 statement: S7.19 Moving barrier test. (Only for vehicles that have been tested according
   to S7.7.2.) Load the vehicle to GVWR, release parking brake, and place the transmission
@@ -86,6 +101,7 @@ statement: S7.19 Moving barrier test. (Only for vehicles that have been tested a
   axis of the barrier parallel with the longitudinal axis of the vehicle. Repeat the
   test, impacting the vehicle from the rear.
 status: draft
+subject: null
 summary: Regulation unit `s7-19` from xml_fmvss-571-105.
 title: S7.19 Moving barrier test. (Only for vehicles that have been tested according
   to S7.7.2.) Load the vehicle to GVWR, rele
@@ -101,12 +117,12 @@ S7.19 Moving barrier test. (Only for vehicles that have been tested according to
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
-- functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: moving-barrier-test
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: s7-19-moving-barrier-test-only-for-vehicles-that-have-been-tested-according-to-s
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: active_safety
+- browse_buckets: rear_impact
+- legacy_domain: needs_review
 
 ## Basis
 S7.19 Moving barrier test. (Only for vehicles that have been tested according to S7.7.2.) Load the vehicle to GVWR, release parking brake, and place the transmission selector control to engage the parking mechanism. With a moving barrier as described in paragraph 4.3 of SAE Recommended Practice J972 (2000) (incorporated by reference, see § 571.5), impact the vehicle from the front at 2 1/2 mph. Keep the longitudinal axis of the barrier parallel with the longitudinal axis of the vehicle. Repeat the test, impacting the vehicle from the rear.
@@ -121,6 +137,7 @@ Editorial Note: For Federal Register citations affecting § 571.105, see the Lis
 ## Authority
 - clause_path: s7-19
 - source_file: raw/collections/xml_fmvss/571.105.xml
+- source_citation: xml_fmvss-571-105 / s7-19
 - source_url: n/a
 - confidence: medium
 

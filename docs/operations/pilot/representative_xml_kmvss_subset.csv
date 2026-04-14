@@ -1,0 +1,6 @@
+subset_id,collection,raw_file,intended_phase,intended_functional_domain,rationale
+xml-kmvss-112-186,xml_kmvss,KMVSS_Art_112_186.xml,post_crash,fire_electrical_and_energy_storage_safety,Representative KR high-voltage and traction battery safety case
+xml-kmvss-17-024,xml_kmvss,KMVSS_Art_17_024.xml,post_crash,fire_electrical_and_energy_storage_safety,Representative KR fuel system and fire safety case
+xml-kmvss-111-170,xml_kmvss,KMVSS_Art_111_170.xml,pre_crash,crash_avoidance_and_vehicle_control,Representative KR ADAS/AEB-style safety function case
+xml-kmvss-114-189,xml_kmvss,KMVSS_Art_114_189.xml,non_phase_admin,other_or_review,Representative KR certification or governance boundary case
+xml-kmvss-15-020,xml_kmvss,KMVSS_Art_15_020.xml,pre_crash,crash_avoidance_and_vehicle_control,Representative KR braking and control case

@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S6.2.7 The brake temperature is increased to a specified level by conducting
   one or more stops from 40 m.p.h. at a deceleration of 10 f.p.s.p.s. The brake temperature
   is decreased to a specified level by rotating the drum or disc at a constant 30
@@ -59,42 +61,55 @@ basis: 'S6.2.7 The brake temperature is increased to a specified level by conduc
 browse_buckets:
 - rear_impact
 clause_path: s6-2-7
+comparison_key: 84d71451258fb2adc99946fd65d15ed6a6f079f7
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-121
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-121-s6-2-7
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.121 Standard No. 121; Air brake systems.
 phase: cross_phase
-primary_topic: brake-temperature-increased
+primary_topic: s6-2-7-the-brake-temperature-is-increased-to-a-specified-level-by-conducting-one
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.121.xml
   source_hashes:
     raw/collections/xml_fmvss/571.121.xml: 93908adb7995f79cc78caf3fc599b484177ed42de1ff0e056803b1ab47daddda
   source_url: null
+raw_marker: S6.2.7
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-121 / s6-2-7
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.121.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.121.xml: 93908adb7995f79cc78caf3fc599b484177ed42de1ff0e056803b1ab47daddda
 source_url: null
 statement: S6.2.7 The brake temperature is increased to a specified level by conducting
   one or more stops from 40 m.p.h. at a deceleration of 10 f.p.s.p.s. The brake temperature
   is decreased to a specified level by rotating the drum or disc at a constant 30
   m.p.h.
 status: draft
+subject: null
 summary: Regulation unit `s6-2-7` from xml_fmvss-571-121.
 title: S6.2.7 The brake temperature is increased to a specified level by conducting
   one or more stops from 40 m.p.h. at a decel
@@ -112,7 +127,7 @@ S6.2.7 The brake temperature is increased to a specified level by conducting one
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: brake-temperature-increased
+- primary_topic: s6-2-7-the-brake-temperature-is-increased-to-a-specified-level-by-conducting-one
 - secondary_topics: n/a
 - browse_buckets: rear_impact
 - legacy_domain: needs_review
@@ -130,6 +145,7 @@ Table V—Brake Chamber Rated Volumes Brake Chamber type (nominal area of piston
 ## Authority
 - clause_path: s6-2-7
 - source_file: raw/collections/xml_fmvss/571.121.xml
+- source_citation: xml_fmvss-571-121 / s6-2-7
 - source_url: n/a
 - confidence: medium
 

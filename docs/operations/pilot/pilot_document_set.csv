@@ -1,8 +1,8 @@
 pilot_id,jurisdiction,document_title,citation_preferred_form,source_url,rationale
 us-fmvss-205,US,Glazing materials,FMVSS 205 / 49 CFR 571.205,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.205,cross_phase and visibility/glazing stress case
 us-fmvss-206,US,Door locks and door retention components,FMVSS 206 / 49 CFR 571.206,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,candidate for in_crash structural retention and egress
-us-fmvss-302,US,Flammability of interior materials,FMVSS 302 / 49 CFR 571.302,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,candidate for interior materials and fire
-us-fmvss-305a,US,Electric-powered vehicles electrolyte spillage and electrical shock protection,FMVSS 305a / 49 CFR 571.305a,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,cross_phase EV electrical safety
+us-fmvss-302,US,Flammability of interior materials,FMVSS 302 / 49 CFR 571.302,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,post_crash interior fire stability anchor
+us-fmvss-305a,US,Electric-powered vehicles electrolyte spillage and electrical shock protection,FMVSS 305a / 49 CFR 571.305a,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,post_crash EV electrical safety anchor
 us-fmvss-208,US,Occupant crash protection,FMVSS 208 / 49 CFR 571.208,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571,restraint and occupant protection anchor
 eu-2018-858,EU,Type approval and market surveillance framework,Regulation (EU) 2018/858,https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0858-20221206,non_phase_admin framework anchor
 eu-2019-2144,EU,General Safety Regulation,Regulation (EU) 2019/2144,https://eur-lex.europa.eu/eli/reg/2019/2144/oj/eng,mixed active safety and protection requirements anchor

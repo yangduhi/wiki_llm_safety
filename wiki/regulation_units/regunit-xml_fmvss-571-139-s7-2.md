@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S7.2 Tires manufactured on or after September 1, 2006 and before September
   1, 2007. For tires manufactured on or after September 1, 2006 and before September
   1, 2007, the number of tires complying with S4, S5.5, S5.5.1, S5.5.2, S5.5.3, S5.5.4,
@@ -7,36 +9,48 @@ basis: S7.2 Tires manufactured on or after September 1, 2006 and before Septembe
   production during that period.
 browse_buckets: []
 clause_path: s7-2
+comparison_key: f5f6af6c3c433b1821856a329333881e69a37327
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-139
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-139-s7-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.139 Standard No. 139; New pneumatic radial tires for light vehicles.
 phase: cross_phase
-primary_topic: tires-manufactured-after
+primary_topic: s7-2-tires-manufactured-on-or-after-september-1-2006-and-before-september-1-2007
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.139.xml
   source_hashes:
     raw/collections/xml_fmvss/571.139.xml: 049ee35b7a229c5ffd96d6b32ce4c14fc438ead49b4cfdd14ddd25f57454d579
   source_url: null
+raw_marker: S7.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-139 / s7-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.139.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.139.xml: 049ee35b7a229c5ffd96d6b32ce4c14fc438ead49b4cfdd14ddd25f57454d579
 source_url: null
 statement: S7.2 Tires manufactured on or after September 1, 2006 and before September
   1, 2007. For tires manufactured on or after September 1, 2006 and before September
@@ -44,6 +58,7 @@ statement: S7.2 Tires manufactured on or after September 1, 2006 and before Sept
   S5.5.5, and S5.5.6 of this standard must be equal to not less than 70% of the manufacturer's
   production during that period.
 status: draft
+subject: null
 summary: Regulation unit `s7-2` from xml_fmvss-571-139.
 title: S7.2 Tires manufactured on or after September 1, 2006 and before September
   1, 2007. For tires manufactured on or after S
@@ -61,7 +76,7 @@ S7.2 Tires manufactured on or after September 1, 2006 and before September 1, 20
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: tires-manufactured-after
+- primary_topic: s7-2-tires-manufactured-on-or-after-september-1-2006-and-before-september-1-2007
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -72,6 +87,7 @@ S7.2 Tires manufactured on or after September 1, 2006 and before September 1, 20
 ## Authority
 - clause_path: s7-2
 - source_file: raw/collections/xml_fmvss/571.139.xml
+- source_citation: xml_fmvss-571-139 / s7-2
 - source_url: n/a
 - confidence: medium
 

@@ -1,48 +1,66 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S19.2.3 The vehicle shall be equipped with a mechanism that indicates whether
   the air bag system is suppressed, regardless of whether any front outboard passenger
   seat is occupied. The mechanism need not be located in the occupant compartment
   unless it is the telltale described in S19.2.2.
-browse_buckets: []
+browse_buckets:
+- occupant_restraints
+- occupant_compartment_integrity
+- seat_systems
 clause_path: s19-2-3
+comparison_key: 340ccad01ead2fe31da48af0ae45e48ef03da0c3
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
-- crash_avoidance_and_vehicle_control
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-208-s19-2-3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: vehicle-shall-equipped
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
+phase: in_crash
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: S19.2.3
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - airbags
+sectno: null
+source_citation: xml_fmvss-571-208 / s19-2-3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
 statement: S19.2.3 The vehicle shall be equipped with a mechanism that indicates whether
   the air bag system is suppressed, regardless of whether any front outboard passenger
   seat is occupied. The mechanism need not be located in the occupant compartment
   unless it is the telltale described in S19.2.2.
 status: draft
+subject: null
 summary: Regulation unit `s19-2-3` from xml_fmvss-571-208.
 title: S19.2.3 The vehicle shall be equipped with a mechanism that indicates whether
   the air bag system is suppressed, regardle
@@ -58,12 +76,12 @@ S19.2.3 The vehicle shall be equipped with a mechanism that indicates whether th
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
-- functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: vehicle-shall-equipped
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: frontal_impact
 - secondary_topics: airbags
-- browse_buckets: n/a
-- legacy_domain: active_safety
+- browse_buckets: occupant_restraints, occupant_compartment_integrity, seat_systems
+- legacy_domain: passive_crash
 
 ## Basis
 S19.2.3 The vehicle shall be equipped with a mechanism that indicates whether the air bag system is suppressed, regardless of whether any front outboard passenger seat is occupied. The mechanism need not be located in the occupant compartment unless it is the telltale described in S19.2.2.
@@ -71,6 +89,7 @@ S19.2.3 The vehicle shall be equipped with a mechanism that indicates whether th
 ## Authority
 - clause_path: s19-2-3
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / s19-2-3
 - source_url: n/a
 - confidence: medium
 

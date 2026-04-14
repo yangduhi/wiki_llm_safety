@@ -14,6 +14,8 @@
     "updated",
     "jurisdiction",
     "source_collection",
+    "document_id",
+    "clause_path",
     "regulatory_layer",
     "phase",
     "functional_domain",
@@ -22,6 +24,8 @@
     "browse_buckets",
     "legacy_domain",
     "aliases",
+    "source_url",
+    "source_citation",
     "provenance",
     "effective_date",
     "confidence"
@@ -40,6 +44,8 @@
     "updated": { "type": "string" },
     "jurisdiction": { "type": "string", "enum": ["KR", "US", "EU", "UNECE"] },
     "source_collection": { "type": "string", "minLength": 1 },
+    "document_id": { "type": "string", "minLength": 1 },
+    "clause_path": { "type": "string", "minLength": 1 },
     "regulatory_layer": {
       "type": "string",
       "enum": [
@@ -79,6 +85,7 @@
     },
     "effective_date": { "type": ["string", "null"] },
     "source_url": { "type": ["string", "null"] },
+    "source_citation": { "type": "string", "minLength": 1 },
     "confidence": {
       "type": "string",
       "enum": ["low", "medium", "high"]

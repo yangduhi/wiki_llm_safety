@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S6.7.2 The knee form is instrumented with an acceleration sensing device whose
   output is recorded in a data channel that conforms to the requirements of a 600
   Hz channel class as specified in SAE Recommended Practice J211a (1971) (incorporated
@@ -7,38 +9,51 @@ basis: S6.7.2 The knee form is instrumented with an acceleration sensing device 
   times the frequency of the channel class. The axis of the acceleration sensing device
   is aligned to measure acceleration along the centerline of the cylindrical knee
   form.
-browse_buckets: []
+browse_buckets:
+- seat_systems
 clause_path: s6-7-2
+comparison_key: 7c90a7cbeffcc0c4af87e3c249b4d00215c53066
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-222
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-222-s6-7-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.222 Standard No. 222; School bus passenger seating and crash protection.
 phase: cross_phase
-primary_topic: knee-form-instrumented
+primary_topic: s6-7-2-the-knee-form-is-instrumented-with-an-acceleration-sensing-device-whose-o
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.222.xml
   source_hashes:
     raw/collections/xml_fmvss/571.222.xml: f9122780b29250d242d0b0906cd2937a727e74d020a2888c17ae9431dcd79a67
   source_url: null
+raw_marker: S6.7.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-222 / s6-7-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.222.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.222.xml: f9122780b29250d242d0b0906cd2937a727e74d020a2888c17ae9431dcd79a67
 source_url: null
 statement: S6.7.2 The knee form is instrumented with an acceleration sensing device
   whose output is recorded in a data channel that conforms to the requirements of
@@ -48,6 +63,7 @@ statement: S6.7.2 The knee form is instrumented with an acceleration sensing dev
   is aligned to measure acceleration along the centerline of the cylindrical knee
   form.
 status: draft
+subject: null
 summary: Regulation unit `s6-7-2` from xml_fmvss-571-222.
 title: S6.7.2 The knee form is instrumented with an acceleration sensing device whose
   output is recorded in a data channel that
@@ -65,9 +81,9 @@ S6.7.2 The knee form is instrumented with an acceleration sensing device whose o
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: knee-form-instrumented
+- primary_topic: s6-7-2-the-knee-form-is-instrumented-with-an-acceleration-sensing-device-whose-o
 - secondary_topics: n/a
-- browse_buckets: n/a
+- browse_buckets: seat_systems
 - legacy_domain: needs_review
 
 ## Basis
@@ -76,6 +92,7 @@ S6.7.2 The knee form is instrumented with an acceleration sensing device whose o
 ## Authority
 - clause_path: s6-7-2
 - source_file: raw/collections/xml_fmvss/571.222.xml
+- source_citation: xml_fmvss-571-222 / s6-7-2
 - source_url: n/a
 - confidence: medium
 

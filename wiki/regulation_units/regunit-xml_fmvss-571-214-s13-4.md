@@ -1,41 +1,57 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S13.4 Calculation of complying vehicles.
-browse_buckets: []
+browse_buckets:
+- side_impact
 clause_path: s13-4
+comparison_key: 6313b36663222918be207f7b6e0d14e131ca8193
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-214
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-214-s13-4
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: calculation-complying-vehicles
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.214 Standard No. 214; Side impact protection.
+phase: in_crash
+primary_topic: side_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.214.xml
   source_hashes:
     raw/collections/xml_fmvss/571.214.xml: bc04834da3eda5481db2b2377401049c18801a5f0fbb243026534555d175922e
   source_url: null
+raw_marker: S13.4
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-214 / s13-4
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.214.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.214.xml: bc04834da3eda5481db2b2377401049c18801a5f0fbb243026534555d175922e
 source_url: null
 statement: S13.4 Calculation of complying vehicles.
 status: draft
+subject: null
 summary: Regulation unit `s13-4` from xml_fmvss-571-214.
 title: S13.4 Calculation of complying vehicles.
 updated: '2026-04-13'
@@ -50,12 +66,12 @@ S13.4 Calculation of complying vehicles.
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: calculation-complying-vehicles
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: side_impact
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: needs_review
+- browse_buckets: side_impact
+- legacy_domain: passive_crash
 
 ## Basis
 S13.4 Calculation of complying vehicles.
@@ -63,6 +79,7 @@ S13.4 Calculation of complying vehicles.
 ## Authority
 - clause_path: s13-4
 - source_file: raw/collections/xml_fmvss/571.214.xml
+- source_citation: xml_fmvss-571-214 / s13-4
 - source_url: n/a
 - confidence: medium
 

@@ -1,60 +1,70 @@
 ---
 aliases: []
-basis: '(d) Repeat the procedure for a flat magnesium oxide surface, and compute the
-  quotient (percentage) of the luminance of the material relative to that of the magnesium
-  oxide surface.
-
-  Fig. 1—Dimensions of Warning Device (Inches)
-
-  [39 FR 28636, Aug. 9, 1974, as amended at 40 FR 4, Jan. 2, 1975; 59 FR 49591, Sept.
-  29, 1994; 77 FR 760, Jan. 6, 2012]'
+attachment_bucket: null
+attachment_section: null
+basis: (d) Salt spray (fog) test in accordance with ASTM B117-64 (incorporated by
+  reference, see § 571.5), except that the test shall be for 4 hours rather than 40
+  hours; and
 browse_buckets: []
 clause_path: d
+comparison_key: 9b64558f2536919157f6566a0b648a897c93afa7
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-125
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-125-d
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.125 Standard No. 125; Warning devices.
 phase: cross_phase
-primary_topic: repeat-procedure-flat
+primary_topic: d-salt-spray-fog-test-in-accordance-with-astm-b117-64-incorporated-by-reference-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.125.xml
   source_hashes:
     raw/collections/xml_fmvss/571.125.xml: 59205ff9bb5f3b07d0df3a96ec38e712b548900988420a56470f6b9b86ea7708
   source_url: null
+raw_marker: (d)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-125 / d
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.125.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.125.xml: 59205ff9bb5f3b07d0df3a96ec38e712b548900988420a56470f6b9b86ea7708
 source_url: null
-statement: (d) Repeat the procedure for a flat magnesium oxide surface, and compute
-  the quotient (percentage) of the luminance of the material relative to that of the
-  magnesium oxide surface.
+statement: (d) Salt spray (fog) test in accordance with ASTM B117-64 (incorporated
+  by reference, see § 571.5), except that the test shall be for 4 hours rather than
+  40 hours; and
 status: draft
+subject: null
 summary: Regulation unit `d` from xml_fmvss-571-125.
-title: (d) Repeat the procedure for a flat magnesium oxide surface, and compute the
-  quotient (percentage) of the luminance of t
+title: (d) Salt spray (fog) test in accordance with ASTM B117-64 (incorporated by
+  reference, see § 571.5), except that the test
 updated: '2026-04-13'
 ---
 
-# (d) Repeat the procedure for a flat magnesium oxide surface, and compute the quotient (percentage) of the luminance of t
+# (d) Salt spray (fog) test in accordance with ASTM B117-64 (incorporated by reference, see § 571.5), except that the test
 
 ## Statement
-(d) Repeat the procedure for a flat magnesium oxide surface, and compute the quotient (percentage) of the luminance of the material relative to that of the magnesium oxide surface.
+(d) Salt spray (fog) test in accordance with ASTM B117-64 (incorporated by reference, see § 571.5), except that the test shall be for 4 hours rather than 40 hours; and
 
 ## Classification
 - jurisdiction: US
@@ -62,19 +72,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: repeat-procedure-flat
+- primary_topic: d-salt-spray-fog-test-in-accordance-with-astm-b117-64-incorporated-by-reference-
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(d) Repeat the procedure for a flat magnesium oxide surface, and compute the quotient (percentage) of the luminance of the material relative to that of the magnesium oxide surface.
-Fig. 1—Dimensions of Warning Device (Inches)
-[39 FR 28636, Aug. 9, 1974, as amended at 40 FR 4, Jan. 2, 1975; 59 FR 49591, Sept. 29, 1994; 77 FR 760, Jan. 6, 2012]
+(d) Salt spray (fog) test in accordance with ASTM B117-64 (incorporated by reference, see § 571.5), except that the test shall be for 4 hours rather than 40 hours; and
 
 ## Authority
 - clause_path: d
 - source_file: raw/collections/xml_fmvss/571.125.xml
+- source_citation: xml_fmvss-571-125 / d
 - source_url: n/a
 - confidence: medium
 

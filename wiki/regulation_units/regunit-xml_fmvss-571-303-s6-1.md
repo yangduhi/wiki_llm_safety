@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S6.1 Frontal barrier crash. When the vehicle traveling longitudinally forward
   at any speed up to and including 30 mph impacts a fixed collision barrier that is
   perpendicular to the line of travel of the vehicle, or at any angle up to 30 degrees
@@ -14,36 +16,49 @@ browse_buckets:
 - seat_systems
 - fuel_system_integrity
 clause_path: s6-1
+comparison_key: 4b464c30f1377bfa4ba0d516dbedee8c7d695ae0
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-303
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- fire_electrical_and_energy_storage_safety
 id: regunit-xml_fmvss-571-303-s6-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: frontal-barrier-crash
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.303 Standard No. 303; Fuel system integrity of compressed natural
+  gas vehicles.
+phase: cross_phase
+primary_topic: s6-1-frontal-barrier-crash-when-the-vehicle-traveling-longitudinally-forward-at-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.303.xml
   source_hashes:
     raw/collections/xml_fmvss/571.303.xml: ed59d909375333e896330275840e1cfe31c19cab65564f51ed2be2bba051300e
   source_url: null
+raw_marker: S6.1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-303 / s6-1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.303.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.303.xml: ed59d909375333e896330275840e1cfe31c19cab65564f51ed2be2bba051300e
 source_url: null
 statement: S6.1 Frontal barrier crash. When the vehicle traveling longitudinally forward
   at any speed up to and including 30 mph impacts a fixed collision barrier that is
@@ -55,6 +70,7 @@ statement: S6.1 Frontal barrier crash. When the vehicle traveling longitudinally
   208, under the applicable conditions of S7, the fuel pressure drop shall not exceed
   the limits of S5.2.
 status: draft
+subject: null
 summary: Regulation unit `s6-1` from xml_fmvss-571-303.
 title: S6.1 Frontal barrier crash. When the vehicle traveling longitudinally forward
   at any speed up to and including 30 mph im
@@ -70,12 +86,12 @@ S6.1 Frontal barrier crash. When the vehicle traveling longitudinally forward at
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
-- functional_domain: other_or_review
-- primary_topic: frontal-barrier-crash
+- phase: cross_phase
+- functional_domain: fire_electrical_and_energy_storage_safety
+- primary_topic: s6-1-frontal-barrier-crash-when-the-vehicle-traveling-longitudinally-forward-at-
 - secondary_topics: n/a
 - browse_buckets: frontal_impact, seat_systems, fuel_system_integrity
-- legacy_domain: passive_crash
+- legacy_domain: needs_review
 
 ## Basis
 S6.1 Frontal barrier crash. When the vehicle traveling longitudinally forward at any speed up to and including 30 mph impacts a fixed collision barrier that is perpendicular to the line of travel of the vehicle, or at any angle up to 30 degrees in either direction from the perpendicular to the line of travel of the vehicle, with 50th percentile test dummies as specified in part 572 of this chapter at each front outboard designated seating position and at any other position whose protection system is required to be tested by a dummy under the provisions of Standard No. 208, under the applicable conditions of S7, the fuel pressure drop shall not exceed the limits of S5.2.
@@ -83,6 +99,7 @@ S6.1 Frontal barrier crash. When the vehicle traveling longitudinally forward at
 ## Authority
 - clause_path: s6-1
 - source_file: raw/collections/xml_fmvss/571.303.xml
+- source_citation: xml_fmvss-571-303 / s6-1
 - source_url: n/a
 - confidence: medium
 

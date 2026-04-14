@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S5.1.2 Reverse. For vehicles capable of rearward self-propulsion, whenever
   the vehicle''s gear selector is in the Reverse position, the vehicle must emit a
   sound having at least the A-weighted sound pressure level according to Table 2 in
@@ -12,36 +14,49 @@ basis: 'S5.1.2 Reverse. For vehicles capable of rearward self-propulsion, whenev
 browse_buckets:
 - rear_impact
 clause_path: s5-1-2
+comparison_key: f532006e11b4b1390fab55a1b04cffd4f22cb134
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-141
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-141-s5-1-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.141 Standard No. 141; Minimum Sound Requirements for Hybrid and
+  Electric Vehicles.
 phase: cross_phase
-primary_topic: reverse-vehicles-capable
+primary_topic: s5-1-2-reverse-for-vehicles-capable-of-rearward-self-propulsion-whenever-the-veh
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.141.xml
   source_hashes:
     raw/collections/xml_fmvss/571.141.xml: b81e399b4d036d5d89bfa9bf46476e304c17132dcb803dc56927b3eda115b479
   source_url: null
+raw_marker: S5.1.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-141 / s5-1-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.141.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.141.xml: b81e399b4d036d5d89bfa9bf46476e304c17132dcb803dc56927b3eda115b479
 source_url: null
 statement: S5.1.2 Reverse. For vehicles capable of rearward self-propulsion, whenever
   the vehicle's gear selector is in the Reverse position, the vehicle must emit a
@@ -49,6 +64,7 @@ statement: S5.1.2 Reverse. For vehicles capable of rearward self-propulsion, whe
   each of four non-adjacent bands spanning no fewer than 9 of the 13 bands from 315
   to 5000Hz.
 status: draft
+subject: null
 summary: Regulation unit `s5-1-2` from xml_fmvss-571-141.
 title: S5.1.2 Reverse. For vehicles capable of rearward self-propulsion, whenever
   the vehicle's gear selector is in the Reverse
@@ -66,7 +82,7 @@ S5.1.2 Reverse. For vehicles capable of rearward self-propulsion, whenever the v
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: reverse-vehicles-capable
+- primary_topic: s5-1-2-reverse-for-vehicles-capable-of-rearward-self-propulsion-whenever-the-veh
 - secondary_topics: n/a
 - browse_buckets: rear_impact
 - legacy_domain: needs_review
@@ -78,6 +94,7 @@ Table 2—One-Third Octave Band Min. SPL Requirements for Sound while in Reverse
 ## Authority
 - clause_path: s5-1-2
 - source_file: raw/collections/xml_fmvss/571.141.xml
+- source_citation: xml_fmvss-571-141 / s5-1-2
 - source_url: n/a
 - confidence: medium
 

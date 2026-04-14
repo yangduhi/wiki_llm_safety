@@ -1,0 +1,92 @@
+---
+aliases: []
+attachment_bucket: short_value_rows
+attachment_section: 이륜자동차의 연료장치 및 구성부품 기준(제69조제1항 관련)
+basis: '4. 평상시 압력을 초과하는 과도한 압력은 자동적으로 압력을 조절하는 장치
+
+  (오리피스, 안전밸브 등)로 조절되어야 하며, 발화의 위험이 없을 것'
+browse_buckets: []
+clause_path: 4-23
+comparison_key: 14c18cc4d5919b873a6211a2a067ff49fef336cd
+confidence: medium
+created: '2026-04-13'
+document_id: xml_kmvss-kmvss_att_0005_023
+document_kind: attachment
+effective_date: null
+functional_domain:
+- fire_electrical_and_energy_storage_safety
+id: regunit-xml_kmvss-kmvss_att_0005_023-4-23
+inherits_section_context: true
+inherits_subject_context: true
+is_attachment: true
+is_table_like_row: false
+jurisdiction: KR
+legacy_domain: needs_review
+line_index_end: 25
+line_index_start: 23
+note_type: regulation_unit
+page_end: null
+page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: 4. 평상시 압력을 초과하는 과도한 압력은 자동적으로 압력을 조절하는 장치
+phase: post_crash
+primary_topic: fuel_system_integrity
+provenance:
+  parser_run_id: 20260414T051134Z__dc745dc5
+  source_files:
+  - raw/collections/xml_kmvss/KMVSS_Att_0005_023.xml
+  source_hashes:
+    raw/collections/xml_kmvss/KMVSS_Att_0005_023.xml: 876d24f72f5527b813bbb76ec18c4fd4a63646092c0c28b91f4e18c544582e28
+  source_url: null
+raw_marker: 4-23
+record_layer: knowledge
+reference_articles:
+- 제69조제1항
+regulatory_layer: technical_requirement
+review_required: true
+row_group_id: group-4
+secondary_topics:
+- fuel
+sectno: 별표 0005
+source_citation: xml_kmvss-kmvss_att_0005_023 / 4-23
+source_collection: xml_kmvss
+source_url: null
+statement: 4. 평상시 압력을 초과하는 과도한 압력은 자동적으로 압력을 조절하는 장치
+status: draft
+subject: 이륜자동차의 연료장치 및 구성부품 기준(제69조제1항 관련)
+summary: Regulation unit `4-23` from xml_kmvss-kmvss_att_0005_023.
+title: 4. 평상시 압력을 초과하는 과도한 압력은 자동적으로 압력을 조절하는 장치
+updated: '2026-04-13'
+---
+
+# 4. 평상시 압력을 초과하는 과도한 압력은 자동적으로 압력을 조절하는 장치
+
+## Statement
+4. 평상시 압력을 초과하는 과도한 압력은 자동적으로 압력을 조절하는 장치
+
+## Classification
+- jurisdiction: KR
+- source_collection: xml_kmvss
+- regulatory_layer: technical_requirement
+- phase: post_crash
+- functional_domain: fire_electrical_and_energy_storage_safety
+- primary_topic: fuel_system_integrity
+- secondary_topics: fuel
+- browse_buckets: n/a
+- legacy_domain: needs_review
+
+## Basis
+4. 평상시 압력을 초과하는 과도한 압력은 자동적으로 압력을 조절하는 장치
+(오리피스, 안전밸브 등)로 조절되어야 하며, 발화의 위험이 없을 것
+
+## Authority
+- clause_path: 4-23
+- source_file: raw/collections/xml_kmvss/KMVSS_Att_0005_023.xml
+- source_citation: xml_kmvss-kmvss_att_0005_023 / 4-23
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_kmvss-kmvss_att_0005_023]]
+- [[jurisdictions/jurisdiction-kr]]

@@ -1,44 +1,59 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S6.1.12 Liftable axles. A vehicle with a liftable axle is tested at GVWR with
   the liftable axle down and at unloaded vehicle weight with the liftable axle up.
 browse_buckets: []
 clause_path: s6-1-12
+comparison_key: a2f47347aeab2cf267d5bea9bac816b7d1bbee67
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-121
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-121-s6-1-12
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.121 Standard No. 121; Air brake systems.
 phase: cross_phase
-primary_topic: liftable-axles-vehicle
+primary_topic: s6-1-12-liftable-axles-a-vehicle-with-a-liftable-axle-is-tested-at-gvwr-with-the
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.121.xml
   source_hashes:
     raw/collections/xml_fmvss/571.121.xml: 93908adb7995f79cc78caf3fc599b484177ed42de1ff0e056803b1ab47daddda
   source_url: null
+raw_marker: S6.1.12
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-121 / s6-1-12
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.121.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.121.xml: 93908adb7995f79cc78caf3fc599b484177ed42de1ff0e056803b1ab47daddda
 source_url: null
 statement: S6.1.12 Liftable axles. A vehicle with a liftable axle is tested at GVWR
   with the liftable axle down and at unloaded vehicle weight with the liftable axle
   up.
 status: draft
+subject: null
 summary: Regulation unit `s6-1-12` from xml_fmvss-571-121.
 title: S6.1.12 Liftable axles. A vehicle with a liftable axle is tested at GVWR with
   the liftable axle down and at unloaded veh
@@ -56,7 +71,7 @@ S6.1.12 Liftable axles. A vehicle with a liftable axle is tested at GVWR with th
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: liftable-axles-vehicle
+- primary_topic: s6-1-12-liftable-axles-a-vehicle-with-a-liftable-axle-is-tested-at-gvwr-with-the
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -67,6 +82,7 @@ S6.1.12 Liftable axles. A vehicle with a liftable axle is tested at GVWR with th
 ## Authority
 - clause_path: s6-1-12
 - source_file: raw/collections/xml_fmvss/571.121.xml
+- source_citation: xml_fmvss-571-121 / s6-1-12
 - source_url: n/a
 - confidence: medium
 

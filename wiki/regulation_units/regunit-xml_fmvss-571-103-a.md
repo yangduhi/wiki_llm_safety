@@ -1,41 +1,56 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: '(a) During the first 5 minutes of the test:'
 browse_buckets: []
 clause_path: a
+comparison_key: 9ca67ab6eded48b852bc183cedd8cf3e245e558c
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-103
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- visibility_glazing_and_driver_information
 id: regunit-xml_fmvss-571-103-a
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.103 Standard No. 103; Windshield defrosting and defogging systems.
 phase: cross_phase
-primary_topic: during-first-minutes
+primary_topic: glazing_visibility
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.103.xml
   source_hashes:
     raw/collections/xml_fmvss/571.103.xml: a1d33f11bfc2a1df85de050fb6ab0555aa334afd8ff880759a903c1b0641817b
   source_url: null
+raw_marker: (a)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-103 / a
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.103.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.103.xml: a1d33f11bfc2a1df85de050fb6ab0555aa334afd8ff880759a903c1b0641817b
 source_url: null
 statement: '(a) During the first 5 minutes of the test:'
 status: draft
+subject: null
 summary: Regulation unit `a` from xml_fmvss-571-103.
 title: '(a) During the first 5 minutes of the test:'
 updated: '2026-04-13'
@@ -51,8 +66,8 @@ updated: '2026-04-13'
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: during-first-minutes
+- functional_domain: visibility_glazing_and_driver_information
+- primary_topic: glazing_visibility
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -63,6 +78,7 @@ updated: '2026-04-13'
 ## Authority
 - clause_path: a
 - source_file: raw/collections/xml_fmvss/571.103.xml
+- source_citation: xml_fmvss-571-103 / a
 - source_url: n/a
 - confidence: medium
 

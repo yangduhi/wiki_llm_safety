@@ -1,71 +1,90 @@
 ---
 aliases: []
-basis: (1) Lies in the longitudinal vertical plane passing through the center of the
-  guard's horizontal member; and
-browse_buckets: []
+attachment_bucket: null
+attachment_section: null
+basis: (1) Shall absorb by plastic deformation at least 20,000 J of energy within
+  the first 125 mm of deflection without eliminating any load path that existed before
+  the test was initiated; and
+browse_buckets:
+- rear_impact
 clause_path: '1'
+comparison_key: 71553536b03ad722d82368345948f199b27af047
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-223
+document_kind: null
 effective_date: null
 functional_domain:
-- crash_avoidance_and_vehicle_control
+- other_or_review
 id: regunit-xml_fmvss-571-223-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: active_safety
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: pre_crash
-primary_topic: lies-longitudinal-vertical
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.223 Standard No. 223; Rear impact guards.
+phase: cross_phase
+primary_topic: 1-shall-absorb-by-plastic-deformation-at-least-20-000-j-of-energy-within-the-fir
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.223.xml
   source_hashes:
     raw/collections/xml_fmvss/571.223.xml: 0afab34572d7f08c7a8a857bc8f04f563237c02b1df5f747f2e2e60bc85dbbc1
   source_url: null
+raw_marker: (1)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-223 / 1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.223.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.223.xml: 0afab34572d7f08c7a8a857bc8f04f563237c02b1df5f747f2e2e60bc85dbbc1
 source_url: null
-statement: (1) Lies in the longitudinal vertical plane passing through the center
-  of the guard's horizontal member; and
+statement: (1) Shall absorb by plastic deformation at least 20,000 J of energy within
+  the first 125 mm of deflection without eliminating any load path that existed before
+  the test was initiated; and
 status: draft
+subject: null
 summary: Regulation unit `1` from xml_fmvss-571-223.
-title: (1) Lies in the longitudinal vertical plane passing through the center of the
-  guard's horizontal member; and
+title: (1) Shall absorb by plastic deformation at least 20,000 J of energy within
+  the first 125 mm of deflection without elimin
 updated: '2026-04-13'
 ---
 
-# (1) Lies in the longitudinal vertical plane passing through the center of the guard's horizontal member; and
+# (1) Shall absorb by plastic deformation at least 20,000 J of energy within the first 125 mm of deflection without elimin
 
 ## Statement
-(1) Lies in the longitudinal vertical plane passing through the center of the guard's horizontal member; and
+(1) Shall absorb by plastic deformation at least 20,000 J of energy within the first 125 mm of deflection without eliminating any load path that existed before the test was initiated; and
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: pre_crash
-- functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: lies-longitudinal-vertical
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: 1-shall-absorb-by-plastic-deformation-at-least-20-000-j-of-energy-within-the-fir
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: active_safety
+- browse_buckets: rear_impact
+- legacy_domain: needs_review
 
 ## Basis
-(1) Lies in the longitudinal vertical plane passing through the center of the guard's horizontal member; and
+(1) Shall absorb by plastic deformation at least 20,000 J of energy within the first 125 mm of deflection without eliminating any load path that existed before the test was initiated; and
 
 ## Authority
 - clause_path: 1
 - source_file: raw/collections/xml_fmvss/571.223.xml
+- source_citation: xml_fmvss-571-223 / 1
 - source_url: n/a
 - confidence: medium
 

@@ -1,176 +1,96 @@
 ---
 aliases: []
-basis: '(b) Provide NHTSA with a method to assure that the same test results would
-  be obtained if the air bag were not deactivated.
-
-  Figures to § 571.208
-
-  Figure 1. [Reserved]
-
-  Appendix A to § 571.208—Selection of Child Restraint Systems This appendix A applies
-  to vehicles manufactured before September 1, 2025, and to not more than 60 percent
-  of a manufacturer''s vehicles manufactured on or after September 1, 2025, and before
-  September 1, 2026, as specified in S14.8 of this standard. This appendix does not
-  apply to vehicles manufactured on or after September 1, 2026. A. The following car
-  bed, manufactured on or after the date listed, may be used by the National Highway
-  Traffic Safety Administration to test the suppression system of a vehicle that has
-  been certified as being in compliance with 49 CFR 571.208 S19: Subpart A—Car Bed
-  Child Restraints of Appendix A Manufactured on or after Angel Guard Angel Ride XX2403XXX
-  September 25, 2007. B. Any of the following rear-facing child restraint systems
-  specified in the table in subpart B of this appendix, manufactured on or after the
-  date listed, may be used by the National Highway Traffic Safety Administration to
-  test the suppression or low risk deployment (LRD) system of a vehicle that has been
-  certified as being in compliance with S19 of this standard. When the restraint system
-  comes equipped with a removable base, the test may be run either with the base attached
-  or without the base. Subpart B—Rear-Facing Child Restraints of Appendix A Manufactured
-  on or after Century Smart Fit 4543 December 1, 1999. Cosco Arriva 22-013 PAW and
-  base 22-999 WHO September 25, 2007. Evenflo Discovery Adjust Right 212 December
-  1, 1999. Graco Infant 8457 December 1, 1999. Graco Snugride September 25, 2007.
-  Peg Perego Primo Viaggio SIP IMUN00US September 25, 2007. C. Any of the following
-  forward-facing child restraint systems, and forward-facing child restraint systems
-  that also convert to rear-facing, manufactured on or after the date listed, may
-  be used by the National Highway Traffic Safety Administration to test the suppression
-  or LRD system of a vehicle that has been certified as being in compliance with S19
-  or S21 of this standard. (Note: Any child restraint listed in this subpart that
-  does not have manufacturer instructions for using it in a rear-facing position is
-  excluded from use in testing in a belted rear-facing configuration under S20.2.1.1(a)
-  and S20.4.2 of this standard): Subpart C—Forward-Facing and Convertible Child Restraints
-  of Appendix A Manufactured on or after Britax Roundabout E9L02xx September 25, 2007.
-  Graco ComfortSport September 25, 2007. Cosco Touriva 02519 December 1, 1999. Evenflo
-  Tribute V 379xxxx or Evenflo Tribute 381xxxx September 25, 2007. Evenflo Medallion
-  254 December 1, 1999. Cosco Summit Deluxe High Back Booster 22-262 September 25,
-  2007. Evenflo Generations 352xxxx September 25, 2007. Graco Toddler SafeSeat Step
-  2 September 25, 2007. Graco Platinum Cargo September 25, 2007. Cosco High Back Booster
-  22-209 September 25, 2007. D. Any of the following forward-facing child restraint
-  systems and belt positioning seats, manufactured on or after the date listed, may
-  be used by the National Highway Traffic Safety Administration as test devices to
-  test the suppression system of a vehicle that has been certified as being in compliance
-  with S21 or S23 of this standard: Subpart D—Forward-Facing Child Restraints and
-  Belt Positioning Seats of Appendix A Manufactured on or after Britax Roadster 9004
-  December 1, 1999. Graco Platinum Cargo September 25, 2007. Cosco High Back Booster
-  22-209 September 25, 2007. Evenflo Right Fit 245 December 1, 1999. Evenflo Generations
-  352xxxx September 25, 2007. Cosco Summit Deluxe High Back Booster 22-262 September
-  25, 2007.
-
-  Appendix A-1 to § 571.208—Selection of Child Restraint Systems This appendix A-1
-  applies to not less than 40 percent of a manufacturer''s vehicles manufactured on
-  or after September 1, 2025, and before September 1, 2026, as specified in S14.8
-  of this standard. This appendix applies to all vehicles manufactured on or after
-  September 1, 2026. A. The following car bed, manufactured on or after [ Date of
-  publication of final rule ], may be used by the National Highway Traffic Safety
-  Administration to test the suppression system of a vehicle that has been certified
-  as being in compliance with S19 of this standard: Subpart A—Car Bed Child Restraints
-  of Appendix A-1 Safety 1st Dreamride with LATCH #IC238xxx. B. Any of the following
-  rear-facing child restraint systems specified in the table below, manufactured on
-  or after August 22, 2024, may be used by the National Highway Traffic Safety Administration
-  to test the suppression or low risk deployment (LRD) system of a vehicle that has
-  been certified as being in compliance with S19 of this standard. When the restraint
-  system comes equipped with a removable base, the test may be run either with the
-  base attached or without the base. Subpart B—Rear-Facing Child Restraints of Appendix
-  A-1 Evenflo Litemax #305xxxxx. Chicco Keyfit 30 #04061472xxxxxx. Doona Car Seat
-  & Stroller. Nuna Pipa RX with Pipa RELX base. Cybex Cloud Q with SensorSafe. Evenflo
-  NurtureMax #364xxxxx. C. Any of the following forward-facing child restraint systems,
-  and forward-facing child restraint systems that also convert to rear-facing, manufactured
-  on or after August 22, 2024, may be used by the National Highway Traffic Safety
-  Administration to test the suppression or LRD system of a vehicle that has been
-  certified as being in compliance with S19 or S21 of this standard. ( Note: Any child
-  restraint listed in this subpart that does not have manufacturer instructions for
-  using it in a rear-facing position is excluded from use in testing in a belted rear-facing
-  configuration under S20.2.1.1(a) and S20.4.2 of this standard): Subpart C—Forward-Facing
-  and Convertible Child Restraints of Appendix A-1 Britax Poplar #E1C93xx. Cosco Scenera
-  Next #CC123xxx. Graco 4Ever DLX. Nuna Rava #CS05116CVR. Graco Contender Slim. Cybex
-  Eternis S with SensorSafe. Safety 1st Grow and Go #CC138xxx. Evenflo Chase Plus
-  #307xxxxx. Cosco Finale #BC110xxx. Chicco MyFit #04079783—0070. D. Any of the following
-  forward-facing child restraint systems and belt positioning seats, manufactured
-  on or after August 22, 2024, may be used by the National Highway Traffic Safety
-  Administration as test devices to test the suppression system of a vehicle that
-  has been certified as being in compliance with S21 or S23 of this standard: Subpart
-  D—Forward-Facing Child Restraints and Belt Positioning Seats of Appendix A-1 Chicco
-  MyFit #04079783—0070. Cybex Eternis S with SensorSafe. Safety 1st Grow and Go #CC138xxx.
-  Evenflo Chase Plus #307xxxxx. Cosco Finale #BC110xxx. Cosco Rise #BC126xxx. Graco
-  TurboBooster Backless Booster Seat. Britax Grow with You ClickTight #E1C19xx. Figure
-  A1 to Appendix A and Appendix A-1 to § 571.208: Loading Bar Foot Detail Figure A2
-  to Appendix A and Appendix A-1 to § 571.208: Loading Bar Installation
-
-  [36 FR 22902, Dec. 2, 1971]
-
-  Editorial Note: For Federal Register citations affecting § 571.208, see the List
-  of CFR Sections Affected, which appears in the Finding Aids section of the printed
-  volume and at www.govinfo.gov.'
+attachment_bucket: null
+attachment_section: null
+basis: (b) Notwithstanding any language to the contrary, any vehicle manufactured
+  after March 19, 1997, and before September 1, 2006, that is subject to a dynamic
+  crash test requirement conducted with unbelted dummies may meet the requirements
+  specified in S5.1.2(a)(1), S5.1.2(a)(2), or S13 instead of the applicable unbelted
+  requirement, unless the vehicle is certified to meet the requirements specified
+  in S14.5, S15, S17, S19, S21, S23, and S25.
 browse_buckets:
-- rear_impact
-- child_restraints
-- seat_systems
+- occupant_restraints
 clause_path: b
+comparison_key: 4f1ba8e888ad785f857e809ff669382091432e42
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
-- child_occupant_protection
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-208-b
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
 phase: in_crash
-primary_topic: provide-nhtsa-with
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: (b)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics:
-- airbags
+row_group_id: null
+secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-208 / b
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
-statement: (b) Provide NHTSA with a method to assure that the same test results would
-  be obtained if the air bag were not deactivated.
+statement: (b) Notwithstanding any language to the contrary, any vehicle manufactured
+  after March 19, 1997, and before September 1, 2006, that is subject to a dynamic
+  crash test requirement conducted with unbelted dummies may meet the requirements
+  specified in S5.1.2(a)(1), S5.1.2(a)(2), or S13 instead of the applicable unbelted
+  requirement, unless the vehicle is certified to meet the requirements specified
+  in S14.5, S15, S17, S19, S21, S23, and S25.
 status: draft
+subject: null
 summary: Regulation unit `b` from xml_fmvss-571-208.
-title: (b) Provide NHTSA with a method to assure that the same test results would
-  be obtained if the air bag were not deactivat
+title: (b) Notwithstanding any language to the contrary, any vehicle manufactured
+  after March 19, 1997, and before September 1,
 updated: '2026-04-13'
 ---
 
-# (b) Provide NHTSA with a method to assure that the same test results would be obtained if the air bag were not deactivat
+# (b) Notwithstanding any language to the contrary, any vehicle manufactured after March 19, 1997, and before September 1,
 
 ## Statement
-(b) Provide NHTSA with a method to assure that the same test results would be obtained if the air bag were not deactivated.
+(b) Notwithstanding any language to the contrary, any vehicle manufactured after March 19, 1997, and before September 1, 2006, that is subject to a dynamic crash test requirement conducted with unbelted dummies may meet the requirements specified in S5.1.2(a)(1), S5.1.2(a)(2), or S13 instead of the applicable unbelted requirement, unless the vehicle is certified to meet the requirements specified in S14.5, S15, S17, S19, S21, S23, and S25.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: in_crash
-- functional_domain: child_occupant_protection
-- primary_topic: provide-nhtsa-with
-- secondary_topics: airbags
-- browse_buckets: rear_impact, child_restraints, seat_systems
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: frontal_impact
+- secondary_topics: n/a
+- browse_buckets: occupant_restraints
 - legacy_domain: passive_crash
 
 ## Basis
-(b) Provide NHTSA with a method to assure that the same test results would be obtained if the air bag were not deactivated.
-Figures to § 571.208
-Figure 1. [Reserved]
-Appendix A to § 571.208—Selection of Child Restraint Systems This appendix A applies to vehicles manufactured before September 1, 2025, and to not more than 60 percent of a manufacturer's vehicles manufactured on or after September 1, 2025, and before September 1, 2026, as specified in S14.8 of this standard. This appendix does not apply to vehicles manufactured on or after September 1, 2026. A. The following car bed, manufactured on or after the date listed, may be used by the National Highway Traffic Safety Administration to test the suppression system of a vehicle that has been certified as being in compliance with 49 CFR 571.208 S19: Subpart A—Car Bed Child Restraints of Appendix A Manufactured on or after Angel Guard Angel Ride XX2403XXX September 25, 2007. B. Any of the following rear-facing child restraint systems specified in the table in subpart B of this appendix, manufactured on or after the date listed, may be used by the National Highway Traffic Safety Administration to test the suppression or low risk deployment (LRD) system of a vehicle that has been certified as being in compliance with S19 of this standard. When the restraint system comes equipped with a removable base, the test may be run either with the base attached or without the base. Subpart B—Rear-Facing Child Restraints of Appendix A Manufactured on or after Century Smart Fit 4543 December 1, 1999. Cosco Arriva 22-013 PAW and base 22-999 WHO September 25, 2007. Evenflo Discovery Adjust Right 212 December 1, 1999. Graco Infant 8457 December 1, 1999. Graco Snugride September 25, 2007. Peg Perego Primo Viaggio SIP IMUN00US September 25, 2007. C. Any of the following forward-facing child restraint systems, and forward-facing child restraint systems that also convert to rear-facing, manufactured on or after the date listed, may be used by the National Highway Traffic Safety Administration to test the suppression or LRD system of a vehicle that has been certified as being in compliance with S19 or S21 of this standard. (Note: Any child restraint listed in this subpart that does not have manufacturer instructions for using it in a rear-facing position is excluded from use in testing in a belted rear-facing configuration under S20.2.1.1(a) and S20.4.2 of this standard): Subpart C—Forward-Facing and Convertible Child Restraints of Appendix A Manufactured on or after Britax Roundabout E9L02xx September 25, 2007. Graco ComfortSport September 25, 2007. Cosco Touriva 02519 December 1, 1999. Evenflo Tribute V 379xxxx or Evenflo Tribute 381xxxx September 25, 2007. Evenflo Medallion 254 December 1, 1999. Cosco Summit Deluxe High Back Booster 22-262 September 25, 2007. Evenflo Generations 352xxxx September 25, 2007. Graco Toddler SafeSeat Step 2 September 25, 2007. Graco Platinum Cargo September 25, 2007. Cosco High Back Booster 22-209 September 25, 2007. D. Any of the following forward-facing child restraint systems and belt positioning seats, manufactured on or after the date listed, may be used by the National Highway Traffic Safety Administration as test devices to test the suppression system of a vehicle that has been certified as being in compliance with S21 or S23 of this standard: Subpart D—Forward-Facing Child Restraints and Belt Positioning Seats of Appendix A Manufactured on or after Britax Roadster 9004 December 1, 1999. Graco Platinum Cargo September 25, 2007. Cosco High Back Booster 22-209 September 25, 2007. Evenflo Right Fit 245 December 1, 1999. Evenflo Generations 352xxxx September 25, 2007. Cosco Summit Deluxe High Back Booster 22-262 September 25, 2007.
-Appendix A-1 to § 571.208—Selection of Child Restraint Systems This appendix A-1 applies to not less than 40 percent of a manufacturer's vehicles manufactured on or after September 1, 2025, and before September 1, 2026, as specified in S14.8 of this standard. This appendix applies to all vehicles manufactured on or after September 1, 2026. A. The following car bed, manufactured on or after [ Date of publication of final rule ], may be used by the National Highway Traffic Safety Administration to test the suppression system of a vehicle that has been certified as being in compliance with S19 of this standard: Subpart A—Car Bed Child Restraints of Appendix A-1 Safety 1st Dreamride with LATCH #IC238xxx. B. Any of the following rear-facing child restraint systems specified in the table below, manufactured on or after August 22, 2024, may be used by the National Highway Traffic Safety Administration to test the suppression or low risk deployment (LRD) system of a vehicle that has been certified as being in compliance with S19 of this standard. When the restraint system comes equipped with a removable base, the test may be run either with the base attached or without the base. Subpart B—Rear-Facing Child Restraints of Appendix A-1 Evenflo Litemax #305xxxxx. Chicco Keyfit 30 #04061472xxxxxx. Doona Car Seat & Stroller. Nuna Pipa RX with Pipa RELX base. Cybex Cloud Q with SensorSafe. Evenflo NurtureMax #364xxxxx. C. Any of the following forward-facing child restraint systems, and forward-facing child restraint systems that also convert to rear-facing, manufactured on or after August 22, 2024, may be used by the National Highway Traffic Safety Administration to test the suppression or LRD system of a vehicle that has been certified as being in compliance with S19 or S21 of this standard. ( Note: Any child restraint listed in this subpart that does not have manufacturer instructions for using it in a rear-facing position is excluded from use in testing in a belted rear-facing configuration under S20.2.1.1(a) and S20.4.2 of this standard): Subpart C—Forward-Facing and Convertible Child Restraints of Appendix A-1 Britax Poplar #E1C93xx. Cosco Scenera Next #CC123xxx. Graco 4Ever DLX. Nuna Rava #CS05116CVR. Graco Contender Slim. Cybex Eternis S with SensorSafe. Safety 1st Grow and Go #CC138xxx. Evenflo Chase Plus #307xxxxx. Cosco Finale #BC110xxx. Chicco MyFit #04079783—0070. D. Any of the following forward-facing child restraint systems and belt positioning seats, manufactured on or after August 22, 2024, may be used by the National Highway Traffic Safety Administration as test devices to test the suppression system of a vehicle that has been certified as being in compliance with S21 or S23 of this standard: Subpart D—Forward-Facing Child Restraints and Belt Positioning Seats of Appendix A-1 Chicco MyFit #04079783—0070. Cybex Eternis S with SensorSafe. Safety 1st Grow and Go #CC138xxx. Evenflo Chase Plus #307xxxxx. Cosco Finale #BC110xxx. Cosco Rise #BC126xxx. Graco TurboBooster Backless Booster Seat. Britax Grow with You ClickTight #E1C19xx. Figure A1 to Appendix A and Appendix A-1 to § 571.208: Loading Bar Foot Detail Figure A2 to Appendix A and Appendix A-1 to § 571.208: Loading Bar Installation
-[36 FR 22902, Dec. 2, 1971]
-Editorial Note: For Federal Register citations affecting § 571.208, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+(b) Notwithstanding any language to the contrary, any vehicle manufactured after March 19, 1997, and before September 1, 2006, that is subject to a dynamic crash test requirement conducted with unbelted dummies may meet the requirements specified in S5.1.2(a)(1), S5.1.2(a)(2), or S13 instead of the applicable unbelted requirement, unless the vehicle is certified to meet the requirements specified in S14.5, S15, S17, S19, S21, S23, and S25.
 
 ## Authority
 - clause_path: b
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / b
 - source_url: n/a
 - confidence: medium
 

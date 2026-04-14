@@ -1,47 +1,64 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S3. Application. This standard applies to motor vehicles with a gross vehicle
   weight rating (GVWR) of more than 4,536 kilograms (10,000 pounds and motorcycles,
   to rims for use on those vehicles, and to non-pneumatic spare tire assemblies for
   use on those vehicles.
 browse_buckets: []
 clause_path: s3
+comparison_key: 2932366afde930ea6ff517fdac08288879e0bbc0
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-120
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-120-s3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.120 Tire selection and rims and motor home/recreation vehicle
+  trailer load carrying capacity information for motor vehicles with a GVWR of more
+  than 4,536 kilograms (10,000 pounds).
 phase: cross_phase
-primary_topic: application-this-standard
+primary_topic: s3-application-this-standard-applies-to-motor-vehicles-with-a-gross-vehicle-weig
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.120.xml
   source_hashes:
     raw/collections/xml_fmvss/571.120.xml: a930b83ac156735aebca4ae1bf7d5ea742717f0b1f2655c89359eb38c89382ef
   source_url: null
+raw_marker: S3
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-120 / s3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.120.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.120.xml: a930b83ac156735aebca4ae1bf7d5ea742717f0b1f2655c89359eb38c89382ef
 source_url: null
 statement: S3. Application. This standard applies to motor vehicles with a gross vehicle
   weight rating (GVWR) of more than 4,536 kilograms (10,000 pounds and motorcycles,
   to rims for use on those vehicles, and to non-pneumatic spare tire assemblies for
   use on those vehicles.
 status: draft
+subject: null
 summary: Regulation unit `s3` from xml_fmvss-571-120.
 title: S3. Application. This standard applies to motor vehicles with a gross vehicle
   weight rating (GVWR) of more than 4,536 ki
@@ -59,7 +76,7 @@ S3. Application. This standard applies to motor vehicles with a gross vehicle we
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: application-this-standard
+- primary_topic: s3-application-this-standard-applies-to-motor-vehicles-with-a-gross-vehicle-weig
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -70,6 +87,7 @@ S3. Application. This standard applies to motor vehicles with a gross vehicle we
 ## Authority
 - clause_path: s3
 - source_file: raw/collections/xml_fmvss/571.120.xml
+- source_citation: xml_fmvss-571-120 / s3
 - source_url: n/a
 - confidence: medium
 

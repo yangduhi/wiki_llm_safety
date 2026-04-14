@@ -1,0 +1,95 @@
+---
+aliases: []
+attachment_bucket: short_value_rows
+attachment_section: 저속전기자동차 특례기준(제114조제11항 관련)
+basis: '5) 표지는 해당 자동차가 주행 중 뒤쪽 자동차의 운전자가 용이하게
+
+  볼 수 있는 적절한 높이의 위치(차실 내 운전자가 주행 중 후방시계
+
+  확보에 지장이 없는 위치)에 쉽게 떨어지지 않도록 부착할 것'
+browse_buckets: []
+clause_path: 5-285
+comparison_key: ccc6f63d3724bbbe2d7724fa14ac1fdb19ac315b
+confidence: medium
+created: '2026-04-13'
+document_id: xml_kmvss-kmvss_att_0034_147
+document_kind: attachment
+effective_date: null
+functional_domain:
+- other_or_review
+id: regunit-xml_kmvss-kmvss_att_0034_147-5-285
+inherits_section_context: true
+inherits_subject_context: true
+is_attachment: true
+is_table_like_row: false
+jurisdiction: KR
+legacy_domain: needs_review
+line_index_end: 289
+line_index_start: 285
+note_type: regulation_unit
+page_end: null
+page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: 5) 표지는 해당 자동차가 주행 중 뒤쪽 자동차의 운전자가 용이하게
+phase: non_phase_admin
+primary_topic: administrative_exception
+provenance:
+  parser_run_id: 20260414T051134Z__dc745dc5
+  source_files:
+  - raw/collections/xml_kmvss/KMVSS_Att_0034_147.xml
+  source_hashes:
+    raw/collections/xml_kmvss/KMVSS_Att_0034_147.xml: 2d0d2773a5db77381a2da392b95bbc4f7e2181ba73a0400f51e141f531570765
+  source_url: null
+raw_marker: 5-285
+record_layer: knowledge
+reference_articles:
+- 제114조제11항
+regulatory_layer: technical_requirement
+review_required: true
+row_group_id: group-31
+secondary_topics:
+- special_exception
+sectno: 별표 0034
+source_citation: xml_kmvss-kmvss_att_0034_147 / 5-285
+source_collection: xml_kmvss
+source_url: null
+statement: 5) 표지는 해당 자동차가 주행 중 뒤쪽 자동차의 운전자가 용이하게
+status: draft
+subject: 저속전기자동차 특례기준(제114조제11항 관련)
+summary: Regulation unit `5-285` from xml_kmvss-kmvss_att_0034_147.
+title: 5) 표지는 해당 자동차가 주행 중 뒤쪽 자동차의 운전자가 용이하게
+updated: '2026-04-13'
+---
+
+# 5) 표지는 해당 자동차가 주행 중 뒤쪽 자동차의 운전자가 용이하게
+
+## Statement
+5) 표지는 해당 자동차가 주행 중 뒤쪽 자동차의 운전자가 용이하게
+
+## Classification
+- jurisdiction: KR
+- source_collection: xml_kmvss
+- regulatory_layer: technical_requirement
+- phase: non_phase_admin
+- functional_domain: other_or_review
+- primary_topic: administrative_exception
+- secondary_topics: special_exception
+- browse_buckets: n/a
+- legacy_domain: needs_review
+
+## Basis
+5) 표지는 해당 자동차가 주행 중 뒤쪽 자동차의 운전자가 용이하게
+볼 수 있는 적절한 높이의 위치(차실 내 운전자가 주행 중 후방시계
+확보에 지장이 없는 위치)에 쉽게 떨어지지 않도록 부착할 것
+
+## Authority
+- clause_path: 5-285
+- source_file: raw/collections/xml_kmvss/KMVSS_Att_0034_147.xml
+- source_citation: xml_kmvss-kmvss_att_0034_147 / 5-285
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_kmvss-kmvss_att_0034_147]]
+- [[jurisdictions/jurisdiction-kr]]

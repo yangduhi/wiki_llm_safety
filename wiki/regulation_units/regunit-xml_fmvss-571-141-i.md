@@ -1,75 +1,74 @@
 ---
 aliases: []
-basis: '(i) Select the two one-third octave bands, one below 1000 Hz and one at or
-  above 1000 Hz, having the largest A-weighted SPL values within the range of 315
-  Hz up to 3150 Hz and that are non-adjacent to each other to evaluate according to
-  S7.3.5(e)(ii), below. In the event that the pair of bands with the largest SPL values
-  are the 800 Hz and 1000 Hz bands, then select both of the following pairs to evaluate
-  according S7.3.5(e)(ii): The 800 Hz band along with the band having the second-largest
-  A-weighted SPL value from the 1000 Hz and above bands; and, the 1000 Hz band along
-  with the band having the second-largest A-weighted SPL value from the 800 Hz and
-  below bands. At least one of the band pairs selected as specified in this paragraph
-  shall meet the minimum requirements when evaluated according to S7.3.5(e)(ii), below.
+attachment_bucket: null
+attachment_section: null
+basis: '(i) In the case of a vehicle with an automatic transmission, the vehicle''s
+  gear selector is in Neutral or any gear position other than Park that provides forward
+  vehicle propulsion;
 
-  (ii) Compare the average corrected sound pressure level from S7.3.5(c) in each of
-  the two one-third octave bands selected in paragraph S7.3.5(e)(i) to the required
-  minimum level of the corresponding one-third octave band specified in paragraph
-  S5.2, Table 6. Also, compare the band sum of the two bands to the required minimum
-  band sum in Table 6.'
+  (iii) in the case of a vehicle with a manual transmission, the vehicle''s parking
+  brake is released and the gear selector is not in Reverse.'
 browse_buckets: []
 clause_path: i
+comparison_key: 18ce133a0796e1b8913f8faed52d6a15a2a281a7
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-141
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-141-i
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.141 Standard No. 141; Minimum Sound Requirements for Hybrid and
+  Electric Vehicles.
 phase: cross_phase
-primary_topic: select-third-octave
+primary_topic: i-in-the-case-of-a-vehicle-with-an-automatic-transmission-the-vehicle-s-gear-sel
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.141.xml
   source_hashes:
     raw/collections/xml_fmvss/571.141.xml: b81e399b4d036d5d89bfa9bf46476e304c17132dcb803dc56927b3eda115b479
   source_url: null
+raw_marker: (i)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-141 / i
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.141.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.141.xml: b81e399b4d036d5d89bfa9bf46476e304c17132dcb803dc56927b3eda115b479
 source_url: null
-statement: '(i) Select the two one-third octave bands, one below 1000 Hz and one at
-  or above 1000 Hz, having the largest A-weighted SPL values within the range of 315
-  Hz up to 3150 Hz and that are non-adjacent to each other to evaluate according to
-  S7.3.5(e)(ii), below. In the event that the pair of bands with the largest SPL values
-  are the 800 Hz and 1000 Hz bands, then select both of the following pairs to evaluate
-  according S7.3.5(e)(ii): The 800 Hz band along with the band having the second-largest
-  A-weighted SPL value from the 1000 Hz and above bands; and, the 1000 Hz band along
-  with the band having the second-largest A-weighted SPL value from the 800 Hz and
-  below bands. At least one of the band pairs selected as specified in this paragraph
-  shall meet the minimum requirements when evaluated according to S7.3.5(e)(ii), below.'
+statement: (i) In the case of a vehicle with an automatic transmission, the vehicle's
+  gear selector is in Neutral or any gear position other than Park that provides forward
+  vehicle propulsion;
 status: draft
+subject: null
 summary: Regulation unit `i` from xml_fmvss-571-141.
-title: '(i) Select the two one-third octave bands, one below 1000 Hz and one at or
-  above 1000 Hz, having the largest A-weighted '
+title: (i) In the case of a vehicle with an automatic transmission, the vehicle's
+  gear selector is in Neutral or any gear posit
 updated: '2026-04-13'
 ---
 
-# (i) Select the two one-third octave bands, one below 1000 Hz and one at or above 1000 Hz, having the largest A-weighted 
+# (i) In the case of a vehicle with an automatic transmission, the vehicle's gear selector is in Neutral or any gear posit
 
 ## Statement
-(i) Select the two one-third octave bands, one below 1000 Hz and one at or above 1000 Hz, having the largest A-weighted SPL values within the range of 315 Hz up to 3150 Hz and that are non-adjacent to each other to evaluate according to S7.3.5(e)(ii), below. In the event that the pair of bands with the largest SPL values are the 800 Hz and 1000 Hz bands, then select both of the following pairs to evaluate according S7.3.5(e)(ii): The 800 Hz band along with the band having the second-largest A-weighted SPL value from the 1000 Hz and above bands; and, the 1000 Hz band along with the band having the second-largest A-weighted SPL value from the 800 Hz and below bands. At least one of the band pairs selected as specified in this paragraph shall meet the minimum requirements when evaluated according to S7.3.5(e)(ii), below.
+(i) In the case of a vehicle with an automatic transmission, the vehicle's gear selector is in Neutral or any gear position other than Park that provides forward vehicle propulsion;
 
 ## Classification
 - jurisdiction: US
@@ -77,18 +76,19 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: select-third-octave
+- primary_topic: i-in-the-case-of-a-vehicle-with-an-automatic-transmission-the-vehicle-s-gear-sel
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(i) Select the two one-third octave bands, one below 1000 Hz and one at or above 1000 Hz, having the largest A-weighted SPL values within the range of 315 Hz up to 3150 Hz and that are non-adjacent to each other to evaluate according to S7.3.5(e)(ii), below. In the event that the pair of bands with the largest SPL values are the 800 Hz and 1000 Hz bands, then select both of the following pairs to evaluate according S7.3.5(e)(ii): The 800 Hz band along with the band having the second-largest A-weighted SPL value from the 1000 Hz and above bands; and, the 1000 Hz band along with the band having the second-largest A-weighted SPL value from the 800 Hz and below bands. At least one of the band pairs selected as specified in this paragraph shall meet the minimum requirements when evaluated according to S7.3.5(e)(ii), below.
-(ii) Compare the average corrected sound pressure level from S7.3.5(c) in each of the two one-third octave bands selected in paragraph S7.3.5(e)(i) to the required minimum level of the corresponding one-third octave band specified in paragraph S5.2, Table 6. Also, compare the band sum of the two bands to the required minimum band sum in Table 6.
+(i) In the case of a vehicle with an automatic transmission, the vehicle's gear selector is in Neutral or any gear position other than Park that provides forward vehicle propulsion;
+(iii) in the case of a vehicle with a manual transmission, the vehicle's parking brake is released and the gear selector is not in Reverse.
 
 ## Authority
 - clause_path: i
 - source_file: raw/collections/xml_fmvss/571.141.xml
+- source_citation: xml_fmvss-571-141 / i
 - source_url: n/a
 - confidence: medium
 

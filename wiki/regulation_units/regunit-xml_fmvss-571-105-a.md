@@ -1,53 +1,68 @@
 ---
 aliases: []
-basis: (a) The service brake system for detachment or fracture of any components,
-  such as brake springs and brake shoes or disc pad facing.
+attachment_bucket: null
+attachment_section: null
+basis: (a) For vehicles with a GVWR of 10,000 lbs. or less, unloaded vehicle weight
+  plus 400 lbs. (including driver and instrumentation);
 browse_buckets: []
 clause_path: a
+comparison_key: f7bf21a1e9856ab65e22c62faf47407e6c027ddf
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-105
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-105-a
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.105 Standard No. 105; Hydraulic and electric brake systems.
 phase: cross_phase
-primary_topic: service-brake-system
+primary_topic: a-for-vehicles-with-a-gvwr-of-10-000-lbs-or-less-unloaded-vehicle-weight-plus-40
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.105.xml
   source_hashes:
     raw/collections/xml_fmvss/571.105.xml: 624b2aa080e310d3d805c34b311d60726267496c1ea71903dc6fca78d1b2e23f
   source_url: null
+raw_marker: (a)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-105 / a
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.105.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.105.xml: 624b2aa080e310d3d805c34b311d60726267496c1ea71903dc6fca78d1b2e23f
 source_url: null
-statement: (a) The service brake system for detachment or fracture of any components,
-  such as brake springs and brake shoes or disc pad facing.
+statement: (a) For vehicles with a GVWR of 10,000 lbs. or less, unloaded vehicle weight
+  plus 400 lbs. (including driver and instrumentation);
 status: draft
+subject: null
 summary: Regulation unit `a` from xml_fmvss-571-105.
-title: (a) The service brake system for detachment or fracture of any components,
-  such as brake springs and brake shoes or disc
+title: (a) For vehicles with a GVWR of 10,000 lbs. or less, unloaded vehicle weight
+  plus 400 lbs. (including driver and instrum
 updated: '2026-04-13'
 ---
 
-# (a) The service brake system for detachment or fracture of any components, such as brake springs and brake shoes or disc
+# (a) For vehicles with a GVWR of 10,000 lbs. or less, unloaded vehicle weight plus 400 lbs. (including driver and instrum
 
 ## Statement
-(a) The service brake system for detachment or fracture of any components, such as brake springs and brake shoes or disc pad facing.
+(a) For vehicles with a GVWR of 10,000 lbs. or less, unloaded vehicle weight plus 400 lbs. (including driver and instrumentation);
 
 ## Classification
 - jurisdiction: US
@@ -55,17 +70,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: service-brake-system
+- primary_topic: a-for-vehicles-with-a-gvwr-of-10-000-lbs-or-less-unloaded-vehicle-weight-plus-40
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(a) The service brake system for detachment or fracture of any components, such as brake springs and brake shoes or disc pad facing.
+(a) For vehicles with a GVWR of 10,000 lbs. or less, unloaded vehicle weight plus 400 lbs. (including driver and instrumentation);
 
 ## Authority
 - clause_path: a
 - source_file: raw/collections/xml_fmvss/571.105.xml
+- source_citation: xml_fmvss-571-105 / a
 - source_url: n/a
 - confidence: medium
 

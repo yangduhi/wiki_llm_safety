@@ -1,49 +1,64 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: (1) For a passenger car equipped with a heating system other than a heat exchanger
   type that uses the engine's coolant as a means to supply the heat to the heat exchanger,
-  the procedure shall be that specified by the vehicle's manufacturer for cold weather
+  the warm-up procedure is that specified by the vehicle's manufacturer for cold weather
   starting, except that connection to a power or heat source external to the vehicle
   is not permitted.
 browse_buckets: []
 clause_path: '1'
+comparison_key: 7a95732372d657cd5c8f592599f85fa4dc5170c9
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-103
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- visibility_glazing_and_driver_information
 id: regunit-xml_fmvss-571-103-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.103 Standard No. 103; Windshield defrosting and defogging systems.
 phase: cross_phase
-primary_topic: passenger-equipped-with
+primary_topic: glazing_visibility
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.103.xml
   source_hashes:
     raw/collections/xml_fmvss/571.103.xml: a1d33f11bfc2a1df85de050fb6ab0555aa334afd8ff880759a903c1b0641817b
   source_url: null
+raw_marker: (1)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-103 / 1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.103.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.103.xml: a1d33f11bfc2a1df85de050fb6ab0555aa334afd8ff880759a903c1b0641817b
 source_url: null
 statement: (1) For a passenger car equipped with a heating system other than a heat
   exchanger type that uses the engine's coolant as a means to supply the heat to the
-  heat exchanger, the procedure shall be that specified by the vehicle's manufacturer
+  heat exchanger, the warm-up procedure is that specified by the vehicle's manufacturer
   for cold weather starting, except that connection to a power or heat source external
   to the vehicle is not permitted.
 status: draft
+subject: null
 summary: Regulation unit `1` from xml_fmvss-571-103.
 title: (1) For a passenger car equipped with a heating system other than a heat exchanger
   type that uses the engine's coolant a
@@ -53,25 +68,26 @@ updated: '2026-04-13'
 # (1) For a passenger car equipped with a heating system other than a heat exchanger type that uses the engine's coolant a
 
 ## Statement
-(1) For a passenger car equipped with a heating system other than a heat exchanger type that uses the engine's coolant as a means to supply the heat to the heat exchanger, the procedure shall be that specified by the vehicle's manufacturer for cold weather starting, except that connection to a power or heat source external to the vehicle is not permitted.
+(1) For a passenger car equipped with a heating system other than a heat exchanger type that uses the engine's coolant as a means to supply the heat to the heat exchanger, the warm-up procedure is that specified by the vehicle's manufacturer for cold weather starting, except that connection to a power or heat source external to the vehicle is not permitted.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: passenger-equipped-with
+- functional_domain: visibility_glazing_and_driver_information
+- primary_topic: glazing_visibility
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(1) For a passenger car equipped with a heating system other than a heat exchanger type that uses the engine's coolant as a means to supply the heat to the heat exchanger, the procedure shall be that specified by the vehicle's manufacturer for cold weather starting, except that connection to a power or heat source external to the vehicle is not permitted.
+(1) For a passenger car equipped with a heating system other than a heat exchanger type that uses the engine's coolant as a means to supply the heat to the heat exchanger, the warm-up procedure is that specified by the vehicle's manufacturer for cold weather starting, except that connection to a power or heat source external to the vehicle is not permitted.
 
 ## Authority
 - clause_path: 1
 - source_file: raw/collections/xml_fmvss/571.103.xml
+- source_citation: xml_fmvss-571-103 / 1
 - source_url: n/a
 - confidence: medium
 

@@ -1,0 +1,21 @@
+document_id,subject,before_lane,after_lane,before_promotion_status,after_promotion_status,before_cross,after_cross,before_other,after_other,before_total,after_total
+xml_kmvss-kmvss_art_2_002,정의,intentional_other_or_review,stable_retain,,stable_retain,0,0,83,83,83,83
+xml_kmvss-kmvss_art_34_048,창유리 등,intentional_cross_phase,stable_retain,,stable_retain,18,18,0,0,18,18
+xml_kmvss-kmvss_art_114_189,기준적용의 특례,intentional_other_or_review,stable_retain,,stable_retain,0,0,13,13,13,13
+xml_kmvss-kmvss_art_32_046,물품적재장치,intentional_other_or_review,temporary_retain,,temporary_retain,0,0,11,11,11,11
+xml_kmvss-kmvss_art_105_158,창유리의 안전성 등,intentional_cross_phase,stable_retain,,stable_retain,10,10,0,0,10,10
+xml_kmvss-kmvss_art_113_188,승차정원 및 최대적재량,intentional_other_or_review,temporary_retain,,temporary_retain,5,5,5,5,5,5
+xml_kmvss-kmvss_art_28_042,입석,intentional_other_or_review,temporary_retain,,temporary_retain,5,5,5,5,5,5
+xml_kmvss-kmvss_art_18_028,사이버보안,mixed_or_ambiguous_keep_for_review,mixed_keep_review,,mixed_keep_review,0,0,9,9,9,9
+xml_kmvss-kmvss_art_18_029,소프트웨어,mixed_or_ambiguous_keep_for_review,mixed_keep_review,,mixed_keep_review,0,0,9,9,9,9
+xml_kmvss-kmvss_art_4_007,길이ㆍ너비 및 높이,umbrella_adjudication_candidate,secondary_umbrella_keep_review,,temporary_retain,0,0,8,10,10,10
+xml_kmvss-kmvss_art_6_009,차량총중량등,umbrella_adjudication_candidate,secondary_umbrella_needs_policy_decision,,needs_policy_decision,4,4,4,4,4,4
+xml_kmvss-kmvss_art_108_162,에너지소비효율,umbrella_adjudication_candidate,secondary_umbrella_needs_policy_decision,,needs_policy_decision,3,3,3,3,3,3
+xml_kmvss-kmvss_art_108_163,1회 충전 후 주행가능거리,umbrella_adjudication_candidate,secondary_umbrella_needs_policy_decision,,needs_policy_decision,3,3,3,3,3,3
+xml_kmvss-kmvss_art_16_023,완충장치,umbrella_adjudication_candidate,promotion_candidate,,promotion_candidate,3,3,3,3,3,3
+xml_kmvss-kmvss_art_38_055,주간주행등,umbrella_adjudication_candidate,secondary_umbrella_promotable,,promotion_candidate,3,0,3,0,4,4
+xml_kmvss-kmvss_art_38_056,코너링조명등,umbrella_adjudication_candidate,promotion_candidate,,promotion_candidate,3,3,3,3,4,4
+xml_kmvss-kmvss_art_39_057,후퇴등,umbrella_adjudication_candidate,secondary_umbrella_promotable,,promotion_candidate,3,0,3,0,4,4
+xml_kmvss-kmvss_art_40_059,차폭등,umbrella_adjudication_candidate,secondary_umbrella_promotable,,promotion_candidate,3,0,3,0,4,4
+xml_kmvss-kmvss_art_45_068,후방추돌경고등,umbrella_adjudication_candidate,secondary_umbrella_promotable,,promotion_candidate,3,0,3,0,3,3
+xml_kmvss-kmvss_art_53_076,경음기,umbrella_adjudication_candidate,promotion_candidate,,promotion_candidate,3,3,3,3,3,3

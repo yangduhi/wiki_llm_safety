@@ -1,56 +1,78 @@
 ---
 aliases: []
-basis: (a) Target SB1. Target SB1 is located at any point on the seat belt anchorage
-  mounted on the seat belt mounting structure.
+attachment_bucket: null
+attachment_section: null
+basis: (a) A vehicle body or frame component, including trim, that incorporates an
+  upper seat belt anchorage conforming to the requirements of S4.2.1 and S4.3.2 of
+  49 CFR 571.210, that is located rearward of the rearmost outboard designated seating
+  position, and that extends above a horizontal plane 660 mm above the seating reference
+  point (SgRP) of that seating position; and
 browse_buckets:
+- rear_impact
 - occupant_restraints
 - seat_systems
 clause_path: a
+comparison_key: a1bcb4f9dff2fc2ef1c8f2755649e04f7ca0b28e
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-201
+document_kind: null
 effective_date: null
 functional_domain:
 - occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-201-a
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.201 Standard No. 201; Occupant protection in interior impact.
 phase: in_crash
-primary_topic: target-target-located
+primary_topic: a-a-vehicle-body-or-frame-component-including-trim-that-incorporates-an-upper-se
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.201.xml
   source_hashes:
     raw/collections/xml_fmvss/571.201.xml: 3d6892280e12b52cee800b97b7828f6f5913b18fb5f64dc19f61210284212ac8
   source_url: null
+raw_marker: (a)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - seat_belts
+sectno: null
+source_citation: xml_fmvss-571-201 / a
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.201.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.201.xml: 3d6892280e12b52cee800b97b7828f6f5913b18fb5f64dc19f61210284212ac8
 source_url: null
-statement: (a) Target SB1. Target SB1 is located at any point on the seat belt anchorage
-  mounted on the seat belt mounting structure.
+statement: (a) A vehicle body or frame component, including trim, that incorporates
+  an upper seat belt anchorage conforming to the requirements of S4.2.1 and S4.3.2
+  of 49 CFR 571.210, that is located rearward of the rearmost outboard designated
+  seating position, and that extends above a horizontal plane 660 mm above the seating
+  reference point (SgRP) of that seating position; and
 status: draft
+subject: null
 summary: Regulation unit `a` from xml_fmvss-571-201.
-title: (a) Target SB1. Target SB1 is located at any point on the seat belt anchorage
-  mounted on the seat belt mounting structur
+title: '(a) A vehicle body or frame component, including trim, that incorporates an
+  upper seat belt anchorage conforming to the '
 updated: '2026-04-13'
 ---
 
-# (a) Target SB1. Target SB1 is located at any point on the seat belt anchorage mounted on the seat belt mounting structur
+# (a) A vehicle body or frame component, including trim, that incorporates an upper seat belt anchorage conforming to the 
 
 ## Statement
-(a) Target SB1. Target SB1 is located at any point on the seat belt anchorage mounted on the seat belt mounting structure.
+(a) A vehicle body or frame component, including trim, that incorporates an upper seat belt anchorage conforming to the requirements of S4.2.1 and S4.3.2 of 49 CFR 571.210, that is located rearward of the rearmost outboard designated seating position, and that extends above a horizontal plane 660 mm above the seating reference point (SgRP) of that seating position; and
 
 ## Classification
 - jurisdiction: US
@@ -58,17 +80,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: in_crash
 - functional_domain: occupant_protection_and_restraints
-- primary_topic: target-target-located
+- primary_topic: a-a-vehicle-body-or-frame-component-including-trim-that-incorporates-an-upper-se
 - secondary_topics: seat_belts
-- browse_buckets: occupant_restraints, seat_systems
+- browse_buckets: rear_impact, occupant_restraints, seat_systems
 - legacy_domain: passive_crash
 
 ## Basis
-(a) Target SB1. Target SB1 is located at any point on the seat belt anchorage mounted on the seat belt mounting structure.
+(a) A vehicle body or frame component, including trim, that incorporates an upper seat belt anchorage conforming to the requirements of S4.2.1 and S4.3.2 of 49 CFR 571.210, that is located rearward of the rearmost outboard designated seating position, and that extends above a horizontal plane 660 mm above the seating reference point (SgRP) of that seating position; and
 
 ## Authority
 - clause_path: a
 - source_file: raw/collections/xml_fmvss/571.201.xml
+- source_citation: xml_fmvss-571-201 / a
 - source_url: n/a
 - confidence: medium
 

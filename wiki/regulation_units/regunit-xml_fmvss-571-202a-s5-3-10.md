@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S5.3.10 Calculate the HIC 15 from the output of instrumentation placed in the
   head of the test dummy, using the equation in S4.3.1(b) of this section and conforming
   to the requirements for a 1000 Hz channel class as specified in SAE Recommended
@@ -9,36 +11,49 @@ basis: S5.3.10 Calculate the HIC 15 from the output of instrumentation placed in
 browse_buckets:
 - head_impact
 clause_path: s5-3-10
+comparison_key: 00591ccbd8988b43da971cee8b8cb794e1297216
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-202a
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-202a-s5-3-10
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.202a Standard No. 202a; Head restraints; Mandatory applicability
+  begins on September 1, 2009.
 phase: cross_phase
-primary_topic: calculate-from-output
+primary_topic: s5-3-10-calculate-the-hic-15-from-the-output-of-instrumentation-placed-in-the-he
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.202a.xml
   source_hashes:
     raw/collections/xml_fmvss/571.202a.xml: 5f017f1d67b0a4f98b409243ecb0861e372971e196859137d6987a060c92619b
   source_url: null
+raw_marker: S5.3.10
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-202a / s5-3-10
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.202a.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.202a.xml: 5f017f1d67b0a4f98b409243ecb0861e372971e196859137d6987a060c92619b
 source_url: null
 statement: S5.3.10 Calculate the HIC 15 from the output of instrumentation placed
   in the head of the test dummy, using the equation in S4.3.1(b) of this section and
@@ -47,6 +62,7 @@ statement: S5.3.10 Calculate the HIC 15 from the output of instrumentation place
   after 200 ms from the beginning of the forward acceleration are used in determining
   HIC.
 status: draft
+subject: null
 summary: Regulation unit `s5-3-10` from xml_fmvss-571-202a.
 title: S5.3.10 Calculate the HIC 15 from the output of instrumentation placed in the
   head of the test dummy, using the equation
@@ -63,8 +79,8 @@ S5.3.10 Calculate the HIC 15 from the output of instrumentation placed in the he
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: calculate-from-output
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: s5-3-10-calculate-the-hic-15-from-the-output-of-instrumentation-placed-in-the-he
 - secondary_topics: n/a
 - browse_buckets: head_impact
 - legacy_domain: needs_review
@@ -75,6 +91,7 @@ S5.3.10 Calculate the HIC 15 from the output of instrumentation placed in the he
 ## Authority
 - clause_path: s5-3-10
 - source_file: raw/collections/xml_fmvss/571.202a.xml
+- source_citation: xml_fmvss-571-202a / s5-3-10
 - source_url: n/a
 - confidence: medium
 

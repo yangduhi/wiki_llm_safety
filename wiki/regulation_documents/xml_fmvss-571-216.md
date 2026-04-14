@@ -1,38 +1,43 @@
 ---
 aliases: []
+attachment_bucket: null
 browse_buckets: []
+comparison_key: be85fdf21d242bc6ee42532667c6b3a9cf1c0aa5
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-216
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regdoc-xml_fmvss-571-216
+is_attachment: false
 jurisdiction: US
 legacy_domain: needs_review
 note_type: regulation_document
 page_count: null
 phase: cross_phase
-primary_topic: standard-roof-crush
+primary_topic: 571-216-standard-no-216-roof-crush-resistance-applicable-unless-a-vehicle-is-cer
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.216.xml
   source_hashes:
     raw/collections/xml_fmvss/571.216.xml: a635579e28c9a578a568bb1c62af1540ed4882a8d6c42dbb5bbda161e9293dfe
   source_url: null
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
 secondary_topics: []
+sectno: null
+source_citation: § 571.216 Standard No. 216; Roof crush resistance; Applicable unless
+  a vehicle is certified to § 571.216a.
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.216.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.216.xml: a635579e28c9a578a568bb1c62af1540ed4882a8d6c42dbb5bbda161e9293dfe
 source_language: en
 source_url: null
 status: draft
+subject: null
 summary: Document-level source summary for § 571.216 Standard No. 216; Roof crush
   resistance; Applicable unless a vehicle is certified to § 571.216a..
 title: § 571.216 Standard No. 216; Roof crush resistance; Applicable unless a vehicle
@@ -50,13 +55,14 @@ updated: '2026-04-13'
 ## Source Details
 - document_id: xml_fmvss-571-216
 - source_file: raw/collections/xml_fmvss/571.216.xml
+- source_citation: § 571.216 Standard No. 216; Roof crush resistance; Applicable unless a vehicle is certified to § 571.216a.
 - source_language: en
 - page_count: n/a
 
 ## Canonical Classification
 - regulatory_layer: technical_requirement
 - functional_domain: other_or_review
-- primary_topic: standard-roof-crush
+- primary_topic: 571-216-standard-no-216-roof-crush-resistance-applicable-unless-a-vehicle-is-cer
 - legacy_domain: needs_review
 
 ## Authority
@@ -64,7 +70,6 @@ updated: '2026-04-13'
 - confidence: medium
 
 ## Related Units
-- [[regulation_units/regunit-xml_fmvss-571-216-document]]
 - [[regulation_units/regunit-xml_fmvss-571-216-s1]]
 - [[regulation_units/regunit-xml_fmvss-571-216-s2]]
 - [[regulation_units/regunit-xml_fmvss-571-216-s3]]
@@ -79,11 +84,11 @@ updated: '2026-04-13'
 - [[regulation_units/regunit-xml_fmvss-571-216-s7]]
 - [[regulation_units/regunit-xml_fmvss-571-216-s7-1]]
 - [[regulation_units/regunit-xml_fmvss-571-216-s7-2]]
-- [[regulation_units/regunit-xml_fmvss-571-216-a]]
-- [[regulation_units/regunit-xml_fmvss-571-216-b]]
+- [[regulation_units/regunit-xml_fmvss-571-216-a-2]]
+- [[regulation_units/regunit-xml_fmvss-571-216-b-2]]
 - [[regulation_units/regunit-xml_fmvss-571-216-s7-3]]
-- [[regulation_units/regunit-xml_fmvss-571-216-a]]
-- [[regulation_units/regunit-xml_fmvss-571-216-b]]
+- [[regulation_units/regunit-xml_fmvss-571-216-a-3]]
+- [[regulation_units/regunit-xml_fmvss-571-216-b-3]]
 - [[regulation_units/regunit-xml_fmvss-571-216-1]]
 - [[regulation_units/regunit-xml_fmvss-571-216-2]]
 - [[regulation_units/regunit-xml_fmvss-571-216-s7-4]]
@@ -92,9 +97,9 @@ updated: '2026-04-13'
 - [[regulation_units/regunit-xml_fmvss-571-216-s8]]
 - [[regulation_units/regunit-xml_fmvss-571-216-s8-1]]
 - [[regulation_units/regunit-xml_fmvss-571-216-s8-2]]
-- [[regulation_units/regunit-xml_fmvss-571-216-a]]
-- [[regulation_units/regunit-xml_fmvss-571-216-b]]
-- [[regulation_units/regunit-xml_fmvss-571-216-c]]
-- [[regulation_units/regunit-xml_fmvss-571-216-d]]
+- [[regulation_units/regunit-xml_fmvss-571-216-a-4]]
+- [[regulation_units/regunit-xml_fmvss-571-216-b-4]]
+- [[regulation_units/regunit-xml_fmvss-571-216-c-2]]
+- [[regulation_units/regunit-xml_fmvss-571-216-d-2]]
 - [[regulation_units/regunit-xml_fmvss-571-216-s8-3]]
 - [[regulation_units/regunit-xml_fmvss-571-216-s8-4]]

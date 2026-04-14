@@ -1,81 +1,86 @@
 ---
 aliases: []
-basis: '(c) The target fill pressure P target shall be calculated from equation 18
-  to this section, where NWP is in MPa, T o is the ambient temperature in °C to which
-  the CHSS is expected to settle, and P target is the target fill pressure in MPa
-  after the temperature settles:
-
-  Equation 18 to § 571.307 S7
-
-  P target = NWP × (273 + T o )/288'
-browse_buckets: []
+attachment_bucket: null
+attachment_section: null
+basis: (c) The fueling receptacle shall ensure positive locking of the fueling nozzle.
+browse_buckets:
+- fuel_system_integrity
 clause_path: c
+comparison_key: ebb837f1b01b09b8c5d7605c3859034f3b6a6433
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-307
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- fire_electrical_and_energy_storage_safety
 id: regunit-xml_fmvss-571-307-c
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.307 Standard No. 307; Fuel system integrity of hydrogen vehicles.
 phase: cross_phase
-primary_topic: target-fill-pressure
+primary_topic: c-the-fueling-receptacle-shall-ensure-positive-locking-of-the-fueling-nozzle
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.307.xml
   source_hashes:
     raw/collections/xml_fmvss/571.307.xml: 6c30f72f4f4e351017492048c2c57529e7c2a011a1657b31589855f0351861f1
   source_url: null
+raw_marker: (c)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-307 / c
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.307.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.307.xml: 6c30f72f4f4e351017492048c2c57529e7c2a011a1657b31589855f0351861f1
 source_url: null
-statement: '(c) The target fill pressure P target shall be calculated from equation
-  18 to this section, where NWP is in MPa, T o is the ambient temperature in °C to
-  which the CHSS is expected to settle, and P target is the target fill pressure in
-  MPa after the temperature settles:'
+statement: (c) The fueling receptacle shall ensure positive locking of the fueling
+  nozzle.
 status: draft
+subject: null
 summary: Regulation unit `c` from xml_fmvss-571-307.
-title: '(c) The target fill pressure P target shall be calculated from equation 18
-  to this section, where NWP is in MPa, T o is '
+title: (c) The fueling receptacle shall ensure positive locking of the fueling nozzle.
 updated: '2026-04-13'
 ---
 
-# (c) The target fill pressure P target shall be calculated from equation 18 to this section, where NWP is in MPa, T o is 
+# (c) The fueling receptacle shall ensure positive locking of the fueling nozzle.
 
 ## Statement
-(c) The target fill pressure P target shall be calculated from equation 18 to this section, where NWP is in MPa, T o is the ambient temperature in °C to which the CHSS is expected to settle, and P target is the target fill pressure in MPa after the temperature settles:
+(c) The fueling receptacle shall ensure positive locking of the fueling nozzle.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: target-fill-pressure
+- functional_domain: fire_electrical_and_energy_storage_safety
+- primary_topic: c-the-fueling-receptacle-shall-ensure-positive-locking-of-the-fueling-nozzle
 - secondary_topics: n/a
-- browse_buckets: n/a
+- browse_buckets: fuel_system_integrity
 - legacy_domain: needs_review
 
 ## Basis
-(c) The target fill pressure P target shall be calculated from equation 18 to this section, where NWP is in MPa, T o is the ambient temperature in °C to which the CHSS is expected to settle, and P target is the target fill pressure in MPa after the temperature settles:
-Equation 18 to § 571.307 S7
-P target = NWP × (273 + T o )/288
+(c) The fueling receptacle shall ensure positive locking of the fueling nozzle.
 
 ## Authority
 - clause_path: c
 - source_file: raw/collections/xml_fmvss/571.307.xml
+- source_citation: xml_fmvss-571-307 / c
 - source_url: n/a
 - confidence: medium
 

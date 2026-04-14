@@ -1,0 +1,11 @@
+control_id,source,expected_phase,expected_functional_domain,rationale
+control-fmvss-208,FMVSS 208 Occupant Crash Protection,in_crash,occupant_protection_and_restraints,Known stable in-crash gold case
+control-fmvss-302,FMVSS 302 Flammability of Interior Materials,post_crash,interior_materials_and_fire,Known stable post-crash gold case
+control-fmvss-305a,FMVSS 305a Electric-powered vehicles electrolyte spillage and electrical shock protection,post_crash,fire_electrical_and_energy_storage_safety,Known stable post-crash electrical safety case
+control-fmvss-205,FMVSS 205 Glazing Materials,cross_phase,visibility_glazing_and_driver_information,Known stable cross-phase glazing case
+control-fmvss-111,FMVSS 111 Rear Visibility,pre_crash,crash_avoidance_and_vehicle_control,Known stable pre-crash visibility case
+control-r94,UNECE R94 Frontal collision protection,in_crash,occupant_protection_and_restraints,Known stable in-crash ECE case
+control-r95,UNECE R95 Lateral collision protection,in_crash,occupant_protection_and_restraints,Known stable in-crash ECE case
+control-r100,UNECE R100 electric power train vehicle electrical safety,post_crash,fire_electrical_and_energy_storage_safety,Known stable post-crash ECE electrical case
+control-r144,UNECE R144 Accident Emergency Call Systems,post_crash,post_crash_response_and_data,Known stable post-crash emergency response case
+control-aeb,AEB for Pedestrian,pre_crash,crash_avoidance_and_vehicle_control,Known stable pre-crash active safety case

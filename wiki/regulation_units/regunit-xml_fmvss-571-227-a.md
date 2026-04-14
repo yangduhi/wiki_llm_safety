@@ -1,79 +1,85 @@
 ---
 aliases: []
-basis: (a) Position the vehicle on the tilting platform as illustrated in the examples
-  of Figures 2 and 3 of this section with its longitudinal centerline parallel to
-  the tilt platform's axis of rotation, the right or left side facing the impact surface
-  at NHTSA's option, and with the outboard tire sidewall at the widest axle within
-  100 mm of the axis of rotation. (Figures provided for illustration purposes only.)
+attachment_bucket: null
+attachment_section: null
+basis: '(a) Subject to S3(b), this standard applies to:'
 browse_buckets:
-- side_impact
+- rollover
 clause_path: a
+comparison_key: a6f89e3661d6a96bb2de852d099190b416aacccc
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-227
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-227-a
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: position-vehicle-tilting
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.227 Standard No. 227; Bus rollover structural integrity.
+phase: cross_phase
+primary_topic: a-subject-to-s3-b-this-standard-applies-to
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.227.xml
   source_hashes:
     raw/collections/xml_fmvss/571.227.xml: 25d8a878ddb16d9e3be4d95f6a8328973f523df39656f7e8b9de43d27ee9215b
   source_url: null
+raw_marker: (a)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-227 / a
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.227.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.227.xml: 25d8a878ddb16d9e3be4d95f6a8328973f523df39656f7e8b9de43d27ee9215b
 source_url: null
-statement: (a) Position the vehicle on the tilting platform as illustrated in the
-  examples of Figures 2 and 3 of this section with its longitudinal centerline parallel
-  to the tilt platform's axis of rotation, the right or left side facing the impact
-  surface at NHTSA's option, and with the outboard tire sidewall at the widest axle
-  within 100 mm of the axis of rotation. (Figures provided for illustration purposes
-  only.)
+statement: '(a) Subject to S3(b), this standard applies to:'
 status: draft
+subject: null
 summary: Regulation unit `a` from xml_fmvss-571-227.
-title: '(a) Position the vehicle on the tilting platform as illustrated in the examples
-  of Figures 2 and 3 of this section with '
+title: '(a) Subject to S3(b), this standard applies to:'
 updated: '2026-04-13'
 ---
 
-# (a) Position the vehicle on the tilting platform as illustrated in the examples of Figures 2 and 3 of this section with 
+# (a) Subject to S3(b), this standard applies to:
 
 ## Statement
-(a) Position the vehicle on the tilting platform as illustrated in the examples of Figures 2 and 3 of this section with its longitudinal centerline parallel to the tilt platform's axis of rotation, the right or left side facing the impact surface at NHTSA's option, and with the outboard tire sidewall at the widest axle within 100 mm of the axis of rotation. (Figures provided for illustration purposes only.)
+(a) Subject to S3(b), this standard applies to:
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
+- phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: position-vehicle-tilting
+- primary_topic: a-subject-to-s3-b-this-standard-applies-to
 - secondary_topics: n/a
-- browse_buckets: side_impact
-- legacy_domain: passive_crash
+- browse_buckets: rollover
+- legacy_domain: needs_review
 
 ## Basis
-(a) Position the vehicle on the tilting platform as illustrated in the examples of Figures 2 and 3 of this section with its longitudinal centerline parallel to the tilt platform's axis of rotation, the right or left side facing the impact surface at NHTSA's option, and with the outboard tire sidewall at the widest axle within 100 mm of the axis of rotation. (Figures provided for illustration purposes only.)
+(a) Subject to S3(b), this standard applies to:
 
 ## Authority
 - clause_path: a
 - source_file: raw/collections/xml_fmvss/571.227.xml
+- source_citation: xml_fmvss-571-227 / a
 - source_url: n/a
 - confidence: medium
 

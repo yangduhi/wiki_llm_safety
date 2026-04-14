@@ -1,50 +1,68 @@
 ---
 aliases: []
-basis: (b) Brake linings for detachment from the shoe or pad.
+attachment_bucket: null
+attachment_section: null
+basis: (b) Located so as to be visible by direct view, either on or within 4 inches
+  of the brake-fluid reservoir filler plug or cap; and
 browse_buckets: []
 clause_path: b
+comparison_key: 594b10eceaaee951a885254dbc4e081d7ed3a48d
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-122a
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-122a-b
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.122a Standard No. 122; Motorcycle brake systems.
 phase: cross_phase
-primary_topic: brake-linings-detachment
+primary_topic: b-located-so-as-to-be-visible-by-direct-view-either-on-or-within-4-inches-of-the
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.122a.xml
   source_hashes:
     raw/collections/xml_fmvss/571.122a.xml: a54a59d92bd36390e082c95800360457035e800f1f00f2486a0a9ff1f60a0667
   source_url: null
+raw_marker: (b)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-122a / b
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.122a.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.122a.xml: a54a59d92bd36390e082c95800360457035e800f1f00f2486a0a9ff1f60a0667
 source_url: null
-statement: (b) Brake linings for detachment from the shoe or pad.
+statement: (b) Located so as to be visible by direct view, either on or within 4 inches
+  of the brake-fluid reservoir filler plug or cap; and
 status: draft
+subject: null
 summary: Regulation unit `b` from xml_fmvss-571-122a.
-title: (b) Brake linings for detachment from the shoe or pad.
+title: (b) Located so as to be visible by direct view, either on or within 4 inches
+  of the brake-fluid reservoir filler plug or
 updated: '2026-04-13'
 ---
 
-# (b) Brake linings for detachment from the shoe or pad.
+# (b) Located so as to be visible by direct view, either on or within 4 inches of the brake-fluid reservoir filler plug or
 
 ## Statement
-(b) Brake linings for detachment from the shoe or pad.
+(b) Located so as to be visible by direct view, either on or within 4 inches of the brake-fluid reservoir filler plug or cap; and
 
 ## Classification
 - jurisdiction: US
@@ -52,17 +70,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: brake-linings-detachment
+- primary_topic: b-located-so-as-to-be-visible-by-direct-view-either-on-or-within-4-inches-of-the
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(b) Brake linings for detachment from the shoe or pad.
+(b) Located so as to be visible by direct view, either on or within 4 inches of the brake-fluid reservoir filler plug or cap; and
 
 ## Authority
 - clause_path: b
 - source_file: raw/collections/xml_fmvss/571.122a.xml
+- source_citation: xml_fmvss-571-122a / b
 - source_url: n/a
 - confidence: medium
 

@@ -1,41 +1,58 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S6.1.2 Dynamic test procedure.
-browse_buckets: []
+browse_buckets:
+- side_impact
+- child_restraints
 clause_path: s6-1-2
+comparison_key: bd09184b168c081c12f127a56efb41577a06f2f8
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-213a
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-213a-s6-1-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: dynamic-test-procedure
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.213a Standard No. 213a; Child restraint systems—side impact protection.
+phase: in_crash
+primary_topic: side_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.213a.xml
   source_hashes:
     raw/collections/xml_fmvss/571.213a.xml: 2ed76bd53f36e3d9bc21a2bc7836c69de81062e955d3abf3ad004e6466ea4e76
   source_url: null
+raw_marker: S6.1.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-213a / s6-1-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.213a.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.213a.xml: 2ed76bd53f36e3d9bc21a2bc7836c69de81062e955d3abf3ad004e6466ea4e76
 source_url: null
 statement: S6.1.2 Dynamic test procedure.
 status: draft
+subject: null
 summary: Regulation unit `s6-1-2` from xml_fmvss-571-213a.
 title: S6.1.2 Dynamic test procedure.
 updated: '2026-04-13'
@@ -50,12 +67,12 @@ S6.1.2 Dynamic test procedure.
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: dynamic-test-procedure
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: side_impact
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: needs_review
+- browse_buckets: side_impact, child_restraints
+- legacy_domain: passive_crash
 
 ## Basis
 S6.1.2 Dynamic test procedure.
@@ -63,6 +80,7 @@ S6.1.2 Dynamic test procedure.
 ## Authority
 - clause_path: s6-1-2
 - source_file: raw/collections/xml_fmvss/571.213a.xml
+- source_citation: xml_fmvss-571-213a / s6-1-2
 - source_url: n/a
 - confidence: medium
 

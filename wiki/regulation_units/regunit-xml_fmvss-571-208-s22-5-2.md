@@ -1,47 +1,63 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S22.5.2 Impact the vehicle traveling longitudinally forward at any speed, up
   to and including 26 km/h (16 mph) into a fixed rigid barrier that is perpendicular
   ±5 degrees to the line of travel of the vehicle under the applicable conditions
   of S8, S10, and S16 excluding S10.7, S10.8, S10.9, and S16.3.5.
-browse_buckets: []
+browse_buckets:
+- occupant_restraints
 clause_path: s22-5-2
+comparison_key: 74af6b711cd01952f3b13b97abb4cf130a6aa16b
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-208-s22-5-2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
 phase: in_crash
-primary_topic: impact-vehicle-traveling
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: S22.5.2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-208 / s22-5-2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
 statement: S22.5.2 Impact the vehicle traveling longitudinally forward at any speed,
   up to and including 26 km/h (16 mph) into a fixed rigid barrier that is perpendicular
   ±5 degrees to the line of travel of the vehicle under the applicable conditions
   of S8, S10, and S16 excluding S10.7, S10.8, S10.9, and S16.3.5.
 status: draft
+subject: null
 summary: Regulation unit `s22-5-2` from xml_fmvss-571-208.
 title: S22.5.2 Impact the vehicle traveling longitudinally forward at any speed, up
   to and including 26 km/h (16 mph) into a fi
@@ -58,10 +74,10 @@ S22.5.2 Impact the vehicle traveling longitudinally forward at any speed, up to 
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: in_crash
-- functional_domain: other_or_review
-- primary_topic: impact-vehicle-traveling
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: frontal_impact
 - secondary_topics: n/a
-- browse_buckets: n/a
+- browse_buckets: occupant_restraints
 - legacy_domain: passive_crash
 
 ## Basis
@@ -70,6 +86,7 @@ S22.5.2 Impact the vehicle traveling longitudinally forward at any speed, up to 
 ## Authority
 - clause_path: s22-5-2
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / s22-5-2
 - source_url: n/a
 - confidence: medium
 

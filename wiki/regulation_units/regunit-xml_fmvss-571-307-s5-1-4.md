@@ -1,46 +1,61 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S5.1.4. Fuel system leakage. When tested in accordance with S6.6 of this standard,
   the hydrogen fuel system downstream of the shut-off valve(s) shall not exhibit observable
   leakage.
 browse_buckets:
 - fuel_system_integrity
 clause_path: s5-1-4
+comparison_key: 69a5976541b7c433694e48e946132296efe0820d
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-307
+document_kind: null
 effective_date: null
 functional_domain:
 - fire_electrical_and_energy_storage_safety
 id: regunit-xml_fmvss-571-307-s5-1-4
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.307 Standard No. 307; Fuel system integrity of hydrogen vehicles.
 phase: cross_phase
-primary_topic: fuel-system-leakage
+primary_topic: s5-1-4-fuel-system-leakage-when-tested-in-accordance-with-s6-6-of-this-standard-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.307.xml
   source_hashes:
     raw/collections/xml_fmvss/571.307.xml: 6c30f72f4f4e351017492048c2c57529e7c2a011a1657b31589855f0351861f1
   source_url: null
+raw_marker: S5.1.4
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-307 / s5-1-4
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.307.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.307.xml: 6c30f72f4f4e351017492048c2c57529e7c2a011a1657b31589855f0351861f1
 source_url: null
 statement: S5.1.4. Fuel system leakage. When tested in accordance with S6.6 of this
   standard, the hydrogen fuel system downstream of the shut-off valve(s) shall not
   exhibit observable leakage.
 status: draft
+subject: null
 summary: Regulation unit `s5-1-4` from xml_fmvss-571-307.
 title: S5.1.4. Fuel system leakage. When tested in accordance with S6.6 of this standard,
   the hydrogen fuel system downstream o
@@ -58,7 +73,7 @@ S5.1.4. Fuel system leakage. When tested in accordance with S6.6 of this standar
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: fire_electrical_and_energy_storage_safety
-- primary_topic: fuel-system-leakage
+- primary_topic: s5-1-4-fuel-system-leakage-when-tested-in-accordance-with-s6-6-of-this-standard-
 - secondary_topics: n/a
 - browse_buckets: fuel_system_integrity
 - legacy_domain: needs_review
@@ -69,6 +84,7 @@ S5.1.4. Fuel system leakage. When tested in accordance with S6.6 of this standar
 ## Authority
 - clause_path: s5-1-4
 - source_file: raw/collections/xml_fmvss/571.307.xml
+- source_citation: xml_fmvss-571-307 / s5-1-4
 - source_url: n/a
 - confidence: medium
 

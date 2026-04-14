@@ -1,46 +1,62 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S7.5 Pass-by tests at 30 km/h. Repeat the procedures of S7.3 at 31 km/h ± 1
   km/h. For this test speed, the minimum sound level requirements are contained in
   S5.1.5, Table 5, for four-band compliance and in S5.2, Table 6, for two-band compliance.
 browse_buckets: []
 clause_path: s7-5
+comparison_key: 21db586eb79cc9ea866f864797d7054fe6c2bc5b
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-141
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-141-s7-5
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.141 Standard No. 141; Minimum Sound Requirements for Hybrid and
+  Electric Vehicles.
 phase: cross_phase
-primary_topic: pass-tests-repeat
+primary_topic: s7-5-pass-by-tests-at-30-km-h-repeat-the-procedures-of-s7-3-at-31-km-h-1-km-h-fo
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.141.xml
   source_hashes:
     raw/collections/xml_fmvss/571.141.xml: b81e399b4d036d5d89bfa9bf46476e304c17132dcb803dc56927b3eda115b479
   source_url: null
+raw_marker: S7.5
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-141 / s7-5
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.141.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.141.xml: b81e399b4d036d5d89bfa9bf46476e304c17132dcb803dc56927b3eda115b479
 source_url: null
 statement: S7.5 Pass-by tests at 30 km/h. Repeat the procedures of S7.3 at 31 km/h
   ± 1 km/h. For this test speed, the minimum sound level requirements are contained
   in S5.1.5, Table 5, for four-band compliance and in S5.2, Table 6, for two-band
   compliance.
 status: draft
+subject: null
 summary: Regulation unit `s7-5` from xml_fmvss-571-141.
 title: S7.5 Pass-by tests at 30 km/h. Repeat the procedures of S7.3 at 31 km/h ± 1
   km/h. For this test speed, the minimum sound
@@ -58,7 +74,7 @@ S7.5 Pass-by tests at 30 km/h. Repeat the procedures of S7.3 at 31 km/h ± 1 km/
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: pass-tests-repeat
+- primary_topic: s7-5-pass-by-tests-at-30-km-h-repeat-the-procedures-of-s7-3-at-31-km-h-1-km-h-fo
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -69,6 +85,7 @@ S7.5 Pass-by tests at 30 km/h. Repeat the procedures of S7.3 at 31 km/h ± 1 km/
 ## Authority
 - clause_path: s7-5
 - source_file: raw/collections/xml_fmvss/571.141.xml
+- source_citation: xml_fmvss-571-141 / s7-5
 - source_url: n/a
 - confidence: medium
 

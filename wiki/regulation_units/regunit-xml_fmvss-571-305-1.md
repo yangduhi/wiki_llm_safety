@@ -1,76 +1,89 @@
 ---
 aliases: []
-basis: (1) Connect the DC power supply, voltmeter and ammeter to the measuring points
-  (the electrical chassis and any exposed conductive part or any two simultaneously
-  reachable exposed conductive parts that are less than 2.5 meters from each other)
-  as shown in Figure 8.
+attachment_bucket: null
+attachment_section: null
+basis: (1) 500 ohms/volt for an AC high voltage source; or
 browse_buckets: []
 clause_path: '1'
+comparison_key: d21229aa2c0088035c7d4f63ad6e18d989a3719e
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-305
+document_kind: null
 effective_date: null
 functional_domain:
 - fire_electrical_and_energy_storage_safety
 id: regunit-xml_fmvss-571-305-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: electrical_safety
+parent_clause_path: null
+parent_clause_text: null
+parent_title: '§ 571.305 Standard No. 305; electric-powered vehicles: electrolyte
+  spillage and electrical shock protection; applicable unless a vehicle is certified
+  to § 571.305a.'
+phase: post_crash
+primary_topic: post_crash_electrical_safety
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.305.xml
   source_hashes:
     raw/collections/xml_fmvss/571.305.xml: 85f00df5cd1bba685626a174940308b18c28e2bf7aa0556207f786b707fcf3b7
   source_url: null
+raw_marker: (1)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - electrical_isolation
+- high_voltage
+- electrolyte_spillage
+sectno: null
+source_citation: xml_fmvss-571-305 / 1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.305.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.305.xml: 85f00df5cd1bba685626a174940308b18c28e2bf7aa0556207f786b707fcf3b7
 source_url: null
-statement: (1) Connect the DC power supply, voltmeter and ammeter to the measuring
-  points (the electrical chassis and any exposed conductive part or any two simultaneously
-  reachable exposed conductive parts that are less than 2.5 meters from each other)
-  as shown in Figure 8.
+statement: (1) 500 ohms/volt for an AC high voltage source; or
 status: draft
+subject: null
 summary: Regulation unit `1` from xml_fmvss-571-305.
-title: (1) Connect the DC power supply, voltmeter and ammeter to the measuring points
-  (the electrical chassis and any exposed c
+title: (1) 500 ohms/volt for an AC high voltage source; or
 updated: '2026-04-13'
 ---
 
-# (1) Connect the DC power supply, voltmeter and ammeter to the measuring points (the electrical chassis and any exposed c
+# (1) 500 ohms/volt for an AC high voltage source; or
 
 ## Statement
-(1) Connect the DC power supply, voltmeter and ammeter to the measuring points (the electrical chassis and any exposed conductive part or any two simultaneously reachable exposed conductive parts that are less than 2.5 meters from each other) as shown in Figure 8.
+(1) 500 ohms/volt for an AC high voltage source; or
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
+- phase: post_crash
 - functional_domain: fire_electrical_and_energy_storage_safety
-- primary_topic: electrical_safety
-- secondary_topics: electrical_isolation
+- primary_topic: post_crash_electrical_safety
+- secondary_topics: electrical_isolation, high_voltage, electrolyte_spillage
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(1) Connect the DC power supply, voltmeter and ammeter to the measuring points (the electrical chassis and any exposed conductive part or any two simultaneously reachable exposed conductive parts that are less than 2.5 meters from each other) as shown in Figure 8.
+(1) 500 ohms/volt for an AC high voltage source; or
 
 ## Authority
 - clause_path: 1
 - source_file: raw/collections/xml_fmvss/571.305.xml
+- source_citation: xml_fmvss-571-305 / 1
 - source_url: n/a
 - confidence: medium
 

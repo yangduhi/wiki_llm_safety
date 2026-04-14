@@ -1,53 +1,68 @@
 ---
 aliases: []
-basis: (c) The maximum permissible inflation pressure, subject to the limitations
-  of S5.5.4 through S5.5.6 of this standard;
+attachment_bucket: null
+attachment_section: null
+basis: (c) Its maximum permissible inflation pressure shall be 240, 280, 300, 340,
+  or 350 kPa.
 browse_buckets: []
 clause_path: c
+comparison_key: ebd419f8fe49efe4325f4a1800c22bc887919f1d
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-139
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-139-c
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.139 Standard No. 139; New pneumatic radial tires for light vehicles.
 phase: cross_phase
-primary_topic: maximum-permissible-inflation
+primary_topic: c-its-maximum-permissible-inflation-pressure-shall-be-240-280-300-340-or-350-kpa
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.139.xml
   source_hashes:
     raw/collections/xml_fmvss/571.139.xml: 049ee35b7a229c5ffd96d6b32ce4c14fc438ead49b4cfdd14ddd25f57454d579
   source_url: null
+raw_marker: (c)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-139 / c
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.139.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.139.xml: 049ee35b7a229c5ffd96d6b32ce4c14fc438ead49b4cfdd14ddd25f57454d579
 source_url: null
-statement: (c) The maximum permissible inflation pressure, subject to the limitations
-  of S5.5.4 through S5.5.6 of this standard;
+statement: (c) Its maximum permissible inflation pressure shall be 240, 280, 300,
+  340, or 350 kPa.
 status: draft
+subject: null
 summary: Regulation unit `c` from xml_fmvss-571-139.
-title: (c) The maximum permissible inflation pressure, subject to the limitations
-  of S5.5.4 through S5.5.6 of this standard;
+title: (c) Its maximum permissible inflation pressure shall be 240, 280, 300, 340,
+  or 350 kPa.
 updated: '2026-04-13'
 ---
 
-# (c) The maximum permissible inflation pressure, subject to the limitations of S5.5.4 through S5.5.6 of this standard;
+# (c) Its maximum permissible inflation pressure shall be 240, 280, 300, 340, or 350 kPa.
 
 ## Statement
-(c) The maximum permissible inflation pressure, subject to the limitations of S5.5.4 through S5.5.6 of this standard;
+(c) Its maximum permissible inflation pressure shall be 240, 280, 300, 340, or 350 kPa.
 
 ## Classification
 - jurisdiction: US
@@ -55,17 +70,18 @@ updated: '2026-04-13'
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: maximum-permissible-inflation
+- primary_topic: c-its-maximum-permissible-inflation-pressure-shall-be-240-280-300-340-or-350-kpa
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
 
 ## Basis
-(c) The maximum permissible inflation pressure, subject to the limitations of S5.5.4 through S5.5.6 of this standard;
+(c) Its maximum permissible inflation pressure shall be 240, 280, 300, 340, or 350 kPa.
 
 ## Authority
 - clause_path: c
 - source_file: raw/collections/xml_fmvss/571.139.xml
+- source_citation: xml_fmvss-571-139 / c
 - source_url: n/a
 - confidence: medium
 

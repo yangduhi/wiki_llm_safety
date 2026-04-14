@@ -1,71 +1,93 @@
 ---
 aliases: []
-basis: (a) Mark that material in accordance with section 7 of ANSI/SAE Z26.1-1996;
-  and
-browse_buckets: []
+attachment_bucket: null
+attachment_section: null
+basis: (a) This standard applies to passenger cars, multipurpose passenger vehicles,
+  trucks designed to carry at least one person, buses, motorcycles, slide-in campers,
+  pickup covers designed to carry persons while in motion and low speed vehicles,
+  and to glazing materials for use in those vehicles.
+browse_buckets:
+- glazing_retention
 clause_path: a
+comparison_key: 163eeb082a4fcf077cffb5cc1ca1c604661ad0f5
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-205
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- visibility_glazing_and_driver_information
 id: regunit-xml_fmvss-571-205-a
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.205 Standard No. 205, Glazing materials.
 phase: cross_phase
-primary_topic: mark-that-material
+primary_topic: glazing_visibility
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.205.xml
   source_hashes:
     raw/collections/xml_fmvss/571.205.xml: 190422c23ca258c09fadd66236c5b23a1ddb58aab45d486cfcc6056ece9fef42
   source_url: null
+raw_marker: (a)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics: []
+row_group_id: null
+secondary_topics:
+- glazing
+sectno: null
+source_citation: xml_fmvss-571-205 / a
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.205.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.205.xml: 190422c23ca258c09fadd66236c5b23a1ddb58aab45d486cfcc6056ece9fef42
 source_url: null
-statement: (a) Mark that material in accordance with section 7 of ANSI/SAE Z26.1-1996;
-  and
+statement: (a) This standard applies to passenger cars, multipurpose passenger vehicles,
+  trucks designed to carry at least one person, buses, motorcycles, slide-in campers,
+  pickup covers designed to carry persons while in motion and low speed vehicles,
+  and to glazing materials for use in those vehicles.
 status: draft
+subject: null
 summary: Regulation unit `a` from xml_fmvss-571-205.
-title: (a) Mark that material in accordance with section 7 of ANSI/SAE Z26.1-1996;
-  and
+title: (a) This standard applies to passenger cars, multipurpose passenger vehicles,
+  trucks designed to carry at least one pers
 updated: '2026-04-13'
 ---
 
-# (a) Mark that material in accordance with section 7 of ANSI/SAE Z26.1-1996; and
+# (a) This standard applies to passenger cars, multipurpose passenger vehicles, trucks designed to carry at least one pers
 
 ## Statement
-(a) Mark that material in accordance with section 7 of ANSI/SAE Z26.1-1996; and
+(a) This standard applies to passenger cars, multipurpose passenger vehicles, trucks designed to carry at least one person, buses, motorcycles, slide-in campers, pickup covers designed to carry persons while in motion and low speed vehicles, and to glazing materials for use in those vehicles.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
 - phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: mark-that-material
-- secondary_topics: n/a
-- browse_buckets: n/a
+- functional_domain: visibility_glazing_and_driver_information
+- primary_topic: glazing_visibility
+- secondary_topics: glazing
+- browse_buckets: glazing_retention
 - legacy_domain: needs_review
 
 ## Basis
-(a) Mark that material in accordance with section 7 of ANSI/SAE Z26.1-1996; and
+(a) This standard applies to passenger cars, multipurpose passenger vehicles, trucks designed to carry at least one person, buses, motorcycles, slide-in campers, pickup covers designed to carry persons while in motion and low speed vehicles, and to glazing materials for use in those vehicles.
 
 ## Authority
 - clause_path: a
 - source_file: raw/collections/xml_fmvss/571.205.xml
+- source_citation: xml_fmvss-571-205 / a
 - source_url: n/a
 - confidence: medium
 

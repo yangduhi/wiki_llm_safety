@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S14.2.3.8.3.3 If uncolored reflections from the front surface interfere with
   photometric readings at any test point, additional readings are taken 1° above,
   below, right, and left of the test point, and the lowest of these readings and its
@@ -7,36 +9,49 @@ basis: S14.2.3.8.3.3 If uncolored reflections from the front surface interfere w
   is met.
 browse_buckets: []
 clause_path: s14-2-3-8-3-3
+comparison_key: 4d1312efc2fa199e9aa4b5620edc3bfa28e36c75
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-108
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-108-s14-2-3-8-3-3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.108 Standard No. 108; Lamps, reflective devices, and associated
+  equipment.
 phase: cross_phase
-primary_topic: uncolored-reflections-from
+primary_topic: s14-2-3-8-3-3-if-uncolored-reflections-from-the-front-surface-interfere-with-pho
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.108.xml
   source_hashes:
     raw/collections/xml_fmvss/571.108.xml: 733120543fd9c5aa9cd0651a6279ea063548778ae2a24e6f33b2e8531c08673e
   source_url: null
+raw_marker: S14.2.3.8.3.3
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-108 / s14-2-3-8-3-3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.108.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.108.xml: 733120543fd9c5aa9cd0651a6279ea063548778ae2a24e6f33b2e8531c08673e
 source_url: null
 statement: S14.2.3.8.3.3 If uncolored reflections from the front surface interfere
   with photometric readings at any test point, additional readings are taken 1° above,
@@ -44,6 +59,7 @@ statement: S14.2.3.8.3.3 If uncolored reflections from the front surface interfe
   location is reported provided the minimum test point requirement for the test point
   is met.
 status: draft
+subject: null
 summary: Regulation unit `s14-2-3-8-3-3` from xml_fmvss-571-108.
 title: S14.2.3.8.3.3 If uncolored reflections from the front surface interfere with
   photometric readings at any test point, add
@@ -61,7 +77,7 @@ S14.2.3.8.3.3 If uncolored reflections from the front surface interfere with pho
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: uncolored-reflections-from
+- primary_topic: s14-2-3-8-3-3-if-uncolored-reflections-from-the-front-surface-interfere-with-pho
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -72,6 +88,7 @@ S14.2.3.8.3.3 If uncolored reflections from the front surface interfere with pho
 ## Authority
 - clause_path: s14-2-3-8-3-3
 - source_file: raw/collections/xml_fmvss/571.108.xml
+- source_citation: xml_fmvss-571-108 / s14-2-3-8-3-3
 - source_url: n/a
 - confidence: medium
 

@@ -1,0 +1,21 @@
+document_id,subject,bucket,before_cross_units,after_cross_units,before_other_units,after_other_units,before_total_units,after_total_units
+xml_kmvss-kmvss_art_2_002,정의,definitions,1,1,55,62,83,83
+xml_kmvss-kmvss_art_34_048,창유리 등,glazing_cross_phase_intentional,18,18,0,0,18,18
+xml_kmvss-kmvss_art_18_028,사이버보안,software_cyber,5,0,9,9,9,9
+xml_kmvss-kmvss_art_114_189,기준적용의 특례,special_exceptions,0,0,12,13,13,13
+xml_kmvss-kmvss_art_58_085,경광등 및 사이렌,body_visibility_signaling,6,0,6,0,7,7
+xml_kmvss-kmvss_art_32_046,물품적재장치,umbrella_titles_with_weak_unit_text,0,0,11,11,11,11
+xml_kmvss-kmvss_art_47_070,그 밖의 등화의 제한,body_visibility_signaling,5,0,6,0,8,8
+xml_kmvss-kmvss_art_50_073,간접시계장치,body_visibility_signaling,6,0,5,0,8,8
+xml_kmvss-kmvss_art_105_158,창유리의 안전성 등,glazing_cross_phase_intentional,10,10,0,0,10,10
+xml_kmvss-kmvss_art_113_188,승차정원 및 최대적재량,umbrella_titles_with_weak_unit_text,5,5,5,5,5,5
+xml_kmvss-kmvss_art_28_042,입석,umbrella_titles_with_weak_unit_text,5,5,5,5,5,5
+xml_kmvss-kmvss_art_40_060,끝단표시등,body_visibility_signaling,5,0,5,0,6,6
+xml_kmvss-kmvss_art_4_007,길이ㆍ너비 및 높이,umbrella_titles_with_weak_unit_text,0,0,10,8,10,10
+xml_kmvss-kmvss_art_63_092,원동기 출력,powertrain_running_gear,5,0,5,0,5,5
+xml_kmvss-kmvss_art_77_111,후미등,body_visibility_signaling,5,0,5,0,5,5
+xml_kmvss-kmvss_art_10_013,접지부분 및 접지압력,powertrain_running_gear,5,0,4,0,5,5
+xml_kmvss-kmvss_art_18_029,소프트웨어,software_cyber,0,0,9,7,9,9
+xml_kmvss-kmvss_art_20_032,견인장치 및 연결장치,umbrella_titles_with_weak_unit_text,5,4,4,3,7,7
+xml_kmvss-kmvss_art_88_129,계기판넬,umbrella_titles_with_weak_unit_text,6,6,3,3,6,6
+xml_kmvss-kmvss_art_106_159,원동기 출력,powertrain_running_gear,5,0,3,0,5,5

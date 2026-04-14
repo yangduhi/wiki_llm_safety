@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S1. Purpose and scope. This standard specifies the requirements for the transmission
   shift position sequence, a starter interlock, and for a braking effect of automatic
   transmissions, to reduce the likelihood of shifting errors, to prevent starter engagement
@@ -7,36 +9,49 @@ basis: S1. Purpose and scope. This standard specifies the requirements for the t
   braking at speeds below 40 kilometers per hour (25 miles per hour).
 browse_buckets: []
 clause_path: s1
+comparison_key: 630e4a612fbb661e7f5218666cb9aff372002010
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-102
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-102-s1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.102 Standard No. 102; Transmission shift position sequence, starter
+  interlock, and transmission braking effect.
 phase: cross_phase
-primary_topic: purpose-scope-this
+primary_topic: s1-purpose-and-scope-this-standard-specifies-the-requirements-for-the-transmissi
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.102.xml
   source_hashes:
     raw/collections/xml_fmvss/571.102.xml: 8370f04a5171dd020275062de4337ed364fc77cb16d86f5db680bb9a6da5e079
   source_url: null
+raw_marker: S1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-102 / s1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.102.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.102.xml: 8370f04a5171dd020275062de4337ed364fc77cb16d86f5db680bb9a6da5e079
 source_url: null
 statement: S1. Purpose and scope. This standard specifies the requirements for the
   transmission shift position sequence, a starter interlock, and for a braking effect
@@ -45,6 +60,7 @@ statement: S1. Purpose and scope. This standard specifies the requirements for t
   and to provide supplemental braking at speeds below 40 kilometers per hour (25 miles
   per hour).
 status: draft
+subject: null
 summary: Regulation unit `s1` from xml_fmvss-571-102.
 title: 'S1. Purpose and scope. This standard specifies the requirements for the transmission
   shift position sequence, a starter '
@@ -62,7 +78,7 @@ S1. Purpose and scope. This standard specifies the requirements for the transmis
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: purpose-scope-this
+- primary_topic: s1-purpose-and-scope-this-standard-specifies-the-requirements-for-the-transmissi
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -73,6 +89,7 @@ S1. Purpose and scope. This standard specifies the requirements for the transmis
 ## Authority
 - clause_path: s1
 - source_file: raw/collections/xml_fmvss/571.102.xml
+- source_citation: xml_fmvss-571-102 / s1
 - source_url: n/a
 - confidence: medium
 

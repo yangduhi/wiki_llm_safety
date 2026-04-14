@@ -30,6 +30,7 @@ class ProjectPaths:
     operations_log: Path
     wiki_root: Path
     wiki_templates_root: Path
+    indexes_root: Path
     regulation_documents_root: Path
     regulation_units_root: Path
     concepts_root: Path
@@ -87,6 +88,7 @@ def load_project_settings(project_root: str | Path | None = None) -> ProjectSett
             operations_log=root / "docs" / "operations" / "LOG.md",
             wiki_root=root / "wiki",
             wiki_templates_root=root / "wiki" / "_templates",
+            indexes_root=root / "wiki" / "indexes",
             regulation_documents_root=root / "wiki" / "regulation_documents",
             regulation_units_root=root / "wiki" / "regulation_units",
             concepts_root=root / "wiki" / "concepts",

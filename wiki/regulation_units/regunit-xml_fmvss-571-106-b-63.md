@@ -1,0 +1,98 @@
+---
+aliases: []
+attachment_bucket: null
+attachment_section: null
+basis: (b) Condition the tubing at 230 degrees Fahrenheit (110 degrees Celsius) for
+  24 hours in an air oven. Remove the tubing from the oven and within 30 seconds,
+  and weigh it to establish the initial weight. The weight shall be measured with
+  a resolution of 0.01 gram; if the scale has a higher resolution, then values of
+  0.005 gram and above shall be rounded to the nearest 0.01 gram and values below
+  0.005 gram shall be truncated.
+browse_buckets: []
+clause_path: b-63
+comparison_key: ef27d9de613e5d4245101eba8328fce3a07daf80
+confidence: medium
+created: '2026-04-13'
+document_id: xml_fmvss-571-106
+document_kind: null
+effective_date: null
+functional_domain:
+- other_or_review
+id: regunit-xml_fmvss-571-106-b-63
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
+jurisdiction: US
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
+note_type: regulation_unit
+page_end: null
+page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.106 Standard No. 106; Brake hoses.
+phase: cross_phase
+primary_topic: b-condition-the-tubing-at-230-degrees-fahrenheit-110-degrees-celsius-for-24-hour
+provenance:
+  parser_run_id: 20260414T050834Z__953d9693
+  source_files:
+  - raw/collections/xml_fmvss/571.106.xml
+  source_hashes:
+    raw/collections/xml_fmvss/571.106.xml: d65d321084536dd5193418028d4c0dc7e9cd222aa4dac14dfeb8fc93d7b9e5d4
+  source_url: null
+raw_marker: (b)
+record_layer: knowledge
+reference_articles: []
+regulatory_layer: technical_requirement
+review_required: false
+row_group_id: null
+secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-106 / b-63
+source_collection: xml_fmvss
+source_url: null
+statement: (b) Condition the tubing at 230 degrees Fahrenheit (110 degrees Celsius)
+  for 24 hours in an air oven. Remove the tubing from the oven and within 30 seconds,
+  and weigh it to establish the initial weight. The weight shall be measured with
+  a resolution of 0.01 gram; if the scale has a higher resolution, then values of
+  0.005 gram and above shall be rounded to the nearest 0.01 gram and values below
+  0.005 gram shall be truncated.
+status: draft
+subject: null
+summary: Regulation unit `b-63` from xml_fmvss-571-106.
+title: '(b) Condition the tubing at 230 degrees Fahrenheit (110 degrees Celsius) for
+  24 hours in an air oven. Remove the tubing '
+updated: '2026-04-13'
+---
+
+# (b) Condition the tubing at 230 degrees Fahrenheit (110 degrees Celsius) for 24 hours in an air oven. Remove the tubing 
+
+## Statement
+(b) Condition the tubing at 230 degrees Fahrenheit (110 degrees Celsius) for 24 hours in an air oven. Remove the tubing from the oven and within 30 seconds, and weigh it to establish the initial weight. The weight shall be measured with a resolution of 0.01 gram; if the scale has a higher resolution, then values of 0.005 gram and above shall be rounded to the nearest 0.01 gram and values below 0.005 gram shall be truncated.
+
+## Classification
+- jurisdiction: US
+- source_collection: xml_fmvss
+- regulatory_layer: technical_requirement
+- phase: cross_phase
+- functional_domain: other_or_review
+- primary_topic: b-condition-the-tubing-at-230-degrees-fahrenheit-110-degrees-celsius-for-24-hour
+- secondary_topics: n/a
+- browse_buckets: n/a
+- legacy_domain: needs_review
+
+## Basis
+(b) Condition the tubing at 230 degrees Fahrenheit (110 degrees Celsius) for 24 hours in an air oven. Remove the tubing from the oven and within 30 seconds, and weigh it to establish the initial weight. The weight shall be measured with a resolution of 0.01 gram; if the scale has a higher resolution, then values of 0.005 gram and above shall be rounded to the nearest 0.01 gram and values below 0.005 gram shall be truncated.
+
+## Authority
+- clause_path: b-63
+- source_file: raw/collections/xml_fmvss/571.106.xml
+- source_citation: xml_fmvss-571-106 / b-63
+- source_url: n/a
+- confidence: medium
+
+## Related Notes
+- [[regulation_documents/xml_fmvss-571-106]]
+- [[jurisdictions/jurisdiction-us]]

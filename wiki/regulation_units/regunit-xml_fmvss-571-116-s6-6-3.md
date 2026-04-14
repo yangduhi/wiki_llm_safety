@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S6.6.3 Materials. (a) Corrosion test strips. Two sets of strips from each of
   the metals listed in Appendix C of SAE Standard J1703b (1970) (incorporated by reference,
   see § 571.5). Each strip shall be approximately 8 cm. long, 1.3 cm. wide, not more
@@ -9,36 +11,48 @@ basis: S6.6.3 Materials. (a) Corrosion test strips. Two sets of strips from each
   strips, if used, shall not be employed if they cannot be polished to a high finish.
 browse_buckets: []
 clause_path: s6-6-3
+comparison_key: 8729128a5cd827d958319b3b54f0a3cbaf76c910
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-116
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-116-s6-6-3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.116 Standard No. 116; Motor vehicle brake fluids.
 phase: cross_phase
-primary_topic: materials-corrosion-test
+primary_topic: s6-6-3-materials-a-corrosion-test-strips-two-sets-of-strips-from-each-of-the-met
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.116.xml
   source_hashes:
     raw/collections/xml_fmvss/571.116.xml: d845cfb317ee465277b49f367345aff5e46dfea4c77f6308db10eb145406c8e2
   source_url: null
+raw_marker: S6.6.3
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-116 / s6-6-3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.116.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.116.xml: d845cfb317ee465277b49f367345aff5e46dfea4c77f6308db10eb145406c8e2
 source_url: null
 statement: S6.6.3 Materials. (a) Corrosion test strips. Two sets of strips from each
   of the metals listed in Appendix C of SAE Standard J1703b (1970) (incorporated by
@@ -49,6 +63,7 @@ statement: S6.6.3 Materials. (a) Corrosion test strips. Two sets of strips from 
   Other strips, if used, shall not be employed if they cannot be polished to a high
   finish.
 status: draft
+subject: null
 summary: Regulation unit `s6-6-3` from xml_fmvss-571-116.
 title: S6.6.3 Materials. (a) Corrosion test strips. Two sets of strips from each of
   the metals listed in Appendix C of SAE Stan
@@ -66,7 +81,7 @@ S6.6.3 Materials. (a) Corrosion test strips. Two sets of strips from each of the
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: materials-corrosion-test
+- primary_topic: s6-6-3-materials-a-corrosion-test-strips-two-sets-of-strips-from-each-of-the-met
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -77,6 +92,7 @@ S6.6.3 Materials. (a) Corrosion test strips. Two sets of strips from each of the
 ## Authority
 - clause_path: s6-6-3
 - source_file: raw/collections/xml_fmvss/571.116.xml
+- source_citation: xml_fmvss-571-116 / s6-6-3
 - source_url: n/a
 - confidence: medium
 

@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S3. Definitions.
 
   Ejection impactor means a device specified in S7.1 of this standard that is a component
@@ -62,43 +64,56 @@ browse_buckets:
 - seat_systems
 - glazing_retention
 clause_path: s3
+comparison_key: a7305396c713dc64ed9be8c6da9cdf54ada594e6
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-226
+document_kind: null
 effective_date: null
 functional_domain:
-- crash_avoidance_and_vehicle_control
+- structural_integrity_retention_and_egress
 id: regunit-xml_fmvss-571-226-s3
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: post_crash_egress
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.226 Standard No. 226; Ejection Mitigation.
+phase: in_crash
+primary_topic: ejection_mitigation
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.226.xml
   source_hashes:
     raw/collections/xml_fmvss/571.226.xml: 8a8dd5dd312963e0cc3aec49a6005d0464c58fe78d063c6336f39a8a49a921e6
   source_url: null
+raw_marker: S3
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - seat_belts
 - doors
 - egress
 - glazing
+sectno: null
+source_citation: xml_fmvss-571-226 / s3
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.226.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.226.xml: 8a8dd5dd312963e0cc3aec49a6005d0464c58fe78d063c6336f39a8a49a921e6
 source_url: null
 statement: S3. Definitions.
 status: draft
+subject: null
 summary: Regulation unit `s3` from xml_fmvss-571-226.
 title: S3. Definitions.
 updated: '2026-04-13'
@@ -113,12 +128,12 @@ S3. Definitions.
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: crash_avoidance_and_vehicle_control
-- primary_topic: post_crash_egress
+- phase: in_crash
+- functional_domain: structural_integrity_retention_and_egress
+- primary_topic: ejection_mitigation
 - secondary_topics: seat_belts, doors, egress, glazing
 - browse_buckets: side_impact, occupant_restraints, occupant_compartment_integrity, door_retention, anti_ejection, head_impact, seat_systems, glazing_retention
-- legacy_domain: needs_review
+- legacy_domain: passive_crash
 
 ## Basis
 S3. Definitions.
@@ -138,6 +153,7 @@ Zero displacement plane means, a vertical plane parallel to the vehicle longitud
 ## Authority
 - clause_path: s3
 - source_file: raw/collections/xml_fmvss/571.226.xml
+- source_citation: xml_fmvss-571-226 / s3
 - source_url: n/a
 - confidence: medium
 

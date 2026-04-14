@@ -1,73 +1,92 @@
 ---
 aliases: []
-basis: (e) Increase the load at the rate of 250 ±50 N/minute to 50 ±1 N and, after
-  5.5 ±0.5 seconds at this load, determine the position of the cylindrical device
-  with respect to its initial reference position.
-browse_buckets: []
+attachment_bucket: null
+attachment_section: null
+basis: (e) Impact the anterior surface of the seat or head restraint at any point
+  with a height greater than 635 mm and within a distance of the head restraint vertical
+  centerline of 70 mm.
+browse_buckets:
+- head_impact
+- seat_systems
 clause_path: e
+comparison_key: a2b5c9b39aa077bec187b8b3aa4fda33745465cb
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-202a
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-202a-e
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: increase-load-rate
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.202a Standard No. 202a; Head restraints; Mandatory applicability
+  begins on September 1, 2009.
+phase: in_crash
+primary_topic: e-impact-the-anterior-surface-of-the-seat-or-head-restraint-at-any-point-with-a-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.202a.xml
   source_hashes:
     raw/collections/xml_fmvss/571.202a.xml: 5f017f1d67b0a4f98b409243ecb0861e372971e196859137d6987a060c92619b
   source_url: null
+raw_marker: (e)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-202a / e
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.202a.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.202a.xml: 5f017f1d67b0a4f98b409243ecb0861e372971e196859137d6987a060c92619b
 source_url: null
-statement: (e) Increase the load at the rate of 250 ±50 N/minute to 50 ±1 N and, after
-  5.5 ±0.5 seconds at this load, determine the position of the cylindrical device
-  with respect to its initial reference position.
+statement: (e) Impact the anterior surface of the seat or head restraint at any point
+  with a height greater than 635 mm and within a distance of the head restraint vertical
+  centerline of 70 mm.
 status: draft
+subject: null
 summary: Regulation unit `e` from xml_fmvss-571-202a.
-title: (e) Increase the load at the rate of 250 ±50 N/minute to 50 ±1 N and, after
-  5.5 ±0.5 seconds at this load, determine the
+title: '(e) Impact the anterior surface of the seat or head restraint at any point
+  with a height greater than 635 mm and within '
 updated: '2026-04-13'
 ---
 
-# (e) Increase the load at the rate of 250 ±50 N/minute to 50 ±1 N and, after 5.5 ±0.5 seconds at this load, determine the
+# (e) Impact the anterior surface of the seat or head restraint at any point with a height greater than 635 mm and within 
 
 ## Statement
-(e) Increase the load at the rate of 250 ±50 N/minute to 50 ±1 N and, after 5.5 ±0.5 seconds at this load, determine the position of the cylindrical device with respect to its initial reference position.
+(e) Impact the anterior surface of the seat or head restraint at any point with a height greater than 635 mm and within a distance of the head restraint vertical centerline of 70 mm.
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: increase-load-rate
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: e-impact-the-anterior-surface-of-the-seat-or-head-restraint-at-any-point-with-a-
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: needs_review
+- browse_buckets: head_impact, seat_systems
+- legacy_domain: passive_crash
 
 ## Basis
-(e) Increase the load at the rate of 250 ±50 N/minute to 50 ±1 N and, after 5.5 ±0.5 seconds at this load, determine the position of the cylindrical device with respect to its initial reference position.
+(e) Impact the anterior surface of the seat or head restraint at any point with a height greater than 635 mm and within a distance of the head restraint vertical centerline of 70 mm.
 
 ## Authority
 - clause_path: e
 - source_file: raw/collections/xml_fmvss/571.202a.xml
+- source_citation: xml_fmvss-571-202a / e
 - source_url: n/a
 - confidence: medium
 

@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S4.4 Non-Pneumatic Tire Identification Code and Non-Pneumatic Rim/Wheel Center
   Member Matching Information. For purposes of this standard, S8 of 49 CFR 571.110
   and S10 of 49 CFR 571.120, each manufacturer of a non-pneumatic tire that is not
@@ -21,36 +23,48 @@ basis: 'S4.4 Non-Pneumatic Tire Identification Code and Non-Pneumatic Rim/Wheel 
   forms:'
 browse_buckets: []
 clause_path: s4-4
+comparison_key: 4018f4732eae17d273ad427d105136499e27483a
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-129
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-129-s4-4
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.129 Standard No. 129; New non-pneumatic tires for passenger cars.
 phase: cross_phase
-primary_topic: pneumatic-tire-identification
+primary_topic: s4-4-non-pneumatic-tire-identification-code-and-non-pneumatic-rim-wheel-center-m
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.129.xml
   source_hashes:
     raw/collections/xml_fmvss/571.129.xml: d85c856e631d7a74f957e4b31f792dfc0265861a349c01bc9df9f4cd32e1a800
   source_url: null
+raw_marker: S4.4
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-129 / s4-4
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.129.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.129.xml: d85c856e631d7a74f957e4b31f792dfc0265861a349c01bc9df9f4cd32e1a800
 source_url: null
 statement: 'S4.4 Non-Pneumatic Tire Identification Code and Non-Pneumatic Rim/Wheel
   Center Member Matching Information. For purposes of this standard, S8 of 49 CFR
@@ -72,6 +86,7 @@ statement: 'S4.4 Non-Pneumatic Tire Identification Code and Non-Pneumatic Rim/Wh
   with paragraph (b) of this section. The listing shall be in one of the following
   forms:'
 status: draft
+subject: null
 summary: Regulation unit `s4-4` from xml_fmvss-571-129.
 title: S4.4 Non-Pneumatic Tire Identification Code and Non-Pneumatic Rim/Wheel Center
   Member Matching Information. For purposes
@@ -89,7 +104,7 @@ S4.4 Non-Pneumatic Tire Identification Code and Non-Pneumatic Rim/Wheel Center M
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: pneumatic-tire-identification
+- primary_topic: s4-4-non-pneumatic-tire-identification-code-and-non-pneumatic-rim-wheel-center-m
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -100,6 +115,7 @@ S4.4 Non-Pneumatic Tire Identification Code and Non-Pneumatic Rim/Wheel Center M
 ## Authority
 - clause_path: s4-4
 - source_file: raw/collections/xml_fmvss/571.129.xml
+- source_citation: xml_fmvss-571-129 / s4-4
 - source_url: n/a
 - confidence: medium
 

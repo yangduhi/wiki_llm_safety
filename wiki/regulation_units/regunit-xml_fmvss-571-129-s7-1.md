@@ -1,47 +1,62 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S7.1 Tires manufactured on or after September 1, 2005 and before September
   1, 2006. For tires manufactured on or after September 1, 2005 and before September
   1, 2006, the number of tires complying with S4.3 of this standard must be equal
   to not less than 40% of the manufacturer's production during that period.
 browse_buckets: []
 clause_path: s7-1
+comparison_key: 16ad85f10ca752e3f5ea396a6e7ee8622853ef98
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-129
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-129-s7-1
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.129 Standard No. 129; New non-pneumatic tires for passenger cars.
 phase: cross_phase
-primary_topic: tires-manufactured-after
+primary_topic: s7-1-tires-manufactured-on-or-after-september-1-2005-and-before-september-1-2006
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.129.xml
   source_hashes:
     raw/collections/xml_fmvss/571.129.xml: d85c856e631d7a74f957e4b31f792dfc0265861a349c01bc9df9f4cd32e1a800
   source_url: null
+raw_marker: S7.1
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-129 / s7-1
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.129.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.129.xml: d85c856e631d7a74f957e4b31f792dfc0265861a349c01bc9df9f4cd32e1a800
 source_url: null
 statement: S7.1 Tires manufactured on or after September 1, 2005 and before September
   1, 2006. For tires manufactured on or after September 1, 2005 and before September
   1, 2006, the number of tires complying with S4.3 of this standard must be equal
   to not less than 40% of the manufacturer's production during that period.
 status: draft
+subject: null
 summary: Regulation unit `s7-1` from xml_fmvss-571-129.
 title: S7.1 Tires manufactured on or after September 1, 2005 and before September
   1, 2006. For tires manufactured on or after S
@@ -59,7 +74,7 @@ S7.1 Tires manufactured on or after September 1, 2005 and before September 1, 20
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: tires-manufactured-after
+- primary_topic: s7-1-tires-manufactured-on-or-after-september-1-2005-and-before-september-1-2006
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -70,6 +85,7 @@ S7.1 Tires manufactured on or after September 1, 2005 and before September 1, 20
 ## Authority
 - clause_path: s7-1
 - source_file: raw/collections/xml_fmvss/571.129.xml
+- source_citation: xml_fmvss-571-129 / s7-1
 - source_url: n/a
 - confidence: medium
 

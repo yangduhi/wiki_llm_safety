@@ -1,46 +1,61 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S2. Application. This standard applies to seat belt assemblies for use in passenger
   cars, multipurpose passenger vehicles, trucks, and buses.
 browse_buckets:
 - occupant_restraints
 - seat_systems
 clause_path: s2
+comparison_key: 3ccb43b90cc683b5f84c88ed35d8bfad85f51797
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-209
+document_kind: null
 effective_date: null
 functional_domain:
 - occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-209-s2
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: passive_crash
+legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: in_crash
-primary_topic: application-this-standard
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.209 Standard No. 209; Seat belt assemblies.
+phase: cross_phase
+primary_topic: s2-application-this-standard-applies-to-seat-belt-assemblies-for-use-in-passenge
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.209.xml
   source_hashes:
     raw/collections/xml_fmvss/571.209.xml: e26e250f0b7090e9729431ec45532f14d578a238e93d8bbce26e7fa3d774e825
   source_url: null
+raw_marker: S2
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - seat_belts
+sectno: null
+source_citation: xml_fmvss-571-209 / s2
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.209.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.209.xml: e26e250f0b7090e9729431ec45532f14d578a238e93d8bbce26e7fa3d774e825
 source_url: null
 statement: S2. Application. This standard applies to seat belt assemblies for use
   in passenger cars, multipurpose passenger vehicles, trucks, and buses.
 status: draft
+subject: null
 summary: Regulation unit `s2` from xml_fmvss-571-209.
 title: S2. Application. This standard applies to seat belt assemblies for use in passenger
   cars, multipurpose passenger vehicle
@@ -56,12 +71,12 @@ S2. Application. This standard applies to seat belt assemblies for use in passen
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: in_crash
+- phase: cross_phase
 - functional_domain: occupant_protection_and_restraints
-- primary_topic: application-this-standard
+- primary_topic: s2-application-this-standard-applies-to-seat-belt-assemblies-for-use-in-passenge
 - secondary_topics: seat_belts
 - browse_buckets: occupant_restraints, seat_systems
-- legacy_domain: passive_crash
+- legacy_domain: needs_review
 
 ## Basis
 S2. Application. This standard applies to seat belt assemblies for use in passenger cars, multipurpose passenger vehicles, trucks, and buses.
@@ -69,6 +84,7 @@ S2. Application. This standard applies to seat belt assemblies for use in passen
 ## Authority
 - clause_path: s2
 - source_file: raw/collections/xml_fmvss/571.209.xml
+- source_citation: xml_fmvss-571-209 / s2
 - source_url: n/a
 - confidence: medium
 

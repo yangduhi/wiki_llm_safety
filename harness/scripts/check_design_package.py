@@ -14,9 +14,11 @@ REQUIRED_FILES = [
     "docs/architecture/adr/ADR-0002-regulation-unit-granularity.md",
     "docs/architecture/adr/ADR-0003-authoritative-source-policy.md",
     "docs/architecture/adr/ADR-0004-obsidian-note-contract.md",
+    "docs/operations/notes/generated-surfaces.md",
     "taxonomy/phase_registry.yaml",
     "taxonomy/functional_domains.yaml",
     "taxonomy/in_crash_browse_buckets.yaml",
+    "taxonomy/kmvss_signal_lexicon.yaml",
     "taxonomy/compat_active_safety_v1.yaml",
     "taxonomy/compat_passive_buckets_v1.yaml",
     "taxonomy/crosswalk_v1_to_v2.yaml",
@@ -24,6 +26,19 @@ REQUIRED_FILES = [
     "schemas/note_frontmatter.schema.json",
     "sources/authority_registry.yaml",
     "sources/document_inventory.csv",
+    "docs/operations/pilot/reclassification_20_document_set.csv",
+    "docs/operations/pilot/reclassification_20_document_adjudications.jsonl",
+    "docs/operations/pilot/reclassification_20_unit_samples.csv",
+    "docs/operations/pilot/reclassification_20_unit_adjudications.jsonl",
+    "docs/operations/pilot/reclassification_20_decision_table.md",
+    "docs/operations/pilot/reclassification_dashboard_delta.md",
+    "docs/operations/pilot/reclassification_unit_vs_document_delta.md",
+    "docs/operations/pilot/representative_xml_kmvss_subset.csv",
+    "docs/operations/pilot/representative_pdf_ece_subset.csv",
+    "docs/operations/pilot/kmvss_holdout_set.csv",
+    "docs/operations/pilot/kmvss_negative_control_set.csv",
+    "docs/operations/pilot/kmvss_assumptions.md",
+    "docs/operations/pilot/kmvss_classification_consumption_analysis.md",
 ]
 
 
@@ -101,6 +116,40 @@ def main() -> int:
     browse_ids = {row.get("bucket_id") for row in browse_registry.get("browse_buckets") or [] if isinstance(row, dict)}
     if len(browse_ids) != 16:
         errors.append(f"in_crash_browse_buckets.yaml must define exactly 16 buckets, found {len(browse_ids)}")
+
+    with (root / "docs/operations/pilot/reclassification_20_document_set.csv").open("r", encoding="utf-8", newline="") as handle:
+        calibration_rows = list(csv.DictReader(handle))
+    if len(calibration_rows) != 20:
+        errors.append(f"reclassification_20_document_set.csv must contain exactly 20 rows, found {len(calibration_rows)}")
+
+    calibration_adjudications = [
+        json.loads(line)
+        for line in (root / "docs/operations/pilot/reclassification_20_document_adjudications.jsonl").read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
+    if len(calibration_adjudications) != 20:
+        errors.append(f"reclassification_20_document_adjudications.jsonl must contain exactly 20 rows, found {len(calibration_adjudications)}")
+    for row in calibration_adjudications:
+        for field in ("selected_phase", "rejected_alternative_phase", "selected_phase_rationale", "rejected_alternative_rationale"):
+            if not str(row.get(field) or "").strip():
+                errors.append(f"document adjudication missing `{field}` for `{row.get('calibration_id')}`")
+
+    with (root / "docs/operations/pilot/reclassification_20_unit_samples.csv").open("r", encoding="utf-8", newline="") as handle:
+        unit_sample_rows = list(csv.DictReader(handle))
+    if len(unit_sample_rows) < 60:
+        errors.append(f"reclassification_20_unit_samples.csv must contain at least 60 rows, found {len(unit_sample_rows)}")
+
+    unit_adjudications = [
+        json.loads(line)
+        for line in (root / "docs/operations/pilot/reclassification_20_unit_adjudications.jsonl").read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
+    if len(unit_adjudications) < 60:
+        errors.append(f"reclassification_20_unit_adjudications.jsonl must contain at least 60 rows, found {len(unit_adjudications)}")
+    for row in unit_adjudications:
+        for field in ("selected_phase", "rejected_alternative_phase", "selected_phase_rationale", "rejected_alternative_rationale"):
+            if not str(row.get(field) or "").strip():
+                errors.append(f"unit adjudication missing `{field}` for `{row.get('unit_sample_id')}`")
 
     if errors:
         print("Design package check failed.")

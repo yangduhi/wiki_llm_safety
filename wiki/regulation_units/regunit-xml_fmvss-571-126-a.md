@@ -1,68 +1,88 @@
 ---
 aliases: []
-basis: (a) A vehicle that is imported must be attributed to the importer.
+attachment_bucket: null
+attachment_section: null
+basis: (a) The manufacturer's average annual production of vehicles manufactured on
+  or after September 1, 2005, and before September 1, 2008; or
 browse_buckets: []
 clause_path: a
+comparison_key: 83a3d5ec2c25415d55e941af588ce7b87c1e83f6
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-126
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- crash_avoidance_and_vehicle_control
 id: regunit-xml_fmvss-571-126-a
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: active_safety
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: vehicle-that-imported
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.126 Standard No. 126; Electronic stability control systems for
+  light vehicles.
+phase: pre_crash
+primary_topic: electronic_stability_control
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.126.xml
   source_hashes:
     raw/collections/xml_fmvss/571.126.xml: f9ff338e2690bc723beee2ce85e876309ad36fd16c279e7e08c80462a0a915f3
   source_url: null
+raw_marker: (a)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-126 / a
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.126.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.126.xml: f9ff338e2690bc723beee2ce85e876309ad36fd16c279e7e08c80462a0a915f3
 source_url: null
-statement: (a) A vehicle that is imported must be attributed to the importer.
+statement: (a) The manufacturer's average annual production of vehicles manufactured
+  on or after September 1, 2005, and before September 1, 2008; or
 status: draft
+subject: null
 summary: Regulation unit `a` from xml_fmvss-571-126.
-title: (a) A vehicle that is imported must be attributed to the importer.
+title: (a) The manufacturer's average annual production of vehicles manufactured on
+  or after September 1, 2005, and before Sept
 updated: '2026-04-13'
 ---
 
-# (a) A vehicle that is imported must be attributed to the importer.
+# (a) The manufacturer's average annual production of vehicles manufactured on or after September 1, 2005, and before Sept
 
 ## Statement
-(a) A vehicle that is imported must be attributed to the importer.
+(a) The manufacturer's average annual production of vehicles manufactured on or after September 1, 2005, and before September 1, 2008; or
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: vehicle-that-imported
+- phase: pre_crash
+- functional_domain: crash_avoidance_and_vehicle_control
+- primary_topic: electronic_stability_control
 - secondary_topics: n/a
 - browse_buckets: n/a
-- legacy_domain: needs_review
+- legacy_domain: active_safety
 
 ## Basis
-(a) A vehicle that is imported must be attributed to the importer.
+(a) The manufacturer's average annual production of vehicles manufactured on or after September 1, 2005, and before September 1, 2008; or
 
 ## Authority
 - clause_path: a
 - source_file: raw/collections/xml_fmvss/571.126.xml
+- source_citation: xml_fmvss-571-126 / a
 - source_url: n/a
 - confidence: medium
 

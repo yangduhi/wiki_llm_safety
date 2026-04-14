@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: S6.1.10.4 The control trailer is loaded so that its axle is loaded at 4,500
   pounds and the tractor is loaded to its GVWR, loaded above the kingpin only, with
   the tractor's fifth wheel adjusted so that the load on each axle measured at the
@@ -7,36 +9,48 @@ basis: S6.1.10.4 The control trailer is loaded so that its axle is loaded at 4,5
   without exceeding the GAWR of the tractor's axle or axles or control trailer's axle.
 browse_buckets: []
 clause_path: s6-1-10-4
+comparison_key: feb61cfbc50d8c2f1efeb900c2e6281f740adc12
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-121
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-121-s6-1-10-4
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.121 Standard No. 121; Air brake systems.
 phase: cross_phase
-primary_topic: control-trailer-loaded
+primary_topic: s6-1-10-4-the-control-trailer-is-loaded-so-that-its-axle-is-loaded-at-4-500-poun
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.121.xml
   source_hashes:
     raw/collections/xml_fmvss/571.121.xml: 93908adb7995f79cc78caf3fc599b484177ed42de1ff0e056803b1ab47daddda
   source_url: null
+raw_marker: S6.1.10.4
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-121 / s6-1-10-4
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.121.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.121.xml: 93908adb7995f79cc78caf3fc599b484177ed42de1ff0e056803b1ab47daddda
 source_url: null
 statement: S6.1.10.4 The control trailer is loaded so that its axle is loaded at 4,500
   pounds and the tractor is loaded to its GVWR, loaded above the kingpin only, with
@@ -44,6 +58,7 @@ statement: S6.1.10.4 The control trailer is loaded so that its axle is loaded at
   tire-ground interface is most nearly proportional to the axles' respective GAWRs,
   without exceeding the GAWR of the tractor's axle or axles or control trailer's axle.
 status: draft
+subject: null
 summary: Regulation unit `s6-1-10-4` from xml_fmvss-571-121.
 title: S6.1.10.4 The control trailer is loaded so that its axle is loaded at 4,500
   pounds and the tractor is loaded to its GVWR
@@ -61,7 +76,7 @@ S6.1.10.4 The control trailer is loaded so that its axle is loaded at 4,500 poun
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: control-trailer-loaded
+- primary_topic: s6-1-10-4-the-control-trailer-is-loaded-so-that-its-axle-is-loaded-at-4-500-poun
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -72,6 +87,7 @@ S6.1.10.4 The control trailer is loaded so that its axle is loaded at 4,500 poun
 ## Authority
 - clause_path: s6-1-10-4
 - source_file: raw/collections/xml_fmvss/571.121.xml
+- source_citation: xml_fmvss-571-121 / s6-1-10-4
 - source_url: n/a
 - confidence: medium
 

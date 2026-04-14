@@ -1,5 +1,7 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S7. Test procedure and sequence. Each vehicle shall be capable of meeting
   all the applicable requirements of S5 when tested according to the procedures and
   sequence set forth below, without replacing any brake system part or making any
@@ -19,36 +21,48 @@ basis: 'S7. Test procedure and sequence. Each vehicle shall be capable of meetin
   a stop or snub must be obtained by the following procedures:'
 browse_buckets: []
 clause_path: s7
+comparison_key: 44e123ff4f782ad7091c479f991eea6e269cff45
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-105
+document_kind: null
 effective_date: null
 functional_domain:
 - other_or_review
 id: regunit-xml_fmvss-571-105-s7
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.105 Standard No. 105; Hydraulic and electric brake systems.
 phase: cross_phase
-primary_topic: test-procedure-sequence
+primary_topic: s7-test-procedure-and-sequence-each-vehicle-shall-be-capable-of-meeting-all-the-
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.105.xml
   source_hashes:
     raw/collections/xml_fmvss/571.105.xml: 624b2aa080e310d3d805c34b311d60726267496c1ea71903dc6fca78d1b2e23f
   source_url: null
+raw_marker: S7
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-105 / s7
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.105.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.105.xml: 624b2aa080e310d3d805c34b311d60726267496c1ea71903dc6fca78d1b2e23f
 source_url: null
 statement: 'S7. Test procedure and sequence. Each vehicle shall be capable of meeting
   all the applicable requirements of S5 when tested according to the procedures and
@@ -68,6 +82,7 @@ statement: 'S7. Test procedure and sequence. Each vehicle shall be capable of me
   II. When the transmission selector control is required to be in neutral for a deceleration,
   a stop or snub must be obtained by the following procedures:'
 status: draft
+subject: null
 summary: Regulation unit `s7` from xml_fmvss-571-105.
 title: S7. Test procedure and sequence. Each vehicle shall be capable of meeting all
   the applicable requirements of S5 when tes
@@ -85,7 +100,7 @@ S7. Test procedure and sequence. Each vehicle shall be capable of meeting all th
 - regulatory_layer: technical_requirement
 - phase: cross_phase
 - functional_domain: other_or_review
-- primary_topic: test-procedure-sequence
+- primary_topic: s7-test-procedure-and-sequence-each-vehicle-shall-be-capable-of-meeting-all-the-
 - secondary_topics: n/a
 - browse_buckets: n/a
 - legacy_domain: needs_review
@@ -96,6 +111,7 @@ S7. Test procedure and sequence. Each vehicle shall be capable of meeting all th
 ## Authority
 - clause_path: s7
 - source_file: raw/collections/xml_fmvss/571.105.xml
+- source_citation: xml_fmvss-571-105 / s7
 - source_url: n/a
 - confidence: medium
 

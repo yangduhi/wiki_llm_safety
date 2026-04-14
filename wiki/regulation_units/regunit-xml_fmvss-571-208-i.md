@@ -1,77 +1,99 @@
 ---
 aliases: []
-basis: '(i) Fzc = 3880 N (872 lbf) when Fz is in tension
+attachment_bucket: null
+attachment_section: null
+basis: '(i) Meet the requirements of S4.1.4.2 with the seat in any position in which
+  it can be occupied while the vehicle is in motion; or
 
-  (ii) Fzc = 3880 N (872 lbf) when Fz is in compression
-
-  (iii) Myc = 155 Nm (114 lbf-ft) when a flexion moment exists at the occipital condyle
-
-  (iv) Myc = 61 Nm (45 lbf-ft) when an extension moment exists at the occipital condyle.'
-browse_buckets: []
+  (ii) When the seat is in its forward-facing position, have a Type 2 seat belt assembly
+  with an upper torso restraint that conforms to S7.1 and S7.2 of this standard and
+  that adjusts by means of an emergency locking retractor that conforms with Standard
+  No. 209 (49 CFR 571.209), which upper torso restraint may be detachable at the buckle,
+  and, when the seat is in any position in which it can be occupied while the vehicle
+  is in motion, have a Type 1 seat belt or the pelvic portion of a Type 2 seat belt
+  assembly that conforms to S7.1 and S7.2 of this standard.'
+browse_buckets:
+- occupant_restraints
+- seat_systems
 clause_path: i
+comparison_key: 3a04823c5030ac220a824f16f85c228ff88b877c
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-208
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-208-i
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: 3880-when-tension
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.208 Standard No. 208; Occupant crash protection.
+phase: in_crash
+primary_topic: frontal_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.208.xml
   source_hashes:
     raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
   source_url: null
+raw_marker: (i)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
-secondary_topics: []
+row_group_id: null
+secondary_topics:
+- seat_belts
+sectno: null
+source_citation: xml_fmvss-571-208 / i
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.208.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.208.xml: ee70d156fea349dc14f70044beae0c658368630b26386f3ce3bdd989287dee60
 source_url: null
-statement: (i) Fzc = 3880 N (872 lbf) when Fz is in tension
+statement: (i) Meet the requirements of S4.1.4.2 with the seat in any position in
+  which it can be occupied while the vehicle is in motion; or
 status: draft
+subject: null
 summary: Regulation unit `i` from xml_fmvss-571-208.
-title: (i) Fzc = 3880 N (872 lbf) when Fz is in tension
+title: '(i) Meet the requirements of S4.1.4.2 with the seat in any position in which
+  it can be occupied while the vehicle is in '
 updated: '2026-04-13'
 ---
 
-# (i) Fzc = 3880 N (872 lbf) when Fz is in tension
+# (i) Meet the requirements of S4.1.4.2 with the seat in any position in which it can be occupied while the vehicle is in 
 
 ## Statement
-(i) Fzc = 3880 N (872 lbf) when Fz is in tension
+(i) Meet the requirements of S4.1.4.2 with the seat in any position in which it can be occupied while the vehicle is in motion; or
 
 ## Classification
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: 3880-when-tension
-- secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: needs_review
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: frontal_impact
+- secondary_topics: seat_belts
+- browse_buckets: occupant_restraints, seat_systems
+- legacy_domain: passive_crash
 
 ## Basis
-(i) Fzc = 3880 N (872 lbf) when Fz is in tension
-(ii) Fzc = 3880 N (872 lbf) when Fz is in compression
-(iii) Myc = 155 Nm (114 lbf-ft) when a flexion moment exists at the occipital condyle
-(iv) Myc = 61 Nm (45 lbf-ft) when an extension moment exists at the occipital condyle.
+(i) Meet the requirements of S4.1.4.2 with the seat in any position in which it can be occupied while the vehicle is in motion; or
+(ii) When the seat is in its forward-facing position, have a Type 2 seat belt assembly with an upper torso restraint that conforms to S7.1 and S7.2 of this standard and that adjusts by means of an emergency locking retractor that conforms with Standard No. 209 (49 CFR 571.209), which upper torso restraint may be detachable at the buckle, and, when the seat is in any position in which it can be occupied while the vehicle is in motion, have a Type 1 seat belt or the pelvic portion of a Type 2 seat belt assembly that conforms to S7.1 and S7.2 of this standard.
 
 ## Authority
 - clause_path: i
 - source_file: raw/collections/xml_fmvss/571.208.xml
+- source_citation: xml_fmvss-571-208 / i
 - source_url: n/a
 - confidence: medium
 

@@ -1,0 +1,13 @@
+holdout_id,raw_file,expected_phase,expected_functional_domain,rationale
+holdout-102-151,KMVSS_Art_102_151.xml,in_crash,occupant_protection_and_restraints,충돌 시의 승객보호는 in-crash occupant protection anchor
+holdout-102-152,KMVSS_Art_102_152.xml,in_crash,vru_protection,보행자 보호는 in-crash vulnerable road user protection anchor
+holdout-14-019,KMVSS_Art_14_019.xml,pre_crash,crash_avoidance_and_vehicle_control,차로이탈경고장치는 pre-crash warning/control anchor
+holdout-15-021,KMVSS_Art_15_021.xml,pre_crash,crash_avoidance_and_vehicle_control,자동차안정성제어장치는 pre-crash control anchor
+holdout-15-022,KMVSS_Art_15_022.xml,pre_crash,crash_avoidance_and_vehicle_control,비상자동제동장치는 pre-crash intervention anchor
+holdout-18-026,KMVSS_Art_18_026.xml,post_crash,fire_electrical_and_energy_storage_safety,고전원전기장치는 post-crash electrical safety anchor
+holdout-18-027,KMVSS_Art_18_027.xml,post_crash,fire_electrical_and_energy_storage_safety,구동축전지는 post-crash energy storage safety anchor
+holdout-30-044,KMVSS_Art_30_044.xml,post_crash,structural_integrity_retention_and_egress,비상탈출장치는 post-crash egress anchor
+holdout-34-048,KMVSS_Art_34_048.xml,cross_phase,visibility_glazing_and_driver_information,창유리 등은 visibility와 retention 성격이 섞인 cross-phase anchor
+holdout-38-052,KMVSS_Art_38_052.xml,pre_crash,visibility_glazing_and_driver_information,전조등은 pre-crash visibility anchor
+holdout-53-077,KMVSS_Art_53_077.xml,pre_crash,crash_avoidance_and_vehicle_control,후방보행자 안전장치는 pre-crash safety support anchor
+holdout-116-192,KMVSS_Art_116_192.xml,non_phase_admin,other_or_review,시험방법 등의 고시는 administrative anchor

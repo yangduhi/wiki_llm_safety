@@ -1,55 +1,70 @@
 ---
 aliases: []
-basis: (g) Windows and doors in motor homes, except for the windshield, forward-facing
-  windows, and windows to the immediate right or left of the driver.
+attachment_bucket: null
+attachment_section: null
+basis: (g) Windows and doors in slide-in campers and pickup covers.
 browse_buckets:
 - door_retention
+- glazing_retention
 clause_path: g
+comparison_key: d157e0a4de3a2bfd8e230c75e2c0064ffa737132
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-205-a
+document_kind: null
 effective_date: null
 functional_domain:
 - structural_integrity_retention_and_egress
 id: regunit-xml_fmvss-571-205-a-g
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
 legacy_domain: needs_review
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.205(a) Glazing equipment manufactured before September 1, 2006
+  and glazing materials used in vehicles manufactured before November 1, 2006.
 phase: cross_phase
 primary_topic: glazing_visibility
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.205(a).xml
   source_hashes:
     raw/collections/xml_fmvss/571.205(a).xml: d4a459144faee8912dade1e92f295efa23109fa129e1ac5de092bbb9c1d9dc48
   source_url: null
+raw_marker: (g)
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics:
 - doors
+- glazing
+sectno: null
+source_citation: xml_fmvss-571-205-a / g
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.205(a).xml
-source_hashes:
-  raw/collections/xml_fmvss/571.205(a).xml: d4a459144faee8912dade1e92f295efa23109fa129e1ac5de092bbb9c1d9dc48
 source_url: null
-statement: (g) Windows and doors in motor homes, except for the windshield, forward-facing
-  windows, and windows to the immediate right or left of the driver.
+statement: (g) Windows and doors in slide-in campers and pickup covers.
 status: draft
+subject: null
 summary: Regulation unit `g` from xml_fmvss-571-205-a.
-title: (g) Windows and doors in motor homes, except for the windshield, forward-facing
-  windows, and windows to the immediate ri
+title: (g) Windows and doors in slide-in campers and pickup covers.
 updated: '2026-04-13'
 ---
 
-# (g) Windows and doors in motor homes, except for the windshield, forward-facing windows, and windows to the immediate ri
+# (g) Windows and doors in slide-in campers and pickup covers.
 
 ## Statement
-(g) Windows and doors in motor homes, except for the windshield, forward-facing windows, and windows to the immediate right or left of the driver.
+(g) Windows and doors in slide-in campers and pickup covers.
 
 ## Classification
 - jurisdiction: US
@@ -58,16 +73,17 @@ updated: '2026-04-13'
 - phase: cross_phase
 - functional_domain: structural_integrity_retention_and_egress
 - primary_topic: glazing_visibility
-- secondary_topics: doors
-- browse_buckets: door_retention
+- secondary_topics: doors, glazing
+- browse_buckets: door_retention, glazing_retention
 - legacy_domain: needs_review
 
 ## Basis
-(g) Windows and doors in motor homes, except for the windshield, forward-facing windows, and windows to the immediate right or left of the driver.
+(g) Windows and doors in slide-in campers and pickup covers.
 
 ## Authority
 - clause_path: g
 - source_file: raw/collections/xml_fmvss/571.205(a).xml
+- source_citation: xml_fmvss-571-205-a / g
 - source_url: n/a
 - confidence: medium
 

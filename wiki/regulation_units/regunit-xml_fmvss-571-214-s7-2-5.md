@@ -1,47 +1,63 @@
 ---
 aliases: []
+attachment_bucket: null
+attachment_section: null
 basis: 'S7.2.5 Dynamic performance requirements using the Part 572 Subpart U dummy
   (ES-2re 50th percentile male) dummy. Use the 49 CFR Part 572 Subpart U ES-2re dummy
   specified in S11 with measurements in accordance with S11.5. The following criteria
   shall be met:'
-browse_buckets: []
+browse_buckets:
+- side_impact
 clause_path: s7-2-5
+comparison_key: 8bf22c07eea5727983c2c1a25dc79609375c3d1b
 confidence: medium
 created: '2026-04-13'
 document_id: xml_fmvss-571-214
+document_kind: null
 effective_date: null
 functional_domain:
-- other_or_review
+- occupant_protection_and_restraints
 id: regunit-xml_fmvss-571-214-s7-2-5
+inherits_section_context: false
+inherits_subject_context: false
+is_attachment: false
+is_table_like_row: false
 jurisdiction: US
-legacy_domain: needs_review
+legacy_domain: passive_crash
+line_index_end: null
+line_index_start: null
 note_type: regulation_unit
 page_end: null
 page_start: null
-phase: cross_phase
-primary_topic: dynamic-performance-requirements
+parent_clause_path: null
+parent_clause_text: null
+parent_title: § 571.214 Standard No. 214; Side impact protection.
+phase: in_crash
+primary_topic: side_impact
 provenance:
-  parser_run_id: 20260413T052617Z__23a01984
+  parser_run_id: 20260414T050834Z__953d9693
   source_files:
   - raw/collections/xml_fmvss/571.214.xml
   source_hashes:
     raw/collections/xml_fmvss/571.214.xml: bc04834da3eda5481db2b2377401049c18801a5f0fbb243026534555d175922e
   source_url: null
+raw_marker: S7.2.5
 record_layer: knowledge
+reference_articles: []
 regulatory_layer: technical_requirement
 review_required: false
+row_group_id: null
 secondary_topics: []
+sectno: null
+source_citation: xml_fmvss-571-214 / s7-2-5
 source_collection: xml_fmvss
-source_files:
-- raw/collections/xml_fmvss/571.214.xml
-source_hashes:
-  raw/collections/xml_fmvss/571.214.xml: bc04834da3eda5481db2b2377401049c18801a5f0fbb243026534555d175922e
 source_url: null
 statement: 'S7.2.5 Dynamic performance requirements using the Part 572 Subpart U dummy
   (ES-2re 50th percentile male) dummy. Use the 49 CFR Part 572 Subpart U ES-2re dummy
   specified in S11 with measurements in accordance with S11.5. The following criteria
   shall be met:'
 status: draft
+subject: null
 summary: Regulation unit `s7-2-5` from xml_fmvss-571-214.
 title: 'S7.2.5 Dynamic performance requirements using the Part 572 Subpart U dummy
   (ES-2re 50th percentile male) dummy. Use the '
@@ -57,12 +73,12 @@ S7.2.5 Dynamic performance requirements using the Part 572 Subpart U dummy (ES-2
 - jurisdiction: US
 - source_collection: xml_fmvss
 - regulatory_layer: technical_requirement
-- phase: cross_phase
-- functional_domain: other_or_review
-- primary_topic: dynamic-performance-requirements
+- phase: in_crash
+- functional_domain: occupant_protection_and_restraints
+- primary_topic: side_impact
 - secondary_topics: n/a
-- browse_buckets: n/a
-- legacy_domain: needs_review
+- browse_buckets: side_impact
+- legacy_domain: passive_crash
 
 ## Basis
 S7.2.5 Dynamic performance requirements using the Part 572 Subpart U dummy (ES-2re 50th percentile male) dummy. Use the 49 CFR Part 572 Subpart U ES-2re dummy specified in S11 with measurements in accordance with S11.5. The following criteria shall be met:
@@ -70,6 +86,7 @@ S7.2.5 Dynamic performance requirements using the Part 572 Subpart U dummy (ES-2
 ## Authority
 - clause_path: s7-2-5
 - source_file: raw/collections/xml_fmvss/571.214.xml
+- source_citation: xml_fmvss-571-214 / s7-2-5
 - source_url: n/a
 - confidence: medium
 
