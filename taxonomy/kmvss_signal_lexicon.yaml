@@ -1,0 +1,544 @@
+version: 1
+
+phase_signals:
+  pre_crash:
+    title:
+      - 자율주행
+      - 부분 자율주행시스템
+      - 자동차안정성제어장치
+      - 비상자동제동장치
+      - 차로이탈경고장치
+      - 후방보행자 안전장치
+      - 저소음자동차 경고음발생장치
+      - 타이어공기압경고장치
+      - 후사경
+      - 조종장치
+      - 창닦이기장치
+      - 창닦이기 장치
+      - 전조등
+      - 안개등
+      - 간접시계장치
+      - 경광등
+      - 끝단표시등
+      - 후미등
+      - 번호등
+      - 옆면표시등
+      - 방향지시등
+      - 후부반사기
+      - 후부반사판
+      - 광원형식
+      - 광도
+      - 반사띠
+      - 속도계
+      - 제동장치
+      - 제동능력
+      - 브레이크호스
+      - 조향장치
+    body:
+      - 자동긴급제동
+      - 비상자동제동
+      - 경고장치
+      - 경고음
+      - 경고등
+      - 감지
+      - 조향
+      - 차로이탈
+      - 안정성제어
+      - 제동성능
+      - 급제동
+      - 후방보행자
+      - 자율주행
+      - 부분 자율주행
+  in_crash:
+    title:
+      - 충돌 시의 승객보호
+      - 고정벽정면충돌 안전성
+      - 기둥측면충돌 안전성
+      - 좌석안전띠장치
+      - 머리지지대
+      - 보행자 보호
+      - 차대 및 차체
+      - 운전자의 좌석
+      - 승차장치
+      - 승객좌석
+      - 승강구
+      - 비상탈출장치
+      - 차체강도
+    body:
+      - 충돌
+      - 승객보호
+      - 탑승자
+      - 안전띠
+      - 좌석
+      - 차체강도
+      - 정면충돌
+      - 측면충돌
+      - 이탈
+      - 유지
+      - 비상탈출
+      - 승강구
+  post_crash:
+    title:
+      - 구동축전지
+      - 고전원전기장치
+      - 전기장치
+      - 연료장치
+      - 비상탈출장치
+      - 사고기록
+      - 긴급통화
+      - 비상탈출장치
+    body:
+      - 고전압
+      - 전기충격
+      - 감전
+      - 전해액
+      - 누출
+      - 절연
+      - 절연저항
+      - 화재
+      - 수소
+      - 차단밸브
+      - 구조
+      - 탈출
+      - 사고 후
+      - 충돌 후
+      - 긴급통화
+      - 사고기록
+      - 구동축전지
+  non_phase_admin:
+    title:
+      - 기준적용의 특례
+      - 장치 기준에 관한 특례
+      - 시험방법 등의 고시
+      - 전자파 적합성
+      - 인증
+      - 조사
+      - 특례
+      - 목적
+      - 정의
+    body:
+      - 특례
+      - 적용하지 않는다
+      - 장관
+      - 고시
+      - 시험성적서
+      - 인증
+      - 조사
+      - 적합성
+      - 허용차
+      - 기준적용
+      - 적용 제외
+      - 표시 기준
+      - 표기 기준
+
+domain_signals:
+  crash_avoidance_and_vehicle_control:
+    title:
+      - 자율주행
+      - 부분 자율주행시스템
+      - 자동차안정성제어장치
+      - 비상자동제동장치
+      - 차로이탈경고장치
+      - 타이어공기압경고장치
+      - 후방보행자 안전장치
+      - 후사경
+      - 조종장치
+      - 창닦이기장치
+      - 창닦이기 장치
+      - 간접시계장치
+      - 경광등
+      - 끝단표시등
+      - 후미등
+      - 번호등
+      - 옆면표시등
+      - 안개등
+      - 브레이크호스
+      - 제동능력
+      - 제동장치
+      - 조향장치
+    body:
+      - 자율주행
+      - 자동긴급제동
+      - 비상자동제동
+      - 경고장치
+      - 조향
+      - 안정성제어
+      - 제동성능
+      - 급제동
+      - 차로이탈
+      - 후방보행자
+  occupant_protection_and_restraints:
+    title:
+      - 충돌 시의 승객보호
+      - 좌석안전띠장치
+      - 어린이보호용 좌석부착장치
+      - 머리지지대
+      - 운전자의 좌석
+      - 승차장치
+      - 승객좌석
+      - 승강구
+      - 비상탈출장치
+    body:
+      - 승객보호
+      - 탑승자
+      - 안전띠
+      - 좌석
+      - 머리지지대
+      - 정면충돌
+      - 측면충돌
+  vru_protection:
+    title:
+      - 보행자 보호
+      - 후방보행자 안전장치
+    body:
+      - 보행자
+      - 후방보행자
+      - 보행자 보호
+  visibility_glazing_and_driver_information:
+    title:
+      - 창유리
+      - 창유리의 안전성 등
+      - 창유리 등
+      - 후사경
+      - 전조등
+      - 안개등
+      - 방향지시등
+      - 후부반사기
+      - 후부반사판
+      - 간접시계장치
+      - 경광등
+      - 끝단표시등
+      - 후미등
+      - 번호등
+      - 옆면표시등
+      - 광원형식
+      - 광도
+      - 반사띠
+      - 속도계 및 주행거리계
+      - 속도계
+      - 창닦이기장치등
+    body:
+      - 창유리
+      - 시야
+      - 가시
+      - 후사경
+      - 후부반사기
+      - 반사띠
+      - 광도
+      - 속도계
+      - 주행거리계
+      - 창닦이기
+  structural_integrity_retention_and_egress:
+    title:
+      - 승강구
+      - 비상탈출장치
+      - 차체강도
+      - 후드걸쇠장치
+    body:
+      - 탈출
+      - 승강구
+      - 걸쇠
+      - 차체강도
+      - 유지
+      - 이탈방지
+  fire_electrical_and_energy_storage_safety:
+    title:
+      - 구동축전지
+      - 고전원전기장치
+      - 전기장치
+      - 연료장치
+      - 수소
+    body:
+      - 고전압
+      - 전기충격
+      - 감전
+      - 전해액
+      - 누출
+      - 절연
+      - 절연저항
+      - 화재
+      - 수소
+      - 차단밸브
+      - 연료
+  post_crash_response_and_data:
+    title:
+      - 비상탈출장치
+      - 긴급통화
+      - 사고기록
+    body:
+      - 긴급통화
+      - 사고기록
+      - 구조
+      - 탈출
+  child_occupant_protection:
+    title:
+      - 어린이보호용 좌석부착장치
+    body:
+      - 어린이
+      - 유아
+      - 좌석부착장치
+
+topic_aliases:
+  post_crash_electrical_safety:
+    - 구동축전지
+    - 고전압
+    - 전기충격
+    - 감전
+    - 절연
+    - 절연저항
+    - 전해액
+  fuel_system_integrity:
+    - 연료장치
+    - 연료탱크
+    - 수소
+    - 누출
+  automated_driving_assist:
+    - 자율주행
+    - 부분 자율주행
+    - 자동긴급제동
+    - 비상자동제동
+  braking_control:
+    - 제동장치
+    - 급제동
+    - 제동성능
+  administrative_exception:
+    - 기준적용의 특례
+    - 장치 기준에 관한 특례
+    - 고시
+    - 특례
+    - 적용 제외
+    - 전자파 적합성
+
+weak_title_priors:
+  제동장치:
+    phase:
+      pre_crash: 2
+      in_crash: 1
+    domain:
+      crash_avoidance_and_vehicle_control: 2
+      occupant_protection_and_restraints: 1
+  기준적용의 특례:
+    phase:
+      non_phase_admin: 6
+    domain:
+      other_or_review: 4
+  장치 기준에 관한 특례:
+    phase:
+      non_phase_admin: 6
+    domain:
+      other_or_review: 4
+  연료장치:
+    phase:
+      post_crash: 4
+    domain:
+      fire_electrical_and_energy_storage_safety: 5
+  전기자동차 등에 사용되는 구동축전지:
+    phase:
+      post_crash: 6
+    domain:
+      fire_electrical_and_energy_storage_safety: 6
+  승용자동차의 부분 자율주행시스템 안전기준:
+    phase:
+      pre_crash: 6
+    domain:
+      crash_avoidance_and_vehicle_control: 6
+  후방보행자 안전장치:
+    phase:
+      pre_crash: 6
+    domain:
+      crash_avoidance_and_vehicle_control: 6
+  보행자 보호:
+    phase:
+      in_crash: 5
+    domain:
+      vru_protection: 6
+  비상탈출장치:
+    phase:
+      post_crash: 5
+    domain:
+      structural_integrity_retention_and_egress: 5
+  전조등:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 5
+  광원형식 및 전력기준:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 6
+  앞면안개등의 설치 및 광도기준:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 6
+  방향지시등의 설치 및 광도기준:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 6
+  후부반사판의 설치 및 반사성능 기준:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 6
+  후부반사기 등 설치기준:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 6
+  반사띠 및 특례적용 표시의 기준:
+    phase:
+      non_phase_admin: 5
+    domain:
+      other_or_review: 5
+  승용자동차의 제동능력 기준:
+    phase:
+      pre_crash: 5
+    domain:
+      crash_avoidance_and_vehicle_control: 6
+  피견인자동차의 제동능력 기준:
+    phase:
+      pre_crash: 5
+    domain:
+      crash_avoidance_and_vehicle_control: 6
+  브레이크호스 기준:
+    phase:
+      pre_crash: 5
+    domain:
+      crash_avoidance_and_vehicle_control: 6
+  전자파 적합성 기준:
+    phase:
+      non_phase_admin: 6
+    domain:
+      other_or_review: 5
+  차대 및 차체:
+    phase:
+      in_crash: 5
+    domain:
+      structural_integrity_retention_and_egress: 5
+  조종장치등:
+    phase:
+      pre_crash: 5
+    domain:
+      crash_avoidance_and_vehicle_control: 5
+  승객좌석의 규격 등:
+    phase:
+      in_crash: 4
+    domain:
+      occupant_protection_and_restraints: 5
+  승차장치:
+    phase:
+      in_crash: 4
+    domain:
+      occupant_protection_and_restraints: 5
+  운전자의 좌석:
+    phase:
+      in_crash: 4
+    domain:
+      occupant_protection_and_restraints: 5
+  어린이보호용 좌석부착장치:
+    phase:
+      in_crash: 5
+    domain:
+      child_occupant_protection: 6
+  창닦이기장치등:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 5
+  창닦이기 장치등:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 5
+  길이 너비 및 높이:
+    phase:
+      non_phase_admin: 4
+    domain:
+      other_or_review: 4
+  길이ㆍ너비 및 높이:
+    phase:
+      non_phase_admin: 4
+    domain:
+      other_or_review: 4
+  등화에 대한 그 밖의 기준:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 5
+  제동등:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 5
+  소프트웨어:
+    phase:
+      non_phase_admin: 4
+    domain:
+      other_or_review: 4
+  원동기 및 동력전달장치:
+    phase:
+      pre_crash: 4
+    domain:
+      crash_avoidance_and_vehicle_control: 4
+  주행장치:
+    phase:
+      pre_crash: 4
+    domain:
+      crash_avoidance_and_vehicle_control: 4
+  최대안전경사각도:
+    phase:
+      pre_crash: 4
+    domain:
+      crash_avoidance_and_vehicle_control: 4
+  도난방지장치:
+    phase:
+      pre_crash: 4
+    domain:
+      crash_avoidance_and_vehicle_control: 4
+  물품적재장치:
+    phase:
+      non_phase_admin: 4
+    domain:
+      other_or_review: 4
+  캠핑용자동차의 전기설비 및 캠핑설비의 안전기준:
+    phase:
+      post_crash: 4
+    domain:
+      fire_electrical_and_energy_storage_safety: 5
+  간접시계장치:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 5
+  경광등 및 사이렌:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 5
+  끝단표시등:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 5
+  후미등:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 5
+  그 밖의 등화의 제한:
+    phase:
+      pre_crash: 5
+    domain:
+      visibility_glazing_and_driver_information: 5
+  원동기 출력:
+    phase:
+      pre_crash: 4
+    domain:
+      crash_avoidance_and_vehicle_control: 4
+  사이버보안:
+    phase:
+      non_phase_admin: 4
+    domain:
+      other_or_review: 4
