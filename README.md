@@ -72,6 +72,8 @@ This repository is not a chat transcript archive. It is a compounding knowledge 
 .\.venv\Scripts\python.exe -m wiki_obsidian.cli build-crosswalk
 .\.venv\Scripts\python.exe -m wiki_obsidian.cli dashboard-refresh
 .\.venv\Scripts\python.exe -m wiki_obsidian.cli source-audit
+.\scripts\wiki.ps1 git-sync-status
+.\scripts\wiki.ps1 git-sync-safe
 .\scripts\wiki.ps1 verify
 ```
 
@@ -82,6 +84,7 @@ This repository is not a chat transcript archive. It is a compounding knowledge 
 - default integration branch: `main`
 - run `.\scripts\wiki.ps1 verify` before pushing write tasks
 - GitHub Actions mirrors the same verification flow and fails when generated indexes or dashboards are stale
+- safe local git sync automation is documented in `docs/operations/notes/git-sync-automation.md`
 
 ## Assistant Entry Point
 

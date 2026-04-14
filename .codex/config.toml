@@ -3,6 +3,8 @@
 # - .\.venv\Scripts\python.exe -m pytest -q
 # - .\scripts\wiki.ps1 lint
 # - .\scripts\wiki.ps1 verify
+# - .\scripts\wiki.ps1 git-sync-status
+# - .\scripts\wiki.ps1 git-sync-safe
 
 approval_policy = "never"
 sandbox_mode = "danger-full-access"

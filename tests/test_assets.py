@@ -16,6 +16,8 @@ def _load_toml(path: Path) -> dict[str, object]:
 def test_codex_environment_and_agents_exist() -> None:
     env_payload = _load_toml(PROJECT_ROOT / ".codex" / "environments" / "environment.toml")
     assert env_payload["runtime"]["preferred_python"] == ".\\.venv\\Scripts\\python.exe"
+    assert env_payload["commands"]["git_sync_status"] == ".\\scripts\\wiki.ps1 git-sync-status"
+    assert env_payload["commands"]["git_sync_safe"] == ".\\scripts\\wiki.ps1 git-sync-safe"
 
     agent_files = sorted((PROJECT_ROOT / ".codex" / "agents").glob("*.toml"))
     assert any(path.name == "regulatory-curator.toml" for path in agent_files)
@@ -27,6 +29,7 @@ def test_codex_environment_and_agents_exist() -> None:
 def test_skill_and_obsidian_assets_exist() -> None:
     expected_skills = {
         "classification-governance",
+        "git-sync-ops",
         "source-authority-audit",
         "regulation-unit-splitting",
         "web-clip-intake",
@@ -38,6 +41,12 @@ def test_skill_and_obsidian_assets_exist() -> None:
 
     community_plugins = yaml.safe_load((PROJECT_ROOT / ".obsidian" / "community-plugins.json").read_text(encoding="utf-8"))
     assert "dataview" in community_plugins
+
+
+def test_git_sync_commands_are_exposed_in_wrapper() -> None:
+    script = (PROJECT_ROOT / "scripts" / "wiki.ps1").read_text(encoding="utf-8")
+    assert '"git-sync-status"' in script
+    assert '"git-sync-safe"' in script
 
 
 def test_taxonomy_and_schema_assets_exist() -> None:
